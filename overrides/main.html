@@ -1,0 +1,13 @@
+{#- Ficheiro: overrides/main.html (Versão Limpa) -#}
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <template id="takwara-chatbot-template">
+      {% include "partials/widget-chatbot.html" %}
+  </template>
+{% endblock %}

@@ -1,0 +1,39 @@
+{
+  "title": "Plataforma Amazônia Regenerativa — Documentação Técnica e Científica",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "language": "por",
+  "creators": [
+    {
+      "name": "Takwara, Fabio Resck",
+      "affiliation": "Tecnologia Takwara — Plataforma Amazônia Regenerativa"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Cruz, Tania Cristina",
+      "affiliation": "Universidade de Brasília — FUP/CDT",
+      "type": "ProjectCoordinator"
+    },
+    {
+      "name": "Tiago, Filemon",
+      "affiliation": "BioArquitetura Urbana",
+      "type": "ProjectMember"
+    }
+  ],
+  "keywords": [
+    "bambu",
+    "bioeconomia",
+    "Amazônia",
+    "biorrefinaria",
+    "biochar",
+    "habitação social",
+    "BNDES",
+    "Fundo Amazônia",
+    "Guadua",
+    "tecnologia social",
+    "ciência aberta"
+  ]
+}

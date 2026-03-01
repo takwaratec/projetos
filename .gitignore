@@ -1,0 +1,77 @@
+# ============================================================
+# .gitignore — Plataforma Amazônia Regenerativa
+# Repo: takwaratec/projetos
+# Autor: Fabio Resck Takwara | CC BY 4.0
+# ============================================================
+
+# ── PASTAS DE ARQUIVO E CONTEÚDO LEGADO ──────────────────────
+Arquivo Takwara/
+arquivo-morto/
+
+# ── BUILD DO MKDOCS (gerado automaticamente) ─────────────────
+site/
+
+# ── AMBIENTES VIRTUAIS PYTHON ────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── PYTHON ────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+
+# ── SISTEMA OPERACIONAL ───────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── EDITORES E IDEs ───────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── CHATBOT / BACKEND ─────────────────────────────────────────
+Chatbot_Takwara/backend-api/temp_repo/
+Chatbot_Takwara/backend-api/chroma_db/
+Chatbot_Takwara/backend-api/chroma_db/chroma.sqlite3
+Chatbot_Takwara/Removidos/
+Chatbot_Takwara/fontes-privadas/
+
+# ── FONTES E DOCUMENTOS PRIVADOS ─────────────────────────────
+/fontes-privadas/
+fontes-privadas/
+
+# ── IMAGENS ORIGINAIS (alta resolução — não versionar) ────────
+docs/assets/images/originais/
+docs/images/originais/
+
+# ── LOGS E TEMPORÁRIOS ────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+*.orig
+
+cat >> .gitignore << 'EOF'
+
+# ── PASTAS DE REFERÊNCIA E HISTÓRICO (não publicar) ──────────
+docs/history-version/
+docs/technical-support/referencias academicas/
+docs/ref-BNDES/
+
+# ── DOCUMENTOS BINÁRIOS (usar GitHub Releases) ───────────────
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+EOF

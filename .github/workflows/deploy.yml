@@ -1,0 +1,24 @@
+name: Publicar Portal — Plataforma Amazônia Regenerativa
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: pip install mkdocs-material
+
+      - name: Publicar GitHub Pages
+        run: mkdocs gh-deploy --force

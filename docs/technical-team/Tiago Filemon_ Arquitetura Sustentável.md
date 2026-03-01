@@ -1,0 +1,90 @@
+# **Bioconstrução e Práxis Social: Um Dossier Exaustivo sobre a Trajetória e as Contribuições de Tiago Filemon à Arquitetura Sustentável Brasileira**
+
+A arquitetura contemporânea no Brasil atravessa um momento de profunda reavaliação de seus métodos e propósitos. Diante de uma crise climática global e de um déficit habitacional crônico, a emergência de profissionais que articulam o saber técnico especializado com o ativismo socioambiental torna-se não apenas relevante, mas imperativa. Tiago Filemon Alves, arquiteto, urbanista e bioarquiteto formado pelo UniAraguaia Centro Universitário, consolidou-se como uma das figuras centrais nesse movimento de renovação. Com uma carreira que ultrapassa 17 anos de experiência, sua atuação transcende o desenho técnico para se tornar uma ferramenta de transformação sistêmica, integrando bioconstrução, permacultura urbana e assistência técnica social. Este dossier detalha de forma exaustiva suas contribuições, metodologias e o impacto de sua produção intelectual e prática no cenário nacional.
+
+## **Fundamentos Filosóficos e Perfil Profissional**
+
+A trajetória de Tiago Filemon é marcada por uma recusa deliberada à padronização industrial que dominou a construção civil brasileira nas últimas décadas. Sua filosofia profissional fundamenta-se na retomada da arquitetura vernacular, compreendida não como um retorno nostálgico ao passado, mas como uma atualização consciente de técnicas milenares para as demandas de eficiência energética e justiça social do presente. Para o arquiteto, a construção é um ato de "mãos na massa", onde o conhecimento deve ser democratizado e o habitante deve participar ativamente da criação de seu espaço.  
+Essa postura ética reflete-se em sua atuação em Goiânia e em todo o território nacional, onde é reconhecido como um defensor da "arquitetura afetiva". Esse conceito propõe que a qualidade do ambiente construído — sua textura, temperatura, origem dos materiais e estética — impacta diretamente o bem-estar psicológico e a saúde dos ocupantes. Ao priorizar materiais naturais como terra, palha e bambu, Filemon estabelece uma crítica prática ao uso intensivo de concreto e aço, materiais que possuem alta energia incorporada e contribuem significativamente para a emissão de gases de efeito estufa.
+
+| Pilar de Atuação | Descrição Estratégica | Objetivo Final |
+| :---- | :---- | :---- |
+| **Bioarquitetura** | Uso de materiais naturais (terra, bambu, fibras) e design bioclimático. | Redução da pegada de carbono e conforto térmico passivo. |
+| **Arquitetura Social** | Aplicação da Lei de ATHIS em comunidades de baixa renda e ocupações. | Democratização do acesso à moradia digna e técnica. |
+| **Educação Ambiental** | Programas para a primeira infância e oficinas práticas para adultos. | Mudança cultural e formação de novos bioconstrutores. |
+| **Permacultura Urbana** | Planejamento de sistemas fechados de água, energia e resíduos. | Autonomia hídrica, energética e alimentar nas cidades. |
+
+## **O Método CBCS: Casa de Baixo Custo Sustentável**
+
+Uma das contribuições mais distintivas de Tiago Filemon para a prática profissional é o desenvolvimento do Método CBCS (Casa de Baixo Custo Sustentável). Esta metodologia surge como uma resposta direta aos desafios urbanos contemporâneos, como o desemprego, a degradação ambiental e o déficit de moradias que afeta milhões de brasileiros. O método descontrói a ideia de que a arquitetura sustentável é um luxo inacessível, provando que é possível unir três pilares frequentemente vistos como excludentes: sustentabilidade, beleza e economia.  
+O CBCS opera através da personalização extrema. Em vez de utilizar modelos replicáveis e genéricos, Filemon analisa o contexto local — o clima, a topografia e, principalmente, os materiais disponíveis em um raio curto de distância da obra. Se uma região possui abundância de bambu, o projeto prioriza o bambu; se o solo local é rico em argila, o adobe torna-se o protagonista. Essa lógica reduz drasticamente os custos de logística e o impacto ambiental do transporte de materiais pesados, fortalecendo a economia local e os saberes regionais.  
+Além da viabilidade financeira, o método enfatiza a qualidade visual. Filemon defende que a "beleza é uma necessidade humana" e que habitações populares não devem ser esteticamente pobres. Pelo contrário, o uso de formas fluídas (como no Cob e Superadobe) e de cores naturais extraídas da terra confere às residências uma identidade estética sofisticada e acolhedora, que rompe com a monotonia do padrão industrial.
+
+## **Repertório Técnico e Sistemas Construtivos Vernaculares**
+
+A excelência do trabalho de Tiago Filemon reside no domínio técnico de sistemas que utilizam a terra crua como base estrutural e de acabamento. Sua prática envolve um rigoroso processo de pesquisa e teste de materiais, buscando inovações que aumentem a durabilidade e a eficiência desses métodos tradicionais.
+
+### **Adobe e Taipa de Pilão**
+
+O resgate do uso da terra crua é central na obra de Filemon. O Adobe — tijolos de terra, palha e água moldados manualmente e secos ao sol — é valorizado por sua inércia térmica, mantendo os interiores frescos em climas quentes, como o do Cerrado. Já a Taipa de Pilão, técnica que consiste na compactação da terra dentro de fôrmas, é utilizada para criar paredes robustas com camadas visíveis que contam a história geológica do local. O arquiteto tem explorado inovações nessas técnicas, como a incorporação de resíduos de MDF em sistemas de adobe, testando novas possibilidades de reciclagem e reforço estrutural.
+
+### **Superadobe (Earthbags) e Cob**
+
+Para projetos que demandam formas orgânicas e esculturais, Filemon utiliza o Superadobe. Esta técnica envolve o preenchimento de sacos de polipropileno com terra compactada, permitindo a construção de cúpulas e abóbadas resistentes sem a necessidade de madeiramento complexo. O resultado são estruturas com estética orgânica que lembram formas da natureza. Complementarmente, o Cob — uma mistura de barro e palha aplicada manualmente — é usado para esculpir mobiliário integrado e paredes fluídas, conferindo um caráter único e artesanal a cada edificação.
+
+### **Bambu Estrutural e Design Bioclimático**
+
+O bambu é tratado por Filemon como o "aço natural" da arquitetura sustentável. Sua rapidez de crescimento e resistência à tração o tornam ideal para coberturas leves e estruturas flexíveis. A utilização do bambu é sempre acompanhada por um design bioclimático rigoroso, que prioriza a ventilação cruzada natural e o uso de telhados verdes. Os telhados verdes não apenas auxiliam no isolamento térmico, mas também integram sistemas de captação de água da chuva para reuso doméstico, fechando o ciclo hídrico da habitação.
+
+| Técnica Construtiva | Material Base | Propriedade Principal | Aplicação no Portfólio |
+| :---- | :---- | :---- | :---- |
+| **Adobe** | Terra crua \+ palha | Inércia térmica elevada | Paredes internas e externas |
+| **Superadobe** | Sacos de terra compactada | Resistência e fluidez formal | Cúpulas e estruturas orgânicas |
+| **Bambu** | Varas de bambu tratado | Flexibilidade e leveza | Coberturas e elementos estéticos |
+| **Taipa de Pilão** | Terra compactada em fôrmas | Estética geológica e robustez | Paredes estruturais e fachadas |
+| **Pinturas Naturais** | Terra \+ Cal \+ Pigmentos | Baixa toxidade e respirabilidade | Acabamentos e proteção de paredes |
+
+## **Arquitetura Social e o Impacto do Projeto ArqViva**
+
+O Projeto ArqViva é, sem dúvida, uma das iniciativas mais emblemáticas da carreira de Tiago Filemon, servindo como um caso de estudo sobre como a bioarquitetura pode ser uma ferramenta de inclusão social. Realizado na ocupação urbana Alto da Boa Vista, em Aparecida de Goiânia, o projeto consistiu na construção de uma creche comunitária utilizando princípios de bioconstrução e permacultura.  
+O diferencial do ArqViva foi sua metodologia de canteiro experimental. A obra não foi executada por uma construtora externa, mas sim através de uma vivência participativa que envolveu voluntários, estudantes de arquitetura e, crucialmente, os próprios moradores da comunidade. Esse processo de "aprender fazendo" permitiu que a comunidade se apropriasse da técnica, transformando moradores em bio-construtores capacitados.  
+A relevância social do projeto foi reconhecida nacionalmente. Em 2025, o Canteiro Experimental ArqViva foi homenageado com o Prêmio FNA, concedido pela Federação Nacional dos Arquitetos e Urbanistas. A premiação destacou que o projeto une tecnologias de economia circular com saberes ancestrais para promover soluções de baixo impacto ambiental, gerando um impacto científico e tecnológico real na construção civil brasileira. Além disso, o projeto foi vencedor do Prêmio Periferia Viva 2024, do Governo Federal, na categoria de Assessoria Técnica.  
+O impacto do ArqViva estende-se para além da construção física da creche. Ele serviu para demonstrar que a assistência técnica prevista na Lei de ATHIS (Assistência Técnica para Habitação de Interesse Social) pode — e deve — incorporar práticas de sustentabilidade para garantir moradias que sejam não apenas acessíveis, mas também saudáveis e eficientes a longo prazo.  
+\#\# Pesquisa e Inovação: Economia Circular e Resíduos  
+Tiago Filemon não se limita à prática projetual; ele mantém uma linha de pesquisa ativa sobre a gestão de resíduos e a economia circular aplicada à arquitetura. Um de seus estudos mais recentes, publicado em 2025, foca no reúso de madeiras e soluções eficientes em canteiros de obras conscientes.  
+O arquiteto investiga como transformar o descarte de marcenarias e obras em recursos valiosos. Sua pesquisa propõe que madeiras reaproveitadas retornem ao ciclo da construção na forma de pergolados, revestimentos, brises urbanos para proteção solar e mobiliário. Essa abordagem atende à Resolução CONAMA 307, que classifica a madeira como resíduo reciclável de Classe B, e busca minimizar o volume de entulho destinado a aterros sanitários.  
+Um aspecto inovador de sua pesquisa é a visão do canteiro de obras como um "tabuleiro" de gestão estratégica. Filemon defende que a renda obtida com a venda de resíduos segregados ou com a economia gerada pelo seu reúso deve ser revertida em benefícios para os próprios trabalhadores da obra, promovendo uma valorização humana no ambiente da construção civil. Além disso, ele destaca as vantagens técnicas da madeira de reúso, como o baixo consumo de energia na transformação e a melhoria do conforto térmico nas edificações, reduzindo a dependência de sistemas de ar-condicionado.
+
+## **Educação e Disseminação: A Próxima Geração de Bioconstrutores**
+
+A disseminação do conhecimento é um pilar central na atuação de Filemon. Ele compreende que a transição para cidades sustentáveis exige uma mudança cultural que começa na infância. Através do projeto "Mão no Barro", o arquiteto ensina práticas de bioconstrução para crianças do ensino fundamental, promovendo uma educação afetiva que conecta as gerações futuras com materiais naturais e responsáveis.  
+Em nível acadêmico e profissional, sua participação em eventos como a Semana da Bioarquitetura na Universidade Federal do Amapá (UNIFAP) em 2025 demonstra seu compromisso com a formação técnica descentralizada. No Amapá, Filemon liderou oficinas práticas no Quilombo do Curiaú, ensinando técnicas de adobe e taipa para a comunidade local e estudantes, unindo o conhecimento científico da academia com a sabedoria tradicional quilombola.  
+Sua produção intelectual inclui o artigo acadêmico "A Integração Entre Arquitetura, Permacultura e Bioconstrução na Construção de um Futuro Sustentável", publicado na Revista Jatobá da UFG em 2023\. Neste texto, o autor sistematiza os conceitos de ecovilas urbanas e descreve os resultados práticos do Projeto ArqViva, oferecendo um arcabouço teórico para outros profissionais que desejam atuar no campo da bioarquitetura social.
+
+## **Ativismo Urbano e Gestão de Resíduos**
+
+Como Embaixador do Lixo Zero em Goiânia e coordenador do coletivo Ideias Urbanas, Tiago Filemon atua na linha de frente do debate sobre a sustentabilidade das cidades goianas. Ele alerta que a gestão inadequada de resíduos sólidos não é apenas um problema ambiental, mas uma questão de desigualdade social, afetando desproporcionalmente as populações mais vulneráveis.  
+Suas iniciativas através do coletivo Ideias Urbanas incluem:
+
+* **Semana do Lixo Zero:** Ações em parceria com prefeituras para conscientização sobre reciclagem e compostagem.  
+* **Meninas Marceneiras:** Um projeto social de longo prazo voltado para a qualificação de mulheres no ofício da marcenaria e bioconstrução, buscando autonomia financeira e equidade de gênero no setor.  
+* **Consultoria em Cidades Inteligentes:** Participação em debates sobre a destinação de resíduos sólidos e implantação de tecnologias sustentáveis em consórcios intermunicipais.
+
+## **Reconhecimento e Premiações (2023-2025)**
+
+O trabalho de Tiago Filemon tem recebido reconhecimento crescente por sua capacidade de unir excelência técnica com impacto social. A lista de premiações recentes reflete a abrangência de suas contribuições para a arquitetura brasileira contemporânea.  
+| Ano | Premiação | Instituição | Categoria/Projeto | | :--- | :--- | :--- | :--- | | **2025** | Prêmio FNA | Federação Nacional dos Arquitetos (FNA) | Projeto Canteiro Experimental ArqViva | | **2025** | Prêmio ArqPop | FNA (Votação Popular) | Valorização da Arquitetura Popular | | **2024** | Prêmio Periferia Viva | Governo Federal (Ministério das Cidades) | Eixo Assessoria Técnica / Projeto ArqViva | | **2023** | Concurso Mobiliário Urbano | Projeto COLAB Cidade | 1º Lugar (Voto Popular) / 2º Lugar (Juri Técnico) | | **2023** | Prêmio RECRIE/RECICLE | Universidade Federal de Goiás (UFG) | Sustentabilidade e Design |  
+A homenagem recebida no Prêmio FNA 2025 é particularmente relevante, pois sublinha o compromisso do arquiteto com a função social da profissão e a promoção de uma sociedade mais equitativa. O prêmio reconhece que o ArqViva não é apenas uma obra, mas uma plataforma política e socioeconômica que capacita grupos marginalizados, incluindo mulheres, negros e a comunidade LGBTQIAPN+.
+
+## **Comunicação e Presença Digital**
+
+A disseminação da bioconstrução também ocorre por canais de mídia moderna. Filemon participa ativamente de podcasts e plataformas de vídeo para levar o debate sobre sustentabilidade ao grande público. No EARQcast (2023), ele discutiu o uso de técnicas ancestrais na arquitetura moderna, reforçando o conceito de que "a arquitetura deve ser construída com as nossas mãos". Sua presença digital através do Instagram (@filemontiago.bioarquiteto) funciona como uma extensão de seu escritório, onde compartilha o dia a dia de suas obras, ensina métodos de construção sustentável e divulga os pilares do Método CBCS.
+
+## **Conclusão: O Legado de uma Arquitetura Regenerativa**
+
+Tiago Filemon Alves representa uma transição fundamental na arquitetura brasileira: a passagem de uma prática puramente estética para uma arquitetura regenerativa e socialmente comprometida. Sua obra demonstra que o uso de materiais naturais e técnicas vernaculares não é um impedimento para a beleza ou a sofisticação, mas sim o único caminho viável para enfrentar os desafios habitacionais e ambientais do século XXI.  
+Através do Método CBCS, do Projeto ArqViva e de suas pesquisas em economia circular, Filemon estabeleceu um novo padrão para a moradia de interesse social no Brasil. Ele prova que o arquiteto pode atuar como um mediador entre o saber científico e a necessidade comunitária, transformando cidades em espaços de resiliência e propósito. Seu legado está sendo construído tanto em paredes de terra e coberturas de bambu quanto na mente das crianças e estudantes que ele inspira a pensar a arquitetura como um ato de cuidado com o planeta e com o próximo.
+
+#### **Referências citadas**
+
+1\. FNA divulga vencedores dos Prêmios Arquiteto e Urbanista do Ano ..., https://fna.org.br/fna-divulga-vencedores-dos-premios-arquiteto-e-urbanista-do-ano-e-premio-fna-2025/ 2\. Filemon Tiago – Bio Arquitetura e Interiores, https://filemontiagobioarquiteto.com.br/ 3\. Soluções eficientes, reúso de madeiras em construções e canteiros ..., https://filemontiagobioarquiteto.com.br/solucoes-eficientes-reuso-de-madeiras-em-construcoes-e-canteiros-conscientes/ 4\. Projeto ArqViva \- ArqPop, https://arqpop.org.br/project/projeto-arqviva/ 5\. Notícias – Filemon Tiago, https://filemontiagobioarquiteto.com.br/noticias/ 6\. Notícias – Ideias Urbanas, https://ideiasurbanas.com.br/noticias/ 7\. mão no barro e arquitetura na educação de crianças \- ArqPop, https://arqpop.org.br/project/arquitetura-na-1a-infancia-mao-no-barro-e-arquitetura-na-educacao-de-criancas/ 8\. Semana da Bioarquitetura mobiliza Unifap e comunidade do ..., https://www.unifap.br/semana-da-bioarquitetura-mobiliza-unifap-e-comunidade-do-quilombo-do-curiau-em-experiencias-de-construcao-sustentavel/ 9\. Mulheres Marceneiras \- YouTube, https://www.youtube.com/watch?v=fjfLqwIf8Yc 10\. Mesmo com prorrogação de 10 anos, maioria dos municípios, https://www.jornalopcao.com.br/reportagens/mesmo-com-prorrogacao-de-10-anos-maioria-dos-municipios-goianos-seguem-com-lixoes-516456/ 11\. Estudantes de Aparecida aprendem sobre reciclagem e compostagem, https://aparecida.go.gov.br/estudantes-de-aparecida-aprendem-sobre-reciclagem-e-compostagem 12\. Estudantes aprendem sobre reciclagem e compostagem em, https://goiasnoticia.com.br/estudantes-aprendem-sobre-reciclagem-e-compostagem-em-aparecida/ 13\. Brasil recicla apenas 3% do lixo que produz | by Victor Hidalgo, https://medium.com/@victorhidalgojornalista/brasil-recicla-apenas-3-do-lixo-que-produz-bf9d8d7641d3 14\. Prefeitura Municipal de Santa Tereza de Goiás, https://santatereza.go.gov.br/2a-reuniao-de-trabalho-de-apresentacao-dos-projetos-e-consolidacao-da-gestao-dos-residuos-solidos-urbanos-dos-municipios-consorciados-ao-cidernorte/

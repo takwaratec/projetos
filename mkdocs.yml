@@ -1,0 +1,101 @@
+# ===================================================================
+# MKDOCS.YML — Plataforma Amazônia Regenerativa
+# Repo: takwaratec/projetos
+# Autor: Fabio Resck Takwara | CC BY 4.0
+# ===================================================================
+
+site_name: Plataforma Amazônia Regenerativa
+site_description: >
+  Polo integrado de bioindústrias comunitárias de baixo carbono
+  na Amazônia Legal — Tecnologia Takwara
+site_author: Fabio Resck Takwara
+site_url: https://takwaratec.github.io/projetos/
+
+repo_name: takwaratec/projetos
+repo_url: https://github.com/takwaratec/projetos
+edit_uri: ''
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: pt-BR
+  logo: assets/images/takwara_logo.png
+  favicon: assets/images/favicon.png
+  features:
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+    - navigation.sticky
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.collapse
+  palette:
+    - scheme: slate
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/toggle-switch
+        name: Mudar para modo claro
+    - scheme: default
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Mudar para modo escuro
+
+extra:
+  csp_nonce: "takwara-amazonia-regenerativa"
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/takwaratec/projetos
+    - icon: fontawesome/solid/house
+      link: https://resck.github.io/Takwara-Tech/
+
+extra_css:
+  - assets/css/style.css
+  - assets/css/custom.css
+  - assets/css/extra.css
+  - https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10.9.0/dist/mermaid.min.js
+  - path: https://unpkg.com/vis-network/standalone/umd/vis-network.min.js
+    defer: true
+  - path: https://cdn.jsdelivr.net/npm/marked/marked.min.js
+    defer: true
+  - path: assets/js/script.js
+    defer: true
+  - path: https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js
+    defer: true
+  - path: assets/js/custom.js
+    defer: true
+  - path: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+    defer: true
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Início: index.md
+  - Sobre a Plataforma:
+      - Apresentação: plataforma.md
+      - Equipe Técnica: technical-team/index.md
+      - Autoria e Licença: AUTORIA.md
+  - Projeto BNDES:
+      - Documento Principal: project-files/plataforma-amazonia-v5.md
+      - Relatório Executivo: project-files/relatorio-executivo.md
+      - Memorial Técnico: project-files/memorial-tecnico.md
+      - Referências BNDES: ref-BNDES/index.md
+  - Suporte Técnico: technical-support/index.md
+  - Licença: LICENSE.md
