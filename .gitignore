@@ -74,4 +74,5 @@ docs/ref-BNDES/
 *.pptx
 *.xls
 *.xlsx
-EOF
+EOFsite/
+docs/audio/
