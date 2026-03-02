@@ -11,9 +11,6 @@ title: "Plataforma Amazônia Regenerativa v5.1..."
 # Plataforma Amazônia Regenerativa v5.1
 ...
 
-
-# Plataforma Amazônia Regenerativa v5.1
-
 #### Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono
 
 ## 1. Resumo executivo
