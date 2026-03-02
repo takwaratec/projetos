@@ -1,90 +1,127 @@
-# DOSSIÊ PROFISSIONAL: PROFA. DRA. TÂNIA CRISTINA DA SILVA CRUZ
+---
+title: "Profa. Dra. Tânia Cristina Cruz — Coordenação Institucional"
+author: "Fabio Resck Takwara"
+date: "2026-03-01"
+license: "CC BY 4.0"
+---
 
-## Perfil Acadêmico e Institucional
+> **Função na Plataforma:** Coordenação Institucional e Parceria Estratégica  
+> **Instituição:** Universidade de Brasília — FUP/CDT/INCUB.TS  
+> **ORCID:** [0000-0002-5673-6784](https://orcid.org/0000-0002-5673-6784)  
+> **Lattes:** [3940059129469564](http://lattes.cnpq.br/3940059129469564)
 
-A Profa. Dra. Tânia Cristina da Silva Cruz é pesquisadora e docente da Universidade de Brasília (UnB), com atuação consolidada na interseção entre sociologia do trabalho, tecnologia social e inovação de impacto socioambiental . É **Professora Adjunto IV** da **Faculdade UnB Planaltina (FUP)**, exercendo paralelamente posições estratégicas no fomento ao empreendedorismo tecnológico e social no ecossistema universitário .
+---
 
-Toda a sua formação *stricto sensu* foi realizada na UnB. É **licenciada em Ciências Sociais** e **bacharela em Sociologia** (1998), tendo sido bolsista do Programa de Educação Tutorial (PET/CAPES) entre 1995 e 1998 . É **Mestre em Sociologia Política e do Trabalho** (2001) e **Doutora em Sociologia do Trabalho** (2006), com a tese *"Qual o teu trabalho, mulher? Mulheres empreendedoras no contexto da Economia Popular Solidária"* . Seu identificador ORCID é **0000-0002-5673-6784** e seu currículo Lattes está registrado sob o código **3940059129469564** .
+# Profa. Dra. Tânia Cristina da Silva Cruz
 
-***
+## Papel na Plataforma Amazônia Regenerativa
 
-## Liderança em Inovação e Tecnologia Social
+A Profa. Dra. Tânia Cruz atua como **coordenadora institucional** da Plataforma Amazônia
+Regenerativa, viabilizando a submissão do projeto a editais de financiamento público
+(BNDES, Fundo Amazônia, Fundo Clima) por meio da **parceria com a Universidade de Brasília
+(FUP/CDT/INCUB.TS)**.
 
-### Gestão no CDT/UnB e INCUB.TS
+Sua inserção na Plataforma articula três dimensões complementares:
 
-A professora Tânia integra a **Incubadora de Tecnologias Sociais e Inovação (INCUB.TS)** e a **Multincubadora de Empresas**, ambas vinculadas ao Centro de Apoio ao Desenvolvimento Tecnológico (CDT/UnB) . Atua ainda como **Coordenadora da CEDES/NIT-CDT/UnB** (Coordenação de Empreendedorismo e Desenvolvimento Empresarial e Social do Núcleo de Inovação Tecnológica da UnB) e como membro da **Escola de Empreendedores da UnB (Escola Empreend/UnB)** . Essas frentes institucionais visam fomentar empreendimentos de economia solidária e transformar pesquisas acadêmicas em tecnologias sociais aplicáveis.
+- **Âncora institucional** — a UnB confere elegibilidade do projeto a instrumentos de
+  financiamento que exigem proponente com CNPJ de instituição de pesquisa e ensino
+- **Transferência de tecnologia** — como coordenadora da CEDES/NIT-CDT/UnB, atua na
+  estruturação dos mecanismos de propriedade intelectual e transferência das tecnologias
+  Takwara para cooperativas amazônicas
+- **Governança com foco em gênero** — sua expertise consolidada em economia solidária,
+  empreendedorismo feminino e tecnologia social orienta o modelo de governança comunitária
+  da Plataforma, com centralidade em cooperativas e organizações de mulheres
 
-### Atuação no PROFNIT
+> ⚠️ **Nota de autoria:** A parceria com a UnB/FUP não implica transferência de
+> titularidade intelectual sobre a Tecnologia Takwara. A autoria original permanece
+> com **Fabio Resck Takwara**, conforme declarado no Repo-Me e registrado no Zenodo.
+> A Profa. Tânia atua como parceira estratégica e proponente institucional.
 
-Como docente credenciada do **Programa de Pós-Graduação em Propriedade Intelectual e Transferência de Tecnologia para Inovação (PROFNIT/UnB)**, orienta pesquisas de mestrado nas linhas de **Tecnologia Social, Empreendedorismo, Inovação e Meio Ambiente** . Ministra as disciplinas de *Metodologia da Pesquisa Científico-Tecnológica e Inovação*, *Empreendedorismo em Setores Tecnológicos* e *Indicação Geográfica e Marcas Coletivas* .
+---
 
-***
+## Perfil Acadêmico
 
-## Gestão Acadêmica e Coordenações
+**Professora Adjunto IV** da Faculdade UnB Planaltina (FUP), com toda a formação
+*stricto sensu* realizada na própria UnB:
 
-A professora acumula relevante histórico de coordenação de cursos na FUP e no CER. Foi **Coordenadora do Bacharelado em Gestão Ambiental (GAM/FUP)** no período de **2015 a 2019** e **Coordenadora do Curso de Sociobiodiversidade e Sustentabilidade do Cerrado** do Centro UnB Cerrado, também entre **2018 e 2019** . Coordenou ainda a **Especialização em Sociologia para o Ensino Médio** (Sistema SISUAB/CEA/UnB), ampliando a atuação da UnB no ensino à distância .
+- **Bacharelado em Sociologia** e **Licenciatura em Ciências Sociais** (1998)
+  — Bolsista PET/CAPES (1995–1998)
+- **Mestrado em Sociologia Política e do Trabalho** (2001)
+- **Doutorado em Sociologia do Trabalho** (2006)
+  — Tese: *"Qual o teu trabalho, mulher? Mulheres empreendedoras no contexto
+  da Economia Popular Solidária"*
 
-***
+---
 
-## Pesquisa, Extensão e o Bioma Cerrado
+## Inserção Institucional Relevante para a Plataforma
 
-### Centro UnB Cerrado (CER)
+### CDT/UnB — Centro de Apoio ao Desenvolvimento Tecnológico
 
-Desde **outubro de 2009**, a pesquisadora é professora associada do **Centro de Estudos da Chapada dos Veadeiros**, oficialmente denominado **Centro UnB Cerrado (CER)** . O CER está localizado em Alto Paraíso de Goiás (GO), a 230 km de Brasília, e simboliza a presença da UnB além dos campi do Distrito Federal, integrando pesquisa, ensino e extensão no bioma Cerrado . Suas instalações físicas — nove blocos incluindo laboratório, biblioteca, auditório, refeitório e quatro salas de aula — foram concluídas em maio de 2022, junto com o Polo de Extensão Chapada dos Veadeiros .
+| Função | Relevância para a Plataforma |
+|---|---|
+| Coordenadora da CEDES/NIT-CDT/UnB | Registro de patentes e modelos de utilidade das tecnologias Takwara |
+| Membro da INCUB.TS | Incubação das cooperativas comunitárias da Plataforma |
+| Docente da Escola Empreend/UnB | Formação de lideranças da bioeconomia amazônica |
 
-### Produção Técnica e Socioambiental
+### PROFNIT — Pós-Graduação em Propriedade Intelectual e Inovação
 
-A Dra. Tânia Cruz possui extensa produção técnica centrada em metodologias participativas . Dentre os 12 trabalhos técnicos registrados, destacam-se:
+Como docente credenciada do PROFNIT/UnB, orienta pesquisas nas linhas de
+**Tecnologia Social, Empreendedorismo e Meio Ambiente** — diretamente alinhadas
+ao perfil de inovação da Plataforma. Ministra disciplinas em:
 
-- **Diagnóstico Socioambiental Participativo (DSP)** (2022)
-- **Plano de Mobilização, Estudo de Socioeconomia e EIA/RIMA** — Residencial Sobradinho (2017)
-- **Regularização Fundiária** — Setor Habitacional Ponte de Terra Norte, Gama/DF (2011)
-- **Relatório Socioeconômico para EIA/RIMA** — Setor Habitacional Ponte Alta/Gama e ARIS Gama (2011)
-- **Plano de Mobilização para Plano de Manejo** — ARIE Torto (2012)
-- **Cidadania e Sustentabilidade para Populações de Baixa Renda** de Brasília e Entorno (2008)
-- **Software TekLibras** — tecnologia assistiva com impacto social direto, desenvolvida em 2024
+- Metodologia da Pesquisa Científico-Tecnológica e Inovação
+- Empreendedorismo em Setores Tecnológicos
+- Indicação Geográfica e Marcas Coletivas ← *relevante para a marca "Bambu Sem Veneno"*
 
-***
+### Centro UnB Cerrado (CER) — Alto Paraíso de Goiás
 
-## Produção Bibliográfica
+Professora associada desde outubro de 2009, o CER representa a experiência da UnB
+em territórios de bioma crítico fora dos campi do DF — modelo análogo ao que a
+Plataforma propõe para a Amazônia Acreana.
 
-| Tipo | Quantidade | Observação |
-| :-- | :-- | :-- |
-| Artigos publicados | 17 | 76% com DOI |
-| Artigos aceitos para publicação | 7 | — |
-| Trabalhos em eventos | 6 | — |
-| Demais produções | 18 | 11% com DOI |
-| Orientações de mestrado concluídas | 17 | — |
-| Outras orientações (IC, TCC, etc.) | 125 | — |
-| Coautores identificados | 74 | 2 da própria UnB |
+---
 
+## Expertise Diretamente Aplicável
 
-***
+| Área de Expertise | Aplicação na Plataforma |
+|---|---|
+| Tecnologia Social e Empreendedorismo Feminino | Governança das cooperativas de mulheres |
+| Economia Popular Solidária | Modelo de SPE comunitária e gesto sombra |
+| Diagnóstico Socioambiental Participativo | Metodologia para CPLI e consultas comunitárias |
+| Transferência de Tecnologia e PI | Registro e licenciamento das tecnologias Takwara |
+| Planejamento Estratégico para Inovação Social | Estruturação de indicadores de impacto MRV |
+| Biodiversidade e Segurança Alimentar | Articulação com manejo de Guadua spp. e agroextrativismo |
 
-## Eixos Temáticos de Expertise
+---
 
-As três grandes áreas declaradas pela professora em seu currículo Lattes são :
+## Produção Técnica Relevante
 
-- **Sociologia do Trabalho, Gênero e Tecnologia Social** — com foco na representação social do trabalho feminino, trabalho doméstico e empreendedorismo por meio da economia popular solidária
-- **Desenvolvimento de Metodologias de Pesquisa Quantitativa e Qualitativa** — aplicadas ao planejamento estratégico e à inovação social
-- **Planejamento e Gestão Estratégicos para a Inovação e Impacto Social** — incluindo transferência de tecnologia, propriedade intelectual e cooperativismo
+Entre os 12 trabalhos técnicos registrados, destacam-se os de maior sinergia
+com a Plataforma:
 
-Entre as palavras-chave mais recorrentes em sua produção estão: *Economia Solidária*, *Gênero*, *Desenvolvimento Local*, *Cidadania*, *Inovação*, *Biodiversidade* e *Segurança Alimentar* .
+- **Diagnóstico Socioambiental Participativo (DSP)** (2022) — metodologia
+  diretamente aplicável às consultas CPLI com comunidades ribeirinhas e rurais do Acre
+- **Plano de Mobilização para Plano de Manejo — ARIE Torto** (2012) — experiência
+  em planejamento de manejo em áreas de conservação
+- **Cidadania e Sustentabilidade para Populações de Baixa Renda** (2008) — Brasília
+  e Entorno
+- **Software TekLibras** (2024) — tecnologia assistiva, demonstra capacidade de
+  desenvolvimento de tecnologia social com impacto direto
 
-***
+**Produção bibliográfica:** 17 artigos publicados (76% com DOI), 17 orientações de
+mestrado concluídas, 125 outras orientações (IC, TCC, especialização).
 
-## Filosofia e Impacto
-
-A trajetória da professora Tânia Cristina Cruz ilustra o modelo de "Universidade Extramuros" . Seu trabalho demonstra que inovação tecnológica abrange fundamentalmente a "tecnologia social" — processos e metodologias sustentáveis que promovem a emancipação econômica de populações vulneráveis, em particular das mulheres, e o desenvolvimento sustentável em biomas críticos como o Cerrado . Com 17 orientações de mestrado concluídas e 125 outras orientações registradas, seu peso na formação de pesquisadores e gestores de inovação no Brasil é expressivo .
-
-***
+---
 
 ## Referências Institucionais
 
-- **Currículo Lattes (CNPq):** [lattes.cnpq.br/3940059129469564](http://lattes.cnpq.br/3940059129469564)
+- **Currículo Lattes:** [lattes.cnpq.br/3940059129469564](http://lattes.cnpq.br/3940059129469564)
 - **ORCID:** [orcid.org/0000-0002-5673-6784](https://orcid.org/0000-0002-5673-6784)
-- **UnB Pesquisa (CTIT):** [pesquisar.unb.br/professor/tania-cristina-da-silva-cruz](https://pesquisar.unb.br/professor/tania-cristina-da-silva-cruz)
+- **UnB Pesquisa:** [pesquisar.unb.br/professor/tania-cristina-da-silva-cruz](https://pesquisar.unb.br/professor/tania-cristina-da-silva-cruz)
 - **PROFNIT/UnB:** [profnit.unb.br — Corpo Docente](http://www.profnit.unb.br/index.php?option=com_content&view=article&id=166)
-- **Centro UnB Cerrado (CER) / FUP:** [sites.google.com/view/unbcerrado](https://sites.google.com/view/unbcerrado)
+- **Centro UnB Cerrado:** [sites.google.com/view/unbcerrado](https://sites.google.com/view/unbcerrado)
 
-***
+---
+
+*Perfil adaptado para a Plataforma Amazônia Regenerativa — CC BY 4.0*  
+*Repositório: [github.com/takwaratec/projetos](https://github.com/takwaratec/projetos)*

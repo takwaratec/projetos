@@ -1,13 +1,13 @@
 <div align="center">
 
 ### 🎋 Plataforma Amazônia Regenerativa — Equipe Nuclear
-**Perfil 03 de 03** | `equipe/perfis-nucleo.md` | v1.0 | março 2026
+v1.0 | março 2026
 
 </div>
 
 ---
 
-## PERFIL 03 — Filemon Tiago
+## Filemon Tiago
 
 **Cargo na Plataforma:** Coordenador de Campo da Tecnologia Takwara — Formação de Bioconstrutores Amazônicos
 **Sede:** Goiânia, Goiás — Brasil
