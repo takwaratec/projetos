@@ -1,29 +1,16 @@
 ---
-title: "Plataforma Amazônia Regenerativa v5.1: Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono"
-version: "5.1"
-date: "2026-03-01"
-author:
-  - name: "Takwara, Fabio Resck"
-    orcid: "0000-0001-8815-3885"
-    affiliation: "Universidade de Brasília / Núcleo Takwara"
-type: "Technical Report"
-series: "Série Técnica Plataforma Amazônia Regenerativa"
-language: "pt-BR"
-license: "CC BY 4.0"
-doi_collection: "10.5281/zenodo.17225867"
-related_work: "10.5281/zenodo.18826841"
-keywords:
-  - bioeconomia
-  - bambu
-  - Amazônia
-  - biorrefinaria
-  - saneamento ecológico
-  - créditos de carbono
-  - biochar
-  - compósitos bambu-PU
-  - habitação de interesse social
-  - Guadua spp.
+title: "Plataforma Amazônia Regenerativa v5.1..."
+...
 ---
+
+> **Versão:** 5.1 · **Data:** 2026-03-01 · **Licença:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+> **Autor:** Takwara, Fabio Resck · ORCID: [0000-0001-8815-3885](https://orcid.org/0000-0001-8815-3885)  
+> **DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18827106.svg)](https://doi.org/10.5281/zenodo.18827106)  
+> **Série:** Série Técnica Plataforma Amazônia Regenerativa
+
+# Plataforma Amazônia Regenerativa v5.1
+...
+
 
 # Plataforma Amazônia Regenerativa v5.1
 
