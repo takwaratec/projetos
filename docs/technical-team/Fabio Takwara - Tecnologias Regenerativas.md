@@ -1,57 +1,50 @@
-<div align="left">
+\<div align="left"\>
 
-### 🎋 Plataforma Amazônia Regenerativa — Equipe Nuclear
-**Perfil 01 de 03** | `equipe/perfis-nucleo.md` | v1.0 | março 2026
+### **🎋 Plataforma Amazônia Regenerativa — Equipe Nuclear**
 
-</div>
+**Perfil 01 de 03** | equipe/perfis-nucleo.md | v2.2 | março 2026
 
----
+\</div\>
 
-## Fabio Resck Takwara
+## ---
+
+**Fabio Takwara**
 
 **Cargo na Plataforma:** Idealizador, Arquiteto do Sistema e Diretor de Inovação Tecnológica
+
 **Sede:** Limeira, São Paulo — Brasil
+
 **Nome civil:** Fabio Fernandes Resck | **Nascimento:** 18/07/1966, São Paulo-SP
 
-### Trajetória
+### **Trajetória**
 
-Artista, educador e pesquisador autodidata, Fabio Takwara atua desde 1983 na interface entre arte, educação ambiental e tecnologia social. Em **1984**, integrou o projeto UniverCidade (UNIPAZ/Brasília), onde teve seu primeiro contato sistemático com filosofia, medicina natural e pedagogia alternativa — base do que viria a ser seu método de ensino técnico com comunidades. Em **1987**, realizou oficinas profissionalizantes para pessoas com deficiência física e mental na ACEDEM (Ermelino Matarazzo/SP), com exposição de artes aprovada pela então Secretária de Cultura Marilena Chauí no Centro Cultural Vergueiro — primeira experiência formal de tecnologia como instrumento de emancipação.
+Artista, educador e pesquisador autodidata, Fabio Takwara atua desde 1983 na interface entre arte, educação ambiental e tecnologia social. Em **1984**, integrou o projeto UniverCidade (UNIPAZ/Brasília), sob coordenação de Lídia Rebouças e Pierre Weil, onde consolidou a base de seu método de ensino técnico com comunidades. Em **1987**, realizou oficinas profissionalizantes na ACEDEM (SP), com exposição aprovada por Marilena Chauí, marcando sua primeira experiência formal de tecnologia como instrumento de emancipação.
 
-Entre **1990 e 1994**, atuou como arte-educador e fotógrafo na SEMATEC (Secretaria do Meio Ambiente do DF), realizando campanha de sensibilização ambiental em escolas do DF e entorno. Em **1992**, participou do elenco do espetáculo de abertura da Conferência Mundial para o Meio Ambiente — Rio-92 — com o musical *Cerradim e seus Amigos*, com temporada de dois anos nas escolas públicas do DF. Em **2000**, integrou a equipe de elaboração da **Agenda 21 — Diretrizes Básicas para Discussão** pelo Ministério do Meio Ambiente — primeiro vínculo formal com política pública ambiental em escala nacional.
+Entre **1990 e 1994**, atuou na SEMATEC (Secretaria do Meio Ambiente do DF) e, em **1992**, participou da abertura da Rio-92 com o musical *Cerradim e seus Amigos*. Em **2000**, integrou a equipe de elaboração da **Agenda 21 — Diretrizes Básicas** pelo Ministério do Meio Ambiente.
 
-A partir de **2011**, dedicou-se integralmente à pesquisa de materiais ecológicos e sustentáveis para construção civil, culminando em **2012** na construção do primeiro domo geodésico de 10 m com sistema de conexão próprio. Em parceria com a Imperveg (SP), desenvolveu durante 15 anos o sistema completo de **Poliuretano Vegetal de Mamona** aplicado ao bambu — tratamento térmico com vapor saturado enriquecido com extrato pirolenhoso, espuma expansiva de mamona para preenchimento interno e impermeabilização externa atóxica. Tecnologia validada em laboratórios universitários, com artigos científicos publicados e aprovação pela Infraero para impermeabilização de pisos de aeroportos (mais de 200.000 m²).
+A partir de **2011**, dedicou-se à pesquisa de materiais ecológicos, culminando em **2012** na construção do primeiro domo geodésico de 10 m com sistema de conexão próprio. Esta estrutura manteve-se íntegra por quatro anos sob exposição direta às intempéries no Sítio Geranium (DF), colapsando apenas após uma intervenção de engenharia externa que cobriu a estrutura com ferro e cimento para reforma do telhado, rompendo a flexibilidade biomecânica do sistema. Em parceria com a Imperveg, consolidou o sistema de **Poliuretano Vegetal de Mamona** aplicado ao bambu, tecnologia validada em estudos empíricos e aplicada em larga escala.
 
-Em **2016**, editou e diagramou *Fitoterapia Brasileira* (Prof. Túlio Americano do Brasil, 430 p., UnB) — evidência do trânsito entre biologia vegetal, etnobotânica e comunicação técnica que permeia toda a sua produção. Desde **julho de 2018**, coordenou o Projeto de Extensão de Ação Continuada **PEAC60224** junto à UnB e IFB (campus Planaltina-DF), ministrando cursos de capacitação com bambu para pessoas em situação de vulnerabilidade socioeconômica — projeto descontinuado pela nova reitoria em 2022. No mesmo período, coordenou em parceria com a Profa. Dra. Tânia Cristina Cruz (UnB/FUP), o IFB-Planaltina e a **ESECAE** (Estação Ecológica de Águas Emendadas) um projeto de manejo de espécies invasoras com uso do bambu, o qual seria financiado pelo **FDD (Fundo de Direitos Difusos)** — no entanto os recursos não foram alocados, e a dívida pública foi integralmente quitada pelo Fundo em 2025 quando protocolou maisfestos à Casa Civil ao Ministério do Meio Ambiente pela omissão de políticas públicas para o bambu no Brasil. Anida em 2025, foi sumariamente desligado da BambuBR, por discordar das diretrizes da associação na condução ética, regimental e pública de suas atividades. A Plataforma Amazônia Regenerativa v5.1 é a síntese operacional de quatro décadas desse percurso.
+Desde julho de **2018**, coordenou o projeto **PEAC 60224** (UnB/IFB), criando o **Laboratório de Pesquisas em Construções e Fazeres Sustentáveis (LaPeCFaZ)**. Em parceria com o IBRAM (Memorando SEI-GDF Nº 13/2018), realizou o manejo de espécies invasoras na Estação Ecológica de Águas Emendadas (**ESECAE**). Foi neste período, no **IFB-Planaltina** (coordenação do Prof. Dr. Vincente Virgilino), que o **primeiro forno protótipo** para a Biorrefinaria de Bambu foi concebido, permitindo o tratamento térmico com vapor saturado enriquecido com extrato pirolenhoso. O projeto integral seria financiado pelo **FDD (Fundo de Direitos Difusos)** em proposta de R$ 7,5 milhões submetida em outubro de 2018\. Contudo, os recursos nunca foram liberados, sendo desviados em 2025 para a quitação da dívida pública, no valor de mais de R$ 5 bilhões.
 
-### Competências Convergentes com a Plataforma
+Em **2024**, solicitou a rescisão de seu contrato de incubação com o CEFET-MG (**Processo 23062.028549/2023-34**) em protesto ao descaso acadêmico com a tecnologia do bambu apresentada, sugerindo um desvio de foco na pesquisa de uso do bambu como aditivo ao asfalto. Em **setembro de 2025**, protocolou manifestos à Casa Civil e ao MMA (**Protocolo Fala.BR 02303.015641/2025-46**) contra a omissão estatal na regulamentação da Lei 12.484/11 e a captura política por uma frente parlamentar, MAPA e instituições civis sem representatividade consistente - Manifestação respondida sem esclarecer os fatos, aguardando resposta até a presente data. No mesmo ano, foi sumariamente desligado da BambuBR por divergências éticas, citando o artigo científico de **Araújo et al. (2025)** (Brazilian Journal of Science) para fundamentar a denúncia contra o uso de tratamentos tóxicos (CCA/CCB) particados pelo setor e recomendados pela instituição. A diretoria tratou a questão com descaso e flagrante negacionismo científico.
 
-- **Educação ambiental popular** — 40 anos de experiência em oficinas com comunidades em contexto de vulnerabilidade
-- **Comunicação institucional** — produção gráfica e editorial para Min. do Meio Ambiente, Min. da Saúde, Itamaraty, Fundação Palmares, UnB
-- **Tecnologia do bambu** — protocolo completo de tratamento, conexão geodésica e biocompósitos com PU Vegetal
-- **Gestão de extensão e projetos públicos** — coordenação do PEAC60224 (UnB/IFB) e projeto FDD com ESECAE/UnB/FUP
-- **Documentação técnica e repositório** — GitHub/MkDocs, redação de dossiês, memoriais e propostas de financiamento
+### **Competências Convergentes com a Plataforma**
 
-### Salto de Carreira na Plataforma
+* **Educação ambiental popular** — 40 anos de oficinas comunitárias.  
+* **Tecnologia do bambu** — Desenvolvimento do sistema de solda vegetal com PU de Mamona e prototipagem de biorrefinarias.  
+* **Gestão e Advocacia** — Elaboração de propostas complexas (CFDD) e manifestações técnico-jurídicas ao Estado Manifestação Respondida...\].  
+* **Soberania Científica** — Documentação via GitHub e identificadores DOI (Zenodo) para blindagem da tecnologia de código aberto.
 
-Após 15 anos desenvolvendo a tecnologia sem estrutura industrial para implementá-la — com um projeto de extensão descontinuado por mudança de gestão e outro executado sem continuidade institucional —, a Plataforma representa a **primeira oportunidade real de levar o sistema completo a escala industrial**, com financiamento estruturado, equipe dedicada e polo instalado no território amazônico onde a *Guadua* nativa torna o modelo economicamente autossuficiente.
+### **Salto de Carreira na Plataforma**
 
----
-
-<div align="left">
-
-**🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
-Perfil 01 | Fabio Resck Takwara — Idealizador e Diretor de Inovação
-[takwaratec.github.io/projetos](https://takwaratec.github.io/projetos/) | CC BY 4.0
-
-</div>
+Após décadas de prototipagem e enfrentamento de incoerências institucionais, a Plataforma representa a **primeira oportunidade de levar o sistema à escala industrial**. É a resposta operacional à omissão do Estado, transformando o bambu nativo em ativo de soberania econômica e ambiental para a região amazônica, sob a governança ética e técnica do **Protocolo da Plataforma**.
 
 ---
 
-<div align="left">
+\<div align="left"\>
 
-### 🎋 Plataforma Amazônia Regenerativa — Equipe Nuclear
-**Perfil 02 de 03** | `equipe/perfis-nucleo.md` | v1.0 | março 2026
+**🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica** Perfil 01 | Fabio Resck Takwara — Idealizador e Diretor de Inovação
 
-</div>
+[resck.github.io/Takwara-Tech/](https://www.google.com/search?q=https://resck.github.io/Takwara-Tech/) | CC BY 4.0
 
----
+\</div\>
