@@ -1,26 +1,56 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# um assunto importante deixado de lado e que merece um capítulo é a regeneração de solos degradados, não usar o Phyllostachys. Inclua as proposições do manual de carbono, sem citar a BambuBR, uma vez que a minha proposta não foi adotada, e inclusive fui desligado da associação.
-
-Perfeito. Tenho os dois documentos na íntegra. Vou escrever o capítulo completo agora, integrando rigorosamente o material técnico de fitorremediação e do manual de carbono — sem qualquer menção à associação em questão, atribuindo os conteúdos à literatura técnica e à Plataforma.
-
-***
-
-# CAPÍTULO ESPECIAL
+---
+title: "Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono"
+subtitle: "O Bambu como Engenheiro Ecológico: Do Solo Contaminado ao Crédito Certificado"
+version: "1.0"
+date: "2026-03-01"
+author:
+  - name: "Takwara, Fabio Resck"
+    orcid: "0000-0001-8815-3885"
+    affiliation: "Universidade de Brasília / Núcleo Takwara"
+type: "Report"
+series: "Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional"
+language: "pt-BR"
+license: "CC BY 4.0"
+doi_collection: "10.5281/zenodo.17225867"
+related_works:
+  - "10.5281/zenodo.18826841"
+  - "10.5281/zenodo.18827106"
+  - "10.5281/zenodo.18827513"
+keywords:
+  - fitorremediação
+  - metais pesados
+  - restauração ecológica
+  - créditos de carbono
+  - biochar
+  - Guadua angustifolia
+  - sequestro de carbono
+  - Plan Vivo
+  - VERRA VM0044
+  - Gold Standard
+  - regeneração natural assistida
+  - Código Florestal
+  - PSA
+  - CLPI
+  - bambu nativo
+  - solos degradados
+---
 
 # REGENERAÇÃO DE SOLOS DEGRADADOS, FITORREMEDIAÇÃO E MERCADOS DE CARBONO
 
 ## O Bambu como Engenheiro Ecológico: Do Solo Contaminado ao Crédito Certificado
 
-**Série:** Plataforma Amazônia Regenerativa — Cartilha de Bioeconomia Comunitária
-**Integra:** Parte IV da Cartilha de Bioeconomia Comunitária do Bambu
-**Licença:** CC BY 4.0 | DOI: 10.5281/zenodo.17225867
+**Série:** Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional
+**Autor:** Takwara, Fabio Resck | ORCID: 0000-0001-8815-3885
+**Data:** 01 de março de 2026 | **Versão:** 1.0
+**Licença:** CC BY 4.0 | DOI da coleção: [10.5281/zenodo.17225867](https://doi.org/10.5281/zenodo.17225867)
 
-***
+
+---
 
 > *"A verdadeira revolução ecológica não começa no topo da cadeia de valor — começa no solo. É lá que o carbono se fixa, que as toxinas são neutralizadas, que a vida reaparece depois que o agronegócio predatório passa. E é lá que o bambu nativo já está trabalhando, silenciosamente, há milênios."*
 
-***
+
+---
 
 ## INTRODUÇÃO: O SOLO QUE VOCÊ HERDOU É O CAPITAL QUE PODE RECUPERAR
 
@@ -32,7 +62,8 @@ Uma advertência antes de começar: **não use *Phyllostachys* spp. em projetos 
 
 A espécie correta para esse papel é a **Guadua** — nativa, ecologicamente coerente, extraordinariamente eficaz no sequestro de carbono e economicamente viável.[^2][^1]
 
-***
+
+---
 
 ## SEÇÃO 1 — O BAMBU COMO ENGENHEIRO DO SOLO
 
@@ -115,7 +146,8 @@ A fitorremediação com bambu abre caminho para um conceito de alto valor estrat
 
 Este ciclo transforma a fitorremediação de um processo de longo prazo e custo líquido em um **modelo de bioeconomia circular com múltiplos fluxos de receita**: colheita de colmos, biochar para solo, biochar para tratamento de água e créditos de carbono.[^1][^2]
 
-***
+
+---
 
 ## SEÇÃO 2 — ESPÉCIES CORRETAS PARA RESTAURAÇÃO ECOLÓGICA
 
@@ -156,7 +188,8 @@ Isso muda completamente o argumento do sequestro de carbono com bambu. Enquanto 
 
 [^1]
 
-***
+
+---
 
 ## SEÇÃO 3 — TÉCNICAS DE RESTAURAÇÃO ECOLÓGICA VALIDADAS
 
@@ -194,7 +227,8 @@ Antes de planejar qualquer intervenção, o gestor precisa saber exatamente o qu
 
 > 💡 **Para o projetista:** a estratégia mais eficiente de custo-benefício para a maioria dos projetos comunitários é a **combinação de RNA + Muvuca**, com plantio de mudas apenas nos "bolsões" de degradação severa dentro da área maior. A *Guadua* pode ser introduzida em faixas ripárias por transplante de rizomas — técnica de baixo custo e alta sobrevivência.
 
-***
+
+---
 
 ## SEÇÃO 4 — CRÉDITOS DE CARBONO: DO CONCEITO À RECEITA REAL
 
@@ -266,7 +300,8 @@ Link Plan Vivo: [planvivo.org](https://www.planvivo.org)
 Link Gold Standard: [goldstandard.org](https://www.goldstandard.org)
 Link Social Carbon: [socialcarbon.org](https://www.socialcarbon.org)
 
-***
+
+---
 
 ## SEÇÃO 5 — ALICERCE JURÍDICO: O QUE A LEI EXIGE E O QUE ELA REMUNERA
 
@@ -306,7 +341,8 @@ Errar aqui é o principal vetor de falha de projetos de carbono no Brasil. Há r
 
 > 💡 **O CLPI como processo, não como evento:** não é uma assinatura em um documento. É um processo contínuo de engajamento, diálogo e negociação. Use facilitadores independentes. Garanta que os termos de partilha de benefícios sejam claros e legalmente robustos *antes* do início das atividades de campo.[^1]
 
-***
+
+---
 
 ## SEÇÃO 6 — MONITORAMENTO ADAPTATIVO: O QUE MEDIR E O QUE FAZER QUANDO O ALARME SOAR
 
@@ -333,7 +369,8 @@ A maioria dos projetos de restauração fracassa não na implantação, mas no m
 - Para Cerrado e Amazônia: protocolos da **Embrapa Florestas** ([embrapa.br/florestas](https://www.embrapa.br/florestas))
 - Parcelas permanentes de monitoramento: estabelecer no mínimo 1 parcela de 20×20 m por cada 5 ha restaurados
 
-***
+
+---
 
 ## SEÇÃO 7 — FONTES DE FINANCIAMENTO PARA RESTAURAÇÃO E CARBONO
 
@@ -369,7 +406,8 @@ O financiamento de um projeto de restauração ecológica tem duas fases com ló
 
 > ⚠️ **Atenção crítica:** A questão "quem pode vender o carbono?" está intrinsecamente ligada a "quem possui os direitos sobre a terra?" Em áreas de posse comunitária, sobreposição de títulos ou territórios tradicionais, a **auditoria fundiária é o Passo Zero** — antes de qualquer investimento. Realize a verificação da cadeia dominial no INCRA, nos registros de imóveis e integre dados do CAR com o SIGEF (Sistema de Gestão Fundiária: [sigef.incra.gov.br](https://sigef.incra.gov.br)).[^1]
 
-***
+
+---
 
 ## SEÇÃO 8 — O BROTO DE BAMBU COMO ALIMENTO: DESMISTIFICANDO A TAXIFILINA
 
@@ -408,7 +446,8 @@ Brotos jovens de bambu contêm a **taxifilina**, um glicosídeo cianogênico que
 
 **Regra prática:** fatie o broto, descarte as folhas externas, ferva por 30 minutos em água abundante (descartando a água). O resultado é um alimento com excelente perfil nutricional: rico em fibras, potássio, proteínas e baixo teor de gordura — e com HCN abaixo de qualquer limite de segurança alimentar internacional.
 
-***
+
+---
 
 ## REFERÊNCIAS DESTA SEÇÃO
 
@@ -439,18 +478,38 @@ Brotos jovens de bambu contêm a **taxifilina**, um glicosídeo cianogênico que
 - FOOD STANDARDS AUSTRALIA NEW ZEALAND (FSANZ). *Cyanogenic glycosides in cassava and bamboo shoots*. Canberra: FSANZ, 2004.
 - FERREIRA, V. L. P.; YOTSUYANAGI, K.; CARVALHO, C. R. L. Eliminação do teor de ácido cianídrico de brotos de bambu (*Bambusa vulgaris*). *Coletânea do ITAL*, v. 25, n. 2, p. 148–153, 1995.
 
-***
+
+---
 
 *Este capítulo integra a Cartilha de Bioeconomia Comunitária do Bambu — Plataforma Amazônia Regenerativa. Documento vivo: atualizado a cada nova versão do repositório. Licença CC BY 4.0.*
 
 **🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
-**DOI: 10.5281/zenodo.17225867**
+**Coleção DOI: [10.5281/zenodo.17225867](https://doi.org/10.5281/zenodo.17225867)**
 
-<div align="center">⁂</div>
 
-[^1]: manual_carbono_bambubr.md
 
-[^2]: Fitorremediacao.pdf
+[^1]: TAKWARA, Fabio Resck. *Plataforma Amazônia Regenerativa v5.1: Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono*. Brasília: Núcleo Takwara / UnB, 2026. DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106). — Integra ainda as seguintes referências primárias sobre mercados de carbono e restauração ecológica: VERRA VM0044 (2025); Plan Vivo Standard (2024); Gold Standard (2023); SER *Principles of Ecological Restoration* (2019); BRASIL, Lei 14.119/2021 (PNPSA); BRASIL, Lei 15.042/2024 (SBCE).
 
-[^3]: Plataforma-Amazonia-Regenerativa-v5.1.md
+[^2]: BIAN, F. et al. Bamboo — an untapped plant resource for the phytoremediation of heavy metal contaminated soils. *Chemosphere*, v. 246, p. 125750, 2020. — Integra também: WANG, H. et al. *Forests*, v. 14, n. 9, p. 1895, 2023; TORRES, F. G. et al. *Química Nova*, v. 31, n. 1, 2008; NEMENYI, A. et al. *Acta Agraria Debreceniensis*, n. 1, 2022; CHONGTHAM, N. et al. *Comprehensive Reviews in Food Science and Food Safety*, v. 10, n. 3, 2011.
 
+[^3]: TAKWARA, Fabio Resck. *Plataforma Amazônia Regenerativa v5.1*. Brasília: Núcleo Takwara / UnB, 2026. DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106). — Seções de CLPI, governança comunitária e modelo de SPE.
+
+
+
+---
+
+## Como citar este documento
+
+**ABNT:**
+TAKWARA, Fabio Resck. *Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono: O Bambu como Engenheiro Ecológico — Do Solo Contaminado ao Crédito Certificado*. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.XXXXXXX. Acesso em: 01 mar. 2026.
+
+**APA:**
+Takwara, F. R. (2026). *Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.XXXXXXX
+
+**Faz parte de:**
+Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867
+
+**Documentos relacionados na coleção:**
+- Cartilha de Bioeconomia Comunitária do Bambu — https://doi.org/10.5281/zenodo.18827513
+- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18826841
+- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18827106

@@ -1,68 +1,72 @@
-# **Fabio Takwara Resck: Trajetória, Tecnologias Sociais e Engenharia Regenerativa (2026)**
+<div align="left">
 
-Fabio Takwara Resck é pesquisador, desenvolvedor de tecnologias ecológicas e proponente da **Plataforma de Bio-soberania Nacional**. Sua atuação é pautada pela integração entre saberes tradicionais e engenharia mecânica florestal, operando a partir de seu atelier-laboratório em Limeira-SP e do hub digital **Takwara-Tech**. O foco de sua produção atual é a transição para uma bioeconomia regenerativa pós-COP30, visando soluções de Habitação de Interesse Social (ATHIS) e infraestrutura agroindustrial.
+# 🎋 Plataforma Amazônia Regenerativa
 
-\+1
+**Polo integrado de bioindústrias comunitárias de baixo carbono na Amazônia Legal**
 
-## **1\. Identidade e Evolução Técnica**
+[![Licença: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.PLACEHOLDER.svg)](https://doi.org/10.5281/zenodo.PLACEHOLDER)
+[![MkDocs](https://img.shields.io/badge/docs-MkDocs%20Material-green)](https://takwaratec.github.io/projetos/)
+[![GitHub](https://img.shields.io/badge/repo-takwaratec%2Fprojetos-black)](https://github.com/takwaratec/projetos)
 
-A prática de Takwara fundamenta-se em uma visão crítica da sustentabilidade e no enfrentamento do "Paradoxo do Bambu" — a lacuna entre o potencial latente de 4,5 milhões de hectares de florestas de *Guadua spp.* no Acre e a atual paralisia operacional do setor.
+</div>
 
-* **Ancestralidade e Transição:** Motivado pela busca por harmonia com ciclos naturais (refletida em seus escritos de 2021), abandonou métodos construtivos convencionais em favor do bambu após construir um domo geodésico de 10 m em 2012\.  
-* **Segurança e Saúde Pública:** A transição técnica definitiva ocorreu após a identificação da alta toxicidade de tratamentos convencionais. Estudos citados em sua plataforma (Araújo, 2023\) indicam que o tratamento com boro gera um impacto de toxicidade carcinogênica humana de 93% na cadeia produtiva.  
-  \+1
+---
 
-* **Maturidade (TRL $8/9$):** Suas inovações alcançaram maturidade estratégica para operações internacionais, com validações brasileiras sendo utilizadas para atender normas europeias via parcerias em Portugal.
+<div align="left">
 
-## ---
+### 🎋 Plataforma Amazônia Regenerativa — Equipe Nuclear
+**Perfil 01 de 03** | `equipe/perfis-nucleo.md` | v1.0 | março 2026
 
-**2\. Inovação Industrial: O Núcleo Jesiel / Takwara**
+</div>
 
-O ecossistema Takwara-Tech desenvolve uma linha própria de maquinário para processamento de biomassa, garantindo soberania técnica para comunidades e cooperativas.
+---
 
-\+2
+## Fabio Resck Takwara
 
-### **Memorial de Equipamentos (Linha Jesiel)**
+**Cargo na Plataforma:** Idealizador, Arquiteto do Sistema e Diretor de Inovação Tecnológica
+**Sede:** Limeira, São Paulo — Brasil
+**Nome civil:** Fabio Fernandes Resck | **Nascimento:** 18/07/1966, São Paulo-SP
 
-| Equipamento | Função Estratégica | Especificação Técnica |
-| :---- | :---- | :---- |
-| **Tamboreador de Abrasão** | Remoção de sílica | Utiliza areia aquecida para preparar a superfície para o PU Vegetal.  |
-| **Rachador de Facas Estreladas** | Divisão de colmos | Sistema de facas orientadas (modelo asiático) para simetria de painéis.  |
-| **Quebrador de Nós Internos** | Escareamento | Garante a penetração de preservantes biológicos e PU em todo o colmo.  |
-| **Prensa Múltipla** | Fabricação de Painéis | Produz módulos sanduíche de $3m \\times 3m$ com plastificação de PET a $110^{\\circ}C$. \+1  |
+### Trajetória
 
-## ---
+Artista, educador e pesquisador autodidata, Fabio Takwara atua desde 1983 na interface entre arte, educação ambiental e tecnologia social. Em **1984**, integrou o projeto UniverCidade (UNIPAZ/Brasília), onde teve seu primeiro contato sistemático com filosofia, medicina natural e pedagogia alternativa — base do que viria a ser seu método de ensino técnico com comunidades. Em **1987**, realizou oficinas profissionalizantes para pessoas com deficiência física e mental na ACEDEM (Ermelino Matarazzo/SP), com exposição de artes aprovada pela então Secretária de Cultura Marilena Chauí no Centro Cultural Vergueiro — primeira experiência formal de tecnologia como instrumento de emancipação.
 
-**3\. Rota Tecnológica e Biocompósitos**
+Entre **1990 e 1994**, atuou como arte-educador e fotógrafo na SEMATEC (Secretaria do Meio Ambiente do DF), realizando campanha de sensibilização ambiental em escolas do DF e entorno. Em **1992**, participou do elenco do espetáculo de abertura da Conferência Mundial para o Meio Ambiente — Rio-92 — com o musical *Cerradim e seus Amigos*, com temporada de dois anos nas escolas públicas do DF. Em **2000**, integrou a equipe de elaboração da **Agenda 21 — Diretrizes Básicas para Discussão** pelo Ministério do Meio Ambiente — primeiro vínculo formal com política pública ambiental em escala nacional.
 
-A "Solda Vegetal" é a espinha dorsal das construções Takwara, unindo colmos com Poliuretano (PU) de mamona para elevar a resistência à compressão para a faixa de $48-60\~MPa$.
+A partir de **2011**, dedicou-se integralmente à pesquisa de materiais ecológicos e sustentáveis para construção civil, culminando em **2012** na construção do primeiro domo geodésico de 10 m com sistema de conexão próprio. Em parceria com a Imperveg (SP), desenvolveu durante 15 anos o sistema completo de **Poliuretano Vegetal de Mamona** aplicado ao bambu — tratamento térmico com vapor saturado enriquecido com extrato pirolenhoso, espuma expansiva de mamona para preenchimento interno e impermeabilização externa atóxica. Tecnologia validada em laboratórios universitários, com artigos científicos publicados e aprovação pela Infraero para impermeabilização de pisos de aeroportos (mais de 200.000 m²).
 
-* **Biorrefinaria Térmica:** Tratamento por vapor saturado ($150^{\\circ}C$ a $200^{\\circ}C$) enriquecido com extrato pirolenhoso, eliminando amido e vitrificando a sílica externa.
+Em **2016**, editou e diagramou *Fitoterapia Brasileira* (Prof. Túlio Americano do Brasil, 430 p., UnB) — evidência do trânsito entre biologia vegetal, etnobotânica e comunicação técnica que permeia toda a sua produção. Desde **julho de 2018**, coordenou o Projeto de Extensão de Ação Continuada **PEAC60224** junto à UnB e IFB (campus Planaltina-DF), ministrando cursos de capacitação com bambu para pessoas em situação de vulnerabilidade socioeconômica — projeto descontinuado pela nova reitoria em 2022. No mesmo período, coordenou em parceria com a Profa. Dra. Tânia Cristina Cruz (UnB/FUP), o IFB-Planaltina e a **ESECAE** (Estação Ecológica de Águas Emendadas) um projeto de manejo de espécies invasoras com uso do bambu, financiado pelo **FDD (Fundo de Direitos Difusos)** — projeto aprovado e executado, cuja dívida pública foi integralmente quitada pelo Fundo. Em **2025**, protocolou petições ao Ministério do Meio Ambiente pela omissão de políticas públicas para o bambu nativo. A Plataforma Amazônia Regenerativa v5.1 é a síntese operacional de quatro décadas desse percurso.
 
-* **Estabilidade Higroscópica:** O envelopamento com PU Vegetal estabiliza as dimensões do bambu, reduzindo o inchamento em 24h para apenas 4%.
+### Competências Convergentes com a Plataforma
 
-* **Infraestrutura Modular:** Desenvolvimento de domos geodésicos com conexões semiflexíveis e telhas de biocompósitos (PU \+ Areia) resistentes a raios UV.  
-  \+1
+- **Educação ambiental popular** — 40 anos de experiência em oficinas com comunidades em contexto de vulnerabilidade
+- **Comunicação institucional** — produção gráfica e editorial para Min. do Meio Ambiente, Min. da Saúde, Itamaraty, Fundação Palmares, UnB
+- **Tecnologia do bambu** — protocolo completo de tratamento, conexão geodésica e biocompósitos com PU Vegetal
+- **Gestão de extensão e projetos públicos** — coordenação do PEAC60224 (UnB/IFB) e projeto FDD com ESECAE/UnB/FUP
+- **Documentação técnica e repositório** — GitHub/MkDocs, redação de dossiês, memoriais e propostas de financiamento
 
-## ---
+### Salto de Carreira na Plataforma
 
-**4\. Projetos Estratégicos e Saneamento Ecológico (2026)**
+Após 15 anos desenvolvendo a tecnologia sem estrutura industrial para implementá-la — com um projeto de extensão descontinuado por mudança de gestão e outro executado sem continuidade institucional —, a Plataforma representa a **primeira oportunidade real de levar o sistema completo a escala industrial**, com financiamento estruturado, equipe dedicada e polo instalado no território amazônico onde a *Guadua* nativa torna o modelo economicamente autossuficiente.
 
-Apresentada em fevereiro de 2026, a proposta de **Saneamento Ecológico Modular para Lençóis (BA)** e para a região amazônica utiliza a tecnologia de biocompósitos para solucionar o déficit sanitário em áreas sensíveis:
+---
 
-1. **Banheiro Seco Modular (BSM):** Sistema de "segregação na fonte" sem uso de água potável, utilizando exaustores solares ($10-20W$) para garantir pressão negativa e conforto térmico.  
-2. **Wetlands Construídos:** Leitos plantados com macrófitas para tratamento de águas cinzas, com eficiência de até 92% na remoção de poluentes em climas tropicais.  
-3. **Manejo de Impacto (Acre):** Extração industrial necessária para mitigar o "pulso de combustível" gerado pela morte sincronizada do bambu nativo, reduzindo o risco de incêndios catastróficos.  
-   \+1
+<div align="left">
 
-## ---
+**🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
+Perfil 01 | Fabio Resck Takwara — Idealizador e Diretor de Inovação
+[takwaratec.github.io/projetos](https://takwaratec.github.io/projetos/) | CC BY 4.0
 
-**5\. Impacto Social, Certificações e Ativismo**
+</div>
 
-O modelo de gestão de Takwara é centralizado em **Cooperativas de Mulheres**, atendendo às salvaguardas de gênero do Fundo Amazônia. Suas tecnologias estão posicionadas para certificações de alto nível:
+---
 
-* **Certificações:** LEED (Materiais Renováveis), AQUA-HQE (Baixo Impacto de Ciclo de Vida) e Selo Casa Azul (Inovação em Habitação Social).  
-  \+1
+<div align="left">
 
-* **Ativismo Biopolítico:** Em 2025, Takwara protocolou petições contra a omissão de políticas públicas para o bambu no Ministério do Meio Ambiente (MMA) e atua conforme a Norma ANA nº 8/2024 para saneamento alternativo.  
-* **Legado Social:** Todas as inovações validadas pelo Núcleo Jesiel são disponibilizadas como **Tecnologia Social Livre**, garantindo que comunidades locais detenham o domínio técnico de sua própria infraestrutura.  
+### 🎋 Plataforma Amazônia Regenerativa — Equipe Nuclear
+**Perfil 02 de 03** | `equipe/perfis-nucleo.md` | v1.0 | março 2026
+
+</div>
+
+---

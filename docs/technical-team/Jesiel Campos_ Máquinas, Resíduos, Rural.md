@@ -1,106 +1,41 @@
-# **Análise Sistêmica da Trajetória de Jesiel Campos: Inovação Tecnológica, Desenvolvimento Territorial e Bioeconomia no Cerrado**
+<div align="center">
 
-O desenvolvimento rural brasileiro, especialmente no contexto da agricultura familiar e do extrativismo sustentável, é frequentemente marcado por uma dicotomia entre a tradição ancestral e a necessidade de modernização tecnológica. No epicentro dessa transformação, destaca-se a figura de Jesiel Pereira de Campos Silva, profissionalmente reconhecido como Jesiel Campos. Sua atuação é caracterizada por uma abordagem multidisciplinar que integra Geografia, Gestão Ambiental e Engenharia Rural Social, focando na criação de soluções que mitigam a penosidade do trabalho no campo e potencializam a agregação de valor aos produtos da biodiversidade do Cerrado. Este dossiê detalha sua trajetória, desde suas origens e formação acadêmica até o desenvolvimento de tecnologias sociais premiadas, sua liderança institucional no Instituto Transformar e seu papel fundamental na articulação de políticas de desenvolvimento territorial e economia circular.
+### 🎋 Plataforma Amazônia Regenerativa — Equipe Nuclear
+**Perfil 02 de 03** | `equipe/perfis-nucleo.md` | v1.0 | março 2026
 
-## **Raízes e Formação: O Contexto Geográfico de uma Liderança**
+</div>
 
-A compreensão da obra de Jesiel Campos é indissociável de sua biografia, que reflete as tensões e as oportunidades do interior do Brasil Central. Nascido em Brasília, Distrito Federal, em 22 de novembro de 1977, Campos viveu sua infância em Alvorada do Norte, uma região marcada por desafios socioeconômicos significativos. Em 1996, sua mudança para Formosa, Goiás, representou um ponto de inflexão estratégico. A escolha por Formosa não foi apenas logística, mas motivada pela busca de infraestrutura educacional superior, o que demonstra uma inclinação precoce para o planejamento de longo prazo e a qualificação técnica.  
-Em Formosa, a trajetória inicial de Jesiel foi marcada pela imersão na realidade laborativa mais crua do campo: o trabalho como "boia-fria" na colheita de feijão. Esta experiência prática, frequentemente negligenciada em biografias acadêmicas, é fundamental para entender sua motivação no desenvolvimento de máquinas agrícolas. O conhecimento direto do esforço físico exaustivo e das condições insalubres do trabalho manual artesanal moldou sua visão de que a tecnologia não deve ser um fim em si mesma, mas um meio de emancipação humana e dignidade laboral.  
-A formação acadêmica de Campos consolidou essa visão prática. Graduou-se em Geografia pela Universidade Estadual de Goiás (UEG), Campus Formosa, em 2001, e concluiu sua pós-graduação em Gestão Ambiental pela mesma instituição em 2002\. A Geografia forneceu-lhe as ferramentas conceituais para analisar o território, compreender as dinâmicas de uso do solo e identificar as vocações produtivas regionais. Já a Gestão Ambiental permitiu que ele integrasse a produção econômica com a conservação do bioma Cerrado, estabelecendo as bases para sua atuação posterior em economia circular e aproveitamento de resíduos.
+---
 
-| Etapa Formativa | Instituição | Período / Conclusão | Foco de Estudo |
-| :---- | :---- | :---- | :---- |
-| Ensino Médio | Colégio Estadual Miguel Affiune | 1996 \- 1997 | Formação Básica em Formosa |
-| Graduação em Geografia | Universidade Estadual de Goiás (UEG) | 2001 | Análise Territorial e Dinâmicas Rurais |
-| Pós-Graduação em Gestão Ambiental | UEG \- UnU Formosa | 2002 | Manejo de Recursos Naturais e Sustentabilidade |
-| Experiência em Docência | Diversas Instituições | 1997 \- 2002 | Ensino de Informática e Extensão |
+## Jesiel Pereira de Campos Silva
 
-A transição da sala de aula e dos campos de colheita para a liderança de projetos socioeconômicos foi mediada por sua atuação como presidente do Juventude Formosense, organização que evoluiu para o Instituto Sócio Econômico de Desenvolvimento Social (ISDS), também conhecido como Instituto Transformar. Essa evolução institucional reflete a maturidade de seu pensamento: do foco na juventude urbana para o desenvolvimento sistêmico da agricultura familiar em escala regional.
+**Cargo na Plataforma:** Coordenador do Núcleo de Desenvolvimento de Equipamentos — Biorrefinaria Comunitária
+**Sede:** Formosa, Goiás — Brasil
+**Formação:** Geógrafo (UEG, 2001) | Pós-graduado em Gestão Ambiental (UEG, 2002)
+**Distinção:** Medalha Pedro Ludovico Teixeira — Assembleia Legislativa de Goiás | Cidadão Formosense (2023)
 
-## **O Instituto Transformar e a Mecanização da Agricultura Familiar**
+### Trajetória
 
-Sob a coordenação de Jesiel Campos, o Instituto Transformar tornou-se um hub de inovação para a agricultura familiar no Nordeste Goiano e no Entorno do Distrito Federal. A filosofia de atuação do instituto baseia-se na premissa de que o apoio à agricultura familiar necessita de políticas específicas de incentivo à pesquisa e ao desenvolvimento de máquinas que respeitem a escala e as especificidades do trabalho camponês. Campos identificou que a mecanização convencional, voltada ao agronegócio de larga escala, é frequentemente inacessível ou inadequada para o pequeno produtor, seja pelo custo, pelo tamanho ou pela complexidade de manutenção.  
-A estratégia liderada por Jesiel foca no desenvolvimento de tecnologias que aumentem a eficiência produtiva sem descaracterizar a base social da produção familiar. Isso envolve a criação de equipamentos que otimizem as chamadas "operações mecanizadas críticas", aquelas que representam gargalos de produtividade ou riscos à saúde do trabalhador. O impacto dessas ações é mensurável na melhoria da renda das famílias atendidas, que conseguem processar sua produção de forma mais rápida e com maior qualidade sanitária, acessando mercados que antes lhes eram vedados por barreiras técnicas.
+Nascido em Brasília e criado em Alvorada do Norte (GO), Jesiel Campos iniciou sua compreensão do trabalho rural como boia-fria nas colheitas de feijão no Nordeste Goiano — experiência que moldou sua convicção de que a tecnologia deve eliminar a penosidade do trabalho, não substituir o trabalhador. Fundou o Instituto Transformar (ISDS), referência nacional em mecanização da agricultura familiar no Cerrado.
 
-### **A Casa de Farinha Móvel: Uma Tecnologia Social Certificada**
+Desenvolveu a **Casa de Farinha Móvel** — unidade de beneficiamento de mandioca sobre reboque, capacidade de 750–1.000 kg/dia, certificada como Tecnologia Social pela Fundação Banco do Brasil (2019). No projeto *Conexão Cerrado*, criou a **despolpadeira de mesocarpo de baru a seco** — processa 7 kg de polpa em 10 minutos contra horas de trabalho manual, adaptável a pequi, jatobá e outras espécies do Cerrado. Instalou o primeiro biodigestor do Nordeste Goiano, fechando o ciclo de resíduos animais em biogás e biofertilizante. Participou da articulação do Polo Cerrado Circular e da Rota da Economia Circular, coordenando carteiras de projetos de aproveitamento de resíduos lignocelulósicos.
 
-Um dos projetos de maior relevância técnica e social idealizados por Jesiel Campos é a Casa de Farinha Móvel. Concebida inicialmente em 2006, essa tecnologia responde ao desafio logístico de processar a mandioca em comunidades isoladas ou com infraestrutura de transporte precária. A mandioca, após colhida, possui um tempo de prateleira muito curto antes de iniciar processos de oxidação e degradação. Levar a unidade de processamento até o campo reduz perdas e custos de frete, além de permitir que o agricultor retenha uma fatia maior do valor agregado da produção.  
-A unidade consiste em um sistema de beneficiamento completo montado sobre um reboque, capaz de ser tracionado por veículos utilitários comuns. A configuração técnica detalhada revela uma engenharia pensada para a durabilidade e a eficiência operacional em ambientes rurais.
+### Contribuição Específica à Plataforma
 
-| Componente Técnico | Especificação | Função no Processo |
-| :---- | :---- | :---- |
-| Forno Circular | Diâmetro de 2,00m; Chapa de ferro 1/8 | Torrefação da farinha com calor uniforme |
-| Mexedor Automático | Integrado ao forno | Garante a granulação e evita a queima da massa |
-| Motorização | Elétrico monofásico de 2,0 CV (Voges) | Acionamento dos sistemas de ralação e mistura |
-| Capacidade de Produção | 750 a 1000 kg/dia | Escala adequada para associações comunitárias |
-| Estrutura de Mobilidade | Reboque adaptado para utilitários | Deslocamento entre propriedades e assentamentos |
+Responsável pelo projeto, prototipagem e desenvolvimento dos **equipamentos originais do Núcleo Jesiel/Takwara** previstos na Fase 2 da biorrefinaria comunitária: escarificador interno de nós de bambu, tamboreador de abrasão térmica, rachadora de ripas com facas estreladas e prensas para biocompósitos com PU Vegetal. Sua metodologia — equipamentos de pequeno porte, baixo custo de manutenção, operáveis por cooperativas familiares sem infraestrutura trifásica — é o padrão de projeto para todos os equipamentos da biorrefinaria.
 
-A certificação desta tecnologia pela Fundação Banco do Brasil em 2019 como Tecnologia Social elevou o projeto a um patamar de referência nacional. Jesiel Campos foi condecorado com a Medalha Pedro Ludovico Teixeira pela Assembleia Legislativa de Goiás, reconhecimento que destaca a importância da inovação para a mandiocultura, especialmente no Nordeste Goiano, onde o projeto auxiliou na consolidação do Arranjo Produtivo Local (APL) da mandioca. Durante a pandemia de COVID-19, a mobilidade dessas unidades foi crucial para manter a produção ativa, demonstrando a resiliência do modelo proposto.
+### Salto de Carreira na Plataforma
 
-### **Inovações na Cadeia Produtiva do Baru: O Projeto Conexão Cerrado**
+Jesiel transitou do Cerrado para a Amazônia, do processamento de alimentos para o processamento de biomassa construtiva — mantendo intacta a filosofia de base: tecnologia que cabe na mão do pequeno produtor. A Plataforma representa o primeiro projeto em que suas máquinas deixam de ser soluções pontuais para cooperativas isoladas e passam a integrar um sistema industrial de escala regional, com financiamento estruturado e cadeia produtiva completa do colmo ao produto final.
 
-O baru (*Dipteryx alata*), fruto nativo do Cerrado de alto valor nutricional e comercial, apresentava-se como um desafio tecnológico significativo. A dureza extrema da sua casca (endocarpo) tornava a extração da amêndoa um processo manual exaustivo, perigoso e de baixíssimo rendimento. Tradicionalmente, apenas a amêndoa (5% do fruto) era valorizada, enquanto o mesocarpo (polpa) e o endocarpo eram descartados ou subutilizados.  
-Através do projeto "Conexão Cerrado \- Aproveitamento Integral do Fruto Baru", Jesiel Campos desenvolveu soluções de máquinas que revolucionaram o extrativismo comunitário. A principal inovação foi a despolpadeira de mesocarpo a seco, que permitiu o processamento rápido e higiênico da polpa do baru, transformando o que antes era resíduo em um produto com alto potencial gastronômico e comercial.  
-As especificações e os resultados alcançados pelo equipamento demonstram um salto de produtividade sem precedentes para o extrativismo:
+---
 
-* **Eficiência de Tempo:** Extração de 7 kg de polpa em apenas 10 minutos, processo que anteriormente exigiria horas de trabalho manual.  
-* **Versatilidade de Espécies:** O equipamento foi projetado para ser adaptável a outros frutos do bioma, como o pequi e o jatobá, aumentando o período de utilização da máquina ao longo do ano.  
-* **Segurança Laboral:** A mecanização elimina a necessidade de uso de ferramentas de corte manuais perigosas, reduzindo acidentes de trabalho nas cooperativas extrativistas.  
-* **Equidade de Gênero:** Como as mulheres compõem a maioria da força de trabalho nas associações de beneficiamento, a redução do esforço físico exigido permitiu maior participação feminina e liderança nos processos de gestão produtiva.
+<div align="center">
 
-Essa abordagem de "aproveitamento integral" é o pilar de uma nova bioeconomia que Jesiel promove, onde a sustentabilidade financeira das comunidades extrativistas depende da capacidade de processar todas as partes do fruto.
+**🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
+Perfil 02 | Jesiel Campos — Coordenador do Núcleo de Equipamentos
+[takwaratec.github.io/projetos](https://takwaratec.github.io/projetos/) | CC BY 4.0
 
-## **Economia Circular e Aproveitamento de Resíduos**
+</div>
 
-A trajetória de Jesiel Campos está profundamente alinhada aos conceitos contemporâneos de economia circular, onde os fluxos de materiais são cíclicos e o desperdício é minimizado. Sua atuação nesta área transcende a agricultura tradicional, alcançando a gestão de resíduos sólidos e a produção de bioenergia.
-
-### **Biodigestores e Saneamento Rural**
-
-Jesiel foi o responsável pela adaptação e instalação do primeiro biodigestor no Nordeste Goiano. Este sistema representa uma solução integrada para dois problemas críticos das pequenas propriedades rurais: o manejo de dejetos animais e a necessidade de energia limpa. O biodigestor transforma resíduos orgânicos (esterco bovino e suíno) em biogás, que substitui o gás de cozinha (GLP), e em biofertilizante líquido de alta qualidade.  
-O biofertilizante gerado é 100% orgânico, permitindo que o agricultor reduza ou elimine a compra de insumos químicos, o que impacta diretamente na redução dos custos de produção e na saúde do solo. Esta tecnologia fecha o ciclo de nutrientes dentro da propriedade, característica fundamental da economia regenerativa que Campos defende.
-
-### **O Polo Cerrado Circular e a Rota da Economia Circular**
-
-A inserção de Jesiel Campos em fóruns de discussão estratégica, como o Polo Cerrado Circular, demonstra sua capacidade de escalar soluções locais para o nível de políticas públicas regionais. O Polo, integrante da Rota da Economia Circular, atua na articulação entre governo, academia e iniciativa privada para desenvolver startups e projetos que utilizem resíduos agropecuários e florestais como matéria-prima para novos produtos.  
-Dentro dessa estrutura, Campos coordena e revisa carteiras de projetos que buscam, por exemplo, o aproveitamento de resíduos lignocelulósicos para a produção de biomassa energética ou bioprodutos inovadores. Sua participação em eventos como o encontro com especialistas da Universidade Agrícola da China (CAU) reforça essa busca por tecnologias de pequeno porte adaptadas a condições climáticas específicas, como o semiárido e as regiões de transição do Cerrado.
-
-## **Sinergia Institucional: Parcerias para a Assistência Técnica**
-
-Nenhuma das inovações de Jesiel Campos teria alcançado escala sem uma rede sólida de parcerias institucionais. O Instituto Transformar atua como um braço operacional que complementa a ação do Estado, especialmente através da Agência Goiana de Assistência Técnica, Extensão Rural e Pesquisa Agropecuária (Emater).  
-A parceria com a Emater-GO é multifacetada e estratégica. Jesiel atua na articulação para a instalação de máquinas de processamento em regiões-chave, garantindo que o conhecimento técnico chegue à ponta. Um exemplo concreto é o trabalho em Vila Boa, Goiás, onde unidades multiplicadoras de mandioca foram instaladas para fornecer mudas geneticamente melhoradas pela Embrapa (variedades BRS 396 a 420\) para os produtores locais.  
-| Variedade Embrapa (Exemplos) | Tipo de Uso | Características Destacadas | | :--- | :--- | :--- | | BRS 396, 397, 398, 399, 400 | Mandioca de Mesa | Cozimento rápido, maior rendimento, sabor superior | | BRS 416, 417, 419, 420 | Mandioca Industrial | Alto teor de fécula, ideal para produção de farinha |  
-A coordenação de Jesiel garante que o acesso a essas novas variedades seja acompanhado pela tecnologia de processamento da Casa de Farinha Móvel, fechando o elo entre a genética superior e a agregação de valor industrial. Além disso, sua atuação junto ao Centro de Estudos e Assessoria (CEA) e sindicatos rurais amplia a capilaridade das ações, permitindo que pequenos produtores acessem programas governamentais como o Semear Social, focado na recuperação de pastagens e fortalecimento produtivo.
-
-## **Desenvolvimento Territorial e Planejamento Regional**
-
-Como geógrafo, Jesiel Campos possui uma visão que transcende a tecnologia agrícola, enxergando o território como um ativo cultural e econômico complexo. Sua participação no Programa LIDER do SEBRAE para o Nordeste Goiano é um reflexo desse compromisso com o desenvolvimento territorial integrado. Ele atua na identificação de rotas turísticas e geográficas que podem dinamizar a economia local além da agropecuária tradicional.
-
-### **A Missão Cruls e o Turismo Histórico-Geográfico**
-
-Uma das frentes de atuação de Campos é o resgate e a estruturação do roteiro turístico da "Missão Cruls". A Missão Cruls (1892), liderada por Luiz Cruls, foi fundamental para a demarcação do local da futura capital do Brasil, e Formosa desempenhou um papel central como ponto de apoio geográfico. Jesiel tem trabalhado em diagnósticos e mapas que visam transformar essa história em um produto turístico viável, promovendo o que se denomina "patrimônio territorial".  
-A estruturação dessa rota não apenas preserva a memória histórica da interiorização do Brasil, mas cria oportunidades para o comércio local, hotéis e guias turísticos da região de Formosa e Pirenópolis. Para Campos, o turismo e a agricultura familiar são atividades complementares: o agricultor pode ser também um fornecedor de alimentos para a rede hoteleira ou um anfitrião em experiências de agroturismo, diversificando suas fontes de renda e garantindo a sucessão rural.
-
-### **Atuação no Conselho de Turismo e Planejamento**
-
-Já em 2008, Jesiel propunha a criação da "Rota das Águas e Cavernas" em Formosa, demonstrando uma percepção precoce do potencial do ecoturismo na região. Sua liderança no Conselho de Turismo foi pautada pela necessidade de ordenar o crescimento urbano e rural de forma a proteger os recursos hídricos e as formações geológicas únicas do município. Esse planejamento territorial é visto como uma camada essencial de proteção para a própria agricultura familiar, pois garante a manutenção dos serviços ecossistêmicos necessários para a produção.
-
-## **Liderança Social e Reconhecimento Cívico**
-
-A atuação de Jesiel Campos é permeada por um forte componente de engajamento social e defesa de direitos. Sua participação como membro do Conselho Municipal da Criança e Adolescente (CMDCA) de Formosa entre 2018 e 2023 evidencia sua preocupação com as futuras gerações e com a justiça social no nível local. Ele compreende que o desenvolvimento rural sustentável é a chave para evitar o êxodo rural e garantir que os jovens tenham perspectivas de vida dignas em suas comunidades de origem.  
-O reconhecimento por esses "bons e relevantes serviços prestados" ao município de Formosa culminou na concessão do Título de Cidadão Formosense em 2023\. Além da medalha Pedro Ludovico Teixeira citada anteriormente, Campos é frequentemente lembrado por sua capacidade de articular parcerias improváveis entre o setor produtivo e o terceiro setor, sempre com o foco na redução das desigualdades.  
-A trajetória de Jesiel Campos, portanto, não é apenas a história de um inventor de máquinas, mas a de um estrategista do desenvolvimento rural. Ele utiliza a tecnologia como uma alavanca para mover estruturas sociais e geográficas, provando que o Cerrado pode ser produtivo, sustentável e socialmente justo simultaneamente. Suas inovações na mecanização da agricultura familiar, seu compromisso com a economia circular e sua visão territorial integradora formam um legado que continua a transformar a realidade do campo brasileiro.
-
-## **Análise de Impacto e Perspectivas Futuras**
-
-Ao analisar o conjunto da obra de Jesiel Campos, observa-se uma tendência clara para a "democratização da inovação". Seus projetos retiram a alta tecnologia do pedestal das grandes corporações e a adaptam para as mãos do pequeno produtor. O impacto desse modelo pode ser sintetizado em quatro dimensões principais:
-
-1. **Dimensão Econômica:** Redução drástica dos custos de processamento e aumento da capacidade de agregação de valor in loco. O agricultor deixa de vender apenas matéria-prima bruta para comercializar produtos beneficiados (farinha, amêndoas processadas, biofertilizantes).  
-2. **Dimensão Ambiental:** Promoção do descarte consciente e da transformação de passivos ambientais (dejetos e resíduos de frutos) em ativos econômicos. A economia circular torna-se uma prática cotidiana e rentável.  
-3. **Dimensão Tecnológica:** Desenvolvimento de uma engenharia rural genuinamente brasileira, adaptada ao clima, à infraestrutura elétrica e às necessidades ergonômicas do trabalhador do Cerrado.  
-4. **Dimensão Territorial:** Fortalecimento da identidade regional através do turismo e da valorização das cadeias produtivas nativas, criando um senso de pertencimento e orgulho nas comunidades rurais.
-
-O futuro das iniciativas coordenadas por Jesiel Campos aponta para o escalonamento dessas tecnologias sociais. A replicação do modelo da Casa de Farinha Móvel e das despolpadeiras de baru para outros biomas, como a Caatinga e o Pantanal, representa uma fronteira promissora para a autonomia da agricultura familiar no Brasil. Através da continuidade de sua liderança no Instituto Transformar e de sua colaboração constante com órgãos de pesquisa e extensão, Jesiel Campos permanece como uma figura central na construção de um agronegócio mais humano, regenerativo e resiliente.
-
-#### **Referências citadas**
-
-1\. “Altera o Artigo 1º da Lei nº, https://sapl.formosa.go.leg.br/media/sapl/public/materialegislativa/2023/22792/projeto\_de\_decreto\_legislativo\_no\_17\_jesiel.pdf 2\. Jesiel Souza Silva \- Integra IF Goiano, https://integra.ifgoiano.edu.br/portfolio/pessoas/jesiel-souza-silva/ept 3\. Jesiel Pereira de Campos Silva | Escavador, https://www.escavador.com/sobre/840665500/jesiel-pereira-de-campos-silva 4\. MÁQUINAS PARA AGRICULTORES FAMILIARES \- Infoteca-e, https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1023306/1/EMBRAPACLIMATEMPERADOLIVROMAQUINASPARAAGRICULTORESFAMILIARES.pdf 5\. Unidades multiplicadoras de mandioca estimulam produção da raiz, https://goias.gov.br/agricultura/unidades-multiplicadoras-de-mandioca-estimulam-producao-da-raiz-em-vila-boa-go/ 6\. Máquinas de pequeno porte destinadas à agricultura familiar serão, https://www.consorcionordeste.gov.br/noticia/maquinas-de-pequeno-porte-destinadas-a-agricultura-familiar-serao-adaptadas-as-condicoes-da-regiao-nordeste 7\. região sudoeste goiano | Integra IF Goiano \- Portal da Inovação, https://integra.ifgoiano.edu.br/busca/regi%C3%A3o%20sudoeste%20goiano 8\. Emater articula parceria para instalação de máquinas de processar ..., https://goias.gov.br/emater/emater-articula-parceria-para-instalacao-de-maquinas-de-processar-castanha-de-baru-em-goias/ 9\. SOLUÇÕES APOIADAS TITULO RESPONSÁVEL TÉCNICO ..., https://fundacaogrupoboticario.org.br/wp-content/uploads/2024/11/Cerrado-Chamada-2021-Cerrado.pdf 10\. Formosense ganha destaque em todo Brasil ao idealizar e criar a, https://www.panoramadanoticia.com/formosense-ganha-destaque-em-todo-brasil-ao-idealizar-e-criar-a-casa-de-farinha-movel 11\. Casa De Farinha Móvel \- Transforma FBB, https://transforma.fbb.org.br/tecnologia-social/casa-de-farinha-movel 12\. SuMÁrIO AtOS DO CHEFE DO PODEr EXECutIVO CASA CIVIL, https://central3.to.gov.br/arquivo/300862/ 13\. Medindo a circularidade dos resíduos: caminhando para uma, https://www.scielo.br/j/asoc/a/GyVNZhmNC5mxY6PLWrwwfLp/?lang=pt\&format=pdf 14\. Universidade Federal do Sul da Bahia \- PPGCS TECNOLOGIAS DE, https://sigconteudo.ufsb.edu.br/arquivos/202520608869d11167464f48d942bf201/dissertao\_andressa\_lima.pdf 15\. POLO CERRADO CIRCULAR, https://polocerradocircular.blogspot.com/ 16\. NOVA COORDENADORA DA ROTA DA ECONOMIA CIRCULAR, https://polocerradocircular.blogspot.com/2020/12/nova-coordenadora-da-rota-da-economia.html 17\. plano brasil nordeste de transformação ecológica, https://consorcionordeste.gov.br/Plano\_Brasil\_Nordeste\_PTE\_DIGITAL.pdf?v=2025-11-10 18\. emater \- Reunião \- Portal Goiás, https://goias.gov.br/emater/categoria/evento/reuniao/ 19\. Emater Goiás inicia entregas do Semear Social e fortalece, https://goias.gov.br/emater/emater-goias-inicia-entregas-do-semear-social-e-fortalece-producao-rural-em-todo-o-estado/ 20\. SEÇÃO I \- SINJ-DF, https://www.sinj.df.gov.br/sinj/BaixarArquivoDiario.aspx?id\_file=9936eafc-47ea-3970-8b53-a3da93cba548 21\. do distrito federal \- SINJ-DF, https://www.sinj.df.gov.br/sinj/Diario/20cc72fd-6a03-3392-abe5-a52a61e407e8/dca8d602.pdf 22\. Biblioteca e suas interfaces: espaço e leitura \- Portal Gov.br, https://www.gov.br/cultura/pt-br/assuntos/sistema-nacional-de-bibliotecas-publicas-snbp/publicacoes-2/livros-e-pesquisas/BIBLIOTECASESUASINTERFACES\_20181.pdf 23\. Fernando Luiz Araújo Sobrinho \- Escavador, https://www.escavador.com/sobre/7705734/fernando-luiz-araujo-sobrinho 24\. Setur \- Tópicos, https://www.agenciabrasilia.df.gov.br/web/guest/topicos?tag=Setur\&sort=createDate-\&delta=60\&start=1 25\. Presidente Josiel Alcolumbre recebe ministro Waldez Góes na Loja, https://ap.agenciasebrae.com.br/inovacao-e-tecnologia/presidente-josiel-alcolumbre-recebe-ministro-waldez-goes-na-loja-colaborativa-de-bioeconomia-do-sebrae-na-cop30/
+---
