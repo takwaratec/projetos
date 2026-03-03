@@ -141,6 +141,10 @@ Para garantir que os documentos da **Série Técnica Plataforma Amazônia Regene
 3.  **Remoção de Âncoras de Fonte (Anchors)**: Não use âncoras de rodapé do tipo `[^1]`, `[^2]` a menos que sejam referências bibliográficas reais e formatadas manualmente na seção de referências. Remova âncoras automáticas geradas por motores de busca (como as do Perplexity).
 4.  **Citações Limpas**: Se houver necessidade de citar um arquivo do repositório, faça-o via link Markdown padrão: `[Título do Documento](01_TECNOLOGIA_TAKWARA/TAK_documento.md)`. Nunca deixe extensões soltas como "fitorremediacao.md" no final de parágrafos.
 5.  **Tom de Voz**: Mantenha um tom técnico-científico, objetivo e propositivo, alinhado aos 40 anos de trajetória do Fabio Takwara.
+6.  **Integridade de DOIs e Links**: 
+    - Nunca deixe o placeholder `XXXXXXX` em documentos destinados ao Release. 
+    - Verifique se todos os links internos (relativos) estão funcionais após qualquer movimentação de pastas.
+    - Garanta que a seção "Como citar" esteja presente nos manuais mestre, apontando para o DOI correto da coleção.
 
 
 ***

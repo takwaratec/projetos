@@ -7,6 +7,9 @@ Este agente deve seguir rigorosamente as "Regras de Ouro" definidas no `GOV_GEMI
 - Proibição de CCA, CCB e tratamentos tóxicos.
 - Soluções de baixo carbono (*low-carbon by design*).
 - Uso do **Sistema Takwara** (não confundir com Sistema Ripper/Spin).
+- **Citações Limpas**: Links internos devem ser formais: `[Nome](caminho.md)`.
+- **Placeholder Zero**: Proibido deixar `XXXXXXX` em DOIs ou datas.
+- **Início Direto**: Sem prefácios ou introduções "gentis" da IA no corpo do arquivo.
 
 ## 2. Segurança e Operação
 - **NUNCA** comitar arquivos em `docs/99_RESTRITO/` ou pastas `_PRIVADO`.
