@@ -1,10 +1,6 @@
-\<div align="left"\>
-
 ### **🎋 Plataforma Amazônia Regenerativa — Equipe Nuclear**
 
 **Perfil 01 de 03** | equipe/perfis-nucleo.md | v2.2 | março 2026
-
-\</div\>
 
 ## ---
 

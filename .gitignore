@@ -66,7 +66,14 @@ docs/history-version/
 docs/technical-support/referencias academicas/
 docs/ref-BNDES/
 
-# ── DOCUMENTOS BINÁRIOS (usar GitHub Releases) ───────────────
+# ── REGRAS DE SEGURANÇA E ACESSO RESTRITO (GEMINI v2.0) ──────
+99_RESTRITO/
+*_PRIVADO/
+*_RESTRITO/
+orcamentos/
+financeiro/
+
+# ── DOCUMENTOS BINÁRIOS E PESQUISA EM ANDAMENTO ──────────────
 *.pdf
 *.doc
 *.docx
@@ -74,5 +81,17 @@ docs/ref-BNDES/
 *.pptx
 *.xls
 *.xlsx
-EOFsite/
-docs/audio/
+*.csv
+
+# Exceções para manuais e documentos públicos oficiais
+!01_TECNOLOGIA_TAKWARA/**/*.pdf
+!00_GOVERNANCA/*.md
+!README.md
+!manual-git-zenodo.pdf
+
+# ── SISTEMA E BUILD ──────────────────────────────────────────
+site/
+.DS_Store
+.venv/
+__pycache__/
+.vscode/

@@ -1,6 +1,3 @@
-Segue um resumo compacto, já no formato de instruções para qualquer outro agente de IA continuar o trabalho com você.
-
-***
 
 ## 1. Quem é o usuário e qual é o projeto
 

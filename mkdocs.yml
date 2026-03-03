@@ -22,23 +22,25 @@ theme:
 
 nav:
   - Início: index.md
-  - Projeto:
-    - Plataforma v5.1: project-files/Plataforma-Amazonia-Regenerativa-v5.1.md
-    - Memorial Técnico Biorrefinaria: project-files/memorial-tecnico-biorrefinaria-de-bambu-v5.1.md
-    - Relatório Executivo: project-files/relatorio-executivo-v1.0.1.md
-  - Manuais:
-    - Bioeconomia do Bambu: technical-support/manuais/manual-bioeconomia-bambu.md
-    - Fitorremediação e Carbono: technical-support/manuais/manual-fitorremediacao-credito-carbono.md
-    - Operação GitHub-Zenodo: technical-support/manuais/manual-operacao-github.md
-  - Equipe:
-    - Fabio Takwara: technical-team/Fabio Takwara - Tecnologias Regenerativas.md
-    - Tânia Cruz: technical-team/Coord-geral-Taina-Cruz.md
-    - Filemon Tiago: "technical-team/Tiago Filemon_ Arquitetura Sustentável.md"
-    - Jesiel Campos: "technical-team/Jesiel Campos_ Máquinas, Resíduos, Rural.md"
-  - Referências:
-    - Briquetes Amazônicos: "technical-support/referencias academicas/outras referencias/Briquetes Amazônicos para Bioeconomia Sustentável.md"
-    - Domos Geodésicos: "technical-support/referencias academicas/outras referencias/Domos Geodésicos_ Bio-soberania Amazônica.md"
-    - Saneamento e Turismo: "technical-support/referencias academicas/outras referencias/Saneamento Ecológico e Turismo Brasileiro.md"
+  - Governança:
+    - GEMINI: 00_GOVERNANCA/GOV_GEMINI.md
+    - Autoria: 00_GOVERNANCA/GOV_AUTORIA.md
+    - Compartilhamento de Dados: 00_GOVERNANCA/GOV_ota-tecnica-compartilhamento-de-dados.md
+  - Tecnologia Takwara:
+    - Plataforma v5.1: 01_TECNOLOGIA_TAKWARA/TAK_Plataforma-Amazonia-Regenerativa-v5.1.md
+    - Memorial Biorrefinaria: 01_TECNOLOGIA_TAKWARA/TAK_memorial-tecnico-biorrefinaria-de-bambu-v5.1.md
+    - Relatório Executivo: 01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1.md
+    - Bioeconomia do Bambu: 01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md
+    - Fitorremediação e Carbono: 01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md
+  - Pesquisa e Desenvolvimento:
+    - Briquetes Amazônicos: 02_PESQUISA_DESENVOLVIMENTO/outras referencias/Briquetes Amazônicos para Bioeconomia Sustentável.md
+    - Domos Geodésicos: 02_PESQUISA_DESENVOLVIMENTO/outras referencias/Domos Geodésicos_ Bio-soberania Amazônica.md
+    - Saneamento e Turismo: 02_PESQUISA_DESENVOLVIMENTO/outras referencias/Saneamento Ecológico e Turismo Brasileiro.md
+  - Gestão Operacional:
+    - Operação GitHub-Zenodo: 04_GESTAO_OPERACIONAL/OPS_manual-operacao-github.md
+    - Equipe:
+      - Fabio Takwara: 04_GESTAO_OPERACIONAL/Fabio Takwara - Tecnologias Regenerativas.md
+      - Tânia Cruz: 04_GESTAO_OPERACIONAL/Coord-geral-Taina-Cruz.md
 
 extra:
   social:
