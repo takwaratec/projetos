@@ -29,22 +29,28 @@ nav:
     - Matriz de Correlação: 00_GOVERNANCA/GOV_MATRIZ_CORRELACAO.md
     - Nota Técnica Compartilhamento: 00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados.md
   - Tecnologia Takwara:
-    - Plataforma v5.1: 01_TECNOLOGIA_TAKWARA/TAK_Plataforma-Amazonia-Regenerativa-v5.1.md
-    - Memorial Biorrefinaria: 01_TECNOLOGIA_TAKWARA/TAK_memorial-tecnico-biorrefinaria-de-bambu-v5.1.md
-    - Relatório Executivo: 01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1.md
+    - Plataforma v5.1: 06_ANAIS_MEMORIA/TAK_plataforma-v5.1.md
+    - Memorial Biorrefinaria: 02_PESQUISA_DESENVOLVIMENTO/memorial-tecnico-biorrefinaria.md
     - Bioeconomia do Bambu: 01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md
     - Fitorremediação e Carbono: 01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md
     - Solda Vegetal: 01_TECNOLOGIA_TAKWARA/TAK_pu-vegetal-solda.md
     - Sistemas Geodésicos: 01_TECNOLOGIA_TAKWARA/TAK_geodesicas-sistemas.md
   - P&D e Advocacia:
     - Dossiê COP30: 05_ADVOCACY_COP30/COM_dossie-cop30.md
+    - Artigos Críticos: 05_ADVOCACY_COP30/OPS_artigos-criticos.md
     - Domos Geodésicos: 02_PESQUISA_DESENVOLVIMENTO/PES_Domos-Geodesicos.md
     - Briquetes Amazônicos: 02_PESQUISA_DESENVOLVIMENTO/PES_Briquetes-Amazonicos.md
   - Gestão Operacional:
     - Operação GitHub-Zenodo: 04_GESTAO_OPERACIONAL/OPS_manual-operacao-github.md
+    - Relatório Operacional: 06_ANAIS_MEMORIA/OPS_relatorio-executivo-inovacoes.md
     - Equipe:
-      - Fabio Takwara: 04_GESTAO_OPERACIONAL/Fabio Takwara - Tecnologias Regenerativas.md
-      - Tânia Cruz: 04_GESTAO_OPERACIONAL/Coord-geral-Taina-Cruz.md
+      - Fabio Takwara: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara.md
+      - Tânia Cruz: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz.md
+      - Jesiel Campos: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-jesiel-campos.md
+      - Tiago Filemon: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-tiago-filemon.md
+  - Anais e Memória:
+    - Relatórios Históricos: 06_ANAIS_MEMORIA/TAK_relatorios-historicos.md
+    - Resumo Financeiro: 06_ANAIS_MEMORIA/OPS_resumo-financeiro.md
 
 extra:
   social:
