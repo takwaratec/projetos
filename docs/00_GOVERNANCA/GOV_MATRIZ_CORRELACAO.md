@@ -6,13 +6,13 @@ Este documento mapeia os arquivos compartilhados no Google Drive (Núcleo Takwar
 
 | Nome no GDocs (Núcleo Takwara) | Localização no GitHub (Docs) | Responsável / Status |
 | :--- | :--- | :--- |
-| **RESUMO FINANCEIRO** | [`06_Anais_e_Memoria/resumo-financeiro.md`](../06_Anais_e_Memoria/resumo-financeiro.md) | Sincronizado |
-| **Relatório Executivo: Inovações** | [`06_Anais_e_Memoria/Relatorio-Executivo-Inovacoes.md`](../06_Anais_e_Memoria/Relatorio-Executivo-Inovacoes.md) | Sincronizado |
-| **Plataforma Amazônia Regenerativa v5.1** | [`06_Anais_e_Memoria/Plataforma-Amazonia-Regenerativa-v5.1.md`](../06_Anais_e_Memoria/Plataforma-Amazonia-Regenerativa-v5.1.md) | Mestre v5.1 |
-| **ORÇAMENTO DETALHADO** | [`99_Documentos_Suporte/orcamento-detalhado.md`](../99_Documentos_Suporte/orcamento-detalhado.md) | Sincronizado |
-| **MEMORIAL TÉCNICO: PIROLISE...** | [`03_Biorrefinaria_Fase2/memorial-tecnico-biorrefinaria.md`](../03_Biorrefinaria_Fase2/memorial-tecnico-biorrefinaria.md) | Sincronizado |
-| **Manual - FITORREMEDIAÇÃO...** | [`04_HIS_e_Impacto/carbono-e-fito.md`](../04_HIS_e_Impacto/carbono-e-fito.md) | Placeholder |
-| **CARTILHA DE BIOECONOMIA...** | [`05_Advocacy_e_COP30/cartilha-bioeconomia.md`](../05_Advocacy_e_COP30/cartilha-bioeconomia.md) | Aguardando Sync |
+| **RESUMO FINANCEIRO** | [`99_RESTRITO/OPS_resumo-financeiro.md`](../99_RESTRITO/OPS_resumo-financeiro.md) | Sincronizado |
+| **Relatório Executivo: Inovações** | [`01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1.md`](../01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1.md) | Sincronizado |
+| **Plataforma Amazônia Regenerativa v5.1** | [`06_ANAIS_MEMORIA/TAK_plataforma-v5.1.md`](../06_ANAIS_MEMORIA/TAK_plataforma-v5.1.md) | Mestre v5.1 |
+| **ORÇAMENTO DETALHADO** | [`99_RESTRITO/OPS_orcamento-detalhado.md`](../99_RESTRITO/OPS_orcamento-detalhado.md) | Sincronizado |
+| **MEMORIAL TÉCNICO: PIROLISE...** | [`02_PESQUISA_DESENVOLVIMENTO/memorial-tecnico-biorrefinaria.md`](../02_PESQUISA_DESENVOLVIMENTO/memorial-tecnico-biorrefinaria.md) | Sincronizado |
+| **Manual - FITORREMEDIAÇÃO...** | [`01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md`](../01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md) | Placeholder |
+| **CARTILHA DE BIOECONOMIA...** | [`01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md`](../01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md) | Aguardando Sync |
 
 ---
 

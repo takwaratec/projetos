@@ -59,7 +59,6 @@ docs/images/originais/
 *.bak
 *.orig
 
-cat >> .gitignore << 'EOF'
 
 # ── PASTAS DE REFERÊNCIA E HISTÓRICO (não publicar) ──────────
 docs/history-version/
