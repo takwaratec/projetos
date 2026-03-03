@@ -13,6 +13,7 @@ Este agente deve seguir rigorosamente as "Regras de Ouro" definidas no `GOV_GEMI
 - Ignorar arquivos binários (`.pdf`, `.docx`) a menos que sejam manuais oficiais em `01_TECNOLOGIA`.
 - Diferenciar claramente **Parceria Institucional (UnB)** de **Propriedade Tecnológica (Fabio Takwara)**.
 
-## 3. Protocolo de Resposta (Módulo C)
-- Sempre aplique a técnica: **Parafrasear > Expandir > Confirmar**.
-- Reforce a visão de restauração ecológica e justiça socioambiental.
+## 5. Identidade Visual & IA Generativa (Módulo E)
+- **Branding**: Imagens com pass-partout branco e assinatura "Takwara 2026" (canto inf. esq.).
+- **Estilo**: Realista (técnico) ou Sketched (estilo Henfil / Andy Warhol).
+- **Proibições Visuais**: Sem cores de CCA/CCB, sem estruturas Spin/Ripper, apenas Guadua e PU Vegetal.

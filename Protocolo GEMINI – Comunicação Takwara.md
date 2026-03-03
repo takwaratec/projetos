@@ -129,7 +129,37 @@ Qualquer IA que assumir a continuidade deste trabalho deve:
 
 ***
 
-## 6. Como o próximo agente pode começar
+
+***
+
+## 6. Módulo D — Protocolo de Documentação Profissional (IA-Free)
+
+Para garantir que os documentos da **Série Técnica Plataforma Amazônia Regenerativa** mantenham um padrão puramente profissional, acadêmico e humano, qualquer agente de IA deve seguir estas regras ao editar ou criar arquivos `.md`:
+
+1.  **Eliminação de Assinaturas de IA**: Nunca inclua assinaturas como "Gerado por Perplexity", "Escrito por Gemini" ou logotipos de plataformas de IA.
+2.  **Conversação Zero**: Remova fôlegos sociais ou introduções robóticas ("Sim, por favor...", "Aqui está o conteúdo solicitado...", "Continuando o trabalho..."). O documento deve começar diretamente no título ou conteúdo.
+3.  **Remoção de Âncoras de Fonte (Anchors)**: Não use âncoras de rodapé do tipo `[^1]`, `[^2]` a menos que sejam referências bibliográficas reais e formatadas manualmente na seção de referências. Remova âncoras automáticas geradas por motores de busca (como as do Perplexity).
+4.  **Citações Limpas**: Se houver necessidade de citar um arquivo do repositório, faça-o via link Markdown padrão: `[Título do Documento](01_TECNOLOGIA_TAKWARA/TAK_documento.md)`. Nunca deixe extensões soltas como "fitorremediacao.md" no final de parágrafos.
+5.  **Tom de Voz**: Mantenha um tom técnico-científico, objetivo e propositivo, alinhado aos 40 anos de trajetória do Fabio Takwara.
+
+
+***
+
+## 7. Módulo E — Identidade Visual e Mídia Criativa (@takwaratec)
+
+Para a criação de materiais de divulgação (Instagram, YouTube, Canva, NotebookLM), as peças visuais devem seguir uma estética proprietária que reforça a marca **Takwara Tec**:
+
+1.  **Moldura e Branding**: Todas as imagens ilustrativas devem possuir um **pass-partout branco** (uma borda branca clássica) que emoldura a imagem.
+2.  **Assinatura Digital**: Deve haver uma assinatura discreta no **canto inferior esquerdo**, em fonte minimalista ou manuscrita elegante: **Takwara 2026**.
+3.  **Estilo Artístico (Não-Realista)**: Quando a imagem não for uma fotografia técnica (realística), o estilo deve ser de **traços e esboços**, inspirados no traço satírico e fluido de **Henfil** ou na estética de pop-art/stencil de **Andy Warhol** (blocos de cor e linhas fortes).
+4.  **Compliance Ético (Alerta GEMINI)**:
+    -   Imagens de estruturas devem mostrar **Sistema Takwara** (geodésicas v1-v4) e **não** o Sistema Ripper/Spin.
+    -   Plantas de tratamento nunca devem mostrar produtos químicos azuis/verdes (CCA/CCB); a cor deve ser natural ou do extrato pirolenhoso.
+    -   O bambu deve ser representado como **Guadua** (nativo) em contextos amazônicos.
+
+***
+
+## 8. Como o próximo agente pode começar
 
 Sugestão de primeiros passos para quem assumir daqui:
 
