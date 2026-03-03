@@ -226,7 +226,7 @@ DEGRAU 0 ─── Bambu bruto colhido + Broto de bambu comestível
 ```
 Na prática dos editais, trate **sempre** compósitos Bambu+PU, telhas e Tiny Houses como metas de **Fase 2 e Fase 3**. Na Fase 1, o foco é provar o Módulo Base: bambu tratado sem veneno, briquetes, biochar e, no máximo, peças simples como o cabo de enxada.
 
-**O cabo de enxada é o "Cavalo de Troia" da cadeia:** ele custa RR$ 15 para produzir, vende por RR$ 35–50, dura 5 anos contra 8 meses do cabo de madeira, suporta mais de 120 kg (o dobro do convencional) e prova, na mão de qualquer agricultor cético, que a tecnologia funciona antes de ele investir em algo maior.
+**O cabo de enxada é o "Cavalo de Troia" da cadeia:** ele custa RR$ 15 para produzir, vende por RR$ 35–50, dura 5 anos contra 8 meses do cabo de madeira, suporta mais de 120 kg (o dobro do convencional) e prova, na mão de qualquer agricultor cético, que a tecnologia funciona antes de ele investir em algo maior. O cabo de enxada Takwara só funciona como prova de conceito porque o tratamento é controlado em vapor, sem queimar fibra por dentro.
 
 Quando esta cartilha fala em **bambu tratado “Sem Veneno”**, está se referindo à Tecnologia Takwara aplicada sobre o bambu que você já tem: primeiro, secagem controlada em estufa (preferencialmente em domos-estufa geodésicos); depois, tratamento térmico com vapor saturado enriquecido com cerca de 20% de extrato pirolenhoso (EP) produzido pelo próprio bambu; por fim, proteção com polímero vegetal (PU de mamona) nas conexões e pontos de maior esforço. Isso substitui, na prática, os tratamentos convencionais à base de CCA/CCB/boro sem controle.
 
@@ -236,7 +236,9 @@ Em muitas regiões, o bambu P. aurea é tradicionalmente “tostado” com maça
 
 Mas o maçarico concentra muito calor em pontos localizados. Na parede do colmo, a temperatura interna pode passar da faixa segura para as fibras, gerando microdanos invisíveis que só aparecem mais tarde, na forma de trincas ou quebras inesperadas. Por isso, nesta cartilha nós não recomendamos o uso de maçarico em elementos estruturais (tesouras, vigas, montantes, barras de domo) nem em cabos de ferramentas agrícolas que trabalham em tração contínua, como enxadas, foices e pás.
 
-Para esses usos que exigem resistência máxima, o caminho seguro são os tratamentos térmicos controlados – vapor saturado enriquecido com extrato pirolenhoso e protocolos em conformidade com a NBR 16828 e com o Memorial Técnico da Biorrefinaria de Bambu. Já para artesanato, varas de pesca e peças pequenas de movelaria, o maçarico continua sendo um tratamento natural e tradicionalmente utilizado, desde que o uso final não dependa da capacidade estrutural máxima do colmo.
+Para esses usos que exigem resistência máxima, o caminho seguro são os tratamentos térmicos controlados – vapor saturado enriquecido com extrato pirolenhoso e protocolos em conformidade com as normas brasileiras para estruturas de bambu (NBR 16828) e com o Memorial Técnico da Biorrefinaria de Bambu. Já para artesanato, varas de pesca e peças pequenas de movelaria, o maçarico continua sendo um tratamento natural e tradicionalmente utilizado, desde que o uso final não dependa da capacidade estrutural máxima do colmo.
+
+Do mesmo jeito que evitamos o uso de boro e CCA sem controle, também evitamos tratamentos térmicos descontrolados quando a peça vai segurar peso ou proteger vidas.
 
 ---
 
@@ -985,10 +987,10 @@ TAKWARA, Fabio Resck. *Estufas Geodésicas e Estruturas Emergenciais em Bambu: S
 ## Como citar esta cartilha
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa — Um Guia Prático para Qualquer Pessoa, em Qualquer Bioma*. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.XXXXXXX. Acesso em: 01 mar. 2026.
+TAKWARA, Fabio Resck. *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa — Um Guia Prático para Qualquer Pessoa, em Qualquer Bioma* v1.1. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/10.5281/zenodo.18843828.
 
 **APA:**
-Takwara, F. R. (2026). *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.XXXXXXX
+Takwara, F. R. (2026). *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa* (Version 1.1). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/10.5281/zenodo.18843828
 
 **Faz parte de:**
 Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867
