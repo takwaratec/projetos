@@ -494,10 +494,10 @@ Brotos jovens de bambu contêm a **taxifilina**, um glicosídeo cianogênico que
 ## Como citar este documento
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono: O Bambu como Engenheiro Ecológico — Do Solo Contaminado ao Crédito Certificado*. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.XXXXXXX. Acesso em: 01 mar. 2026.
+TAKWARA, Fabio Resck. *Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono: O Bambu como Engenheiro Ecológico — Do Solo Contaminado ao Crédito Certificado*. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827891. Acesso em: 01 mar. 2026.
 
 **APA:**
-Takwara, F. R. (2026). *Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.XXXXXXX
+Takwara, F. R. (2026). *Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827891
 
 **Faz parte de:**
 Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867

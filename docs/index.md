@@ -13,7 +13,7 @@
 Este índice organiza o conhecimento técnico e ético da Plataforma, garantindo rastreabilidade e integridade para o Zenodo.
 
 ### 00. Governança e Diretrizes
-- [**GEMINI.md**](../GEMINI.md) — Regras de Ouro (Bambu, PU Vegetal, Sem Veneno).
+- [**GEMINI.md**](00_GOVERNANCA/GOV_GEMINI.md) — Regras de Ouro (Bambu, PU Vegetal, Sem Veneno).
 - [**AUTORIA.md**](00_GOVERNANCA/GOV_AUTORIA.md) — Declaração de Propriedade Intelectual.
 - [**MATRIZ_CORRELACAO.md**](00_GOVERNANCA/GOV_MATRIZ_CORRELACAO.md) — Guia de Sincronia GDocs ↔ GitHub.
 - [**Nota Técnica: Compartilhamento**](00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados.md) — Diretrizes de acesso a dados.

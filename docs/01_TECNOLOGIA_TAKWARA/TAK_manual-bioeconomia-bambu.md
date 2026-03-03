@@ -930,10 +930,10 @@ Esta seção é para quem não tem formação técnica específica mas quer part
 ## Como citar esta cartilha
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa — Um Guia Prático para Qualquer Pessoa, em Qualquer Bioma*. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.XXXXXXX. Acesso em: 01 mar. 2026.
+TAKWARA, Fabio Resck. *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa — Um Guia Prático para Qualquer Pessoa, em Qualquer Bioma*. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827513. Acesso em: 01 mar. 2026.
 
 **APA:**
-Takwara, F. R. (2026). *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.XXXXXXX
+Takwara, F. R. (2026). *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827513
 
 **Faz parte de:**
 Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867

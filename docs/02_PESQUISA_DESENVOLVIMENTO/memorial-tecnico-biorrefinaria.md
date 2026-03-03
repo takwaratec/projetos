@@ -5,9 +5,9 @@
 **Série:** Plataforma Amazônia Regenerativa — Documentação Técnica de Engenharia
 **Versão:** 5.1 | **Data:** 1 de março de 2026
 **Tecnologia:** Takwara | **Autor:** Fabio Takwara
-**Licença:** CC BY 4.0 | DOI: [10.5281/zenodo.17225867](https://doi.org/10.5281/zenodo.17225867)
+**Licença:** CC BY 4.0 | DOI: [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)
 
-[![DOI](https://zenodo.org/badge/993477628.svg)](https://doi.org/10.5281/zenodo.17225867)
+[![DOI](https://zenodo.org/badge/993477628.svg)](https://doi.org/10.5281/zenodo.18826841)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-Pesquisa%20Ativa-green)
 
@@ -296,7 +296,7 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 
 
 **🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
-**DOI: [10.5281/zenodo.17225867](https://doi.org/10.5281/zenodo.17225867)**
+**DOI: [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)**
 
 *Plataforma Amazônia Regenerativa — Documento técnico oficial.*
 *Licença CC BY 4.0.*
