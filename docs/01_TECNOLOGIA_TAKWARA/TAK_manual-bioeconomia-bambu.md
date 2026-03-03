@@ -77,7 +77,7 @@ Você não precisa ler tudo de uma vez. Cada seção termina com **"Próximo pas
 
 ### O bambu "problema" que é na verdade um ativo
 
-Em todo o Brasil, o bambu cresce onde ninguém pediu — e custa caro quando ignorado. Na Região Metropolitana de Campinas (RMC), mais de **12.000 hectares** de *Phyllostachys aurea* (bambu-dourado, cana-da-índia) consomem RR$ 180 milhões por ano em manejo ou prejuízo por inação. No Acre, 4,5 a 7 milhões de hectares de *Guadua* nativa aguardam uma cadeia produtiva que transforme passivo florestal em soberania econômica. Em fragmentos urbanos de Curitiba, São Paulo e Taubaté, *Phyllostachys aurea* é classificada como espécie exótica invasora Categoria I — proibida de plantar, mas já instalada e crescendo.[^1][^2][^3]
+Em todo o Brasil, o bambu cresce onde ninguém pediu — e custa caro quando ignorado. Na Região Metropolitana de Campinas (RMC), mais de **12.000 hectares** de *Phyllostachys aurea* (bambu-dourado, cana-da-índia) consomem RR$ 180 milhões por ano em manejo ou prejuízo por inação. No Acre, 4,5 a 7 milhões de hectares de *Guadua* nativa aguardam uma cadeia produtiva que transforme passivo florestal em soberania econômica. Em fragmentos urbanos de Curitiba, São Paulo e Taubaté, *Phyllostachys aurea* é classificada como espécie exótica invasora Categoria I — proibida de plantar, mas já instalada e crescendo.
 
 **O paradoxo é o ponto de partida:** o mesmo bambu que é um problema ecológico e um custo para quem o tem, é a matéria-prima de uma cadeia industrial de baixo carbono que inclui briquetes, biochar, compósitos, habitação social, estufas geodésicas, créditos de carbono e metanol verde.
 
@@ -194,7 +194,7 @@ Interesse em participar da cooperativa? [ ] Sim [ ] Não [ ] Talvez
 
 ## 2. O que fazer com o que você tem: a escada de valor
 
-A Tecnologia Takwara foi concebida para ser uma **escada de valor** — você começa no degrau acessível à sua realidade e sobe conforme acumula capital, conhecimento e organização coletiva.[^4][^2]
+A Tecnologia Takwara foi concebida para ser uma **escada de valor** — você começa no degrau acessível à sua realidade e sobe conforme acumula capital, conhecimento e organização coletiva.
 
 ```
 DEGRAU 5 ─── Tiny Houses, estufas geodésicas, HIS, estruturas
@@ -216,7 +216,7 @@ DEGRAU 0 ─── Bambu bruto colhido + Broto de bambu comestível
              ──────────────────────────────────── R$ 0,50–2,00/colmo + R$ 8–15/kg broto
 ```
 
-**O cabo de enxada é o "Cavalo de Troia" da cadeia:** ele custa RR$ 15 para produzir, vende por RR$ 35–50, dura 5 anos contra 8 meses do cabo de madeira, suporta mais de 120 kg (o dobro do convencional) e prova, na mão de qualquer agricultor cético, que a tecnologia funciona antes de ele investir em algo maior.[^2][^4]
+**O cabo de enxada é o "Cavalo de Troia" da cadeia:** ele custa RR$ 15 para produzir, vende por RR$ 35–50, dura 5 anos contra 8 meses do cabo de madeira, suporta mais de 120 kg (o dobro do convencional) e prova, na mão de qualquer agricultor cético, que a tecnologia funciona antes de ele investir em algo maior.
 
 
 ---
@@ -372,7 +372,7 @@ A inovação do LILD/PUC-Rio que torna tudo isso possível em comunidades sem re
 
 ## 4. Por que cooperativa? A lógica da governança coletiva
 
-Hoje, em toda a RMC e em dezenas de municípios brasileiros, existe uma **rede informal de manejadores e produtores** que já cultivam, colhem e comercializam bambu — muitas vezes com tratamentos químicos tóxicos (CCA, boro sem controle), vendendo para múltiplos compradores sem rastreabilidade, sem poder de barganha e sem acesso a crédito.[^4]
+Hoje, em toda a RMC e em dezenas de municípios brasileiros, existe uma **rede informal de manejadores e produtores** que já cultivam, colhem e comercializam bambu — muitas vezes com tratamentos químicos tóxicos (CCA, boro sem controle), vendendo para múltiplos compradores sem rastreabilidade, sem poder de barganha e sem acesso a crédito.
 
 Uma cooperativa não substitui essa rede. Ela a **qualifica e otimiza**: oferece tratamento ecológico centralizado, rastreabilidade completa do colmo, acesso a mercados regionais já existentes, e a capacidade de acessar editais de financiamento que são inacessíveis a produtores individuais.
 
@@ -383,7 +383,7 @@ Uma cooperativa não substitui essa rede. Ela a **qualifica e otimiza**: oferece
 > - **Mercados municipais e lojas de insumos agrícolas locais**: o cabo de enxada e o bambu tratado chegam diretamente ao agricultor sem intermediários
 > - **CEAFLOR** (Holambra): polo de flores e plantas com grande movimentação — relevante para cooperativas de SP interior com produtos ornamentais e mudas de bambu comestível, mas **restrito e altamente competitivo**; não deve ser tratado como único destino nem como pré-requisito para viabilidade
 
-[^2]
+
 
 **Estrutura jurídica recomendada — três opções, por ordem de complexidade:**
 
@@ -396,7 +396,7 @@ Uma cooperativa não substitui essa rede. Ela a **qualifica e otimiza**: oferece
 
 ### A Cooperativa integrada à Plataforma: modelo de governança híbrida
 
-A Plataforma Amazônia Regenerativa definiu um modelo de **gestão sombra** que é replicável em qualquer polo regional:[^3]
+A Plataforma Amazônia Regenerativa definiu um modelo de **gestão sombra** que é replicável em qualquer polo regional:
 
 ```
 ASSEMBLEIA GERAL DE COOPERADOS
@@ -415,7 +415,7 @@ UNIDADES DE NEGÓCIO:
   └─ Comercialização (mercado local + CEAGESP/CEASAs + feiras + exportação)
 ```
 
-**Por que mulheres na liderança do conselho?** Não é apenas equidade — é estratégia de acesso a financiamento. O BNDES, o Fundo Amazônia e o Fundo Clima exigem ou valorizam fortemente a participação feminina em posições de decisão como critério de adicionalidade social. Projetos com cooperativas de mulheres na liderança têm **taxa de aprovação 40% maior** em editais de bioeconomia.[^3]
+**Por que mulheres na liderança do conselho?** Não é apenas equidade — é estratégia de acesso a financiamento. O BNDES, o Fundo Amazônia e o Fundo Clima exigem ou valorizam fortemente a participação feminina em posições de decisão como critério de adicionalidade social. Projetos com cooperativas de mulheres na liderança têm **taxa de aprovação 40% maior** em editais de bioeconomia.
 
 
 ---
@@ -555,7 +555,7 @@ Os abaixo assinados, representantes de [NOME DAS INSTITUIÇÕES], manifestam for
 
 ### ETAPA 3 — Primeiro produto e primeiros recursos (Meses 5–8)
 
-**Antes de qualquer edital, faça o cabo de enxada.** Não porque é o produto mais lucrativo — mas porque é a prova de conceito que convence o agricultor mais cético, o vereador mais desconfiado e o técnico do BNDES mais criterioso. Um cabo que dura 5 anos e suporta 120 kg é um argumento irrefutável.[^2]
+**Antes de qualquer edital, faça o cabo de enxada.** Não porque é o produto mais lucrativo — mas porque é a prova de conceito que convence o agricultor mais cético, o vereador mais desconfiado e o técnico do BNDES mais criterioso. Um cabo que dura 5 anos e suporta 120 kg é um argumento irrefutável.
 
 **Kit básico para produção do cabo de enxada Takwara:**
 
@@ -579,7 +579,7 @@ Os abaixo assinados, representantes de [NOME DAS INSTITUIÇÕES], manifestam for
 
 ## 6. Governança Faseada: o modelo da Plataforma aplicado localmente
 
-A Plataforma Amazônia Regenerativa definiu um modelo de faseamento que é **replicável em qualquer escala** — de um município do interior de São Paulo a um território amazônico. Veja como ele se aplica ao seu polo local:[^3]
+A Plataforma Amazônia Regenerativa definiu um modelo de faseamento que é **replicável em qualquer escala** — de um município do interior de São Paulo a um território amazônico. Veja como ele se aplica ao seu polo local:
 
 
 | Fase | Período | Foco | Produto âncora | Governança |
@@ -740,7 +740,7 @@ Todo edital de bioeconomia pede basicamente as mesmas informações — só muda
 
 ## 9. A Rede Nacional: Holambra e a Amazônia como Polos Complementares
 
-O Brasil tem duas grandes "massas de bambu" com lógicas distintas e complementares — e a Plataforma Amazônia Regenerativa propõe que elas se articulem como **polos de uma rede nacional de biorrefinarias**:[^4][^3]
+O Brasil tem duas grandes "massas de bambu" com lógicas distintas e complementares — e a Plataforma Amazônia Regenerativa propõe que elas se articulem como **polos de uma rede nacional de biorrefinarias**:
 
 ```
 POLO MATA ATLÂNTICA — Interior e Litoral (SP · RJ · MG · PR · SC · RS)
@@ -923,19 +923,6 @@ Esta seção é para quem não tem formação técnica específica mas quer part
 **🌿 Plataforma Amazônia Regenerativa — Aplicabilidade Nacional**
 **📍 Mata Atlântica · Amazônia · Brasil — de ponta a ponta**
 **🌐 Licença CC BY 4.0 — Copie, distribua e adapte. Cite a fonte.**
-
-
-
-[^1]: SILVA, J. et al. *Inventário de Biomassa de Bambu na Região Metropolitana de Campinas (RMC)*. Campinas: UNICAMP / Plataforma Amazônia Regenerativa, 2025. (Relatório técnico interno). Disponível em: repositório GitHub da Plataforma Amazônia Regenerativa.
-
-[^2]: TAKWARA, Fabio Resck. *Projeto Holambra Bambu: Hub Regional de Bioeconomia Circular e Inovação Tecnológica*. Holambra: Núcleo Takwara / Cooperativa Agropecuária Holambra, 2025. (Proposta técnica).
-
-[^3]: TAKWARA, Fabio Resck. *Plataforma Amazônia Regenerativa v5.1: Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono*. Brasília: Núcleo Takwara / UnB, 2026. DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106).
-
-[^4]: TAKWARA, Fabio Resck. *Cooperativas de Manejo de Bambu: Modelos Jurídicos e Governança para a Bioeconomia Comunitária*. Brasília: Núcleo Takwara / UnB, 2025. (Documento técnico de apoio).
-
-[^5]: TAKWARA, Fabio Resck. *Estufas Geodésicas e Estruturas Emergenciais em Bambu: Sólidos Platônicos Aplicados à Bioeconomia*. Brasília: Núcleo Takwara / UnB, 2025. (Documento técnico de apoio).
-
 
 
 ---

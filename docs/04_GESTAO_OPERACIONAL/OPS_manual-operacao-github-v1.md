@@ -1078,6 +1078,6 @@ Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Cole
 
 ---
 
-*[^1]: TAKWARA, Fabio Resck. Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa. Brasília: Núcleo Takwara / UnB, 2026. DOI: [10.5281/zenodo.18827513](https://doi.org/10.5281/zenodo.18827513).*
+*: TAKWARA, Fabio Resck. Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa. Brasília: Núcleo Takwara / UnB, 2026. DOI: [10.5281/zenodo.18827513](https://doi.org/10.5281/zenodo.18827513).*
 
-*[^2]: TAKWARA, Fabio Resck. Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono. Brasília: Núcleo Takwara / UnB, 2026. DOI: [10.5281/zenodo.18827891](https://doi.org/10.5281/zenodo.18827891).*
+*: TAKWARA, Fabio Resck. Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono. Brasília: Núcleo Takwara / UnB, 2026. DOI: [10.5281/zenodo.18827891](https://doi.org/10.5281/zenodo.18827891).*

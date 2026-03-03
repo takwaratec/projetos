@@ -21,15 +21,15 @@
 
 ### Modularidade *Plug and Play*
 
-O cenário global de transição energética posiciona o bambu como matéria-prima estratégica para a nova bioeconomia. Este memorial descreve uma **Micro-biorrefinaria Modular** que integra pirólise lenta, secagem por cascateamento térmico, produção de biochar certificável e combustíveis híbridos de segunda geração.[^1]
+O cenário global de transição energética posiciona o bambu como matéria-prima estratégica para a nova bioeconomia. Este memorial descreve uma **Micro-biorrefinaria Modular** que integra pirólise lenta, secagem por cascateamento térmico, produção de biochar certificável e combustíveis híbridos de segunda geração.
 
 Para garantir viabilidade financeira e mitigar o risco tecnológico na transição do TRL-4 (escala laboratorial) para o TRL-7 (ambiente operacional), a captação de recursos e a implementação física foram estruturadas em **duas camadas de investimento**:
 
 **Camada 1 — Módulo Base de Alta Certeza (Anos 1 e 2)**
-Foco exclusivo na implantação da infraestrutura termodinâmica sólida e normatizada (NR-13). As receitas operacionais derivam diretamente da venda de biochar certificado, créditos de carbono (VERRA VM0044) e materiais para construção civil tratados com extrato pirolenhoso.[^1]
+Foco exclusivo na implantação da infraestrutura termodinâmica sólida e normatizada (NR-13). As receitas operacionais derivam diretamente da venda de biochar certificado, créditos de carbono (VERRA VM0044) e materiais para construção civil tratados com extrato pirolenhoso.
 
 **Camada 2 — Módulo de Upside Químico (Ano 3 em diante)**
-Expansão *plug and play* para produção de Etanol de 2ª Geração (E2G) e Metanol Sintético via Captura e Utilização de Carbono (CCU). Estes módulos experimentais aproveitarão o calor residual e o CO₂ biogênico do Módulo Base sem comprometer a estabilidade operacional do sistema termoquímico principal.[^1]
+Expansão *plug and play* para produção de Etanol de 2ª Geração (E2G) e Metanol Sintético via Captura e Utilização de Carbono (CCU). Estes módulos experimentais aproveitarão o calor residual e o CO₂ biogênico do Módulo Base sem comprometer a estabilidade operacional do sistema termoquímico principal.
 
 ---
 
@@ -37,13 +37,13 @@ Expansão *plug and play* para produção de Etanol de 2ª Geração (E2G) e Met
 
 ### Eixo I — Caracterização da Biomassa e Propriedades
 
-O Brasil é o maior repositório de diversidade de bambus nas Américas. O projeto utiliza dados de rendimento específicos do território nacional:[^1][^2][^3]
+O Brasil é o maior repositório de diversidade de bambus nas Américas. O projeto utiliza dados de rendimento específicos do território nacional:
 
 **Guadua spp. (Amazônia / Acre)**
-O Sudoeste Amazônico abriga a maior floresta nativa de bambu do mundo. Somente no Acre, estimam-se 4,5 a 7 milhões de hectares dominados por *Guadua weberbaueri* (taboca) e *Guadua sarcocarpa*, somando um volume estimado em 21,8 bilhões de hastes.[^2][^3] Apesar de o *G. angustifolia* apresentar melhores índices estruturais para construção civil, a vasta dominância do *G. weberbaueri* no território acreano o posiciona como principal matéria-prima de volume para conversão química em biochar, bioplásticos e pirólise.[^2][^3]
+O Sudoeste Amazônico abriga a maior floresta nativa de bambu do mundo. Somente no Acre, estimam-se 4,5 a 7 milhões de hectares dominados por *Guadua weberbaueri* (taboca) e *Guadua sarcocarpa*, somando um volume estimado em 21,8 bilhões de hastes. Apesar de o *G. angustifolia* apresentar melhores índices estruturais para construção civil, a vasta dominância do *G. weberbaueri* no território acreano o posiciona como principal matéria-prima de volume para conversão química em biochar, bioplásticos e pirólise.
 
 **Phyllostachys aurea e P. nigra (Sul e Sudeste)**
-Espécies de crescimento rápido (27,2 t/ha.ano), com excelente rendimento gravimétrico para extrato pirolenhoso e elevada qualidade energética para produção de carvão vegetal.[^1]
+Espécies de crescimento rápido (27,2 t/ha.ano), com excelente rendimento gravimétrico para extrato pirolenhoso e elevada qualidade energética para produção de carvão vegetal.
 
 ---
 
@@ -51,10 +51,10 @@ Espécies de crescimento rápido (27,2 t/ha.ano), com excelente rendimento gravi
 
 #### O Papel do Extrato Pirolenhoso
 
-O sistema opera em regime de temperatura final entre 300 °C e 600 °C. O rendimento médio de biochar situa-se na faixa de 28% a 32% da massa seca, enquanto o extrato pirolenhoso (EP) bruto varia de 40% a 45%. O rigoroso controle térmico garante a ausência de Hidrocarbonetos Aromáticos Policíclicos (HPAs) tóxicos na fração condensada coletada.[^1]
+O sistema opera em regime de temperatura final entre 300 °C e 600 °C. O rendimento médio de biochar situa-se na faixa de 28% a 32% da massa seca, enquanto o extrato pirolenhoso (EP) bruto varia de 40% a 45%. O rigoroso controle térmico garante a ausência de Hidrocarbonetos Aromáticos Policíclicos (HPAs) tóxicos na fração condensada coletada.
 
 **Integração circular do Extrato Pirolenhoso**
-O EP não é apenas subproduto comercial (defensivo agrícola). Rico em fenóis e ácidos orgânicos, é adicionado em proporção de 20% à água de alimentação da caldeira (NR-13), gerando vapor saturado quimicamente enriquecido. Esse vapor impregnado com fenóis do próprio bambu atua como conservante estrutural de ação fungicida e bactericida — fechando um ciclo circular de tratamento de materiais sem insumos externos.[^1]
+O EP não é apenas subproduto comercial (defensivo agrícola). Rico em fenóis e ácidos orgânicos, é adicionado em proporção de 20% à água de alimentação da caldeira (NR-13), gerando vapor saturado quimicamente enriquecido. Esse vapor impregnado com fenóis do próprio bambu atua como conservante estrutural de ação fungicida e bactericida — fechando um ciclo circular de tratamento de materiais sem insumos externos.
 
 ---
 
@@ -63,10 +63,10 @@ O EP não é apenas subproduto comercial (defensivo agrícola). Rico em fenóis 
 A segurança é o divisor de águas da operação. O sistema adota as seguintes normas como requisitos mínimos inegociáveis:
 
 **NR-13 (Vasos de Pressão e Caldeiras)**
-A caldeira geradora de vapor para o tratamento hidrotérmico e químico do bambu possui cálculo mecânico independente, válvulas de segurança calibradas para a Pressão Máxima de Trabalho Admissível (PMTA) e inspeção técnica periódica obrigatória.[^1]
+A caldeira geradora de vapor para o tratamento hidrotérmico e químico do bambu possui cálculo mecânico independente, válvulas de segurança calibradas para a Pressão Máxima de Trabalho Admissível (PMTA) e inspeção técnica periódica obrigatória.
 
 **ABNT NBR ISO 16852 (Corta-chamas)**
-Instalação obrigatória na linha de gases não condensáveis, com função de resfriar frentes de chama e mitigar o risco de *flashback* (retorno de chama) para o reator primário.[^1]
+Instalação obrigatória na linha de gases não condensáveis, com função de resfriar frentes de chama e mitigar o risco de *flashback* (retorno de chama) para o reator primário.
 
 ---
 
@@ -77,7 +77,7 @@ A sofisticação do projeto baseia-se na separação estrita entre dois universo
 - **Universo sujo:** gases e fumaça da pirólise (voláteis orgânicos, CO, H₂, metano)
 - **Universo limpo:** ar quente proveniente da jaqueta externa e do plenum
 
-O sistema emprega um queimador *Rocket Stove* isolado para consumir os gases residuais (CO, H₂, metano), gerando calor para a caldeira. A tiragem natural do tubo vertical (*riser*) cria pressão neutra (0 barg) na câmara de carbonização, eliminando a necessidade de exaustores mecânicos em contato com fumaça.[^1]
+O sistema emprega um queimador *Rocket Stove* isolado para consumir os gases residuais (CO, H₂, metano), gerando calor para a caldeira. A tiragem natural do tubo vertical (*riser*) cria pressão neutra (0 barg) na câmara de carbonização, eliminando a necessidade de exaustores mecânicos em contato com fumaça.
 
 | Circuito | Origem | Função e Destino |
 | :-- | :-- | :-- |
@@ -89,9 +89,9 @@ O sistema emprega um queimador *Rocket Stove* isolado para consumir os gases res
 
 ### Eixo V — Conformidade Ambiental e Viabilidade Econômica
 
-O licenciamento atende aos limites de emissão estabelecidos pela **Resolução CONAMA nº 382/2006** para fontes fixas.[^4]
+O licenciamento atende aos limites de emissão estabelecidos pela **Resolução CONAMA nº 382/2006** para fontes fixas.
 
-Economicamente, a viabilidade do Módulo Base ancora-se na metodologia **VERRA VM0044**, que quantifica a remoção de CO₂ pelo sequestro duradouro de carbono no solo via biochar de bambu. O modelo alinha-se diretamente a editais de inovação e bioeconomia de fundos como BNDES, FINEP e Fundo Amazônia.[^5]
+Economicamente, a viabilidade do Módulo Base ancora-se na metodologia **VERRA VM0044**, que quantifica a remoção de CO₂ pelo sequestro duradouro de carbono no solo via biochar de bambu. O modelo alinha-se diretamente a editais de inovação e bioeconomia de fundos como BNDES, FINEP e Fundo Amazônia.
 
 ---
 
@@ -120,7 +120,7 @@ Economicamente, a viabilidade do Módulo Base ancora-se na metodologia **VERRA V
 
 ### Anexo B — Cronograma de Desenvolvimento TRL 4 ao TRL 7
 
-O escalonamento exige uma etapa compulsória de simulação digital antes do comprometimento do CAPEX físico. A evolução é estruturada em 18 meses:[^1]
+O escalonamento exige uma etapa compulsória de simulação digital antes do comprometimento do CAPEX físico. A evolução é estruturada em 18 meses:
 
 **Fase 1 — Engenharia de Detalhe e Projeto (Meses 1–3)**
 Finalização dos diagramas de fluxo de massa e energia, cálculos mecânicos (NR-13) e projeto de automação por inversores de frequência.
@@ -146,7 +146,7 @@ Após a validação da Camada 1, o calor excedente do plenum servirá de platafo
 $$CO_2 + 3H_2 
 ightleftharpoons CH_3OH + H_2O$$
 
-Este processo converte CO₂ em metanol líquido estocável — fundamento da **Economia do Metanol**, conceito validado globalmente pelo Prof. George A. Olah (Prêmio Nobel de Química, 1994). A estratégia transforma emissões biogênicas em combustível líquido, blindando o projeto contra a dependência de combustíveis fósseis no contexto logístico amazônico.[^6]
+Este processo converte CO₂ em metanol líquido estocável — fundamento da **Economia do Metanol**, conceito validado globalmente pelo Prof. George A. Olah (Prêmio Nobel de Química, 1994). A estratégia transforma emissões biogênicas em combustível líquido, blindando o projeto contra a dependência de combustíveis fósseis no contexto logístico amazônico.
 
 ---
 
@@ -158,7 +158,7 @@ Este processo converte CO₂ em metanol líquido estocável — fundamento da **
 
 A quantificação do potencial de biomassa de bambu em territórios amazônicos é condição necessária para três pilares centrais da Plataforma: (i) dimensionamento do fornecimento sustentável de *Guadua* spp. para a biorrefinaria; (ii) certificação de remoção de carbono via biochar pela metodologia VERRA VM0044; e (iii) defesa técnica do projeto perante financiadores nacionais (BNDES, Fundo Amazônia, Fundo Clima) e a comunidade científica internacional no contexto da COP30.
 
-O Sudoeste Amazônico concentra estimados 4,5 a 7 milhões de hectares dominados por *Guadua weberbaueri* e *G. sarcocarpa* somente no Acre — configurando a maior floresta nativa de bambu do mundo. Apesar dessa magnitude, inventários geoespaciais sistemáticos e publicamente acessíveis permanecem escassos.[^2][^3]
+O Sudoeste Amazônico concentra estimados 4,5 a 7 milhões de hectares dominados por *Guadua weberbaueri* e *G. sarcocarpa* somente no Acre — configurando a maior floresta nativa de bambu do mundo. Apesar dessa magnitude, inventários geoespaciais sistemáticos e publicamente acessíveis permanecem escassos.
 
 Este Anexo descreve a arquitetura técnica do **Sistema de Monitoramento Geoespacial Automatizado (SMGA)**, construído sobre ferramentas gratuitas e de código aberto, capaz de produzir dados auditáveis, versionados e citáveis para uso em defesa de projetos, publicações científicas e plataformas de transparência institucional.
 
@@ -292,21 +292,11 @@ OLAH, George A.; GOEPPERT, Alain; PRAKASH, G. K. Surya. **Beyond Oil and Gas: Th
 
 UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor e Design de Projetos Térmicos** — termodinâmica de processos não condensáveis. Juiz de Fora: Departamento de Engenharia Mecânica.
 
----
 
-[^1]: TAKWARA, Fabio. Memorial Técnico — Pirólise de Bambu. Plataforma Amazônia Regenerativa, 2026. DOI: 10.5281/zenodo.17225867
-[^2]: EMBRAPA. Estimativa de volume de bambu Guadua spp. do Acre, Amazônia, Brasil. Embrapa Acre, 2016.
-[^3]: AGÊNCIA ACRE. Acre possui maior floresta nativa com bambu do mundo. Rio Branco, 2016.
-[^4]: CONAMA. Resolução nº 382/2006 — Limites de emissão para fontes fixas.
-[^5]: VERRA. VM0044: Methodology for Biochar Utilization in Soil and Non-Soil Applications. v. 1.2, 2025.
-[^6]: OLAH, G. A.; GOEPPERT, A.; PRAKASH, G. K. S. Beyond Oil and Gas: The Methanol Economy. Wiley-VCH, 2009.
 
----
-
-<div align="center">⁂</div>
 
 **🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
 **DOI: [10.5281/zenodo.17225867](https://doi.org/10.5281/zenodo.17225867)**
 
-*Plataforma Amazônia Regenerativa — Documento vivo, atualizado a cada nova versão do repositório.*
-*Licença CC BY 4.0 — copie, distribua, adapte. Cite a fonte.*
+*Plataforma Amazônia Regenerativa — Documento técnico oficial.*
+*Licença CC BY 4.0.*
