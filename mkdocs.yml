@@ -25,17 +25,13 @@ nav:
   - Governança:
     - GEMINI: 00_GOVERNANCA/GOV_GEMINI.md
     - Autoria: 00_GOVERNANCA/GOV_AUTORIA.md
-    - Compartilhamento de Dados: 00_GOVERNANCA/GOV_ota-tecnica-compartilhamento-de-dados.md
+    - Licença: 00_GOVERNANCA/GOV_LICENSE.md
   - Tecnologia Takwara:
     - Plataforma v5.1: 01_TECNOLOGIA_TAKWARA/TAK_Plataforma-Amazonia-Regenerativa-v5.1.md
     - Memorial Biorrefinaria: 01_TECNOLOGIA_TAKWARA/TAK_memorial-tecnico-biorrefinaria-de-bambu-v5.1.md
     - Relatório Executivo: 01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1.md
     - Bioeconomia do Bambu: 01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md
     - Fitorremediação e Carbono: 01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md
-  - Pesquisa e Desenvolvimento:
-    - Briquetes Amazônicos: 02_PESQUISA_DESENVOLVIMENTO/outras referencias/Briquetes Amazônicos para Bioeconomia Sustentável.md
-    - Domos Geodésicos: 02_PESQUISA_DESENVOLVIMENTO/outras referencias/Domos Geodésicos_ Bio-soberania Amazônica.md
-    - Saneamento e Turismo: 02_PESQUISA_DESENVOLVIMENTO/outras referencias/Saneamento Ecológico e Turismo Brasileiro.md
   - Gestão Operacional:
     - Operação GitHub-Zenodo: 04_GESTAO_OPERACIONAL/OPS_manual-operacao-github.md
     - Equipe:
