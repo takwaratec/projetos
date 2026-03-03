@@ -230,6 +230,14 @@ Na prática dos editais, trate **sempre** compósitos Bambu+PU, telhas e Tiny Ho
 
 Quando esta cartilha fala em **bambu tratado “Sem Veneno”**, está se referindo à Tecnologia Takwara aplicada sobre o bambu que você já tem: primeiro, secagem controlada em estufa (preferencialmente em domos-estufa geodésicos); depois, tratamento térmico com vapor saturado enriquecido com cerca de 20% de extrato pirolenhoso (EP) produzido pelo próprio bambu; por fim, proteção com polímero vegetal (PU de mamona) nas conexões e pontos de maior esforço. Isso substitui, na prática, os tratamentos convencionais à base de CCA/CCB/boro sem controle.
 
+### Uma observação importante sobre maçarico
+
+Em muitas regiões, o bambu P. aurea é tradicionalmente “tostado” com maçarico para escurecer a superfície, secar mais rápido e reduzir ataque de fungos e insetos. É uma técnica antiga, útil para artesanato, varas de pesca e peças pequenas de movelaria, quando bem executada.
+
+Mas o maçarico concentra muito calor em pontos localizados. Na parede do colmo, a temperatura interna pode passar da faixa segura para as fibras, gerando microdanos invisíveis que só aparecem mais tarde, na forma de trincas ou quebras inesperadas. Por isso, nesta cartilha nós não recomendamos o uso de maçarico em elementos estruturais (tesouras, vigas, montantes, barras de domo) nem em cabos de ferramentas agrícolas que trabalham em tração contínua, como enxadas, foices e pás.
+
+Para esses usos que exigem resistência máxima, o caminho seguro são os tratamentos térmicos controlados – vapor saturado enriquecido com extrato pirolenhoso e protocolos em conformidade com a NBR 16828 e com o Memorial Técnico da Biorrefinaria de Bambu. Já para artesanato, varas de pesca e peças pequenas de movelaria, o maçarico continua sendo um tratamento natural e tradicionalmente utilizado, desde que o uso final não dependa da capacidade estrutural máxima do colmo.
+
 ---
 
 ## 3. A Geometria como Ferramenta: Sólidos Platônicos e Estruturas Emergenciais
