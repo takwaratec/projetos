@@ -1,43 +1,45 @@
 ---
-title: "Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa"
-subtitle: "Um Guia Prático para Qualquer Pessoa, em Qualquer Bioma"
-version: "1.0"
-date: "2026-03-01"
 author:
-  - name: "Takwara, Fabio Resck"
-    orcid: "0000-0001-8815-3885"
-    affiliation: "Universidade de Brasília / Núcleo Takwara"
-type: "Report"
-series: "Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional"
-language: "pt-BR"
-license: "CC BY 4.0"
-doi_collection: "10.5281/zenodo.17225867"
-related_works:
-  - "10.5281/zenodo.18826841"
-  - "10.5281/zenodo.18827106"
+- affiliation: Universidade de Brasília / Núcleo Takwara
+  name: Takwara, Fabio Resck
+  orcid: 0000-0001-8815-3885
+date: '2026-03-04'
+doi: 10.5281/zenodo.18827106
+doi_collection: 10.5281/zenodo.17225867
 keywords:
-  - bioeconomia comunitária
-  - bambu
-  - cooperativismo
-  - biorrefinaria
-  - biochar
-  - estufas geodésicas
-  - habitação de interesse social
-  - domo geodésico
-  - Guadua spp.
-  - Phyllostachys aurea
-  - créditos de carbono
-  - manejo ecológico
+- bioeconomia comunitária
+- bambu
+- cooperativismo
+- biorrefinaria
+- biochar
+- estufas geodésicas
+- habitação de interesse social
+- domo geodésico
+- Guadua spp.
+- Phyllostachys aurea
+- créditos de carbono
+- manejo ecológico
+language: pt-BR
+license: CC BY 4.0
+related_works:
+- 10.5281/zenodo.18826841
+- 10.5281/zenodo.18827106
+series: Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional
+subtitle: Um Guia Prático para Qualquer Pessoa, em Qualquer Bioma
+title: 'Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa'
+type: Report
+version: '2.0'
 ---
-
 # CARTILHA DE BIOECONOMIA COMUNITÁRIA DO BAMBU
 
 ## Da Floresta à Cooperativa: Um Guia Prático para Qualquer Pessoa, em Qualquer Bioma
 
-**Série:** Plataforma Amazônia Regenerativa — Aplicabilidade Nacional
-**Versão:** 1.0 | **Data:** 01 de março de 2026
-**Tecnologia:** Takwara | **Autor:** Takwara, Fabio Resck
-**Licença:** CC BY 4.0 — copie, distribua, adapte. Cite a fonte.
+**Série:** Tecnologia Takwara **Versão:** 2.0 | **Data:** 2026-03-04 | **Autor:** Fabio Takwara | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_manual-bioeconomia-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_manual-bioeconomia-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_manual-bioeconomia-bambu_es.md)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
 
 ---

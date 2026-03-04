@@ -1,46 +1,48 @@
 ---
-title: "Manual de Operação da Plataforma Digital"
-subtitle: "Do Repositório ao DOI: Como Criar, Publicar e Preservar seu Projeto no GitHub e no Zenodo"
-version: "1.0"
-date: "2026-03-01"
 author:
-  - name: "Takwara, Fabio Resck"
-    orcid: "0000-0001-8815-3885"
-    affiliation: "Universidade de Brasília / Núcleo Takwara"
-type: "Report"
-series: "Série Técnica Plataforma Amazônia Regenerativa — Infraestrutura Colaborativa de Conhecimento Aberto"
-language: "pt-BR"
-license: "CC BY 4.0"
-doi_collection: "10.5281/zenodo.17225867"
-related_works:
-  - "10.5281/zenodo.18826841"
-  - "10.5281/zenodo.18827106"
-  - "10.5281/zenodo.18827513"
-  - "10.5281/zenodo.18827891"
+- affiliation: Universidade de Brasília / Núcleo Takwara
+  name: Takwara, Fabio Resck
+  orcid: 0000-0001-8815-3885
+date: '2026-03-04'
+doi: 10.5281/zenodo.18827106
+doi_collection: 10.5281/zenodo.17225867
 keywords:
-  - GitHub
-  - Zenodo
-  - DOI
-  - ciência aberta
-  - repositório digital
-  - versionamento
-  - MkDocs
-  - GitHub Actions
-  - ORCID
-  - CC BY 4.0
-  - infraestrutura colaborativa
-  - conhecimento aberto
-  - automação
-  - publicação científica
+- GitHub
+- Zenodo
+- DOI
+- ciência aberta
+- repositório digital
+- versionamento
+- MkDocs
+- GitHub Actions
+- ORCID
+- CC BY 4.0
+- infraestrutura colaborativa
+- conhecimento aberto
+- automação
+- publicação científica
+language: pt-BR
+license: CC BY 4.0
+related_works:
+- 10.5281/zenodo.18826841
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827513
+- 10.5281/zenodo.18827891
+series: Série Técnica Plataforma Amazônia Regenerativa — Infraestrutura Colaborativa
+  de Conhecimento Aberto
+subtitle: 'Do Repositório ao DOI: Como Criar, Publicar e Preservar seu Projeto no
+  GitHub e no Zenodo'
+title: Manual de Operação da Plataforma Digital
+type: Report
+version: '2.0'
 ---
-
 # MANUAL DE OPERAÇÃO DA PLATAFORMA DIGITAL
 
 ## Do Repositório ao DOI: Como Criar, Publicar e Preservar seu Projeto no GitHub e no Zenodo
 
 **Série:** Plataforma Amazônia Regenerativa — Infraestrutura Colaborativa de Conhecimento Aberto
 **Autor:** Takwara, Fabio Resck | ORCID: 0000-0001-8815-3885
-**Versão:** 1.0 | **Data:** 01 de março de 2026
+**Versão:** 2.0 | **Data:** 04 de março de 2026
 **Licença:** CC BY 4.0 — copie, distribua, adapte. Cite a fonte.
 
 ---

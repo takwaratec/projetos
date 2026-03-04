@@ -1,48 +1,56 @@
 ---
-title: "Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono"
-subtitle: "O Bambu como Engenheiro Ecológico: Do Solo Contaminado ao Crédito Certificado"
-version: "1.0"
-date: "2026-03-01"
 author:
-  - name: "Takwara, Fabio Resck"
-    orcid: "0000-0001-8815-3885"
-    affiliation: "Universidade de Brasília / Núcleo Takwara"
-type: "Report"
-series: "Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional"
-language: "pt-BR"
-license: "CC BY 4.0"
-doi_collection: "10.5281/zenodo.17225867"
-related_works:
-  - "10.5281/zenodo.18826841"
-  - "10.5281/zenodo.18827106"
-  - "10.5281/zenodo.18827513"
+- affiliation: Universidade de Brasília / Núcleo Takwara
+  name: Takwara, Fabio Resck
+  orcid: 0000-0001-8815-3885
+date: '2026-03-04'
+doi: 10.5281/zenodo.18827106
+doi_collection: 10.5281/zenodo.17225867
 keywords:
-  - fitorremediação
-  - metais pesados
-  - restauração ecológica
-  - créditos de carbono
-  - biochar
-  - Guadua angustifolia
-  - sequestro de carbono
-  - Plan Vivo
-  - VERRA VM0044
-  - Gold Standard
-  - regeneração natural assistida
-  - Código Florestal
-  - PSA
-  - CLPI
-  - bambu nativo
-  - solos degradados
+- fitorremediação
+- metais pesados
+- restauração ecológica
+- créditos de carbono
+- biochar
+- Guadua angustifolia
+- sequestro de carbono
+- Plan Vivo
+- VERRA VM0044
+- Gold Standard
+- regeneração natural assistida
+- Código Florestal
+- PSA
+- CLPI
+- bambu nativo
+- solos degradados
+language: pt-BR
+license: CC BY 4.0
+related_works:
+- 10.5281/zenodo.18826841
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827513
+series: Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional
+subtitle: 'O Bambu como Engenheiro Ecológico: Do Solo Contaminado ao Crédito Certificado'
+title: Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono
+translations:
+  en: TAK_manual-fitorremediacao-credito-carbono_en.md
+  es: TAK_manual-fitorremediacao-credito-carbono_es.md
+  pt: TAK_manual-fitorremediacao-credito-carbono.md
+type: Report
+version: '2.0'
+---
+# Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono
+
+**Série:** Tecnologia Construtiva **Versão:** 2.0 | **Data:** 2026-03-04 | **Autor:** Fabio Takwara | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_manual-fitorremediacao-credito-carbono.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_manual-fitorremediacao-credito-carbono_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_manual-fitorremediacao-credito-carbono_es.md)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+
 ---
 
-# REGENERAÇÃO DE SOLOS DEGRADADOS, FITORREMEDIAÇÃO E MERCADOS DE CARBONO
-
 ## O Bambu como Engenheiro Ecológico: Do Solo Contaminado ao Crédito Certificado
-
-**Série:** Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional
-**Autor:** Takwara, Fabio Resck | ORCID: 0000-0001-8815-3885
-**Data:** 01 de março de 2026 | **Versão:** 1.0
-**Licença:** CC BY 4.0 | DOI da coleção: [10.5281/zenodo.17225867](https://doi.org/10.5281/zenodo.17225867)
 
 
 ---
