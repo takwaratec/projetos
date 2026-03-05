@@ -1,16 +1,30 @@
 ---
 author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
 doi: 10.5281/zenodo.18827106
+doi_collection: 10.5281/zenodo.17225867
+keywords:
+- biocompuestos
+- conexiones de bambú
+- PU Vegetal
+- arquitectura regenerativa
+- ingeniería
+- sostenibilidad
+language: es
 license: CC BY 4.0
+related_works:
+- 10.5281/zenodo.18826841
+- 10.5281/zenodo.18827513
 series: Serie Técnica Plataforma Amazonía Regenerativa — Tecnología Constructiva
 title: 'Sistemas de Conexiones Estructurales y Biocompuestos en Bambú'
 translations:
   en: TAK_conexoes-estruturais-bambu_en.md
   es: TAK_conexoes-estruturais-bambu_es.md
   pt: TAK_conexoes-estruturais-bambu.md
+type: Memorial Técnico
 version: '2.0'
 ---
 # Sistemas de Conexiones Estructurales y Biocompuestos en Bambú
@@ -20,7 +34,9 @@ version: '2.0'
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_conexoes-estruturais-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_conexoes-estruturais-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_conexoes-estruturais-bambu_es.md)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
-## 1. Introducción y Base Científica
+---
+
+## 1. RESUMEN EJECUTIVO
 
 La construcción civil moderna exige alternativas resilientes y de bajo carbono en sustitución del acero y el hormigón. El bambú emerge como un material estructural de altísimo rendimiento, aunque históricamente su talón de Aquiles han sido sus **conexiones**.
 
@@ -84,24 +100,28 @@ La visión de la bioconstrucción culmina en el cerramiento y la infraestructura
 
 Este enfoque es el corazón del proyecto para **Vivienda de Interés Social (HIS)**.
 
-### Sistema de Panel Sándwich
+### 6.1 Sistema de Panel Sándwich
 A diferencia de la estructura de esqueleto por varas, las paredes y revestimientos están compuestos por **Paneles Sándwich Inteligentes**.
 *   **Componentes:** Utilizando un torno propio, el bambú seco (ya tratado en vapor piroleñoso) se desmedula y rebana en listones de ancho uniforme. Varios listones se alinean, cubren con capas sucesivas de PU Impermeabilizante y una malla de refuerzo (tela o fibra), formando las "pieles" o caras del panel.
 *   **El Núcleo Solidario:** Dos caras de estas chapas se emparejan envolviendo la estructura o moldes predefinidos. El espacio interno del núcleo es entonces llenado estructuralmente por el **PU Vegetal Expansivo**, unificando las caras de la misma manera resiliente.
 
-### Modularidad "Lego" y Eliminación de Mortero Convencional
+### 6.2 Modularidad "Lego" y Eliminación de Mortero Convencional
 Los paneles y bloques operan en un formato estrictamente escalable, fabricados a medida como piezas de encaje (el modelo "Lego"):
 *   **Dimensiones Modulares:** Diseñados en tamaños de hasta **3x3 metros**, fáciles de izar, transportar al sitio y acoplar a la infraestructura principal.
 *   **Aberturas Prefabricadas:** La principal innovación del Panel Inteligente es que sale de la línea de producción ya con las matrices premoldeadas y mecanizadas en fábrica: **aberturas dimensionadas para acomodar puertas y ventanas**.
 *   **Conductos Empotrados:** Antes de la inyección del PU expansivo del núcleo, toda la tubería eléctrica de conductos, desagüe y datos se fija internamente en las caras orgánicas. Cuando el PU se infla y cura, los conductos quedan permanentemente envueltos y bloqueados herméticamente, eliminando cualquier necesidad de "romper paredes" en la obra.
 *   **Ladrillos y Bloques de Encaje:** Para cerramientos menores, la tecnología se despliega en ladrillos biocompuestos (aglomerando residuos y PU). La propuesta principal del sistema es **eliminar el tradicional mortero de asiento 3x1 (3 partes de arena por 1 de cemento)**, utilizando cordones del propio PU Vegetal para pegar y trabar los bloques estructurales de forma limpia, veloz y sin agua.
 
-### Tejas Compuestas de Cartón y Arena
+### 6.3 Tejas Compuestas de Cartón y Arena
 Además del cerramiento vertical, el sistema aborda la cubierta sostenible. Se emplean **tejas compuestas formadas por pulpa de cartón reciclado o celulosa de reaprovechamiento**. El cartón se moldea, se satura con el PU Vegetal Impermeabilizante y recibe una aspersión de **arena** antes del curado final. La arena confiere una resistencia mecánica superior contra el granizo y la intemperie (protección UV), elevando brutalmente el confort térmico y acústico de la edificación en áreas de insolación extrema.
+
+---
 
 ## 7. Consideraciones Finales 
 
 El **Sistema de Conexiones Estructurales y Biocompuestos en Bambú** redefine el uso contemporáneo de la tecnología forestal de base natural. Desde la delicada interconexión geométrica de domos vía cables de acero embutidos, hasta la sustitución pionera de hormigones y metales pesados por espigas de bambú trabadas en poliuretano mamonex, Brasil inaugura un nuevo referente a la vanguardia de la Arquitectura y la Ingeniería. Los Paneles Sándwich Inteligentes consolidan el camino necesario: industrialización rápida de materia orgánica generando vivienda a gran escala de manera sostenible, rápida y sin desperdicio de insumos cementosos.
+
+---
 
 ## 8. Referencias y Evaluación Bibliográfica
 
@@ -129,7 +149,7 @@ El Sistema Takwara y sus paneles sándwich incorporan principios constructivos r
 
 ---
 
-## Cómo citar este documento
+## CÓMO CITAR ESTE DOCUMENTO
 
 **APA:**
 Takwara, F. R. (2026). *Sistemas de Conexiones Estructurales y Biocompuestos en Bambú* (Versión 2.0). Núcleo Takwara / Universidad de Brasília. https://doi.org/10.5281/zenodo.18827106

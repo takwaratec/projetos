@@ -1,26 +1,42 @@
 ---
 author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
 doi: 10.5281/zenodo.18827106
+doi_collection: 10.5281/zenodo.17225867
+keywords:
+- biocomposites
+- bamboo connections
+- Vegetal PU
+- regenerative architecture
+- engineering
+- sustainability
+language: en
 license: CC BY 4.0
+related_works:
+- 10.5281/zenodo.18826841
+- 10.5281/zenodo.18827513
 series: Regenerative Amazon Platform Technical Series — Construction Technology
 title: 'Structural Connections and Bamboo Biocomposites Systems'
 translations:
   en: TAK_conexoes-estruturais-bambu_en.md
   es: TAK_conexoes-estruturais-bambu_es.md
   pt: TAK_conexoes-estruturais-bambu.md
+type: Technical Memorial
 version: '2.0'
 ---
 # Structural Connections and Bamboo Biocomposites Systems
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_conexoes-estruturais-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_conexoes-estruturais-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_conexoes-estruturais-bambu_es.md)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_conexoes-estruturais-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_conexoes-estruturais-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_conexoes-estruturais-bambu_es.md)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
-## 1. Introduction and Scientific Basis
+---
+
+## 1. EXECUTIVE SUMMARY
 
 Modern civil construction demands resilient, low-carbon alternatives to replace steel and concrete. Bamboo emerges as an extremely high-performance structural material, yet its Achilles' heel has historically been its **connections**.
 
@@ -84,24 +100,28 @@ The vision of bioconstruction culminates in enclosing the structure and providin
 
 This focus is the heart of the project for **Social Interest Housing (HIS)**.
 
-### Sandwich Panel System
+### 6.1 Sandwich Panel System
 Unlike structure made of poles, the walls and claddings consist of **Intelligent Sandwich Panels**.
 *   **Components:** Using a custom lathe, dry bamboo (pre-treated with pyroligneous steam) has its inner nodes removed and is sliced into laths of uniform width. Multiple laths are aligned, covered with successive layers of Waterproofing PU and a reinforcing mesh (fabric or fiber), forming the "skins" or faces of the panel.
 *   **The Solidary Core:** Two faces of these sheets are paired around the structure or predefined molds. The internal core space is then structurally filled by the **Expansive Vegetal PU**, solidifying both faces in the same resilient manner.
 
-### "Lego" Modularity and Elimination of Conventional Mortar
+### 6.2 "Lego" Modularity and Elimination of Conventional Mortar
 The panels and blocks operate in a strictly scalable format, custom-manufactured as interlocking pieces (the "Lego" model):
 *   **Modular Dimensions:** Designed in sizes up to **3x3 meters**, they are easy to lift, transport to the site, and attach to the primary infrastructure.
 *   **Prefabricated Openings:** The main innovation of the Intelligent Panel is that it leaves the production line already with pre-molded and machined matrices: **sized openings to accommodate doors and windows**.
 *   **Embedded Ducts:** Prior to injecting the expansive core PU, all electrical conduit, plumbing, and data tubing are internally secured to the organic faces. When the PU inflates and cures, the ducts are permanently enveloped and hermetically locked in place, eliminating any need to "break walls" on site.
 *   **Interlocking Bricks and Blocks:** For smaller enclosures, the technology expands into biocomposite bricks (agglomerating waste and PU). The main proposal of the system is to **eliminate the traditional 3x1 laying mortar (3 parts sand to 1 part cement)**, using cords of the Vegetal PU itself to glue and lock the structural blocks cleanly, swiftly, and without water.
 
-### Cardboard and Sand Composite Roof Tiles
+### 6.3 Cardboard and Sand Composite Roof Tiles
 Beyond vertical enclosure, the system addresses sustainable roofing. **Composite tiles made from recycled cardboard pulp or repurposed cellulose** are employed. The cardboard is molded, saturated with Waterproofing Vegetal PU, and receives a sprinkling of **sand** before final curing. The sand provides superior mechanical resistance against hail and weathering (UV protection), drastically elevating the thermal and acoustic comfort of the building in areas of extreme sun exposure.
+
+---
 
 ## 7. Final Considerations
 
 The **Structural Connections and Bamboo Biocomposites System** redefines the contemporary use of natural-based forestry technology. From the delicate geometric interconnection of domes via embedded steel cables, to the pioneering replacement of concrete and heavy metals with bamboo tenons locked in mamonex polyurethane, Brazil inaugurates a new benchmark at the forefront of Architecture and Engineering. The Intelligent Sandwich Panels consolidate the necessary path: the rapid industrialization of organic matter to generate large-scale housing in a sustainable, swift manner without the waste of cementitious inputs.
+
+---
 
 ## 8. References and Literature Review
 
@@ -129,7 +149,7 @@ The Takwara System and its sandwich panels embed building principles tracked and
 
 ---
 
-## How to cite this document
+## HOW TO CITE THIS DOCUMENT
 
 **APA:**
 Takwara, F. R. (2026). *Structural Connections and Bamboo Biocomposites Systems* (Version 2.0). Takwara Center / University of Brasília. https://doi.org/10.5281/zenodo.18827106

@@ -1,16 +1,30 @@
 ---
 author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
 doi: 10.5281/zenodo.18827106
+doi_collection: 10.5281/zenodo.17225867
+keywords:
+- biocompósitos
+- conexões de bambu
+- PU Vegetal
+- arquitetura regenerativa
+- engenharia
+- sustentabilidade
+language: pt
 license: CC BY 4.0
+related_works:
+- 10.5281/zenodo.18826841
+- 10.5281/zenodo.18827513
 series: Série Técnica Plataforma Amazônia Regenerativa — Tecnologia Construtiva
 title: 'Sistemas de Conexões Estruturais e Biocompósitos em Bambu'
 translations:
   en: TAK_conexoes-estruturais-bambu_en.md
   es: TAK_conexoes-estruturais-bambu_es.md
   pt: TAK_conexoes-estruturais-bambu.md
+type: Memorial Técnico
 version: '2.0'
 ---
 # Sistemas de Conexões Estruturais e Biocompósitos em Bambu
@@ -20,7 +34,9 @@ version: '2.0'
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_conexoes-estruturais-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_conexoes-estruturais-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_conexoes-estruturais-bambu_es.md)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
-## 1. Introdução e Base Científica
+---
+
+## 1. RESUMO EXECUTIVO
 
 A construção civil moderna exige alternativas resilientes e de baixo carbono em substituição ao aço e ao concreto. O bambu emerge como um material estrutural de altíssimo desempenho, porém o seu calcanhar de aquiles historicamente tem sido as **conexões**.
 
@@ -70,7 +86,7 @@ Para contornar o risco de fissuras, o sistema elimina pinos metálicos rígidos 
 2.  **Tabiques de Travamento:** Utilizam-se pequenas réguas transversais (tabiques) fabricadas do próprio bambu denso, inseridas em usinagens desencontradas.
 3.  **Matriz de PU Expansivo:** Todo o entrenó submetido ao nó de esforço é preenchido com PU expansivo. O PU sela o conjunto de lascas, o cabo amarrado e os tabiques, formando um "nó" composto integral, solidário e não-friável.
 
-## 4. Conexões para Estruturas Curvas e Semiflexíveis (Domos Geodésicos)
+## 5. Conexões para Estruturas Curvas e Semiflexíveis (Domos Geodésicos)
 
 No contexto de cúpulas geodésicas, onde dezenas de colmos convergem dinamicamente formando nós complexos, a Tecnologia Takwara utiliza o sistema de **cabos de aço interno pré-tensionado com sapatilhas**.
 
@@ -78,32 +94,36 @@ Em vez da abrasão de uma ponteira rígida de metal, o cabo de aço espesso (1m 
 
 *   **Fixação Final:** Quando os triângulos estão montados, injeta-se PU Vegetal de alta densidade por toda a extremidade da vara, englobando o cabo oculto internamente e a prensa interna, selando permanentemente o mecanismo ("solda vegetal"). Externamente, reveste-se a testa metálica da arruela com uma laminação de PU e fibra de sisal.
 
-## 5. Painéis Sanduíche HIS e Biocompósitos (O Projeto "Lego")
+## 6. Painéis Sanduíche HIS e Biocompósitos (O Projeto "Lego")
 
 A visão de bioconstrução culmina no fechamento e na infraestrutura predial através de biocompósitos — uma aplicação direta combinando bambu, resíduos, e PU Vegetal. 
 
 Este enfoque é o coração do projeto para **Habitação de Interesse Social (HIS)**.
 
-### Sistema de Painel Sanduíche
+### 6.1 Sistema de Painel Sanduíche
 Diferente da estrutura de esqueleto por varas, as paredes e revestimentos são compostas por **Painéis Sanduíche Inteligentes**. 
 *   **Componentes:** Utilizando um torno próprio, o bambu seco (já tratado no vapor pirolenhoso) é desmiolado e fatiado em ripas de largura uniforme. Diversas ripas são alinhadas, cobertas com camadas sucessivas de PU Impermeabilizante e uma malha de reforço (tecido ou fibra), formando as "peles" ou faces do painel.
 *   **O Miolo Solidário:** Duas faces dessas chapas são emparelhadas envolvendo a estrutura ou moldes predefinidos. O espaço interno de miolo é então preenchido estruturalmente pelo **PU Vegetal Expansivo**, unificando as faces da mesma forma resiliente.
 
-### Modularidade "Lego" e Eliminação de Argamassa Convencional
+### 6.2 Modularidade "Lego" e Eliminação de Argamassa Convencional
 Os painéis e blocos operam em formato estritamente escalável, fabricados sob medida como peças de encaixe (o modelo "Lego"):
 *   **Dimensões Modulares:** Projetados em tamanhos de até **3x3 metros**, fáceis de içar, transportar para o local e acoplar à infraestrutura primária.
 *   **Aberturas Pré-fabricadas:** A principal inovação do Painel Inteligente é sair da linha de produção já com as matrizes pré-moldadas e usinadas em fábrica: **aberturas dimensionadas para acomodar portas e janelas**.
 *   **Dutos Embutidos:** Antes da injeção do PU de miolo expansivo, toda a tubulação elétrica de conduítes, esgoto e dados é fixada internamente nas faces orgânicas. Quando o PU infla e cura, os dutos são permanentemente envelopados e travados hermeticamente, eliminando qualquer necessidade de "quebrar parede" na obra.
 *   **Tijolos e Blocos de Encaixe:** Para vedações menores, a tecnologia se desdobra em tijolos biocompósitos (aglomerando resíduos e PU). A proposta principal do sistema é **eliminar a tradicional argamassa de assentamento 3x1 (3 partes de areia para 1 de cimento)**, utilizando cordões do próprio PU Vegetal para colar e travar os blocos estruturais de forma limpa, veloz e sem água.
 
-### Telhas Compósitas de Papelão e Areia
+### 6.3 Telhas Compósitas de Papelão e Areia
 Além do fechamento vertical, o sistema aborda a cobertura sustentável. Empregam-se **telhas compósitas formadas por polpa de papelão reciclado ou celulose de reaproveitamento**. O papelão é moldado, saturado com o PU Vegetal Impermeabilizante e recebe uma aspersão de **areia** antes da cura final. A areia confere resistência mecânica superior contra granizo e intempéries (proteção UV), elevando brutalmente o conforto térmico e acústico da edificação em áreas de insolação extrema.
+
+---
 
 ## 7. Considerações Finais 
 
 O **Sistema de Conexões Estruturais e Biocompósitos em Bambu** redefine o uso contemporâneo da tecnologia florestal de base natural. Desde a delicada interconexão geométrica de domos via cabos de aço embutidos, até a substituição pioneira de concretos e metálicos pesados por espigas de bambu travadas em poliuretano mamonex, o Brasil inaugura um novo referencial na vanguarda da Arquitetura e Engenharia. Os Painéis Sanduíche Inteligentes consolidam o caminho necessário: industrialização rápida de matéria orgânica gerando moradia em larga escala de maneira sustentável, veloz e sem desperdício de insumos cimentícios.
 
-## 7. Referências e Avaliação Bibliográfica
+---
+
+## 8. Referências e Avaliação Bibliográfica
 
 O Sistema Takwara e seus painéis sanduíche embutem princípios construtivos rastreados e suportados cientificamente por bibliografia qualificada sobre o bambu e polímeros:
 
@@ -129,7 +149,7 @@ O Sistema Takwara e seus painéis sanduíche embutem princípios construtivos ra
 
 ---
 
-## Como citar este documento
+## COMO CITAR ESTE DOCUMENTO
 
 **APA:**
 Takwara, F. R. (2026). *Sistemas de Conexões Estruturais e Biocompósitos em Bambu* (Versão 2.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
