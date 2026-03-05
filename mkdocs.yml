@@ -21,7 +21,10 @@ theme:
     - search.suggest
 
 nav:
-  - Início: index.md
+  - Início: 
+      - Português: index.md
+      - English: index_en.md
+      - Español: index_es.md
   - O Projeto:
       - Resumo Executivo: 01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1.md
   - A Tecnologia:
