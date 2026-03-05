@@ -798,7 +798,7 @@ para habitação social resiliente no Acre.
 ## Como Citar
 
 > TAKWARA, Fabio Resck. *Plataforma Amazônia Regenerativa — Anais Técnicos*.
-> v1.0.0. 2026. DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX).
+> v1.0.0. 2026. DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106).
 > Licença CC BY 4.0.
 
 
@@ -1064,10 +1064,10 @@ Documento vivo: atualizado a cada nova versão do repositório.*
 ## Como citar este documento
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Manual de Operação da Plataforma Digital: Do Repositório ao DOI — Como Criar, Publicar e Preservar seu Projeto no GitHub e no Zenodo*. Série Técnica Plataforma Amazônia Regenerativa — Infraestrutura Colaborativa de Conhecimento Aberto. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.XXXXXXX. Acesso em: 01 mar. 2026.
+TAKWARA, Fabio Resck. *Manual de Operação da Plataforma Digital: Do Repositório ao DOI — Como Criar, Publicar e Preservar seu Projeto no GitHub e no Zenodo*. Série Técnica Plataforma Amazônia Regenerativa — Infraestrutura Colaborativa de Conhecimento Aberto. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827106. Acesso em: 01 mar. 2026.
 
 **APA:**
-Takwara, F. R. (2026). *Manual de Operação da Plataforma Digital* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.XXXXXXX
+Takwara, F. R. (2026). *Manual de Operação da Plataforma Digital* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 **Faz parte de:**
 Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867

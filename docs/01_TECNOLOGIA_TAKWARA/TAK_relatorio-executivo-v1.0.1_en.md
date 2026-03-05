@@ -35,9 +35,7 @@ version: '2.0'
 ---
 # Executive Report: Regenerative Amazon Platform and Innovations
 
-**Series:** Policy and Investment **Version:** 2.0 | **Date:** 2026-03-04 | **Author:** Fabio Takwara | **License:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18828592
-
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18828592-blue.svg)](https://doi.org/10.5281/zenodo.18828592)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_relatorio-executivo-v1.0.1.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_relatorio-executivo-v1.0.1_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_relatorio-executivo-v1.0.1_es.md)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)

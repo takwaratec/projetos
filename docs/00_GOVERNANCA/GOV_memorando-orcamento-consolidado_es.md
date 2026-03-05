@@ -36,11 +36,11 @@ Este memorando sintetiza el estado actual del presupuesto consolidado de la Plat
 
 ## 2. Síntesis del Presupuesto Consolidado (48 meses)
 
-- **Valor global estimado:** ~R$ 19 millones en 48 meses.
-- **CAPEX:** ~R$ 4,25 millones (biorrefinería, UBPs, domos, instalaciones).
+- **Valor global estimado:** ~R$ 20 millones en 48 meses.
+- **CAPEX:** ~R$ 5,27 millones (biorrefinería, reactor NR-13, UBPs, domos, instalaciones).
 - **OPEX:** ~R$ 14,75 millones (RH completo, logística, insumos, certificaciones).
 - **Estructura en tramos (tranches):**
-    - Tramo 1: Núcleo de menor riesgo (biorrefinería, UBPs).
+    - Tramo 1: Núcleo de menor riesgo (biorrefinería, UBPs). Incluye asignación de **R$ 1.022.500** para Maquinaria Industrial (reactor NR-13 y cámaras cilíndricas dobles).
     - Tramo 2: Escalamiento (compuestos, domos-estufa).
     - Tramo 3: Consolidación y replicación regional.
 

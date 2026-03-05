@@ -1,6 +1,44 @@
-# **Análise Estrutural e Validação Técnica do Saneamento Ecológico no Contexto do Crescimento Turístico Brasileiro: Um Relatório de Infraestrutura e Saúde Pública**
+---
+author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
+  name: Takwara, Fabio Resck
+  orcid: 0000-0001-8815-3885
+date: '2026-03-04'
+doi: 10.5281/zenodo.18827106
+doi_collection: 10.5281/zenodo.17225867
+keywords:
+- saneamento ecológico
+- turismo
+- banheiros secos
+- wetlands
+- saúde pública
+- Amazônia
+- Chapada Diamantina
+- ANA NR 8/2024
+language: pt
+license: CC BY 4.0
+related_works:
+- 10.5281/zenodo.18826841
+- 10.5281/zenodo.18827106
+series: Série Técnica Plataforma Amazônia Regenerativa — Pesquisa e Desenvolvimento
+subtitle: Relatório de Infraestrutura, Saúde Pública e Crescimento Turístico
+title: 'Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística'
+translations:
+  en: TAK_nota-tecnica-saneamento-ecologico_en.md
+  es: TAK_nota-tecnica-saneamento-ecologico_es.md
+  pt: TAK_nota-tecnica-saneamento-ecologico.md
+type: Report
+version: '2.0'
+---
+# Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística
 
-O setor de turismo no Brasil atravessa um momento de expansão histórica, caracterizado por recordes de visitação em Unidades de Conservação e um aporte significativo de investimentos estrangeiros. Contudo, essa trajetória de crescimento encontra um gargalo crítico na infraestrutura de saneamento básico, especialmente em áreas remotas e destinos de natureza. Este relatório avalia a viabilidade técnica e a urgência da proposta de saneamento ecológico modular, confrontando o cenário nacional de déficit sanitário com as demandas de um setor que se posiciona como motor do desenvolvimento econômico. A análise a seguir valida os modelos de banheiros secos e wetlands construídos como soluções fundamentais para a preservação do capital natural brasileiro e a segurança biológica de visitantes e comunidades locais.
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_nota-tecnica-saneamento-ecologico.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_nota-tecnica-saneamento-ecologico_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_nota-tecnica-saneamento-ecologico_es.md)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+
+---
+
 
 ## **O Cenário Nacional do Saneamento: Entre o Déficit Histórico e a Transição Institucional**
 

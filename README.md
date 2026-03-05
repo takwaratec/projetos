@@ -6,9 +6,10 @@
 na Amazônia Legal**
 
 [![Licença: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.PLACEHOLDER.svg)](https://doi.org/10.5281/zenodo.PLACEHOLDER)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![MkDocs](https://img.shields.io/badge/docs-MkDocs%20Material-green)](https://takwaratec.github.io/projetos/)
 [![GitHub](https://img.shields.io/badge/repo-takwaratec%2Fprojetos-black)](https://github.com/takwaratec/projetos)
+![Status](https://img.shields.io/badge/status-Edici%C3%B3n%20Advocacy%205.1-red)
 
 </div>
 
@@ -54,9 +55,9 @@ A ser definida.
 ## Como Citar
 
 TAKWARA, Fabio Resck. Plataforma Amazônia Regenerativa —
-Documentação Técnica e Científica. v1.0.0. 2026.
+Documentação Técnica e Científica. v5.1. 4 de março de 2026.
 Disponível em: https://takwaratec.github.io/projetos/
-DOI: 10.5281/zenodo.PLACEHOLDER. Licença CC BY 4.0.
+DOI: 10.5281/zenodo.18827106. Licença CC BY 4.0.
 
 
 ---

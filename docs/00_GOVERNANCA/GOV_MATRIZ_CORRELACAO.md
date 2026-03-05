@@ -19,10 +19,10 @@ version: '2.0'
 
 # Matriz de Correlação: GDocs vs GitHub
 
-**Série:** Governança **Versão:** 2.0 | **Data:** 2026-03-04 | **Autor:** Fabio Takwara | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
-
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./GOV_MATRIZ_CORRELACAO.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./GOV_MATRIZ_CORRELACAO_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./GOV_MATRIZ_CORRELACAO_es.md)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./GOV_MATRIZ_CORRELACAO.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./GOV_MATRIZ_CORRELACAO_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./GOV_MATRIZ_CORRELACAO_es.md)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 

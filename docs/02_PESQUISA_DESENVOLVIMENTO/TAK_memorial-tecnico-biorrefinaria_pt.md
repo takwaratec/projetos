@@ -1,15 +1,44 @@
-# MEMORIAL TÉCNICO: SISTEMA INTEGRADO DE PIRÓLISE E TRATAMENTO DE BAMBU
+---
+author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
+  name: Takwara, Fabio Resck
+  orcid: 0000-0001-8815-3885
+date: '2026-03-04'
+doi: 10.5281/zenodo.18826841
+doi_collection: 10.5281/zenodo.17225867
+keywords:
+- pirólise
+- biochar
+- bambu
+- Guadua
+- biorrefinaria
+- soberania energética
+- extrato pirolenhoso
+- NR-13
+- MRV
+- E2G
+language: pt
+license: CC BY 4.0
+related_works:
+- 10.5281/zenodo.18826841
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827513
+series: Série Técnica Plataforma Amazônia Regenerativa — Documentação Técnica de Engenharia
+subtitle: Base Técnica para Bioeconomia, Soberania Energética e Captação de Recursos
+title: 'Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu'
+translations:
+  en: TAK_memorial-tecnico-biorrefinaria_en.md
+  es: TAK_memorial-tecnico-biorrefinaria_es.md
+  pt: TAK_memorial-tecnico-biorrefinaria_pt.md
+type: Report
+version: '2.0'
+---
+# Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu
 
-## Base Técnica para Bioeconomia, Soberania Energética e Captação de Recursos
-
-**Série:** Plataforma Amazônia Regenerativa — Documentação Técnica de Engenharia
-**Versão:** 5.1 | **Data:** 1 de março de 2026
-**Tecnologia:** Takwara | **Autor:** Fabio Takwara
-**Licença:** CC BY 4.0 | DOI: [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)
-
-[![DOI](https://zenodo.org/badge/993477628.svg)](https://doi.org/10.5281/zenodo.18826841)
-[![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-Pesquisa%20Ativa-green)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_memorial-tecnico-biorrefinaria_pt.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_memorial-tecnico-biorrefinaria_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_memorial-tecnico-biorrefinaria_es.md)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
 ---
 
@@ -65,6 +94,14 @@ A segurança é o divisor de águas da operação. O sistema adota as seguintes 
 **NR-13 (Vasos de Pressão e Caldeiras)**
 A caldeira geradora de vapor para o tratamento hidrotérmico e químico do bambu possui cálculo mecânico independente, válvulas de segurança calibradas para a Pressão Máxima de Trabalho Admissível (PMTA) e inspeção técnica periódica obrigatória.
 
+**Arquitetura de Prototipagem Industrial (Rigor Técnico 2.0)**
+O sistema evoluiu para um modelo de processamento cilíndrico de alta precisão, otimizando a cubagem para o manejo de colmos inteiros:
+- **Dimensionamento**: Câmaras cilíndricas de **6 metros de comprimento por 1 metro de diâmetro**, com volume útil de **4,7 m³** por câmara.
+- **Câmaras Duplas**:
+    - **Câmara A (Tratamento)**: Revestida em aço inoxidável para resistência à corrosão por extrato pirolenhoso saturado.
+    - **Câmara B (Secagem)**: Foco em isolamento térmico avançado (lã de rocha/fibra cerâmica) para secagem primária.
+- **Método de Imersão**: Substituição da alta pressão por **imersão saturada de Extrato Pirolenhoso (EP)** a pressão atmosférica, elevando a segurança operacional e reduzindo custos de CAPEX.
+
 **ABNT NBR ISO 16852 (Corta-chamas)**
 Instalação obrigatória na linha de gases não condensáveis, com função de resfriar frentes de chama e mitigar o risco de *flashback* (retorno de chama) para o reator primário.
 
@@ -91,7 +128,7 @@ O sistema emprega um queimador *Rocket Stove* isolado para consumir os gases res
 
 O licenciamento atende aos limites de emissão estabelecidos pela **Resolução CONAMA nº 382/2006** para fontes fixas.
 
-Economicamente, a viabilidade do Módulo Base ancora-se na metodologia **VERRA VM0044**, que quantifica a remoção de CO₂ pelo sequestro duradouro de carbono no solo via biochar de bambu. O modelo alinha-se diretamente a editais de inovação e bioeconomia de fundos como BNDES, FINEP e Fundo Amazônia.
+Economicamente, a viabilidade do Módulo Base ancora-se na metodologia **VERRA VM0044**, que quantifica a remoção de CO₂ pelo sequestro duradero de carbono no solo via biochar de bambu. O monitoramento e a verificação (MRV) serão amparados pelo **Sistema de Monitoramento Geoespacial Automatizado (SMGA)**, detalhado na [Nota Técnica: SMGA](./TAK_nota-tecnica-smga.md), que integra dados de satélite e ocorrências taxonômicas para garantir a rastreabilidade científica dos estoques de biomassa.
 
 ---
 
@@ -143,8 +180,7 @@ Primeiras bateladas de biochar, certificação de remoção de carbono (VERRA VM
 
 Após a validação da Camada 1, o calor excedente do plenum servirá de plataforma para a quebra da lignina de resíduos foliares em celulose fermentável, viabilizando a produção de Etanol de 2ª Geração (E2G). O CO₂ biogênico liberado na fermentação, somado aos vapores do reator, será canalizado para hidrogenação catalítica:
 
-$$CO_2 + 3H_2 
-ightleftharpoons CH_3OH + H_2O$$
+$$CO_2 + 3H_2 \rightleftharpoons CH_3OH + H_2O$$
 
 Este processo converte CO₂ em metanol líquido estocável — fundamento da **Economia do Metanol**, conceito validado globalmente pelo Prof. George A. Olah (Prêmio Nobel de Química, 1994). A estratégia transforma emissões biogênicas em combustível líquido, blindando o projeto contra a dependência de combustíveis fósseis no contexto logístico amazônico.
 
@@ -292,11 +328,19 @@ OLAH, George A.; GOEPPERT, Alain; PRAKASH, G. K. Surya. **Beyond Oil and Gas: Th
 
 UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor e Design de Projetos Térmicos** — termodinâmica de processos não condensáveis. Juiz de Fora: Departamento de Engenharia Mecânica.
 
-
-
+---
 
 **🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
 **DOI: [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)**
 
 *Plataforma Amazônia Regenerativa — Documento técnico oficial.*
 *Licença CC BY 4.0.*
+---
+
+## Como citar este documento
+
+**ABNT:**
+TAKWARA, Fabio Resck. *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — Base Técnica para Bioeconomia, Soberania Energética e Captação de Recursos*. Série Técnica Plataforma Amazônia Regenerativa — Documentação Técnica de Engenharia. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18826841.
+
+**APA:**
+Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu* (Versão 2.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18826841

@@ -36,11 +36,11 @@ Este memorando sintetiza o estado atual do orçamento consolidado da Plataforma 
 
 ## 2. Síntese do orçamento consolidado (48 meses)
 
-- **Valor global estimado:** ~R$ 19 milhões em 48 meses.
-- **CAPEX:** ~R$ 4,25 milhões (biorrefinaria, UBPs, domos, instalações).
+- **Valor global estimado:** ~R$ 20 milhões em 48 meses.
+- **CAPEX:** ~R$ 5,27 milhões (biorrefinaria, reator NR-13, UBPs, domos, instalações).
 - **OPEX:** ~R$ 14,75 milhões (RH completo, logística, insumos, certificações).
 - **Estrutura em tranches:**
-    - Tranche 1: Núcleo de menor risco (biorrefinaria, UBPs).
+    - Tranche 1: Núcleo de menor risco (biorrefinaria, UBPs). Inclui alocação de **R$ 1.022.500** para Maquinário Industrial (reator NR-13 e câmaras cilíndricas duplas).
     - Tranche 2: Escalonamento (compósitos, domos-estufa).
     - Tranche 3: Consolidação e replicação regional.
 

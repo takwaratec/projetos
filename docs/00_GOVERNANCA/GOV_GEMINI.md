@@ -19,6 +19,11 @@ version: '2.0'
 
 # GEMINI.md — Regras de Ouro da Plataforma Amazônia Regenerativa
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./GOV_GEMINI.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./GOV_GEMINI_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./GOV_GEMINI_es.md)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+
 **Série:** Governança **Versão:** 2.0 | **Data:** 2026-03-04 | **Autor:** Fabio Takwara | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)

@@ -36,11 +36,11 @@ This memorandum summarizes the current state of the consolidated budget for the 
 
 ## 2. Summary of Consolidated Budget (48 months)
 
-- **Estimated global value:** ~R$ 19 million over 48 months.
-- **CAPEX:** ~R$ 4.25 million (biorefinery, UBPs, domes, facilities).
+- **Estimated global value:** ~R$ 20 million over 48 months.
+- **CAPEX:** ~R$ 5.27 million (biorefinery, NR-13 reactor, UBPs, domes, facilities).
 - **OPEX:** ~R$ 14.75 million (full HR, logistics, inputs, certifications).
 - **Tranche structure:**
-    - Tranche 1: Lower risk core (biorefinery, UBPs).
+    - Tranche 1: Lower risk core (biorefinery, UBPs). Includes an allocation of **R$ 1,022,500** for Industrial Machinery (NR-13 reactor and dual cylindrical chambers).
     - Tranche 2: Scaling (composites, greenhouse domes).
     - Tranche 3: Consolidation and regional replication.
 

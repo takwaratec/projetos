@@ -41,8 +41,6 @@ version: '2.0'
 ---
 # Regeneration of Degraded Soils, Phytoremediation and Carbon Markets
 
-**Series:** National Applicability **Version:** 2.0 | **Date:** 2026-03-04 | **Author:** Fabio Takwara | **License:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
-
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_manual-fitorremediacao-credito-carbono.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_manual-fitorremediacao-credito-carbono_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_manual-fitorremediacao-credito-carbono_es.md)

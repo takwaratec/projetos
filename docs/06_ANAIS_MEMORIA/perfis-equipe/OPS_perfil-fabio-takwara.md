@@ -1,18 +1,28 @@
-### **🎋 Plataforma Amazônia Regenerativa — Equipe Nuclear**
+---
+author:
+  name: Takwara, Fabio Resck
+  orcid: 0000-0001-8815-3885
+date: '2026-03-04'
+doi: 10.5281/zenodo.18827106
+license: CC BY 4.0
+series: Série Técnica Plataforma Amazônia Regenerativa — Memória
+title: 'Perfil Técnico: Fabio Takwara — Idealizador e Diretor'
+version: '2.0'
+---
+# Fabio Takwara — Diretor de Inovação Tecnológica
 
-**Perfil 01 de 03** | equipe/perfis-nucleo.md | v2.2 | março 2026
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
-## ---
+> **Função na Plataforma:** Idealizador, Arquiteto do Sistema e Diretor de Inovação Tecnológica  
+> **Sede:** Limeira, São Paulo — Brasil  
+> **Nascimento:** 18/07/1966, São Paulo-SP
 
-**Fabio Takwara**
+---
 
-**Cargo na Plataforma:** Idealizador, Arquiteto do Sistema e Diretor de Inovação Tecnológica
+## 1. Trajetória
 
-**Sede:** Limeira, São Paulo — Brasil
-
-**Nome civil:** Fabio Fernandes Resck | **Nascimento:** 18/07/1966, São Paulo-SP
-
-### **Trajetória**
 
 Artista, educador e pesquisador autodidata, Fabio Takwara atua desde 1983 na interface entre arte, educação ambiental e tecnologia social. Em **1984**, integrou o projeto UniverCidade (UNIPAZ/Brasília), sob coordenação de Lídia Rebouças e Pierre Weil, onde consolidou a base de seu método de ensino técnico com comunidades. Em **1987**, realizou oficinas profissionalizantes na ACEDEM (SP), com exposição aprovada por Marilena Chauí, marcando sua primeira experiência formal de tecnologia como instrumento de emancipação.
 

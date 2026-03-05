@@ -18,11 +18,7 @@ type: Handbook
 version: '2.0'
 ---
 
-# CARTILLA DE BIOECONOMÍA COMUNITARIA DEL BAMBÚ
-
-## De la Selva a la Cooperativa: Una Guía Práctica para Cualquier Persona, en Cualquier Bioma
-
-**Serie:** Tecnología Takwara **Versión:** 2.0 | **Data:** 2026-03-04 | **Autor:** Fabio Takwara | **Licencia:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
+# Cartilla de Bioeconomía Comunitaria del Bambú
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

@@ -1,20 +1,29 @@
-<div align="center">
+---
+author:
+  name: Takwara, Fabio Resck
+  orcid: 0000-0001-8815-3885
+date: '2026-03-04'
+doi: 10.5281/zenodo.18827106
+license: CC BY 4.0
+series: Série Técnica Plataforma Amazônia Regenerativa — Memória
+title: 'Perfil Técnico: Jesiel Campos — Núcleo de Equipamentos'
+version: '2.0'
+---
+# Jesiel Pereira de Campos Silva — Núcleo de Equipamentos
 
-### 🎋 Plataforma Amazônia Regenerativa — Equipe Nuclear
-v1.0 | março 2026
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
-</div>
+> **Função na Plataforma:** Coordenador do Núcleo de Desenvolvimento de Equipamentos — Biorrefinaria Comunitária  
+> **Sede:** Formosa, Goiás — Brasil  
+> **Formação:** Geógrafo (UEG, 2001) | Pós-graduado em Gestão Ambiental (UEG, 2002)  
+> **Distinção:** Medalha Pedro Ludovico Teixeira — Assembleia Legislativa de Goiás | Cidadão Formosense (2023)
 
 ---
 
-## Jesiel Pereira de Campos Silva
+## 1. Trajetória
 
-**Cargo na Plataforma:** Coordenador do Núcleo de Desenvolvimento de Equipamentos — Biorrefinaria Comunitária
-**Sede:** Formosa, Goiás — Brasil
-**Formação:** Geógrafo (UEG, 2001) | Pós-graduado em Gestão Ambiental (UEG, 2002)
-**Distinção:** Medalha Pedro Ludovico Teixeira — Assembleia Legislativa de Goiás | Cidadão Formosense (2023)
-
-### Trajetória
 
 Nascido em Brasília e criado em Alvorada do Norte (GO), Jesiel Campos iniciou sua compreensão do trabalho rural como boia-fria nas colheitas de feijão no Nordeste Goiano — experiência que moldou sua convicção de que a tecnologia deve eliminar a penosidade do trabalho, não substituir o trabalhador. Fundou o Instituto Transformar (ISDS), referência nacional em mecanização da agricultura familiar no Cerrado.
 

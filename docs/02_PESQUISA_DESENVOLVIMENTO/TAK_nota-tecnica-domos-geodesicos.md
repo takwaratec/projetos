@@ -1,6 +1,44 @@
-# **Bio-soberania Nacional na Amazônia: Validação Técnica de Domos Geodésicos como Estufas de Ambiente Controlado para a Industrialização Regenerativa do Bambu e Biocompósitos**
+---
+author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
+  name: Takwara, Fabio Resck
+  orcid: 0000-0001-8815-3885
+date: '2026-03-04'
+doi: 10.5281/zenodo.18827106
+doi_collection: 10.5281/zenodo.17225867
+keywords:
+- domos geodésicos
+- estufas
+- umidade
+- bio-soberania
+- Amazônia
+- Tecnologia Takwara
+- biocompósitos
+- PU Vegetal
+language: pt
+license: CC BY 4.0
+related_works:
+- 10.5281/zenodo.18826841
+- 10.5281/zenodo.18827106
+series: Série Técnica Plataforma Amazônia Regenerativa — Pesquisa e Desenvolvimento
+subtitle: Validação Técnica de Estufas de Ambiente Controlado para a Industrialização Regenerativa
+title: 'Nota Técnica: Domos Geodésicos e Bio-soberania Nacional na Amazônia'
+translations:
+  en: TAK_nota-tecnica-domos-geodesicos_en.md
+  es: TAK_nota-tecnica-domos-geodesicos_es.md
+  pt: TAK_nota-tecnica-domos-geodesicos.md
+type: Report
+version: '2.0'
+---
+# Nota Técnica: Domos Geodésicos e Bio-soberania Nacional na Amazônia
 
-A proposta de Bio-soberania Nacional para a Amazônia representa um marco fundamental na transição de um modelo econômico meramente extrativista para uma matriz de industrialização regenerativa, tecnologicamente autônoma e socialmente inclusiva.1 No centro desta estratégia está a exploração sustentável do bambu nativo (*Guadua spp.*), particularmente no estado do Acre, que abriga a maior reserva contínua deste recurso no planeta, totalizando 4,5 milhões de hectares.1 Entretanto, a viabilidade técnica desta cadeia produtiva enfrenta um obstáculo termodinâmico severo: a elevada umidade relativa do ar na região amazônica, que frequentemente supera os ![][image1].2 Este documento técnico valida a implementação de domos geodésicos como estufas de alto desempenho, capazes de mitigar o desafio da umidade através de princípios de ventilação passiva e eficiência térmica, servindo como infraestrutura crítica para a ancoragem química de biopolímeros e a estabilização de biomateriais de alto valor agregado.1
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_nota-tecnica-domos-geodesicos.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_nota-tecnica-domos-geodesicos_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_nota-tecnica-domos-geodesicos_es.md)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+
+---
+
 
 ## **1\. O Paradigma da Bio-soberania e o Desafio Amazônico**
 

@@ -6,13 +6,13 @@ Este workflow deve ser acionado sempre que o usuário solicitar a criação ou e
 
 ### Instruções para o Agente:
 
-1. **Consulta ao Módulo D**: Leia as regras de documentação profissional no `Protocolo GEMINI`.
-2. **Higiene de Ativos**:
-    - Remova qualquer referência a plataformas de IA (Perplexity, logos, assinaturas).
-    - Elimine âncoras de busca `[^n]` ou links de arquivos soltos.
-3. **Escrita Direta**: Comece o conteúdo sem introduções conversacionais da IA.
-4. **Links Formais**: Utilize links internos padronizados: `[Título](diretório/arquivo.md)`.
-5. **Revisão Técnica**: Verifique se os conceitos técnicos (Bambu Nativo, PU Vegetal, Sistema Takwara) estão alinhados com o `GEMINI.md`.
+1. **Consulta ao Módulo D e Skills**: Leia as regras de documentação profissional no `Protocolo GEMINI` e a **Skill** específica do diretório em `.agents/skills/`.
+2. **Padrão Advocacy 5.1**: Aplique rigorosamente as regras em `.agents/rules/advocacy_5_1_redacao.md`.
+3. **Higiene de Ativos**:
+    - Remova referências a IAs (Perplexity, Gemini, etc.).
+    - Elimine âncoras de busca `[^n]` e links soltos.
+4. **Escrita Humana**: Comece o conteúdo diretamente, sem introduções robóticas.
+5. **Links e Técnica**: Use links internos padrão e garanta que conceitos (Bambu Nativo, Sistema Takwara) sigam a Skill de Tecnologia e o `GEMINI.md`.
 
 // turbo
-**Comando Sugerido**: "Aplique o protocolo de redação técnica ao arquivo [caminho] focando em [tema]."
+**Comando Sugerido**: "Aplique o protocolo de redação técnica e Advocacy 5.1 ao arquivo [caminho] focando em [tema]."
