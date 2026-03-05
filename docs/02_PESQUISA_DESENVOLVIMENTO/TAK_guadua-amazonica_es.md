@@ -59,6 +59,26 @@ Para Brasil, el bambú — especialmente las formaciones autóctonas de *Guadua*
 
 ---
 
+## 9. BIBLIOGRAFÍA
+
+1. INBAR. *World Bamboo Resources: A Thematic Study*. Rome: FAO/INBAR, 2007.
+2. LIESE, Walter; KÖHL, Michael. *Bamboo: The Plant and Its Uses*. Cham: Springer, 2015.
+3. ABNT. *NBR 16828-1: Estructuras de bambú – Diseño*. Rio de Janeiro, 2020.
+4. GHAVAMI, K. "Bamboo as reinforcement in structural concrete elements." *Cement and Concrete Composites*, v. 27, n. 6, p. 637–649, 2005.
+5. BERALDO, A. L.; PEREIRA, M. A. dos R. *Bambu de Corpo e Alma*. Bauru: Canal 6, 2008.
+6. FAIX, S. et al. "Global bamboo distribution and species richness." *Nature Plants*, 2017.
+7. LOBOVIKOV, M. et al. *World Bamboo Resources: A Thematic Study*. FAO/INBAR, 2007.
+8. TAKWARA, Fabio. *Plataforma de Biosoberanía Nacional*. Rio Branco: Centro Takwara, 2024.
+9. BRASIL. *Ley 12.484/2011 – Política Nacional de Incentivo al Manejo Sostenible y Cultivo del Bambú*. Brasília, 2011.
+10. MDIC. *Datos de Importación y Exportación de Productos de Bambú*. Brasília: MDIC, 2024.
+
+---
+
+**🎋 Takwara — Soberanía Técnica para la Justicia Social**
+**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
+
+---
+
 ## CÓMO CITAR ESTE DOCUMENTO
 
 **APA:**
