@@ -25,15 +25,16 @@ translations:
   en: COM_dossie-cop30_en.md
   es: COM_dossie-cop30_es.md
   pt: COM_dossie-cop30.md
-type: Dossier
-version: '2.0'
+type: Dossiê Estratégico
+version: '2.1'
 ---
 # Plataforma Amazônia Regenerativa: Saneamento Ecológico, Bambu Guadua spp. e Bioindústrias Comunitárias de Baixo Carbono
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./COM_dossie-cop30.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./COM_dossie-cop30_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./COM_dossie-cop30_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Dossi%C3%AA%20Estrat%C3%A9gico-teal)
 
 ## **1\. Resumo executivo**
 
@@ -211,35 +212,41 @@ Principais lacunas a endereçar em estudos complementares:
 
 ---
 
-## **11\. Referências bibliográficas** 
+## **11. Como Citar**
 
-ABNT. NBR 16828-1: Estruturas de bambu – Projeto – Parte 1: Requisitos. Rio de Janeiro, 2020.\[[ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/79897112/db92734c-7088-475d-8143-6a0f93a5ce0d/BIO-SOBERANIA-NACIONAL_-T_260216_151946.pdf)\]​
+**APA:**
+Takwara, F. R. (2026). *Dossiê COP30: Plataforma Amazônia Regenerativa* (Versão 2.1). Dossiê Estratégico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
-ABNT. NBR 16828-2: Estruturas de bambu – Parte 2: Determinação das propriedades físicas e mecânicas. Rio de Janeiro, 2020.\[[ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/79897112/db92734c-7088-475d-8143-6a0f93a5ce0d/BIO-SOBERANIA-NACIONAL_-T_260216_151946.pdf)\]​
+---
 
-BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (BNDES). Chamada Pública Sanear Amazônia: Água Potável para Comunidades da Amazônia. Rio de Janeiro, 2024.Bio-Soberania-e-Saneamento-Amazonico.md+1
+## **12. Referências bibliográficas** 
 
-BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (BNDES). Bioeconomia: a bioeconomia brasileira em números (BNDES Setorial 47). Rio de Janeiro, 2018.\[[ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/79897112/f7c915a5-f938-48a9-92ec-1bb26209ddd4/BS47__Bioeconomia__FECHADO.pdf)\]​
+ABNT. NBR 16828-1: Estruturas de bambu – Projeto – Parte 1: Requisitos. Rio de Janeiro, 2020.​
 
-BNDES; MDIC. Nova Indústria Brasil: missões, instrumentos e recursos 2024–2033. Brasília, 2024.\[[ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/79897112/5ea49076-cab7-405c-aa07-970ba5bb18c9/Entenda-o-programa-Nova-Industria-Brasil.docx)\]​
+ABNT. NBR 16828-2: Estruturas de bambu – Parte 2: Determinação das propriedades físicas e mecânicas. Rio de Janeiro, 2020.​
 
-FERREIRA, Iwin da Silveira et al. Bioeconomia: perspectiva de desenvolvimento de cadeias produtivas da biodiversidade do Amazonas. Manaus, 2024.Apresentacao-Universidade-de-Brasilia-1-1.docx+1
+BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (BNDES). *Chamada Pública Sanear Amazônia: Água Potável para Comunidades da Amazônia*. Rio de Janeiro, 2024.
 
-INSTITUTO TRATA BRASIL. Saneamento e Saúde: impacto das internações por doenças relacionadas ao saneamento inadequado. São Paulo, 2025.\[[ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/79897112/0c464cde-5767-42a4-9b0f-8e68f2a54ba9/Bio-Soberania-e-Saneamento-Amazonico.md)\]​
+BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (BNDES). *Bioeconomia: a bioeconomia brasileira em números* (BNDES Setorial 47). Rio de Janeiro, 2018.
 
-IMPERVEG. Boletim técnico Imperveg FL 133 A – Poliuretano vegetal de mamona. São Paulo, 2021.1tri2024.pdf+2
+BNDES; MDIC. *Nova Indústria Brasil: missões, instrumentos e recursos 2024–2033*. Brasília, 2024.
 
-NEU, Vania et al. Banheiro ecológico ribeirinho: saneamento descentralizado para comunidades de várzea na Amazônia. Em Extenso, Uberlândia, v. 15, n. 1, p. 28–44, 2016.Nota\_Tecnica\_001\_BIOECONOMIA\_CTI\_Bioeconomia\_no\_Amazonas.pdf+1
+FERREIRA, Iwin da Silveira et al. *Bioeconomia: perspectiva de desenvolvimento de cadeias produtivas da biodiversidade do Amazonas*. Manaus, 2024.
 
-NOVA ECONOMIA DA AMAZÔNIA (NEA). Nova Economia da Amazônia: Relatório Completo. São Paulo: WRI Brasil, 2023.\[[ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/79897112/bbb566bb-ee8b-46ec-bf28-7bb5487eb877/NEA-Nova-Economia-Amazonia-Relatorio-Completo-portugues.pdf)\]​
+INSTITUTO TRATA BRASIL. *Saneamento e Saúde: impacto das internações por doenças relacionadas ao saneamento inadequado*. São Paulo, 2025.
 
-PLATAFORMA NOVA ECONOMIA DA AMAZÔNIA (NEA-BR). Bioeconomia no Brasil: conceitos, princípios e oportunidades. São Paulo, 2023.\[[ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/79897112/1e578595-e574-4758-98d3-0f4fdad9d7ce/NEA-BR_Bioeconomia_PT.pdf)\]​
+IMPERVEG. *Boletim técnico Imperveg FL 133 A – Poliuretano vegetal de mamona*. São Paulo, 2021.
 
-SECRETARIA DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO DO AMAZONAS (SECTI/SEDECTI-AM). Notas Técnicas: Ciência, Tecnologia e Inovação na Bioeconomia Amazônica – Nº 01/2021 – Bioeconomia no Amazonas. Manaus, 2021.\[[ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/79897112/71f2598c-e04e-42b7-945e-d3ff6647e067/Nota_Tecnica_001_BIOECONOMIA_CTI_Bioeconomia_no_Amazonas.pdf)\]​
+NEU, Vania et al. Banheiro ecológico ribeirinho: saneamento descentralizado para comunidades de várzea na Amazônia. *Em Extenso*, Uberlândia, v. 15, n. 1, p. 28–44, 2016.
 
-TAKWARA, Fabio. Plataforma de Bio-soberania Nacional: industrialização sustentável e engenharia regenerativa na Amazônia. Rio Branco: Núcleo JesielTakwara, 2024.Fabio-Takwara-Tecnologias-Regenerativas.md+2
+NOVA ECONOMIA DA AMAZÔNIA (NEA). *Nova Economia da Amazônia: Relatório Completo*. São Paulo: WRI Brasil, 2023.
 
-TAKWARA, Fabio. Estufas geodésicas: Centro de Excelência em Tecnologias Geodésicas e Tecnologia Takwara. Holambra: Ecolaborativa, 2024.Fabio-Takwara-Tecnologias-Regenerativas.md+2
+PLATAFORMA NOVA ECONOMIA DA AMAZÔNIA (NEA-BR). *Bioeconomia no Brasil: conceitos, princípios e oportunidades*. São Paulo, 2023.
 
-\[Outras referências dos arquivos “Bioeconomia: uma agenda para o Brasil”, “NEA-BR\_Bioeconomia\_PT.pdf” e “Biopolímeros, Bambu e Construções Resilientes” podem ser adicionadas conforme a necessidade de citação específica no texto final\].Bioeconomia-uma-agenda-para-o-Brasil.pdf+2
+SECRETARIA DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO DO AMAZONAS (SECTI/SEDECTI-AM). *Notas Técnicas: Ciência, Tecnologia e Inovação na Bioeconomia Amazônica – Nº 01/2021 – Bioeconomia no Amazonas*. Manaus, 2021.
+
+TAKWARA, Fabio. *Plataforma de Bio-soberania Nacional: industrialização sustentável e engenharia regenerativa na Amazônia*. Rio Branco: Núcleo Jesiel Takwara, 2024.
+
+TAKWARA, Fabio. *Estufas geodésicas: Centro de Excelência em Tecnologias Geodésicas e Tecnologia Takwara*. Holambra: Ecolaborativa, 2024.
+
 

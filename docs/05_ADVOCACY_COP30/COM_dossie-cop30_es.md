@@ -25,15 +25,16 @@ translations:
   en: COM_dossie-cop30_en.md
   es: COM_dossie-cop30_es.md
   pt: COM_dossie-cop30.md
-type: Dossier
-version: '2.0'
+type: Dossier Estratégico
+version: '2.1'
 ---
 # Plataforma Amazonia Regenerativa: Saneamiento Ecológico, Bambú Guadua spp. y Bioindustrias Comunitarias de Bajo Carbono
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./COM_dossie-cop30.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./COM_dossie-cop30_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./COM_dossie-cop30_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Dossier%20Estrat%C3%A9gico-teal)
 
 ## **1. Resumen Ejecutivo**
 
@@ -222,7 +223,7 @@ Lagunas principales a solventar en estudios complementarios:
 
 ---
 
-## Cómo Citar este Documento
+## **11. Cómo Citar**
 
 **APA:**
-Takwara, F. R. (2026). *Dossier COP30: Plataforma Amazonia Regenerativa* (Versión 2.0). Centro Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Dossier COP30: Plataforma Amazonia Regenerativa* (Versión 2.1). Dossier Estratégico — Centro Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106

@@ -25,15 +25,16 @@ translations:
   en: COM_dossie-cop30_en.md
   es: COM_dossie-cop30_es.md
   pt: COM_dossie-cop30.md
-type: Dossier
-version: '2.0'
+type: Strategic Dossier
+version: '2.1'
 ---
 # Regenerative Amazon Platform: Ecological Sanitation, Guadua spp. Bamboo, and Low-Carbon Community Bioindustries
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./COM_dossie-cop30.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./COM_dossie-cop30_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./COM_dossie-cop30_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Type](https://img.shields.io/badge/type-Strategic%20Dossier-teal)
 
 ## **1. Executive Summary**
 
@@ -222,7 +223,7 @@ Principal gaps to address in complementary studies:
 
 ---
 
-## How to cite this document
+## **11. How to Cite**
 
 **APA:**
-Takwara, F. R. (2026). *COP30 Dossier: Regenerative Amazon Platform* (Version 2.0). Takwara Center / University of Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *COP30 Dossier: Regenerative Amazon Platform* (Version 2.1). Strategic Dossier — Takwara Center / University of Brasília. https://doi.org/10.5281/zenodo.18827106
