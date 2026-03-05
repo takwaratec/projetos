@@ -30,7 +30,7 @@ related_works:
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
 series: Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional
-subtitle: 'O Bambu como Engenheiro Ecológico: Do Solo Contaminado ao Crédito Certificado'
+
 title: Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono
 translations:
   en: TAK_manual-fitorremediacao-credito-carbono_en.md
@@ -48,7 +48,7 @@ version: '2.0'
 
 ---
 
-## O Bambu como Engenheiro Ecológico: Do Solo Contaminado ao Crédito Certificado
+**O Bambu como Engenheiro Ecológico: Do Solo Contaminado ao Crédito Certificado**
 
 
 ---

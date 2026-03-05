@@ -24,7 +24,7 @@ related_works:
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
 series: Série Técnica Plataforma Amazônia Regenerativa — Documentação Técnica de Engenharia
-subtitle: Base Técnica para Bioeconomia, Soberania Energética e Captação de Recursos
+
 title: 'Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu'
 translations:
   en: TAK_memorial-tecnico-biorrefinaria_en.md

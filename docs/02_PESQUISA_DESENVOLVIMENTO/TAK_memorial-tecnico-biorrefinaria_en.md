@@ -24,7 +24,7 @@ related_works:
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
 series: Regenerative Amazon Platform Technical Series — Engineering Documentation
-subtitle: Technical Basis for Bioeconomy, Energy Sovereignty, and Resource Mobilization
+
 title: 'Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System'
 translations:
   en: TAK_memorial-tecnico-biorrefinaria_en.md

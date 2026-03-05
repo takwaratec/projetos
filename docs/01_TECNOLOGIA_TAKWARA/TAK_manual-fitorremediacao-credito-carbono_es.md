@@ -30,7 +30,7 @@ related_works:
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
 series: Serie Técnica Plataforma Amazonia Regenerativa — Aplicabilidad Nacional
-subtitle: 'El Bambú como Ingeniero Ecológico: Del Suelo Contaminado al Crédito Certificado'
+
 title: Regeneración de Suelos Degradados, Fitorremediación y Mercados de Carbono
 translations:
   en: TAK_manual-fitorremediacao-credito-carbono_en.md
@@ -48,7 +48,7 @@ version: '2.0'
 
 ---
 
-## El Bambú como Ingeniero Ecológico: Del Suelo Contaminado al Crédito Certificado
+**El Bambú como Ingeniero Ecológico: Del Suelo Contaminado al Crédito Certificado**
 
 ---
 

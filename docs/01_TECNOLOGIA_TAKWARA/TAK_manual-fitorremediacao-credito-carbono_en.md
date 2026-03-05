@@ -30,7 +30,7 @@ related_works:
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
 series: Regenerative Amazon Platform Technical Series — National Applicability
-subtitle: 'Bamboo as an Ecological Engineer: From Contaminated Soil to Certified Credit'
+
 title: Regeneration of Degraded Soils, Phytoremediation and Carbon Markets
 translations:
   en: TAK_manual-fitorremediacao-credito-carbono_en.md
@@ -48,7 +48,7 @@ version: '2.0'
 
 ---
 
-## Bamboo as an Ecological Engineer: From Contaminated Soil to Certified Credit
+**Bamboo as an Ecological Engineer: From Contaminated Soil to Certified Credit**
 
 ---
 
