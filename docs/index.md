@@ -8,6 +8,10 @@
 
 ---
 
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](#) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](index_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](index_es.md)
+
+---
+
 Bem-vindo(a) à documentação oficial da Plataforma Amazônia Regenerativa. Este espaço consolida o capital intelectual, técnico e estratégico do projeto, servindo como hub central para avaliadores, auditores e parceiros.
 
 ## 📂 Eixos de Avaliação
