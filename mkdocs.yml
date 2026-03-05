@@ -25,49 +25,58 @@ nav:
       - Português: index.md
       - English: index_en.md
       - Español: index_es.md
-  - O Projeto:
+  - 1. Estratégia e Governança:
       - Resumo Executivo: 01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1.md
-  - A Tecnologia:
-      - Poliuretano Vegetal: 02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal.md
+      - Autoria e Propriedade Intelectual: 00_GOVERNANCA/GOV_AUTORIA.md
+      - Matriz de Correlação de Projetos: 00_GOVERNANCA/GOV_MATRIZ_CORRELACAO.md
+      - Compartilhamento de Dados: 00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados.md
+      - Memorando Orçamentário: 00_GOVERNANCA/GOV_memorando-orcamento-consolidado.md
+      - Plataforma v5.1: 06_ANAIS_MEMORIA/TAK_plataforma-v5.1.md
+  - 2. Ciência e Tecnologia (R&D):
+      - Poliuretano Vegetal e Solda: 02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal.md
       - Conexões Estruturais: 01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu.md
       - Tijolos Ecológicos: 01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md
-  - Material de Apoio:
-      - Cartilha Bioeconomia: 01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md
-      - Manual Fitorremediação: 01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md
+      - Biorrefinaria Comunitária: 02_PESQUISA_DESENVOLVIMENTO/TAK_memorial-tecnico-biorrefinaria_pt.md
+      - Carvão e Extrato Pirolenhoso: 02_PESQUISA_DESENVOLVIMENTO/TAK_carvao-pirolenhoso.md
+      - Briquetes Técnicos: 02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-briquetes.md
+      - Monitoramento SMEGA: 02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md
+  - 3. Impacto e Manejo:
+      - Bioeconomia do Bambu: 01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md
+      - Fitorremediação e Carbono: 01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md
+      - Manejo Guadua Amazônica: 02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica.md
       - Saneamento Ecológico: 02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico.md
-  - A Plataforma:
-      - Plataforma v5.1 (PT): 06_ANAIS_MEMORIA/TAK_plataforma-v5.1.md
-      - Plataforma v5.1 (EN): 06_ANAIS_MEMORIA/TAK_plataforma-v5.1_en.md
-      - Plataforma v5.1 (ES): 06_ANAIS_MEMORIA/TAK_plataforma-v5.1_es.md
-  - O Bambu:
-      - Guadua Amazônica: 02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica.md
-  - Advocacy:
-      - Memorando Orçamentário: 00_GOVERNANCA/GOV_memorando-orcamento-consolidado.md
-
-  - Blog Pessoal (Medium):
-      - 'Os Três Vieses que Moldam a Contradição Climática do Brasil na COP30': 07_BLOG_MEDIUM/2025-11-18_Os-Tr-s-Vieses-que-Moldam-a-Contradi--o-Clim-tica-do-Brasil-na-COP30-55c791fb9cd7.md
-      - 'Briefing - Análise do Painel “Desafios para a Manutenção da Floresta em Pé” — COP30': 07_BLOG_MEDIUM/2025-11-16_Briefing--An-lise-do-Painel--Desafios-para-a-Manuten--o-da-Floresta-em-P-----COP30-9bb459de6801.md
-      - 'Bambu Sem Manejo - A Urgência da Regulamentação e os Riscos dos Falsos Créditos de Carbono': 07_BLOG_MEDIUM/2025-10-19_Bambu-Sem-Manejo--A-Urg-ncia-da-Regulamenta--o-e-os-Riscos-dos-Falsos-Cr-ditos-de-Carbono-92fe7b2b4de9.md
-      - 'O Escândalo Silencioso do Bambu Brasileiro - Quando a Sustentabilidade Esconde Toxicidade…': 07_BLOG_MEDIUM/2025-10-16_O-Esc-ndalo-Silencioso-do-Bambu-Brasileiro--Quando-a-Sustentabilidade-Esconde-Toxicidade--b33acea60ccc.md
-      - 'O Bambu Brasileiro na Mira do Neocolonialismo - Como Jovens Viram Garotos-Propaganda da Dependência…': 07_BLOG_MEDIUM/2025-10-15_O-Bambu-Brasileiro-na-Mira-do-Neocolonialismo--Como-Jovens-Viram-Garotos-Propaganda-da-Depend-ncia--669ce2a1cda0.md
-      - 'COP30 - O Grande Teatro da Diplomacia Ambiental — O Greenwashing Oficial no Brasil': 07_BLOG_MEDIUM/2025-09-30_COP30--O-Grande-Teatro-da-Diplomacia-Ambiental---O-Greenwashing-Oficial-no-Brasil-a7ac50a8f2cb.md
-      - 'A Tornozeleira de Tróia e o PL da Destruição -': 07_BLOG_MEDIUM/2025-08-07_A-Tornozeleira-de-Tr-ia-e-o-PL-da-Destrui--o--2374f1cd0f89.md
-      - 'Nova Esperança - A Revolução Silenciosa de um Presidente e sua IA': 07_BLOG_MEDIUM/2024-06-23_Nova-Esperan-a--A-Revolu--o-Silenciosa-de-um-Presidente-e-sua-IA-8ea80b6586ca.md
-      - 'Ser ou Não Ser': 07_BLOG_MEDIUM/2024-03-18_Ser-ou-N-o-Ser-7b2f5e3d70cb.md
-      - 'Biochar e Bambu - Inovação Sustentável no Aumento da Fertilidade do Solo': 07_BLOG_MEDIUM/2024-02-28_Biochar-e-Bambu--Inova--o-Sustent-vel-no-Aumento-da-Fertilidade-do-Solo-58a23569b1c5.md
-      - 'Frente Parlamentar do Bambu -': 07_BLOG_MEDIUM/2024-02-20_Frente-Parlamentar-do-Bambu--5ca794cfcc9c.md
-      - 'Desvendando o Universo do Bambu -': 07_BLOG_MEDIUM/2024-02-20_Desvendando-o-Universo-do-Bambu--e6f8eefe4795.md
-      - 'Desafios e Dados Alarmantes na Gestão de Resíduos Sólidos no Brasil - Uma Análise Abrangente': 07_BLOG_MEDIUM/2024-02-20_Desafios-e-Dados-Alarmantes-na-Gest-o-de-Res-duos-S-lidos-no-Brasil--Uma-An-lise-Abrangente-bb1be13970b7.md
-      - 'Brasil - capítulo 6': 07_BLOG_MEDIUM/2023-06-02_Brasil--cap-tulo-6-d9fd850a1749.md
-      - 'PELLET DE BAMBU': 07_BLOG_MEDIUM/2023-02-24_PELLET-DE-BAMBU-8321a6345520.md
-      - 'O mercado do Bambu no Brasil': 07_BLOG_MEDIUM/2023-01-06_O-mercado-do-Bambu-no-Brasil-82618b31bf0e.md
-      - 'Carbono x Pobreza': 07_BLOG_MEDIUM/2023-01-05_Carbono-x-Pobreza-b9564c9bc847.md
-      - 'A Magia do Boro': 07_BLOG_MEDIUM/2021-10-08_A-Magia-do-Boro-9182754edf6c.md
-      - 'O Poliuretano Vegetal': 07_BLOG_MEDIUM/2021-08-23_O-Poliuretano-Vegetal-7bd807af7a20.md
-      - 'Ficha de Anarquista': 07_BLOG_MEDIUM/2021-07-18_Ficha-de-Anarquista-7ffe556f00f2.md
-      - 'O Bambu e o Carbono': 07_BLOG_MEDIUM/2021-02-23_O-Bambu-e-o-Carbono-3779cc7ac33a.md
-      - 'Os Tratamentos para o Bambu': 07_BLOG_MEDIUM/2021-02-06_Os-Tratamentos-para-o-Bambu-e3e5d55137d3.md
-      - 'A ECOLOGIA DO BAMBU': 07_BLOG_MEDIUM/2021-01-17_A-ECOLOGIA-DO-BAMBU-969a2cc49ae3.md
+      - Tratamento sem Veneno: 02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md
+  - 4. Capital Humano:
+      - Fabio Resck Takwara: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara.md
+      - Jesiel Campos: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-jesiel-campos.md
+      - Tânia Cristina Cruz: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz.md
+      - Tiago Filemon: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-tiago-filemon.md
+  - 5. Advocacy e Difusão:
+      - Dossiê Estratégico COP30: 05_ADVOCACY_COP30/COM_dossie-cop30.md
+      - Blog Pessoal (Medium):
+          - 'Os Três Vieses que Moldam a Contradição Climática do Brasil na COP30': 07_BLOG_MEDIUM/2025-11-18_Os-Tr-s-Vieses-que-Moldam-a-Contradi--o-Clim-tica-do-Brasil-na-COP30-55c791fb9cd7.md
+          - 'Briefing - Análise do Painel “Desafios para a Manutenção da Floresta em Pé” — COP30': 07_BLOG_MEDIUM/2025-11-16_Briefing--An-lise-do-Painel--Desafios-para-a-Manuten--o-da-Floresta-em-P-----COP30-9bb459de6801.md
+          - 'Bambu Sem Manejo - A Urgência da Regulamentação e os Riscos dos Falsos Créditos de Carbono': 07_BLOG_MEDIUM/2025-10-19_Bambu-Sem-Manejo--A-Urg-ncia-da-Regulamenta--o-e-os-Riscos-dos-Falsos-Cr-ditos-de-Carbono-92fe7b2b4de9.md
+          - 'O Escândalo Silencioso do Bambu Brasileiro - Quando a Sustentabilidade Esconde Toxicidade…': 07_BLOG_MEDIUM/2025-10-16_O-Esc-ndalo-Silencioso-do-Bambu-Brasileiro--Quando-a-Sustentabilidade-Esconde-Toxicidade--b33acea60ccc.md
+          - 'O Bambu Brasileiro na Mira do Neocolonialismo - Como Jovens Viram Garotos-Propaganda da Dependência…': 07_BLOG_MEDIUM/2025-10-15_O-Bambu-Brasileiro-na-Mira-do-Neocolonialismo--Como-Jovens-Viram-Garotos-Propaganda-da-Depend-ncia--669ce2a1cda0.md
+          - 'COP30 - O Grande Teatro da Diplomacia Ambiental — O Greenwashing Oficial no Brasil': 07_BLOG_MEDIUM/2025-09-30_COP30--O-Grande-Teatro-da-Diplomacia-Ambiental---O-Greenwashing-Oficial-no-Brasil-a7ac50a8f2cb.md
+          - 'A Tornozeleira de Tróia e o PL da Destruição -': 07_BLOG_MEDIUM/2025-08-07_A-Tornozeleira-de-Tr-ia-e-o-PL-da-Destrui--o--2374f1cd0f89.md
+          - 'Nova Esperança - A Revolução Silenciosa de um Presidente e sua IA': 07_BLOG_MEDIUM/2024-06-23_Nova-Esperan-a--A-Revolu--o-Silenciosa-de-um-Presidente-e-sua-IA-8ea80b6586ca.md
+          - 'Ser ou Não Ser': 07_BLOG_MEDIUM/2024-03-18_Ser-ou-N-o-Ser-7b2f5e3d70cb.md
+          - 'Biochar e Bambu - Inovação Sustentável no Aumento da Fertilidade do Solo': 07_BLOG_MEDIUM/2024-02-28_Biochar-e-Bambu--Inova--o-Sustent-vel-no-Aumento-da-Fertilidade-do-Solo-58a23569b1c5.md
+          - 'Frente Parlamentar do Bambu -': 07_BLOG_MEDIUM/2024-02-20_Frente-Parlamentar-do-Bambu--5ca794cfcc9c.md
+          - 'Desvendando o Universo do Bambu -': 07_BLOG_MEDIUM/2024-02-20_Desvendando-o-Universo-do-Bambu--e6f8eefe4795.md
+          - 'Desafios e Dados Alarmantes na Gestão de Resíduos Sólidos no Brasil - Uma Análise Abrangente': 07_BLOG_MEDIUM/2024-02-20_Desafios-e-Dados-Alarmantes-na-Gest-o-de-Res-duos-S-lidos-no-Brasil--Uma-An-lise-Abrangente-bb1be13970b7.md
+          - 'Brasil - capítulo 6': 07_BLOG_MEDIUM/2023-06-02_Brasil--cap-tulo-6-d9fd850a1749.md
+          - 'PELLET DE BAMBU': 07_BLOG_MEDIUM/2023-02-24_PELLET-DE-BAMBU-8321a6345520.md
+          - 'O mercado do Bambu no Brasil': 07_BLOG_MEDIUM/2023-01-06_O-mercado-do-Bambu-no-Brasil-82618b31bf0e.md
+          - 'Carbono x Pobreza': 07_BLOG_MEDIUM/2023-01-05_Carbono-x-Pobreza-b9564c9bc847.md
+          - 'A Magia do Boro': 07_BLOG_MEDIUM/2021-10-08_A-Magia-do-Boro-9182754edf6c.md
+          - 'O Poliuretano Vegetal': 07_BLOG_MEDIUM/2021-08-23_O-Poliuretano-Vegetal-7bd807af7a20.md
+          - 'Ficha de Anarquista': 07_BLOG_MEDIUM/2021-07-18_Ficha-de-Anarquista-7ffe556f00f2.md
+          - 'O Bambu e o Carbono': 07_BLOG_MEDIUM/2021-02-23_O-Bambu-e-o-Carbono-3779cc7ac33a.md
+          - 'Os Tratamentos para o Bambu': 07_BLOG_MEDIUM/2021-02-06_Os-Tratamentos-para-o-Bambu-e3e5d55137d3.md
+          - 'A ECOLOGIA DO BAMBU': 07_BLOG_MEDIUM/2021-01-17_A-ECOLOGIA-DO-BAMBU-969a2cc49ae3.md
 
 extra:
   social:
