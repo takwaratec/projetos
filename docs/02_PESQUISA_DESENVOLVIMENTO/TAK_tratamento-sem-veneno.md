@@ -15,15 +15,15 @@ keywords:
 - preservação ecológica
 language: pt
 license: CC BY 4.0
-series: Série Técnica Plataforma Amazônia Regenerativa — P&D
+series: Série Técnica Plataforma Amazônia Regenerativa — Pesquisa e Desenvolvimento
 subtitle: Por que Banir CCA, CCB e Sais de Cobre na Cadeia do Bambu Brasileiro
 title: 'Tratamento Sem Veneno: Soberania Tecnológica para o Bambu Nativo'
 translations:
   en: TAK_tratamento-sem-veneno_en.md
   es: TAK_tratamento-sem-veneno_es.md
   pt: TAK_tratamento-sem-veneno.md
-type: Nota Técnica
-version: '2.0'
+type: Boletim Técnico-Científico
+version: '2.1'
 ---
 # Tratamento Sem Veneno: Soberania Tecnológica para o Bambu Nativo
 
@@ -32,7 +32,8 @@ version: '2.0'
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_tratamento-sem-veneno.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_tratamento-sem-veneno_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_tratamento-sem-veneno_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 ---
 
@@ -186,11 +187,10 @@ Esta cadeia — tratamento a vapor → secagem → PU vegetal → biocompósito 
 ---
 
 **🎋 Takwara — Soberania Técnica para a Justiça Social**
-**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
-
----
-
 ## Como citar este documento
 
-**ABNT:**
-TAKWARA, Fabio Resck. *Tratamento Sem Veneno: Soberania Tecnológica para o Bambu Nativo — Por que Banir CCA, CCB e Sais de Cobre na Cadeia do Bambu Brasileiro*. Versão 2.0. Centro Takwara / Universidade de Brasília, 2026. DOI: 10.5281/zenodo.18827106.
+**APA:**
+Takwara, F. R. (2026). *Tratamento Sem Veneno: Soberania Tecnológica para o Bambu Nativo* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

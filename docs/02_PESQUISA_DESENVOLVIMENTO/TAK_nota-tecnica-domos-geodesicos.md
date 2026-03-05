@@ -22,22 +22,30 @@ related_works:
 - 10.5281/zenodo.18827106
 series: Série Técnica Plataforma Amazônia Regenerativa — Pesquisa e Desenvolvimento
 subtitle: Validação Técnica de Estufas de Ambiente Controlado para a Industrialização Regenerativa
-title: 'Nota Técnica: Domos Geodésicos e Bio-soberania Nacional na Amazônia'
+title: 'Domos Geodésicos: Microclima e Bioindústria na Amazônia'
 translations:
   en: TAK_nota-tecnica-domos-geodesicos_en.md
   es: TAK_nota-tecnica-domos-geodesicos_es.md
   pt: TAK_nota-tecnica-domos-geodesicos.md
-type: Report
-version: '2.0'
+type: Boletim Técnico-Científico
+version: '2.1'
 ---
-# Nota Técnica: Domos Geodésicos e Bio-soberania Nacional na Amazônia
+# Domos Geodésicos: Microclima e Bioindústria na Amazônia
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_nota-tecnica-domos-geodesicos.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_nota-tecnica-domos-geodesicos_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_nota-tecnica-domos-geodesicos_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 ---
+
+
+## Resumo
+
+Este boletim analisa a aplicação de domos geodésicos como infraestrutura crítica para o controle microclimático na Amazônia, focando na superação do gargalo da umidade para a industrialização sustentável do bambu nativo (*Guadua* spp.). Discutem-se os princípios termodinâmicos do efeito chaminé, a eficiência estrutural da geometria esférica e a integração com a Tecnologia Takwara (Solda Vegetal com PU de Mamona). O documento valida o domo geodésico não apenas como estufa, mas como centro de processamento descentralizado e catalisador da bio-soberania regional, apresentando indicadores de performance, mitigação de condensação e alinhamento com marcos de financiamento (BNDES).
+
+**Palavras-chave:** domos geodésicos · microclima · bio-soberania · Guadua · Amazônia · Tecnologia Takwara.
 
 
 ## **1\. O Paradigma da Bio-soberania e o Desafio Amazônico**

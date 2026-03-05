@@ -20,24 +20,32 @@ license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
 - 10.5281/zenodo.18827106
-series: Technical Series Regenerative Amazon Platform — Research and Development
+series: Regenerative Amazon Platform Technical Series — Research and Development
 subtitle: Technical Validation of Controlled Environment Greenhouses for Regenerative Industrialization
-title: 'Technical Note: Geodesic Domes and National Bio-sovereignty in the Amazon'
+title: 'Geodesic Domes: Microclimate and Bio-industry in the Amazon'
 translations:
   en: TAK_nota-tecnica-domos-geodesicos_en.md
   es: TAK_nota-tecnica-domos-geodesicos_es.md
   pt: TAK_nota-tecnica-domos-geodesicos.md
-type: Report
-version: '2.0'
+type: Technical-Scientific Bulletin
+version: '2.1'
 ---
-# Technical Note: Geodesic Domes and National Bio-sovereignty in the Amazon
+# Geodesic Domes: Microclimate and Bio-industry in the Amazon
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_nota-tecnica-domos-geodesicos.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_nota-tecnica-domos-geodesicos_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_nota-tecnica-domos-geodesicos_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Type](https://img.shields.io/badge/type-Technical--Scientific%20Bulletin-teal)
 
 ---
+
+## Abstract
+
+This bulletin analyzes the application of geodesic domes as critical infrastructure for microclimatic control in the Amazon, focusing on overcoming the humidity bottleneck for the sustainable industrialization of native bamboo (*Guadua* spp.). Thermodynamic principles of the chimney effect, structural efficiency of spherical geometry, and integration with Takwara Technology (Vegetable Solder with Castor Polyurethane) are discussed. The document validates the geodesic dome not just as a greenhouse, but as a decentralized processing center and catalyst for regional bio-sovereignty, presenting performance indicators, condensation mitigation, and alignment with funding frameworks (BNDES).
+
+**Keywords:** geodesic domes · microclimate · bio-sovereignty · Guadua · Amazon · Takwara Technology.
+
 
 ## **1. The Paradigm of Bio-sovereignty and the Amazon Challenge**
 

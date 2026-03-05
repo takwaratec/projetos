@@ -11,6 +11,18 @@
 
 **Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono**
 
+## 📑 Navegação Rápida
+- [1. Resumo Executivo](#1-resumo-executivo)
+- [2. Matriz de Objetivos](#2-matriz-de-objetivos-produtos-e-resultados)
+- [3. Contexto e Problemas](#3-contexto-problemas-estruturais-e-custo-da-inacao)
+- [4. Teoria da Mudança](#4-teoria-da-mudanca-e-alinhamento-estrategico)
+- [5. Componente 0: Saneamento](#5-componente-0-validacao-tecnologica-em-saneamento-ecologico-e-impacto-em-saude)
+- [6. Componente 1: Mercado Âncora](#6-componente-1-saneamento-ecologico-como-mercado-ancora)
+- [7. Componente 2: Biorrefinaria](#7-componente-2-manejo-ecologico-de-bambu-e-biorrefinaria-de-carbono)
+- [8. Componente 3: Biocompósitos](#8-componente-3-biopolimeros-de-bambu-pet-reciclado-domos-geodesicos-e-construcoes-resilientes)
+- [12. Estrutura de Custos](#12-estrutura-de-custos-pessoal-e-necessidades-financeiras-48-meses)
+- [13. Referências](#13-referencias-bibliograficas-agrupadas-por-tema)
+
 ## 1. Resumo executivo
 
 A Plataforma Amazônia Regenerativa estrutura um polo integrado de bioindústrias comunitárias de baixo carbono na Amazônia Legal, com polo demonstrativo no Acre, articulando manejo ecológico de bambu Guadua spp., aproveitamento de resíduos agroextrativistas, biorrefinaria de carbono e compósitos de bambu com poliuretano vegetal para habitação e infraestrutura produtiva resilientes. O bambu Guadua spp. é o insumo coringa da Plataforma: no cenário‑base de investimento, ele sozinho é capaz de alimentar todos os fluxos essenciais da biorrefinaria (briquetes, biochar, carvão vegetal de bambu e extrato pirolenhoso), fornecer colmos tratados termicamente (“bambu sem veneno”) como produto primário de baixa complexidade e ainda suprir fibras e partículas para a linha de compósitos estruturais.

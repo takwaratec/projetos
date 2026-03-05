@@ -27,15 +27,16 @@ translations:
   en: TAK_nota-tecnica-saneamento-ecologico_en.md
   es: TAK_nota-tecnica-saneamento-ecologico_es.md
   pt: TAK_nota-tecnica-saneamento-ecologico.md
-type: Report
-version: '2.0'
+type: Technical-Scientific Bulletin
+version: '2.1'
 ---
 # Technical Note: Ecological Sanitation and Tourist Bio-resilience
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_nota-tecnica-saneamento-ecologico.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_nota-tecnica-saneamento-ecologico_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_nota-tecnica-saneamento-ecologico_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Type](https://img.shields.io/badge/type-Technical--Scientific%20Bulletin-teal)
 
 ---
 
@@ -163,13 +164,15 @@ Only destinations that treat their sewage with technical seriousness and decentr
 *See the Portuguese original for a full list of bibliographic references.*
 
 ---
-
-**🎋 Takwara — Bamboo Technology for Amazonian Sovereignty**
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**
 **DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
 
 ---
 
-## How to cite this document
+## How to Cite
 
 **APA:**
-Takwara, F. R. (2026). *Technical Note: Ecological Sanitation and Tourist Bio-resilience* (Version 2.0). Núcleo Takwara / University of Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Technical Note: Ecological Sanitation and Tourist Bio-resilience* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

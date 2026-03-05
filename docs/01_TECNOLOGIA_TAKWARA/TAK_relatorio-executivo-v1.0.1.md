@@ -30,15 +30,16 @@ translations:
   en: TAK_relatorio-executivo-v1.0.1_en.md
   es: TAK_relatorio-executivo-v1.0.1_es.md
   pt: TAK_relatorio-executivo-v1.0.1.md
-type: Report
-version: '2.0'
+type: Boletim Técnico-Científico
+version: '2.1'
 ---
 # Relatório Executivo: Plataforma Amazônia Regenerativa e Inovações
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_relatorio-executivo-v1.0.1.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_relatorio-executivo-v1.0.1_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_relatorio-executivo-v1.0.1_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 **Para:** Comitês de Investimento, BNDES, Fundo Amazônia e Gestores de Fundos Climáticos
 **Assunto:** Estruturação de Polo de Bioindústrias Comunitárias e Infraestrutura Sustentável
@@ -193,7 +194,7 @@ Cronograma de 18 meses:
 TAKWARA, Fabio Resck. *Relatório Executivo: Plataforma Amazônia Regenerativa e Inovações — Estruturação de Polo de Bioindústrias Comunitárias e Infraestrutura Sustentável na Amazônia Legal*. Série Técnica Plataforma Amazônia Regenerativa — Documentos de Política e Investimento. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18828592.
 
 **APA:**
-Takwara, F. R. (2026). *Relatório Executivo: Plataforma Amazônia Regenerativa e Inovações* (Versão 2.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18828592
+Takwara, F. R. (2026). *Relatório Executivo: Plataforma Amazônia Regenerativa e Inovações* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 **Faz parte de:**
 Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867

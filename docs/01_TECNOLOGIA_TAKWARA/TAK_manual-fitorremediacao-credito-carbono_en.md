@@ -29,22 +29,23 @@ related_works:
 - 10.5281/zenodo.18826841
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
-series: Regenerative Amazon Platform Technical Series — National Applicability
+series: Regenerative Amazon Platform Technical Series — Restoration and Carbon
 
-title: Regeneration of Degraded Soils, Phytoremediation and Carbon Markets
+title: 'Phytoremediation and Carbon Markets: Bamboo as an Ecological Engineer'
 translations:
   en: TAK_manual-fitorremediacao-credito-carbono_en.md
   es: TAK_manual-fitorremediacao-credito-carbono_es.md
   pt: TAK_manual-fitorremediacao-credito-carbono.md
-type: Report
-version: '2.0'
+type: Technical-Scientific Bulletin
+version: '2.1'
 ---
-# Regeneration of Degraded Soils, Phytoremediation and Carbon Markets
+# Phytoremediation and Carbon Markets: Bamboo as an Ecological Engineer
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_manual-fitorremediacao-credito-carbono.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_manual-fitorremediacao-credito-carbono_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_manual-fitorremediacao-credito-carbono_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Type](https://img.shields.io/badge/type-Technical--Scientific%20Bulletin-teal)
 
 ---
 
@@ -56,15 +57,11 @@ version: '2.0'
 
 ---
 
-## INTRODUCTION: THE SOIL YOU INHERITED IS THE CAPITAL YOU CAN RECOVER
+## Abstract
 
-No biorefinery works on dead soil. No cooperative prospers in a degraded territory. And no carbon credit survives an audit if the fixed carbon is not real, permanent, and verifiable.
+This bulletin presents the potential of native bamboo (*Guadua* spp.) as a fundamental biological agent for the regeneration of degraded soils and the phytoremediation of heavy metal contaminated areas in Brazil. Phytoestabilization and phytoaccumulation dynamics are analyzed, contrasting them with the biological risk of using invasive species in restoration projects. The document details integration strategies between environmental recovery and high-integrity carbon markets (VERRA VM0044, Plan Vivo), consolidating a circular bioeconomy model that transforms environmental liabilities into auditable climate and land assets under the framework of the New Forest Code and the National PSA Policy.
 
-This chapter exists for a simple reason: soil regeneration is the foundation of everything the Regenerative Amazon Platform proposes — and it was the most neglected technical theme in public discussions about bamboo bioeconomy in Brazil. Here you will understand **which species to use, for what biological reason, how to monitor, how to certify, and how to transform degraded soil into a carbon asset** — with sources, methods, and links that any technician can verify.
-
-A warning before starting: **do not use *Phyllostachys* spp. in ecological restoration projects.** The technical decision to use golden bamboo (*P. aurea*) or moso (*P. edulis*) in remediation areas seems tempting — they grow fast, accumulate carbon, and tolerate degraded soils. But the scientific literature is unequivocal: these species are aggressive invaders that **alter the structure, composition, and diversity of natural regeneration**, suppressing native species and actively harming ecological succession. The use of *Phyllostachys* in a restoration area is, under Brazilian environmental legislation, a liability, not an asset. Use them where they already exist — manage them, process them, generate economic value. But never plant them in ecological recovery areas.
-
-The correct species for this role is **Guadua** — native, ecologically coherent, extraordinarily effective in carbon sequestration, and economically viable.
+**Keywords:** phytoremediation · ecological restoration · carbon credits · biochar · Guadua · soil.
 
 ---
 
@@ -460,9 +457,16 @@ Young bamboo shoots contain **taxiphyllin**, a cyanogenic glycoside that, when p
 Takwara, F. R. (2026). *Regeneration of Degraded Soils, Phytoremediation and Carbon Markets: Bamboo as an Ecological Engineer — From Contaminated Soil to Certified Credit*. Regenerative Amazon Platform Technical Series — National Applicability. Brasília: Takwara Center / University of Brasília, 2026. Available at: https://doi.org/10.5281/zenodo.18827891. Accessed on: Mar 01, 2026.
 
 **Part of:**
-Takwara, F. R. (2026). *Regenerative Amazon Platform Technical Series* [Zenodo Collection]. https://doi.org/10.5281/zenodo.17225867
-
 **Related documents in the collection:**
 - Community Bamboo Bioeconomy Handbook — https://doi.org/10.5281/zenodo.18827513
 - Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System — https://doi.org/10.5281/zenodo.18826841
 - Regenerative Amazon Platform v5.1 — https://doi.org/10.5281/zenodo.18827106
+
+---
+**How to Cite**
+
+**APA:**
+Takwara, F. R. (2026). *Phytoremediation and Carbon Markets: Bamboo as an Ecological Engineer* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

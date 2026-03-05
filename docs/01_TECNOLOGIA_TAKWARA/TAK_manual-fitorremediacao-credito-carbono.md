@@ -29,22 +29,23 @@ related_works:
 - 10.5281/zenodo.18826841
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
-series: Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional
+series: Série Técnica Plataforma Amazônia Regenerativa — Restauração e Carbono
 
-title: Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono
+title: 'Fitorremediação e Mercados de Carbono: O Bambu como Engenheiro Ecológico'
 translations:
   en: TAK_manual-fitorremediacao-credito-carbono_en.md
   es: TAK_manual-fitorremediacao-credito-carbono_es.md
   pt: TAK_manual-fitorremediacao-credito-carbono.md
-type: Report
-version: '2.0'
+type: Boletim Técnico-Científico
+version: '2.1'
 ---
-# Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono
+# Fitorremediação e Mercados de Carbono: O Bambu como Engenheiro Ecológico
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_manual-fitorremediacao-credito-carbono.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_manual-fitorremediacao-credito-carbono_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_manual-fitorremediacao-credito-carbono_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 ---
 
@@ -58,15 +59,11 @@ version: '2.0'
 
 ---
 
-## INTRODUÇÃO: O SOLO QUE VOCÊ HERDOU É O CAPITAL QUE PODE RECUPERAR
+## Resumo
 
-Nenhuma biorrefinaria funciona sobre solo morto. Nenhuma cooperativa prospera em território degradado. E nenhum crédito de carbono resiste à auditoria se o carbono fixado não é real, permanente e verificável.
+Este boletim apresenta o potencial do bambu nativo (*Guadua* spp.) como agente biológico fundamental para a regeneração de solos degradados e a fitorremediação de áreas contaminadas por metais pesados no Brasil. Analisam-se as dinâmicas de fitoestabilização e fitoacumulação, contrastando-as com o risco biológico do uso de espécies invasoras em projetos de restauração. O documento detalha estratégias de integração entre recuperação ambiental e mercados de carbono de alta integridade (VERRA VM0044, Plan Vivo), consolidando um modelo de bioeconomia circular que transforma passivos ambientais em ativos climáticos e fundiários auditáveis sob o marco do Novo Código Florestal e da Política Nacional de PSA.
 
-Este capítulo existe por uma razão simples: a regeneração do solo é o fundamento de tudo o que a Plataforma Amazônia Regenerativa propõe — e foi o tema mais negligenciado nas discussões públicas sobre bioeconomia do bambu no Brasil. Aqui você vai entender **quais espécies usar, por qual razão biológica, como monitorar, como certificar e como transformar solo degradado em ativo de carbono** — com fontes, métodos e links que qualquer técnico pode verificar.
-
-Uma advertência antes de começar: **não use *Phyllostachys* spp. em projetos de restauração ecológica.** A decisão técnica de usar bambu-dourado (*P. aurea*) ou mossô (*P. edulis*) em áreas de remediação parece tentadora — eles crescem rápido, acumulam carbono e toleram solos degradados. Mas a literatura científica é inequívoca: essas espécies são invasoras agressivas que **alteram a estrutura, a composição e a diversidade da regeneração natural**, suprimindo espécies nativas e prejudicando ativamente a sucessão ecológica. O uso de *Phyllostachys* em uma área de restauração é, nos termos da legislação ambiental brasileira, um passivo, não um ativo. Use-as onde já existem — maneje, processe, gere valor econômico. Mas nunca as plante em áreas de recuperação ecológica.
-
-A espécie correta para esse papel é a **Guadua** — nativa, ecologicamente coerente, extraordinariamente eficaz no sequestro de carbono e economicamente viável.
+**Palavras-chave:** fitorremediação · restauração ecológica · créditos de carbono · biochar · Guadua · solo.
 
 
 ---

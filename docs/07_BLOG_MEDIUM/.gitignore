@@ -1,0 +1,11 @@
+# Ignorar arquivos HTML brutos (só queremos indexar/versionar os Markdown convertidos)
+*.html
+*.zip
+*.rar
+*draft_*.md
+
+# Ignorar rascunhos de celular ou arquivos de texto puro sem frontmatter estruturado
+*.txt
+
+# Exceção: garantir que a pasta continue existindo mesmo vazia
+!.gitkeep

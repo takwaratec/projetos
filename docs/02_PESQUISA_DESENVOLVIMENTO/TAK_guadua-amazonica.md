@@ -21,29 +21,30 @@ related_works:
 - 10.5281/zenodo.18826841
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
-series: Série Técnica Plataforma Amazônia Regenerativa — P&D
-title: 'Bambu Guadua spp.: Espécie Matriz da Bioeconomia Regenerativa'
+series: Série Técnica Plataforma Amazônia Regenerativa — Investigação e Desenvolvimento
+title: 'Bambu Guadua: A Fibra Estutural da Soberania Amazônica'
 translations:
   en: TAK_guadua-amazonica_en.md
   es: TAK_guadua-amazonica_es.md
   pt: TAK_guadua-amazonica.md
-type: Relatório Técnico
-version: '2.0'
+type: Boletim Técnico-Científico
+version: '2.1'
 ---
-# Bambu Guadua spp.: Espécie Matriz da Bioeconomia Regenerativa
+# Bambu Guadua: A Fibra Estutural da Soberania Amazônica
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
-[![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_guadua-amazonica.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_guadua-amazonica_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_guadua-amazonica_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 ---
 
-## 1. RESUMO EXECUTIVO
+## Resumo
 
-O bambu, um recurso natural de importância crescente, destaca-se pela sua notável versatilidade, ciclo de crescimento acelerado e vasto potencial como material sustentável em uma miríade de aplicações. Desde tempos imemoriais, diversas culturas têm utilizado o bambu para fins que vão desde a alimentação e medicina até a construção de habitações e fabricação de utensílios. Na era contemporânea, à medida que a sociedade global busca alternativas mais ecológicas e eficientes aos materiais convencionais, o bambu emerge como uma solução promissora, capaz de responder a desafios ambientais, econômicos e sociais.
+Este boletim analisa o papel técnico e estratégico do bambu nativo do gênero *Guadua* (especialmente *G. angustifolia*, *G. weberbaueri* e *G. sarcocarpa*) na construção de uma soberania tecnológica amazônica. Discute-se como o manejo ecológico dessas gramíneas estruturais resolve o paradoxo do "combustível seco" e o risco de incêndios em formações semélparas, transformando um passivo ambiental em ativo para a construção civil, bioenergia e habitação resiliente. Argumenta-se que o bambu constitui uma das duas fronteiras soberanas do Brasil (ao lado da mamona), permitindo a substituição de materiais fósseis e tóxicos por sistemas de biocompósitos de alto desempenho e baixa pegada de carbono, fundamentais para a bioeconomia regenerativa.
 
-Este relatório percorre os fundamentos biológicos e históricos do bambu até suas aplicações mais inovadoras e seu significado socioambiental, iniciando com a classificação botânica e as origens geológicas, seguindo uma análise do mercado e das diversas utilizações. Aprofunda-se, então, no uso do bambu na engenharia e arquitetura, abordando espécies, tratamentos, normas e inovações. A dimensão ambiental — com foco no sequestro de carbono e na biomassa — é detalhada, bem como os avanços científicos em novas aplicações. Finalmente, são apresentados projetos sociais relevantes e tecidas conclusões sobre o futuro promissor do bambu.
+**Palavras-chave:** bambu nativo · Guadua · Amazônia · soberania tecnológica · bioeconomia · manejo ecológico.
 
 ---
 
@@ -185,8 +186,8 @@ O bambu como material de engenharia apresenta uma relação resistência/peso no
 
 - **Cura em pé (manutenção do colmo vivo):** Aguardar 4–6 semanas após o corte com as folhas intactas para que a planta drene os açúcares do colmo antes da colheita definitiva.
 - **Imersão em água corrente:** Método tradicional (10–15 dias) para lixiviação de amidos solúveis, reduzindo a palatabilidade para insetos.
-- **Tratamento com ácido bórico/borax:** Solução aquosa de borato de sódio (4–8% p/v) penetra no colmo por imersão ou por pressão (Boucherie Modificado), sem toxicidade mamífera e eficaz contra fungos e brocas.
-- **Vapor saturado:** Tratamento com vapor a 120–140°C por 30–90 minutos elimina insetos, ovos e fungos sem uso de químicos. Altera levemente a cor do bambu (amarelamento) e melhora a estabilidade dimensional.
+- **Tratamento fitossanitário não-tóxico (Boro controlado):** Solução aquosa de borato de sódio (4–8% p/v) aplicada via imersão prolongada ou difusão pneumática, com rigoroso controle de efluentes para evitar lixiviação.
+- **Tratamento Térmico (Vapor saturado):** Exposição a vapor saturado enriquecido com extrato pirolenhoso a 120–140°C. Este método, pilar da Plataforma, elimina amido, vitrifica a sílica externa e interrompe o ciclo biológico de insetos sem o uso de biocidas persistentes.
 
 #### 2. Técnicas de Secagem
 
@@ -228,11 +229,13 @@ No Brasil, projetos de habitação social em bambu ainda são experimentais, mas
 
 ## V. Bambu e o Ambiente: Sequestro de Carbono e Mais
 
-### A. Potencial de Sequestro de Carbono
+### A. A Fronteira do Bambu: Soberania e Clima
 
-Conforme descrito em detalhes no documento *TAK_carvao-pirolenhoso.md*, as plantações de bambu manejadas sequestram entre 1,5 e 12 tCO₂/ha/ano, dependendo da espécie e manejo. Dois mecanismos principais de remoção são relevantes:
-1. **Sequestro biológico** via fotossíntese e acúmulo de biomassa viva e no solo
-2. **Sequestro tecnológico** via conversão de biomassa em biochar de longa permanência
+Diferente do modelo de "conservação estática", a Plataforma defende o manejo ecológico ativo como ferramenta de resiliência climática. A espécie *Guadua weberbaueri*, predominante no sudoeste amazônico, possui um ciclo semélparo de morte sincronizada (~28-30 anos). Segundo Silva (2024), esse fenômeno gera um pulso de biomassa seca que atua como combustível de alta periculosidade, elevando o risco de incêndios de sub-bosque que degradam a floresta primária.
+
+O manejo ecológico, portanto, não é meramente extrativismo; é uma intervenção de mitigação de fogo que gera:
+1. **Sequestro biológico:** Manutenção do vigor da touceira e aceleração da regeneração arbórea.
+2. **Sequestro tecnológico:** Armazenamento de carbono em biocompósitos de longa duração e em biochar de alta estabilidade (estratégia de "carbono permanente").
 
 ### B. Quantificação da Biomassa
 
@@ -276,16 +279,14 @@ Para o Brasil, o bambu — especialmente as formações nativas de *Guadua* na A
 
 ## VIII. Bibliografia
 
-1. INBAR. *World Bamboo Resources: A Thematic Study*. Rome: FAO/INBAR, 2007.
-2. LIESE, Walter; KÖHL, Michael. *Bamboo: The Plant and Its Uses*. Cham: Springer, 2015.
-3. ABNT. *NBR 16828-1: Estruturas de bambu – Projeto*. Rio de Janeiro, 2020.
-4. GHAVAMI, K. "Bamboo as reinforcement in structural concrete elements." *Cement and Concrete Composites*, v. 27, n. 6, p. 637–649, 2005.
-5. BERALDO, A. L.; PEREIRA, M. A. dos R. *Bambu de Corpo e Alma*. Bauru: Canal 6, 2008.
-6. FAIX, S. et al. "Global bamboo distribution and species richness." *Nature Plants*, 2017.
-7. LOBOVIKOV, M. et al. *World Bamboo Resources: A Thematic Study*. FAO/INBAR, 2007.
-8. TAKWARA, Fabio. *Plataforma de Bio-soberania Nacional*. Rio Branco: Núcleo JesielTakwara, 2024.
-9. BRASIL. *Lei 12.484/2011 – Política Nacional de Incentivo ao Manejo Sustentado e ao Cultivo do Bambu*. Brasília, 2011.
-10. MDIC. *Dados de Importação e Exportação de Produtos de Bambu*. Brasília: MDIC, 2024.
+1. SILVA, S. S. da. Ecologia das florestas de Guadua e o ciclo do fogo na Amazônia. Tese (Doutorado) – Universidade Federal do Acre, Rio Branco, 2024.
+2. ARAÚJO, C. K. C. et al. Life cycle assessment as a guide for designing circular business models in the wood panel industry. Journal of Cleaner Production, v. 419, 140345, 2023.
+3. INBAR. World Bamboo Resources: A Thematic Study. Rome: FAO/INBAR, 2007.
+4. LIESE, Walter; KÖHL, Michael. Bamboo: The Plant and Its Uses. Cham: Springer, 2015.
+5. ABNT. NBR 16828‑1: Estruturas de bambu – Projeto. Rio de Janeiro, 2020.
+6. TAKWARA, Fabio. O Poliuretano Vegetal. Medium, 2021.
+7. BRASIL. Lei 12.484/2011 – Política Nacional de Incentivo ao Manejo Sustentado e ao Cultivo do Bambu. Brasília, 2011.
+8. IPEA. Desafios do Saneamento e da Bioeconomia Comunitária. Brasília: IPEA, 2006.
 
 ---
 

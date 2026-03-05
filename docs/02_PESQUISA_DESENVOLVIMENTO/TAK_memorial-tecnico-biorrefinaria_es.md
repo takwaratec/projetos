@@ -23,22 +23,23 @@ related_works:
 - 10.5281/zenodo.18826841
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
-series: Serie Técnica Plataforma Amazonía Regenerativa — Documentación Técnica de Ingeniería
+series: Serie Técnica Plataforma Amazonía Regenerativa — Investigación y Desarrollo
 
-title: 'Memorial Técnico: Sistema Integrado de Pirólisis y Tratamiento de Bambú'
+title: 'Biorrefinería Comunitaria: Pirólisis, Biochar y Cascadeo Térmico'
 translations:
   en: TAK_memorial-tecnico-biorrefinaria_en.md
   es: TAK_memorial-tecnico-biorrefinaria_es.md
   pt: TAK_memorial-tecnico-biorrefinaria_pt.md
-type: Report
-version: '2.0'
+type: Boletín Técnico-Científico
+version: '2.1'
 ---
-# Memorial Técnico: Sistema Integrado de Pirólisis y Tratamiento de Bambú
+# Biorrefinería Comunitaria: Pirólisis, Biochar y Cascadeo Térmico
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18826841-blue.svg)](https://doi.org/10.5281/zenodo.18826841)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_memorial-tecnico-biorrefinaria_pt.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_memorial-tecnico-biorrefinaria_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_memorial-tecnico-biorrefinaria_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 
 ### Modularidad *Plug and Play*
@@ -333,4 +334,7 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 ## Cómo citar este documento
 
 **APA:**
-Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólisis y Tratamiento de Bambú — Base Técnica para la Bioeconomía, Soberanía Energética y Captación de Recursos* (Versión 2.0). Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18826841
+Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólisis y Tratamiento de Bambú* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
+
+---
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

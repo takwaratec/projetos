@@ -27,17 +27,25 @@ translations:
   en: TAK_nota-tecnica-domos-geodesicos_en.md
   es: TAK_nota-tecnica-domos-geodesicos_es.md
   pt: TAK_nota-tecnica-domos-geodesicos.md
-type: Report
-version: '2.0'
+type: Boletín Técnico-Científico
+version: '2.1'
 ---
-# Nota Técnica: Domos Geodésicos y Bio-soberanía Nacional en la Amazonía
+# Domos Geodésicos: Microclima y Bio-industria en la Amazonía
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_nota-tecnica-domos-geodesicos.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_nota-tecnica-domos-geodesicos_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_nota-tecnica-domos-geodesicos_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletín%20Técnico--Científico-teal)
 
 ---
+
+## Resumen
+
+Este boletín analiza la aplicación de domos geodésicos como infraestructura crítica para el control microclimático en la Amazonía, enfocándose en superar el cuello de botella de la humedad para la industrialización sostenible del bambú nativo (*Guadua* spp.). Se discuten los principios termodinámicos del efecto chimenea, la eficiencia estructural de la geometría esférica y la integración con la Tecnología Takwara (Soldadura Vegetal con PU de Ricino). El documento valida el domo geodésico no solo como invernadero, sino como un centro de procesamiento descentralizado y catalizador de la bio-soberanía regional, presentando indicadores de desempeño, mitigación de la condensación y alineación con marcos de financiamiento (BNDES).
+
+**Palabras clave:** domos geodésicos · microclima · bio-soberanía · Guadua · Amazonía · Tecnología Takwara.
+
 
 ## **1. El Paradigma de la Bio-soberanía y el Desafío Amazónico**
 

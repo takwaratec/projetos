@@ -25,15 +25,16 @@ translations:
   en: TAK_nota-tecnica-smga_en.md
   pt: TAK_nota-tecnica-smga.md
   es: TAK_nota-tecnica-smga_es.md
-type: Report
-version: '2.0'
+type: Boletín Técnico-Científico
+version: '2.1'
 ---
 # Nota Técnica: Sistema de Monitoreo Geoespacial Automatizado (SMGA)
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_nota-tecnica-smga.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_nota-tecnica-smga_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_nota-tecnica-smga_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletín%20Técnico--Científico-teal)
 
 ---
 
@@ -65,4 +66,8 @@ Integración de datos en un repositorio GitHub com hashes auditables, generando 
 | **04** | Generación Automática de Informes MRV | +96h | PDF auditable para el Fondo Amazonía |
 
 ---
-**🎋 Takwara — Ciencia de Datos para la Bio-Soberanía**
+**APA:**
+Takwara, F. R. (2026). *Nota Técnica: Sistema de Monitoreo Geoespacial Automatizado (SMGA)* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
+
+---
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

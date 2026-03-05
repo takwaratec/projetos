@@ -23,22 +23,23 @@ related_works:
 - 10.5281/zenodo.18826841
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
-series: Série Técnica Plataforma Amazônia Regenerativa — Documentação Técnica de Engenharia
+series: Série Técnica Plataforma Amazônia Regenerativa — Investigação e Desenvolvimento
 
-title: 'Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu'
+title: 'Biorrefinaria Comunitária: Pirólise, Biochar e Cascateamento Térmico'
 translations:
   en: TAK_memorial-tecnico-biorrefinaria_en.md
   es: TAK_memorial-tecnico-biorrefinaria_es.md
   pt: TAK_memorial-tecnico-biorrefinaria_pt.md
-type: Report
-version: '2.0'
+type: Boletim Técnico-Científico
+version: '2.1'
 ---
-# Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu
+# Biorrefinaria Comunitária: Pirólise, Biochar e Cascateamento Térmico
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
-[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_memorial-tecnico-biorrefinaria_pt.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_memorial-tecnico-biorrefinaria_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_memorial-tecnico-biorrefinaria_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18826841-blue.svg)](https://doi.org/10.5281/zenodo.18826841)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_memorial-tecnico-biorrefinaria_pt.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_memorial-tecnico-biorrefinaria_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_memorial-tecnico-biorrefinaria_es.md)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 ---
 
@@ -46,19 +47,11 @@ version: '2.0'
 
 ---
 
-## 1. Introdução e Estratégia de Escalabilidade
+## Resumo
 
-### Modularidade *Plug and Play*
+Este boletim descreve a micro-biorrefinaria integrada da Plataforma Amazônia Regenerativa, um sistema termoquímico modular de alto desempenho projetado para a conversão descentralizada de bambu nativo (*Guadua* spp.) em ativos de bioeconomia. O sistema associa pirólise lenta, secagem por cascateamento térmico e tratamento fitossanitário não-tóxico via extrato pirolenhoso enriquecido. Discutem-se os eixos de engenharia de segurança (conforme NR-13), o balanço termodinâmico de fluxo neutro para a mitigação de emissões e a rota escalável TRL 4-7, que posiciona o biochar e os combustíveis de 2ª geração como pilares da soberania energética e climática na Amazônia Legal.
 
-O cenário global de transição energética posiciona o bambu como matéria-prima estratégica para a nova bioeconomia. Este memorial descreve uma **Micro-biorrefinaria Modular** que integra pirólise lenta, secagem por cascateamento térmico, produção de biochar certificável e combustíveis híbridos de segunda geração.
-
-Para garantir viabilidade financeira e mitigar o risco tecnológico na transição do TRL-4 (escala laboratorial) para o TRL-7 (ambiente operacional), a captação de recursos e a implementação física foram estruturadas em **duas camadas de investimento**:
-
-**Camada 1 — Módulo Base de Alta Certeza (Anos 1 e 2)**
-Foco exclusivo na implantação da infraestrutura termodinâmica sólida e normatizada (NR-13). As receitas operacionais derivam diretamente da venda de biochar certificado, créditos de carbono (VERRA VM0044) e materiais para construção civil tratados com extrato pirolenhoso.
-
-**Camada 2 — Módulo de Upside Químico (Ano 3 em diante)**
-Expansão *plug and play* para produção de Etanol de 2ª Geração (E2G) e Metanol Sintético via Captura e Utilização de Carbono (CCU). Estes módulos experimentais aproveitarão o calor residual e o CO₂ biogênico do Módulo Base sem comprometer a estabilidade operacional do sistema termoquímico principal.
+**Palavras-chave:** biorrefinaria comunitária · pirólise · biochar · Guadua · soberania energética · cascateamento térmico.
 
 ---
 
@@ -343,4 +336,4 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 TAKWARA, Fabio Resck. *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — Base Técnica para Bioeconomia, Soberania Energética e Captação de Recursos*. Série Técnica Plataforma Amazônia Regenerativa — Documentação Técnica de Engenharia. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18826841.
 
 **APA:**
-Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu* (Versão 2.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18826841
+Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106

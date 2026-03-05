@@ -27,15 +27,16 @@ translations:
   en: TAK_nota-tecnica-saneamento-ecologico_en.md
   es: TAK_nota-tecnica-saneamento-ecologico_es.md
   pt: TAK_nota-tecnica-saneamento-ecologico.md
-type: Report
-version: '2.0'
+type: Boletín Técnico-Científico
+version: '2.1'
 ---
 # Nota Técnica: Saneamento Ecológico y Bio-resiliencia Turística
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_nota-tecnica-saneamento-ecologico.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_nota-tecnica-saneamento-ecologico_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_nota-tecnica-saneamento-ecologico_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletín%20Técnico--Científico-teal)
 
 ---
 
@@ -169,7 +170,10 @@ Solo los destinos que traten sus aguas residuales con seriedad técnica e innova
 
 ---
 
-## Cómo citar este documento
+## Cómo Citar
 
 **APA:**
-Takwara, F. R. (2026). *Nota Técnica: Saneamiento Ecológico y Bio-resiliencia Turística* (Versión 2.0). Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Nota Técnica: Saneamiento Ecológico y Bio-resiliencia Turística* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
+
+---
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

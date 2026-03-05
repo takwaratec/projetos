@@ -18,31 +18,30 @@ license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
 - 10.5281/zenodo.18827513
-series: Série Técnica Plataforma Amazônia Regenerativa — Tecnologia Construtiva
-title: 'Sistemas de Conexões Estruturais e Biocompósitos em Bambu'
+series: Série Técnica Plataforma Amazônia Regenerativa — Investigação e Desenvolvimento
+title: 'Solda Vegetal: Conexões Estruturais e Biocompósitos em Bambu'
 translations:
   en: TAK_conexoes-estruturais-bambu_en.md
   es: TAK_conexoes-estruturais-bambu_es.md
   pt: TAK_conexoes-estruturais-bambu.md
-type: Memorial Técnico
-version: '2.0'
+type: Boletim Técnico-Científico
+version: '2.1'
 ---
-# Sistemas de Conexões Estruturais e Biocompósitos em Bambu
+# Solda Vegetal: Conexões Estruturais e Biocompósitos em Bambu
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
-[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_conexoes-estruturais-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_conexoes-estruturais-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_conexoes-estruturais-bambu_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletín%20Técnico--Científico-teal)
 
 ---
 
-## 1. RESUMO EXECUTIVO
+## Resumo
 
-A construção civil moderna exige alternativas resilientes e de baixo carbono em substituição ao aço e ao concreto. O bambu emerge como um material estrutural de altíssimo desempenho, porém o seu calcanhar de aquiles historicamente tem sido as **conexões**.
+Este boletim detalha o desenvolvimento e a validação técnica da "Solda Vegetal" — a convergência tecnológica entre o bambu nativo amazônico e o Poliuretano (PU) Vegetal derivado da mamona. Analisa-se como esta inovação resolve o gargalo histórico das conexões em estruturas de bambu, substituindo o chumbamento cimentício e elementos metálicos rígidos por um sistema de fixação flexível e de alto desempenho. Discute-se a aplicação da solda vegetal em vigas HIS, domos geodésicos e painéis sanduíche modulares, consolidando um modelo de pré-fabricação biosintética ("Lego de Bio-soberania") fundamental para a habitação social resiliente e infraestrutura de bioindústrias na Amazônia Legal.
 
-Como aponta a revisão sistemática [(Adier et al., 2023)](https://doi.org/10.3390/buildings13102449), uma das maiores lacunas no uso estrutural do bambu reside na necessidade de explorar **materiais de preenchimento sustentáveis**, que sejam alternativas ao chumbamento com concreto e argamassa. O uso de materiais cimentícios tradicionais, além do alto impacto ambiental, compromete a ductilidade natural do bambu, criando pontos rígidos que culminam em rachaduras sob estresse térmico ou mecânico. 
-
-O **Sistema Construtivo Takwara** soluciona essa lacuna substituindo os elementos constritivos e rígidos por um arranjo coeso focado na chamada "solda vegetal", combinando o bambu tratado com o **Poliuretano (PU) Vegetal**, garantindo fixação estrutural flexível e duradoura.
+**Palavras-chave:** solda vegetal · poliuretano vegetal · bambu · conexões estruturais · biocompósitos · habitação social.
 
 ## 2. Desempenho e Resistência Mecânica
 

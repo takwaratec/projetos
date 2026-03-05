@@ -29,22 +29,23 @@ related_works:
 - 10.5281/zenodo.18826841
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
-series: Serie Técnica Plataforma Amazonia Regenerativa — Aplicabilidad Nacional
+series: Serie Técnica Plataforma Amazonía Regenerativa — Restauración y Carbono
 
-title: Regeneración de Suelos Degradados, Fitorremediación y Mercados de Carbono
+title: 'Fitorremediación y Mercados de Carbono: El Bambú como Ingeniero Ecológico'
 translations:
   en: TAK_manual-fitorremediacao-credito-carbono_en.md
   es: TAK_manual-fitorremediacao-credito-carbono_es.md
   pt: TAK_manual-fitorremediacao-credito-carbono.md
-type: Report
-version: '2.0'
+type: Boletín Técnico-Científico
+version: '2.1'
 ---
-# Regeneración de Suelos Degradados, Fitorremediación y Mercados de Carbono
+# Fitorremediacción y Mercados de Carbono: El Bambú como Ingeniero Ecológico
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_manual-fitorremediacao-credito-carbono.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_manual-fitorremediacao-credito-carbono_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_manual-fitorremediacao-credito-carbono_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletín%20Técnico--Científico-teal)
 
 ---
 
@@ -56,9 +57,11 @@ version: '2.0'
 
 ---
 
-## INTRODUCCIÓN: EL SUELO QUE HEREDASTE ES EL CAPITAL QUE PUEDES RECUPERAR
+## Resumen
 
-Ninguna biorrefinería funciona sobre suelo muerto. Ninguna cooperativa prospera en territorio degradado. Y ningún crédito de carbono resiste a la auditoría si el carbono fijado no es real, permanente y verificable.
+Este boletín presenta el potencial del bambú nativo (*Guadua* spp.) como agente biológico fundamental para la regeneración de suelos degradados y la fitorremediación de áreas contaminadas por metales pesados en Brasil. Se analizan las dinámicas de fitoestabilización y fitoacumulación, contrastándolas con el riesgo biológico del uso de especies invasoras en proyectos de restauración. El documento detalla estrategias de integración entre la recuperación ambiental y los mercados de carbono de alta integridad (VERRA VM0044, Plan Vivo), consolidando un modelo de bioeconomía circular que transforma pasivos ambientales en activos climáticos y territoriales auditables bajo el marco del Nuevo Código Forestal y la Política Nacional de PSA.
+
+**Palabras clave:** fitorremediación · restauración ecológica · créditos de carbono · biochar · Guadua · suelo.
 
 Este capítulo existe por una razón simple: la regeneración del suelo es el fundamento de todo lo que la Plataforma Amazonia Regenerativa propone — y fue el tema técnico más descuidado en las discusiones públicas sobre bioeconomía del bambú en Brasil. Aquí entenderás **qué especies usar, por qué razón biológica, cómo monitorear, cómo certificar y cómo transformar suelo degradado en activo de carbono** — con fuentes, métodos y enlaces que cualquier técnico puede verificar.
 
@@ -346,6 +349,10 @@ Los brotes contienen **taxifilina**, que libera cianuro (HCN). Sin embargo, es *
 **ABNT:**
 TAKWARA, Fabio Resck. *Regeneración de Suelos Degradados, Fitorremediación y Mercados de Carbono: El Bambú como Ingeniero Ecológico — Del Suelo Contaminado al Crédito Certificado*. Serie Técnica Plataforma Amazonia Regenerativa — Aplicabilidad Nacional. Brasília: Núcleo Takwara / Universidad de Brasilia, 2026. Disponible en: https://doi.org/10.5281/zenodo.18827891.
 
+## Cómo Citar
+
 **APA:**
-Takwara, F. R. (2026). *Regeneración de Suelos Degradados, Fitorremediación y Mercados de Carbono* (Versión 1.0). Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827891
+Takwara, F. R. (2026). *Fitorremediación y Mercados de Carbono: El Bambú como Ingeniero Ecológico* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
+
 ---
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

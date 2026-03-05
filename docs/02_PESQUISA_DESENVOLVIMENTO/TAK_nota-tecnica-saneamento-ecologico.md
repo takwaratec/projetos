@@ -27,15 +27,16 @@ translations:
   en: TAK_nota-tecnica-saneamento-ecologico_en.md
   es: TAK_nota-tecnica-saneamento-ecologico_es.md
   pt: TAK_nota-tecnica-saneamento-ecologico.md
-type: Report
-version: '2.0'
+type: Boletim Técnico-Científico
+version: '2.1'
 ---
 # Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_nota-tecnica-saneamento-ecologico.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_nota-tecnica-saneamento-ecologico_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_nota-tecnica-saneamento-ecologico_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 ---
 
@@ -194,3 +195,15 @@ Somente destinos que tratarem seu esgoto com seriedade técnica e inovação des
 31. AGR aprova resolução normativa sobre soluções alternativas para ..., acessado em fevereiro 14, 2026, [https://abar.org.br/agr-aprova-resolucao-normativa-sobre-solucoes-alternativas-para-saneamento/](https://abar.org.br/agr-aprova-resolucao-normativa-sobre-solucoes-alternativas-para-saneamento/)  
 32. Atividade turística e o saneamento: uma relação crucial para o, acessado em fevereiro 14, 2026, [https://tratabrasil.org.br/atividade-turistica-saneamento-economia/](https://tratabrasil.org.br/atividade-turistica-saneamento-economia/)  
 33. Destinos turísticos e a realidade do saneamento básico no Brasil, acessado em fevereiro 14, 2026, [https://www.sdwforall.com/nl/blog/blog-sdw-2/destinos-turisticos-e-a-realidade-do-saneamento-basico-no-brasil-18](https://www.sdwforall.com/nl/blog/blog-sdw-2/destinos-turisticos-e-a-realidade-do-saneamento-basico-no-brasil-18)
+
+---
+
+**🎋 Takwara — Tecnologia do Bambu para a Soberanía Amazónica**
+**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
+
+---
+
+## Como Citar
+
+**APA:**
+Takwara, F. R. (2026). *Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106

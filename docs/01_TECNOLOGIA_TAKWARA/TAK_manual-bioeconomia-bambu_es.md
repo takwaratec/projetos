@@ -3,27 +3,29 @@ author:
 - affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
-date: '2026-03-04'
+date: '2026-03-05'
 doi: 10.5281/zenodo.18827106
 language: es
 license: CC BY 4.0
-series: Serie Técnica Plataforma Amazonía Regenerativa — Aplicabilidad Nacional
-subtitle: Una Guía Práctica para Cualquier Persona, en Cualquier Bioma
-title: 'Cartilla de Bioeconomía Comunitaria del Bambú: De la Selva a la Cooperativa'
+series: Serie Técnica Plataforma Amazonía Regenerativa — Bioeconomía Comunitaria
+subtitle: Guía Práctica de Gobernanza e Industrialización Regional
+title: 'Bioeconomía Comunitaria del Bambú: De la Selva a la Cooperativa'
 translations:
   en: TAK_manual-bioeconomia-bambu_en.md
   es: TAK_manual-bioeconomia-bambu_es.md
   pt: TAK_manual-bioeconomia-bambu.md
-type: Handbook
-version: '2.0'
+type: Boletín Técnico-Científico
+version: '2.1'
 ---
 
-# Cartilla de Bioeconomía Comunitaria del Bambú
+# Bioeconomía Comunitaria del Bambú: De la Selva a la Cooperativa
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_manual-bioeconomia-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_manual-bioeconomia-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_manual-bioeconomia-bambu_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletín%20Técnico--Científico-teal)
+![Tipo](https://img.shields.io/badge/tipo-Boletín%20Técnico--Científico-teal)
 
 ---
 

@@ -2,22 +2,26 @@
 description: Protocolo de Verificação Independente de Fontes (PVI)
 ---
 
-Este workflow deve ser invocado sempre que um documento de alto impacto for criado ou revisado, garantindo a legitimidade documental.
+# Workflow: `/verificar`
 
-1. **Origens de Dados**:
-   - **Científica**: Teses da UnB, UFPA, USP e artigos indexados.
-   - **Legal/Gov**: Diário Oficial (DOU), Portais de Transparência, Tribunais (TCU/STF).
-   - **Histórica**: Acervo Takwara (Arquivo Fabio Takwara) e Legado Chierice.
-   - **Coleção**: Master DOI Zenodo (`10.5281/zenodo.18827106`).
+O protocolo `/verificar` obriga a Inteligência Artificial a auditar ativamente a qualidade, o viés e a origem de dados informados ou coletados para a elaboração de dossiês e artigos. Devido à suscetibilidade da pauta climática a distorções do lobby primário e do negacionismo, é obrigatória a triangulação de fatos.
 
-2. **Passos de Validação**:
-   - [ ] **DOI Check**: Verifique se o documento ou a referência está no Zenodo.
-   - [ ] **Neutralidade**: Busque fontas de mídia independente vs. mídia estatal para o mesmo fato.
-   - [ ] **Status de Inércia**: Se o documento trata de Advocacy, execute o Protocolo V.I. do workflow `/denúncia`.
-   - [ ] **Rigor de Citação**: Use o formato ABNT/APA conforme definido no `docs/05_ADVOCACY_COP30/OPS_artigos-criticos.md`.
+## Critérios de Reprovação (Fontes Bloqueadas)
+- Veículos difusores do negacionismo climático, desmatamento legalizado ou extrema-direita.
+- Blogs de empresas disfarçados de publicações científicas (*Greenwashing* institucional).
 
-3. **Automação**:
-   - Ao detectar um link externo, o assistente deve buscar por metadados de validade (Data de acesso, autoridade da fonte).
+## Fontes Obrigatórias (Séries Históricas e Dados Básicos)
+- **Nacionais Públicas:** IBGE, IPEA, INPE, Embrapa, GOVBR.
+- **Internacionais/Consórcios Globais:** PNUD, PNUMA, IPCC, NASA, Banco Mundial.
+- **Institutos de Pesquisa:** FGV.
+- **Fontes Acadêmicas Rigorosas:** Periódicos CAPES, revistas científicas peer-reviewed (Nature, Science).
 
-// turbo
-**Comando Sugerido**: "/verificar [diretório]" - Aplica a Política de Verificação Independente ao diretório especificado, cruzando com o Acervo e fontes externas.
+## Imprensa Prioritária
+- **Mídia Independente, Cidadã e Ambiental:** ICL Notícias, Revista Fórum, Revista Piauí, SUMAÚMA, Agência Pública, Repórter Brasil, O Eco.
+- **Grandes Consórcios (para contraponto):** BBC, CNN.
+
+## Ação do Agente no Workflow
+Ao invocar `/verificar [Assunto/Afirmação]`, o agente deve:
+1. Buscar o embasamento macro e histórico nos *Órgãos Oficiais/Globais*.
+2. Buscar a denúncia social, impacto ambiental e as minúcias políticas na *Mídia Independente*.
+3. Estruturar a resposta apresentando um balanço das fontes. Se um dado fornecido pelo usuário tiver vindo de fonte duvidosa/extrema ou lobby, o agente deve disparar um **ALERT** alertando sobre o *"Viés do Fomento"* e corrigir a base de dados pela lente das referências prioritárias.

@@ -24,18 +24,19 @@ license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
 - 10.5281/zenodo.18827106
-series: Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional
-subtitle: Um Guia Prático para Qualquer Pessoa, em Qualquer Bioma
-title: 'Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa'
-type: Report
-version: '2.0'
+series: Série Técnica Plataforma Amazônia Regenerativa — Bioeconomia Comunitária
+subtitle: Guia Prático de Governança e Industrialização Regional
+title: 'Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa'
+type: Boletim Técnico-Científico
+version: '2.1'
 ---
-# CARTILHA DE BIOECONOMIA COMUNITÁRIA DO BAMBU
+# Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_manual-bioeconomia-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_manual-bioeconomia-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_manual-bioeconomia-bambu_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 
 ---

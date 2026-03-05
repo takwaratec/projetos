@@ -30,15 +30,17 @@ translations:
   en: TAK_relatorio-executivo-v1.0.1_en.md
   es: TAK_relatorio-executivo-v1.0.1_es.md
   pt: TAK_relatorio-executivo-v1.0.1.md
-type: Report
-version: '2.0'
+type: Technical-Scientific Bulletin
+version: '2.1'
 ---
 # Executive Report: Regenerative Amazon Platform and Innovations
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_relatorio-executivo-v1.0.1.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_relatorio-executivo-v1.0.1_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_relatorio-executivo-v1.0.1_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Type](https://img.shields.io/badge/type-Technical--Scientific%20Bulletin-teal)
+![Type](https://img.shields.io/badge/type-Technical--Scientific%20Bulletin-teal)
 
 **To:** Investment Committees, BNDES, Amazon Fund, and Climate Fund Managers
 **Subject:** Structuring Community Bio-industry Hubs and Sustainable Infrastructure
@@ -190,7 +192,10 @@ Technical rigor is the guarantee of CAPEX integrity:
 ## How to cite this document
 
 **APA:**
-Takwara, F. R. (2026). *Executive Report: Regenerative Amazon Platform and Innovations — Structuring Community Bio-industry Hubs and Sustainable Infrastructure in the Legal Amazon* (Version 2.0). Takwara Center / University of Brasília. https://doi.org/10.5281/zenodo.18828592
+Takwara, F. R. (2026). *Executive Report: Regenerative Amazon Platform and Innovations* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**
 
 **Part of:**
 Takwara, F. R. (2026). *Regenerative Amazon Platform Technical Series* [Zenodo Collection]. https://doi.org/10.5281/zenodo.17225867

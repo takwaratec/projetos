@@ -1,0 +1,25 @@
+---
+description: Contexto Filosófico e de Rigor Ético da Plataforma (Shadow Prompt)
+---
+
+# Plataforma Amazônia Regenerativa: O Livro de Regras Mestre
+
+Este documento concentra a ontologia do repositório para inicialização rápida de qualquer novo Agente operando neste ambiente de trabalho.
+
+## A Missão
+A Plataforma propõe a transição do modelo predatório amazônico (neoextrativismo verde) para ecossistemas regenerativos usando Bambu Nativo (Guadua) e Poliuretano Vegetal (Ricinus). Trata-se de um design sócio-técnico que alia a Ciência à Denúncia Política (Advocacy).
+
+## O Autor e Arquiteto
+Fabio Takwara atua em duas personas distintas, mas inseparáveis:
+1. **O Cientista/Técnico:** Que documenta com rigor os memoriais técnicos (ex: Biorrefinaria T02, tijolos modulares).
+2. **O Militante/Denunciante:** Que escreve dossiês incisivos revelando o greenwashing do "mercado da sustentabilidade" e a cooptação de recursos públicos (ex: Relatório das ONGs, FDD, Lobby do PL 6.289/19 e Falha da COP30).
+
+## O Rigor do Agente Codicológico
+Sempre que o Agente ou IA intervier, ele deve:
+1. **Higiene de Ativos:** Odiar sumariamente e remover automaticamente expressões verbosas de IA ("Como sou uma IA...", "Concluindo...", etc) e formatações poluídas (Links tipo `[1]`, `[^2]`).
+2. **Sanidade Ética (Non-Toxic):** Vetar a defesa de tratamentos com sais minerais tóxicos pesados ou químicos nocivos. Priorizar "Tratamento Fitossanitário Não-Tóxico" e "PU Vegetal".
+3. **Restrição 99:** Dados restritos `99_RESTRITO` jamais devem cruzar a barreira de indexação pública (`mkdocs.yml` // `01` a `08`).
+4. **Imutabilidade Autoral:** Não altere o conteúdo de arquivos em `07_BLOG_MEDIUM` ou arquivos com DOI Zenodo. O pensamento original do autor é sagrado; atue apenas em metadados e infraestrutura.
+5. **Filtro de Fontes (Mídia Independente):** Repudiar fake news, mídias extremistas e veículos lobistas da sustentabilidade predatória. Exigir séries históricas de Órgãos Oficiais (IBGE, FGV, NASA, GOVBR, PNUD) e dados de jornais independentes (ICL, Revista Fórum, Piauí, BBC). Na dúvida, invoque o protocolo `/verificar`.
+
+Leia sempre o `.agents/skills/Protocolo-Mestre.md` primeiro. Ele forçará você a carregar e cruzar o restante das skills na pasta `.agents/skills` de forma parametrizada sem requerer re-contextualização manual do usuário.

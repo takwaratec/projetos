@@ -30,15 +30,17 @@ translations:
   en: TAK_relatorio-executivo-v1.0.1_en.md
   es: TAK_relatorio-executivo-v1.0.1_es.md
   pt: TAK_relatorio-executivo-v1.0.1.md
-type: Report
-version: '2.0'
+type: Boletín Técnico-Científico
+version: '2.1'
 ---
 # Informe Ejecutivo: Plataforma Amazonía Regenerativa e Innovaciones
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_relatorio-executivo-v1.0.1.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_relatorio-executivo-v1.0.1_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_relatorio-executivo-v1.0.1_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletín%20Técnico--Científico-teal)
+![Tipo](https://img.shields.io/badge/tipo-Boletín%20Técnico--Científico-teal)
 
 **Para:** Comités de Inversión, BNDES, Fondo Amazonía y Gestores de Fondos Climáticos
 **Asunto:** Estructuración de Polos de Bioindustrias Comunitarias e Infraestructura Sostenible
@@ -190,7 +192,10 @@ Cronograma de 18 meses:
 ## Cómo citar este documento
 
 **APA:**
-Takwara, F. R. (2026). *Informe Ejecutivo: Plataforma Amazonía Regenerativa e Innovaciones — Estructuración de Polos de Bioindustrias Comunitarias e Infraestructura Sostenible en la Amazonía Legal* (Versión 2.0). Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18828592
+Takwara, F. R. (2026). *Informe Ejecutivo: Plataforma Amazonía Regenerativa e Innovaciones* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
+
+---
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**
 
 **Parte de:**
 Takwara, F. R. (2026). *Serie Técnica Plataforma Amazonía Regenerativa* [Colección Zenodo]. https://doi.org/10.5281/zenodo.17225867

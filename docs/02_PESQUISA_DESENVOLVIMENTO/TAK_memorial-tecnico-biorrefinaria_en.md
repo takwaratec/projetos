@@ -23,22 +23,23 @@ related_works:
 - 10.5281/zenodo.18826841
 - 10.5281/zenodo.18827106
 - 10.5281/zenodo.18827513
-series: Regenerative Amazon Platform Technical Series — Engineering Documentation
+series: Regenerative Amazon Platform Technical Series — Research and Development
 
-title: 'Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System'
+title: 'Community Biorefinery: Pyrolysis, Biochar, and Thermal Cascading'
 translations:
   en: TAK_memorial-tecnico-biorrefinaria_en.md
   es: TAK_memorial-tecnico-biorrefinaria_es.md
   pt: TAK_memorial-tecnico-biorrefinaria_pt.md
-type: Report
-version: '2.0'
+type: Technical-Scientific Bulletin
+version: '2.1'
 ---
-# Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System
+# Community Biorefinery: Pyrolysis, Biochar, and Thermal Cascading
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18826841-blue.svg)](https://doi.org/10.5281/zenodo.18826841)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_memorial-tecnico-biorrefinaria_pt.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_memorial-tecnico-biorrefinaria_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_memorial-tecnico-biorrefinaria_es.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Type](https://img.shields.io/badge/type-Technical--Scientific%20Bulletin-teal)
 
 ---
 
@@ -46,19 +47,11 @@ version: '2.0'
 
 ---
 
-## 1. Introduction and Scalability Strategy
+## Abstract
 
-### Plug and Play Modularity
+This bulletin describes the integrated micro-biorefinery of the Regenerative Amazon Platform, a high-performance modular thermochemical system designed for the decentralized conversion of native bamboo (*Guadua* spp.) into bioeconomy assets. The system combines slow pyrolysis, thermal cascading drying, and non-toxic phytosanitary treatment via enriched pyroligneous extract. Engineering safety axes (as per NR-13), neutral-flow thermodynamic balance for emission mitigation, and the TRL 4-7 scalable roadmap are discussed, positioning biochar and 2nd generation fuels as pillars of energy and climate sovereignty in the Legal Amazon.
 
-The global energy transition scenario positions bamboo as a strategic raw material for the new bioeconomy. This memorial describes a **Modular Micro-biorefinery** that integrates slow pyrolysis, thermal cascading drying, certifiable biochar production, and second-generation hybrid fuels.
-
-To ensure financial viability and mitigate technological risk during the transition from TRL-4 (laboratory scale) to TRL-7 (operational environment), fundraising and physical implementation were structured into **two investment layers**:
-
-**Layer 1 — High-Certainty Base Module (Years 1 and 2)**
-Exclusive focus on the implementation of solid and standardized thermodynamic infrastructure (NR-13). Operational revenues derive directly from the sale of certified biochar, carbon credits (VERRA VM0044), and construction materials treated with pyroligneous extract.
-
-**Layer 2 — Chemical Upside Module (Year 3 onwards)**
-Plug-and-play expansion for 2nd Generation Ethanol (E2G) and Synthetic Methanol production via Carbon Capture and Utilization (CCU). These experimental modules will leverage residual heat and biogenic CO₂ from the Base Module without compromising the operational stability of the main thermochemical system.
+**Keywords:** community biorefinery · pyrolysis · biochar · Guadua · energy sovereignty · thermal cascading.
 
 ---
 
@@ -335,9 +328,14 @@ UFJF. **MEC010: Heat Transfer and Thermal Project Design** — non-condensable p
 
 *Regenerative Amazon Platform — Official technical document.*
 *CC BY 4.0 License.*
----
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**
 
 ## How to cite this document
 
 **APA:**
-Takwara, F. R. (2026). *Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System — Technical Basis for Bioeconomy, Energy Sovereignty, and Resource Mobilization* (Version 2.0). Takwara Center / University of Brasília. https://doi.org/10.5281/zenodo.18826841
+Takwara, F. R. (2026). *Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+*Regenerative Amazon Platform — Official technical document.*
+*CC BY 4.0 License.*
+```

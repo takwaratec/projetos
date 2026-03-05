@@ -1,22 +1,32 @@
----
 author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
-date: '2026-03-04'
+date: '2026-03-05'
 doi: 10.5281/zenodo.18827106
+doi_collection: 10.5281/zenodo.17225867
+keywords:
+- bambu
+- biomassa
+- poliuretano vegetal
+- habitação social
+- soberania tecnológica
+- biotecnologia habitacional
+language: pt
 license: CC BY 4.0
-series: Série Técnica Plataforma Amazônia Regenerativa — Tecnologia Construtiva
-title: 'Estudo de Viabilidade: Tijolos Ecológicos de Biomassa e Poliuretano Vegetal'
-translations:
-  pt: TAK_tijolos-ecologicos.md
-version: '2.0'
+series: Série Técnica Plataforma Amazônia Regenerativa — Pesquisa e Desenvolvimento
+subtitle: Estudo de Viabilidade e Desempenho de Compósitos Biossintéticos
+title: 'Tijolos Ecológicos de Biomassa e Poliuretano Vegetal: Biotecnologia Habitacional'
+type: Boletim Técnico-Científico
+version: '2.1'
 ---
-# Estudo de Viabilidade: Tijolos Ecológicos de Biomassa e Poliuretano Vegetal
+# Tijolos Ecológicos de Biomassa e Poliuretano Vegetal: Biotecnologia Habitacional
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_tijolos-ecologicos.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 ## 1. Enfrentando Desafios Socioambientais com Inovação Sustentável
 
@@ -149,7 +159,15 @@ A proposta de estudo de viabilidade para a produção de Tijolos Ecológicos de 
 
 Embora desafios técnicos, de mercado e de infraestrutura precisem ser cuidadosamente abordados, o forte embasamento científico, o alinhamento com as demandas globais por sustentabilidade e o potencial de mercado justificam plenamente a continuidade e o aprofundamento deste estudo. A implementação estratégica em fases, iniciando pela produção de briquetes, pode ser o caminho para viabilizar os investimentos necessários e consolidar este negócio. Com parcerias estratégicas e apoio de políticas públicas, a produção de tijolos ecológicos de biomassa prensada pode se tornar uma referência em construção sustentável, gerando benefícios duradouros para as comunidades e o meio ambiente.
 
-## Referências
+---
+
+## Como Citar
+
+**APA:**
+Takwara, F. R. (2026). *Tijolos Ecológicos de Biomassa e Poliuretano Vegetal: Biotecnologia Habitacional* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+**🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**
 
 *   ARAÚJO, V. A. et al. Briquetagem de resíduos agroindustriais visando à produção de biocombustíveis sólidos: uma revisão. *Brazilian Journal of Development*, vol. 7, n. 4, 2021.
 *   BONVICINO, M. T. M.; SOUZA, C. M.; RODRIGUES, C. V. S. Tijolo ecológico a partir de cinzas de biomassa: uma revisão. *Revista Virtual de Química*, v. 11, n. 1, p. 291-305, 2019.
