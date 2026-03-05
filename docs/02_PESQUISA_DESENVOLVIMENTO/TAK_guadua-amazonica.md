@@ -5,6 +5,7 @@ author:
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
 doi: 10.5281/zenodo.18827106
+doi_collection: 10.5281/zenodo.17225867
 keywords:
 - Guadua angustifolia
 - bambu nativo
@@ -16,19 +17,20 @@ keywords:
 - impacto social
 language: pt
 license: CC BY 4.0
+related_works:
+- 10.5281/zenodo.18826841
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827513
 series: Série Técnica Plataforma Amazônia Regenerativa — P&D
-subtitle: Botânica, Geologia, Mercado, Usos, Engenharia, Sustentabilidade e Impacto Social
-title: 'Bambu Guadua spp.: Relatório Abrangente de Introdução'
+title: 'Bambu Guadua spp.: Espécie Matriz da Bioeconomia Regenerativa'
 translations:
   en: TAK_guadua-amazonica_en.md
   es: TAK_guadua-amazonica_es.md
   pt: TAK_guadua-amazonica.md
-type: Nota Técnica
+type: Relatório Técnico
 version: '2.0'
 ---
-# Bambu Guadua spp.: Botânica, Geologia, Mercado, Usos, Engenharia, Sustentabilidade e Impacto Social
-
-**Série:** Manejo e Biomassa | **Versão:** 2.0 | **Data:** 2026-03-04 | **Autor:** Fabio Takwara | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
+# Bambu Guadua spp.: Espécie Matriz da Bioeconomia Regenerativa
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -37,7 +39,7 @@ version: '2.0'
 
 ---
 
-## Introdução
+## 1. RESUMO EXECUTIVO
 
 O bambu, um recurso natural de importância crescente, destaca-se pela sua notável versatilidade, ciclo de crescimento acelerado e vasto potencial como material sustentável em uma miríade de aplicações. Desde tempos imemoriais, diversas culturas têm utilizado o bambu para fins que vão desde a alimentação e medicina até a construção de habitações e fabricação de utensílios. Na era contemporânea, à medida que a sociedade global busca alternativas mais ecológicas e eficientes aos materiais convencionais, o bambu emerge como uma solução promissora, capaz de responder a desafios ambientais, econômicos e sociais.
 
@@ -292,7 +294,7 @@ Para o Brasil, o bambu — especialmente as formações nativas de *Guadua* na A
 
 ---
 
-## Como citar este documento
+## COMO CITAR ESTE DOCUMENTO
 
-**ABNT:**
-TAKWARA, Fabio Resck. *Bambu Guadua spp.: Botânica, Geologia, Mercado, Usos, Engenharia, Sustentabilidade e Impacto Social*. Versão 2.0. Centro Takwara / Universidade de Brasília, 2026. DOI: 10.5281/zenodo.18827106.
+**APA:**
+Takwara, F. R. (2026). *Bambu Guadua spp.: Espécie Matriz da Bioeconomia Regenerativa* (Versão 2.0). Centro Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
