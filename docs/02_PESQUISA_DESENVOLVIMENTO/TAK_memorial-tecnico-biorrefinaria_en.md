@@ -5,7 +5,7 @@ author:
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
 doi: 10.5281/zenodo.18826841
-doi_collection: 10.5281/zenodo.17225867
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - pyrolysis
 - biochar
@@ -21,7 +21,7 @@ language: en
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18843828
 - 10.5281/zenodo.18827513
 series: Regenerative Amazon Platform Technical Series — Research and Development
 
@@ -333,7 +333,7 @@ UFJF. **MEC010: Heat Transfer and Thermal Project Design** — non-condensable p
 ## How to cite this document
 
 **APA:**
-Takwara, F. R. (2026). *Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18843828
 
 ---
 *Regenerative Amazon Platform — Official technical document.*

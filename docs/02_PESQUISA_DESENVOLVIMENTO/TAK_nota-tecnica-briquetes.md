@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
-doi_collection: 10.5281/zenodo.17225867
+doi: 10.5281/zenodo.18843828
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - bioenergia
 - briquetes
@@ -21,7 +21,7 @@ language: pt
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18843828
 - 10.5281/zenodo.18827513
 series: Série Técnica Plataforma Amazônia Regenerativa — Pesquisa e Desenvolvimento
 subtitle: Processo de Produção, Usos e Referências de Bioenergia
@@ -35,7 +35,7 @@ version: '2.1'
 ---
 # Nota Técnica: Briquetes de Alta Densidade a partir de Bambu e Resíduos Agroextrativistas
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_nota-tecnica-briquetes.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_nota-tecnica-briquetes_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_nota-tecnica-briquetes_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -153,14 +153,14 @@ O projeto está alinhado ao programa **Coopera+ Amazônia** (MDIC/Sebrae/BNDES),
 ---
 
 **🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
-**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
+**DOI: [10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828)**
 
 ---
 
 ## Como citar este documento
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Nota Técnica: Briquetes de Alta Densidade a partir de Bambu e Resíduos Agroextrativistas — Processo de Produção, Usos e Referências de Bioenergia*. Série Técnica Plataforma Amazônia Regenerativa — Pesquisa e Desenvolvimento. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827106.
+TAKWARA, Fabio Resck. *Nota Técnica: Briquetes de Alta Densidade a partir de Bambu e Resíduos Agroextrativistas — Processo de Produção, Usos e Referências de Bioenergia*. Série Técnica Plataforma Amazônia Regenerativa — Pesquisa e Desenvolvimento. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18843828.
 
 **APA:**
-Takwara, F. R. (2026). *Nota Técnica: Briquetes de Alta Densidade a partir de Bambu e Resíduos Agroextrativistas* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Nota Técnica: Briquetes de Alta Densidade a partir de Bambu e Resíduos Agroextrativistas* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18843828

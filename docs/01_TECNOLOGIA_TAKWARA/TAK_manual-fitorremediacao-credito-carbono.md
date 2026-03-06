@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
-doi_collection: 10.5281/zenodo.17225867
+doi: 10.5281/zenodo.18843828
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - fitorremediação
 - metais pesados
@@ -27,7 +27,7 @@ language: pt-BR
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18843828
 - 10.5281/zenodo.18827513
 series: Série Técnica Plataforma Amazônia Regenerativa — Restauração e Carbono
 
@@ -41,7 +41,7 @@ version: '2.1'
 ---
 # Fitorremediação e Mercados de Carbono: O Bambu como Engenheiro Ecológico
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_manual-fitorremediacao-credito-carbono.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_manual-fitorremediacao-credito-carbono_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_manual-fitorremediacao-credito-carbono_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -508,4 +508,4 @@ Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Cole
 **Documentos relacionados na coleção:**
 - Cartilha de Bioeconomia Comunitária do Bambu — https://doi.org/10.5281/zenodo.18827513
 - Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18826841
-- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18827106
+- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18843828

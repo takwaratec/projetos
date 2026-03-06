@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-05'
-doi: 10.5281/zenodo.18827106
-doi_collection: 10.5281/zenodo.17225867
+doi: 10.5281/zenodo.18843828
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - vegetable polyurethane
 - castor oil
@@ -31,7 +31,7 @@ version: '2.1'
 ---
 # From the Tractor to the Rolls Royce — The Planetary Regenerative Synthesis
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_relatorio-tecnico-pu-vegetal.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_relatorio-tecnico-pu-vegetal_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_relatorio-tecnico-pu-vegetal_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -158,4 +158,4 @@ Takwara, F. (2021, August 23). O Poliuretano Vegetal. *Medium*. [Link](https://m
 ## How to Cite
 
 **APA:**
-Takwara, F. R. (2026). *From the Tractor to the Rolls Royce — The Planetary Regenerative Synthesis* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *From the Tractor to the Rolls Royce — The Planetary Regenerative Synthesis* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18843828

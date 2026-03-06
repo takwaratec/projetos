@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-05'
-doi: 10.5281/zenodo.18827106
-doi_collection: 10.5281/zenodo.17225867
+doi: 10.5281/zenodo.18843828
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - soldadura vegetal
 - poliuretano vegetal
@@ -29,7 +29,7 @@ version: '2.1'
 ---
 # Soldadura Vegetal: Conexiones Estructurales y Biocompuestos en Bambú
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_conexoes-estruturais-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_conexoes-estruturais-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_conexoes-estruturais-bambu_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -91,7 +91,7 @@ La "Soldadura Vegetal" es más que una solución técnica; es una herramienta de
 ## Cómo Citar
 
 **APA:**
-Takwara, F. R. (2026). *Soldadura Vegetal: Conexiones Estructurales y Biocompuestos en Bambú* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Soldadura Vegetal: Conexiones Estructurales y Biocompuestos en Bambú* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18843828
 
 ---
 **🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

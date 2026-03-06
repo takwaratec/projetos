@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-05'
-doi: 10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18843828
 language: es
 license: CC BY 4.0
 series: Serie Técnica Plataforma Amazonía Regenerativa — Bioeconomía Comunitaria
@@ -20,7 +20,7 @@ version: '2.1'
 
 # Bioeconomía Comunitaria del Bambú: De la Selva a la Cooperativa
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_manual-bioeconomia-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_manual-bioeconomia-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_manual-bioeconomia-bambu_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -822,7 +822,7 @@ Esta sección es para quien no tiene formación técnica específica, pero quier
 
 **Documentación Técnica de la Plataforma**
 - Memorial Técnico: Sistema Integrado de Pirólise y Tratamiento de Bambú (DOI): [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)
-- Plataforma Amazonía Regenerativa v5.1 (DOI): [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)
+- Plataforma Amazonía Regenerativa v5.1 (DOI): [10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828)
 - Inventario RMC — fuentes académicas: [embrapa.br/bambu](https://www.embrapa.br/busca-de-noticias/-/noticia/87187287/estudo-mostra-potencial-do-bambu-no-acre) | [conhecer.org.br (invasión P. aurea)](https://www.conhecer.org.br/enciclop/2021C/invasao.pdf)
 
 **Insumos de la Tecnología Takwara**
@@ -856,4 +856,4 @@ Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Cole
 
 **Documentos relacionados na coleção:**
 - Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18826841
-- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18827106
+- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18843828

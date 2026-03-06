@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
-doi_collection: 10.5281/zenodo.17225867
+doi: 10.5281/zenodo.18882784
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - GitHub
 - Zenodo
@@ -25,7 +25,7 @@ language: pt-BR
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18882784
 - 10.5281/zenodo.18827513
 - 10.5281/zenodo.18827891
 series: Série Técnica Plataforma Amazônia Regenerativa — Infraestrutura Colaborativa
@@ -34,7 +34,7 @@ subtitle: 'Do Repositório ao DOI: Como Criar, Publicar e Preservar seu Projeto 
   GitHub e no Zenodo'
 title: Manual de Operação da Plataforma Digital
 type: Report
-version: '2.0'
+version: '2.1'
 ---
 # MANUAL DE OPERAÇÃO DA PLATAFORMA DIGITAL
 
@@ -798,7 +798,7 @@ para habitação social resiliente no Acre.
 ## Como Citar
 
 > TAKWARA, Fabio Resck. *Plataforma Amazônia Regenerativa — Anais Técnicos*.
-> v1.0.0. 2026. DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106).
+> v1.0.0. 2026. DOI: [10.5281/zenodo.18882784](https://doi.org/10.5281/zenodo.18882784).
 > Licença CC BY 4.0.
 
 
@@ -1064,10 +1064,10 @@ Documento vivo: atualizado a cada nova versão do repositório.*
 ## Como citar este documento
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Manual de Operação da Plataforma Digital: Do Repositório ao DOI — Como Criar, Publicar e Preservar seu Projeto no GitHub e no Zenodo*. Série Técnica Plataforma Amazônia Regenerativa — Infraestrutura Colaborativa de Conhecimento Aberto. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827106. Acesso em: 01 mar. 2026.
+TAKWARA, Fabio Resck. *Manual de Operação da Plataforma Digital: Do Repositório ao DOI — Como Criar, Publicar e Preservar seu Projeto no GitHub e no Zenodo*. Série Técnica Plataforma Amazônia Regenerativa — Infraestrutura Colaborativa de Conhecimento Aberto. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18882784. Acesso em: 01 mar. 2026.
 
 **APA:**
-Takwara, F. R. (2026). *Manual de Operação da Plataforma Digital* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Manual de Operação da Plataforma Digital* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18882784
 
 **Faz parte de:**
 Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867
@@ -1076,5 +1076,5 @@ Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Cole
 - Cartilha de Bioeconomia Comunitária do Bambu — https://doi.org/10.5281/zenodo.18827513
 - Regeneração de Solos, Fitorremediação e Mercados de Carbono — https://doi.org/10.5281/zenodo.18827891
 - Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18826841
-- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18827106
+- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18882784
 

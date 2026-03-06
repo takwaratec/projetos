@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18882784
 language: pt-BR
 license: CC BY 4.0
 series: Governança de Dados
@@ -19,7 +19,7 @@ version: '2.0'
 
 # Política de Acesso Digital e Compartilhamento
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./GOV_nota-tecnica-compartilhamento-de-dados.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./GOV_nota-tecnica-compartilhamento-de-dados_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./GOV_nota-tecnica-compartilhamento-de-dados_es.md)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)

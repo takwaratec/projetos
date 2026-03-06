@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18882784
 language: en
 license: CC BY 4.0
 series: Digital Governance
@@ -14,14 +14,14 @@ translations:
   es: GOV_GEMINI_es.md
   pt: GOV_GEMINI.md
 type: Governance
-version: '2.0'
+version: '2.1'
 ---
 
 # GEMINI.md — Golden Rules of the Regenerative Amazon Platform
 
-**Series:** Governance **Version:** 2.0 | **Date:** 2026-03-04 | **Author:** Fabio Takwara | **License:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
+**Series:** Governance **Version:** 2.0 | **Date:** 2026-03-04 | **Author:** Fabio Takwara | **License:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18882784
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./GOV_GEMINI.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./GOV_GEMINI_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./GOV_GEMINI_es.md)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
@@ -81,4 +81,4 @@ The Platform uses indexing by prefixes and thematic folders:
 
 ---
 
-*This GEMINI is part of the DOI Collection 10.5281/zenodo.18827106 — Regenerative Amazon Platform. CC BY 4.0 License.*
+*This GEMINI is part of the DOI Collection 10.5281/zenodo.18882784 — Regenerative Amazon Platform. CC BY 4.0 License.*

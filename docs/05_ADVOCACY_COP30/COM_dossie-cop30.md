@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
-doi_collection: 10.5281/zenodo.17225867
+doi: 10.5281/zenodo.17225867
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - COP30
 - Amazônia
@@ -17,7 +17,7 @@ language: pt
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.17225867
 series: Série Técnica Plataforma Amazônia Regenerativa — Arquivo de Advocacy
 subtitle: A Usurpação do Ouro Verde e o Paradoxo da Diplomacia Ambiental Brasileira
 title: 'Dossiê COP30: A Usurpação do Ouro Verde'
@@ -31,7 +31,7 @@ version: '2.1'
 
 # **Dossiê COP30: A Usurpação do Ouro Verde e o Paradoxo da Diplomacia Ambiental Brasileira**
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17225867-blue.svg)](https://doi.org/10.5281/zenodo.17225867)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./COM_dossie-cop30.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./COM_dossie-cop30_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./COM_dossie-cop30_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -113,7 +113,7 @@ A marginalização do bambu resulta de miopia estratégica, inércia burocrátic
 
 ## **Referências Bibliográficas**
 
-BRASIL. **Lei nº 12.484, de 8 de setembro de 2011**. Dispõe sobre a Política Nacional de Incentivo ao Manejo Sustentado e ao Cultivo do Bambu. [DOI: 10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106) (Referência master da coleção).
+BRASIL. **Lei nº 12.484, de 8 de setembro de 2011**. Dispõe sobre a Política Nacional de Incentivo ao Manejo Sustentado e ao Cultivo do Bambu. [DOI: 10.5281/zenodo.18882784](https://doi.org/10.5281/zenodo.18882784) (Referência master da coleção).
 
 CONSELHO NACIONAL DO MEIO AMBIENTE. **Resolução nº 406, de 02 de fevereiro de 2009**. Parâmetros técnicos para PMFS no bioma Amazônia.
 
@@ -128,4 +128,4 @@ SENADO NOTÍCIAS. **Sancionada política nacional de incentivo ao cultivo do bam
 ## **Como Citar**
 
 **APA:**
-Takwara, F. R. (2026). *Dossiê COP30: A Usurpação do Ouro Verde* (Versão 2.1). Dossiê Estratégico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Dossiê COP30: A Usurpação do Ouro Verde* (Versão 2.1). Dossiê Estratégico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.17225867

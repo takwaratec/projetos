@@ -5,7 +5,7 @@ author:
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
 doi: 10.5281/zenodo.18828592
-doi_collection: 10.5281/zenodo.17225867
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - bioeconomía
 - Amazonía
@@ -21,7 +21,7 @@ language: es
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18843828
 - 10.5281/zenodo.18827513
 series: Serie Técnica Plataforma Amazonía Regenerativa — Documentos de Política e Inversión
 subtitle: 'Estructuración de Polos de Bioindustrias Comunitarias e Infraestructura Sostenible en la Amazonía Legal'
@@ -31,11 +31,11 @@ translations:
   es: TAK_relatorio-executivo_es.md
   pt: TAK_relatorio-executivo.md
 type: Report
-version: '2.0'
+version: '2.1'
 ---
 # Informe Ejecutivo: Plataforma Amazonía Regenerativa e Innovaciones
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_relatorio-executivo.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_relatorio-executivo_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_relatorio-executivo_es.md)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
@@ -196,7 +196,7 @@ Takwara, F. R. (2026). *Informe Ejecutivo: Plataforma Amazonía Regenerativa e I
 Takwara, F. R. (2026). *Serie Técnica Plataforma Amazonía Regenerativa* [Colección Zenodo]. https://doi.org/10.5281/zenodo.17225867
 
 **Documentos técnicos de referencia:**
-- Plataforma Amazonía Regenerativa v5.1 (documento base) — https://doi.org/10.5281/zenodo.18827106
+- Plataforma Amazonía Regenerativa v5.1 (documento base) — https://doi.org/10.5281/zenodo.18843828
 - Memorial Técnico: Sistema Integrado de Pirólise y Tratamiento de Bambú — https://doi.org/10.5281/zenodo.18826841
 - Cartilla de Bioeconomía Comunitaria del Bambú — https://doi.org/10.5281/zenodo.18827513
 - Regeneración de Suelos, Fitorremediación y Mercados de Carbono — https://doi.org/10.5281/zenodo.18827891

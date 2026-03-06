@@ -5,7 +5,7 @@ author:
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
 doi: 10.5281/zenodo.18828592
-doi_collection: 10.5281/zenodo.17225867
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - bioeconomy
 - Amazon
@@ -21,7 +21,7 @@ language: en
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18843828
 - 10.5281/zenodo.18827513
 series: Regenerative Amazon Platform Technical Series — Policy and Investment Documents
 subtitle: 'Structuring Community Bio-industry Hubs and Sustainable Infrastructure in the Legal Amazon'
@@ -35,7 +35,7 @@ version: '2.1'
 ---
 # Executive Report: Regenerative Amazon Platform and Innovations
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_relatorio-executivo-v1.0.1.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_relatorio-executivo-v1.0.1_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_relatorio-executivo-v1.0.1_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -192,7 +192,7 @@ Technical rigor is the guarantee of CAPEX integrity:
 ## How to cite this document
 
 **APA:**
-Takwara, F. R. (2026). *Executive Report: Regenerative Amazon Platform and Innovations* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Executive Report: Regenerative Amazon Platform and Innovations* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18843828
 
 ---
 **🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**
@@ -201,7 +201,7 @@ Takwara, F. R. (2026). *Executive Report: Regenerative Amazon Platform and Innov
 Takwara, F. R. (2026). *Regenerative Amazon Platform Technical Series* [Zenodo Collection]. https://doi.org/10.5281/zenodo.17225867
 
 **Reference Technical Documents:**
-- Regenerative Amazon Platform v5.1 (base document) — https://doi.org/10.5281/zenodo.18827106
+- Regenerative Amazon Platform v5.1 (base document) — https://doi.org/10.5281/zenodo.18843828
 - Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System — https://doi.org/10.5281/zenodo.18826841
 - Community Bamboo Bioeconomy Handbook — https://doi.org/10.5281/zenodo.18827513
 - Soil Regeneration, Phytoremediation and Carbon Markets — https://doi.org/10.5281/zenodo.18827891

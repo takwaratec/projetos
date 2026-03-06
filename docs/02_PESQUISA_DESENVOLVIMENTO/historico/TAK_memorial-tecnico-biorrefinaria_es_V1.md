@@ -1,7 +1,7 @@
 ---
 author: Takwara, Fabio Resck
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18843828
 language: es
 license: CC BY 4.0
 series: Serie Técnica Plataforma Amazonía Regenerativa — Investigación y Desarrollo
@@ -9,13 +9,13 @@ subtitle: Sistema de Pirólisis, Carbón Activado y Biopolímeros de Bambú
 title: Memorial Técnico de la Biorrefinería Integrada
 translations:
   pt: TAK_memorial-tecnico-biorrefinaria_es_V1.md
-version: '2.0'
+version: '2.1'
 ---
 # Memorial Técnico de la Biorrefinería Integrada
 
-**Série:** Acervo Takwara **Versão:** 2.0 | **Data:** 2026-03-04 | **Autor:** Fabio Takwara | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
+**Série:** Acervo Takwara **Versão:** 2.0 | **Data:** 2026-03-04 | **Autor:** Fabio Takwara | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18843828
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_memorial-tecnico-biorrefinaria_es_V1.md)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)

@@ -1,19 +1,36 @@
 ---
 author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18882784
+keywords:
+- bioconstrução
+- arquitetura vernacular
+- bambu
+- habitação popular
+- tecnologia social
+- canteiro-escola
+language: pt
 license: CC BY 4.0
-series: Série Técnica Plataforma Amazônia Regenerativa — Memória
-title: 'Perfil Técnico: Filemon Tiago — Coordenação de Campo'
-version: '2.0'
+series: Série Técnica Plataforma Amazônia Regenerativa — Anais e Memória
+subtitle: Perfil Profissional e Trajetória na Plataforma
+title: 'Perfil Técnico: Tiago Filemon — Coordenação de Campo'
+translations:
+  en: OPS_perfil-tiago-filemon_en.md
+  es: OPS_perfil-tiago-filemon_es.md
+  pt: OPS_perfil-tiago-filemon.md
+type: Perfil Técnico
+version: '2.1'
 ---
 # Filemon Tiago — Coordenador de Campo da Tecnologia Takwara
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./OPS_perfil-tiago-filemon.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-tiago-filemon_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-tiago-filemon_es.md)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Perfil%20Técnico-teal)
 
 > **Função na Plataforma:** Coordenador de Campo — Formação de Bioconstrutores Amazônicos  
 > **Sede:** Goiânia, Goiás — Brasil  
@@ -37,12 +54,10 @@ Filemon trabalhava 90% com BTC por necessidade de mercado, com o desejo declarad
 
 ---
 
-<div align="center">
+## Como Citar
 
-**🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
-Perfil 03 | Filemon Tiago — Coordenador de Campo da Tecnologia Takwara
-[takwaratec.github.io/projetos](https://takwaratec.github.io/projetos/) | CC BY 4.0
-
-</div>
+**APA:**
+Takwara, F. R. (2026). *Perfil Técnico: Tiago Filemon — Coordenação de Campo* (Versão 2.1). Anais e Memória — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18882784
 
 ---
+**🎋 Takwara — Soberania Técnica para a Justiça Social**

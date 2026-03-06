@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
-doi_collection: 10.5281/zenodo.17225867
+doi: 10.5281/zenodo.18843828
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - bioeconomia comunitária
 - bambu
@@ -23,7 +23,7 @@ language: pt-BR
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18843828
 series: Série Técnica Plataforma Amazônia Regenerativa — Bioeconomia Comunitária
 subtitle: Guia Prático de Governança e Industrialização Regional
 title: 'Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa'
@@ -32,7 +32,7 @@ version: '2.1'
 ---
 # Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_manual-bioeconomia-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_manual-bioeconomia-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_manual-bioeconomia-bambu_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -895,7 +895,7 @@ Esta seção é para quem não tem formação técnica específica mas quer part
 **Documentação Técnica da Plataforma**
 
 - Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu (DOI): [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)
-- Plataforma Amazônia Regenerativa v5.1 (DOI): [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)
+- Plataforma Amazônia Regenerativa v5.1 (DOI): [10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828)
 - Inventário RMC — fontes acadêmicas: [embrapa.br/bambu](https://www.embrapa.br/busca-de-noticias/-/noticia/87187287/estudo-mostra-potencial-do-bambu-no-acre) | [conhecer.org.br (invasão P. aurea)](https://www.conhecer.org.br/enciclop/2021C/invasao.pdf)
 
 **Insumos da Tecnologia Takwara**
@@ -939,4 +939,4 @@ Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Cole
 
 **Documentos relacionados na coleção:**
 - Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18826841
-- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18827106
+- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18843828

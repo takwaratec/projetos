@@ -5,7 +5,7 @@ author:
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
 doi: 10.5281/zenodo.18826841
-doi_collection: 10.5281/zenodo.17225867
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - pirólise
 - biochar
@@ -21,7 +21,7 @@ language: pt
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18843828
 - 10.5281/zenodo.18827513
 series: Série Técnica Plataforma Amazônia Regenerativa — Investigação e Desenvolvimento
 
@@ -336,4 +336,4 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 TAKWARA, Fabio Resck. *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — Base Técnica para Bioeconomia, Soberania Energética e Captação de Recursos*. Série Técnica Plataforma Amazônia Regenerativa — Documentação Técnica de Engenharia. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18826841.
 
 **APA:**
-Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18843828

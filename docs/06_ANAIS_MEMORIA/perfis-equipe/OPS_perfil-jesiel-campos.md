@@ -1,19 +1,36 @@
 ---
 author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18882784
+keywords:
+- mecanização agrícola
+- agricultura familiar
+- tecnologia social
+- biorrefinaria
+- bambu
+- cerrado
+language: pt
 license: CC BY 4.0
-series: Série Técnica Plataforma Amazônia Regenerativa — Memória
+series: Série Técnica Plataforma Amazônia Regenerativa — Anais e Memória
+subtitle: Perfil Profissional e Trajetória na Plataforma
 title: 'Perfil Técnico: Jesiel Campos — Núcleo de Equipamentos'
-version: '2.0'
+translations:
+  en: OPS_perfil-jesiel-campos_en.md
+  es: OPS_perfil-jesiel-campos_es.md
+  pt: OPS_perfil-jesiel-campos.md
+type: Perfil Técnico
+version: '2.1'
 ---
 # Jesiel Pereira de Campos Silva — Núcleo de Equipamentos
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./OPS_perfil-jesiel-campos.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-jesiel-campos_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-jesiel-campos_es.md)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Perfil%20Técnico-teal)
 
 > **Função na Plataforma:** Coordenador do Núcleo de Desenvolvimento de Equipamentos — Biorrefinaria Comunitária  
 > **Sede:** Formosa, Goiás — Brasil  
@@ -39,12 +56,10 @@ Jesiel transitou do Cerrado para a Amazônia, do processamento de alimentos para
 
 ---
 
-<div align="center">
+## Como Citar
 
-**🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
-Perfil 02 | Jesiel Campos — Coordenador do Núcleo de Equipamentos
-[takwaratec.github.io/projetos](https://takwaratec.github.io/projetos/) | CC BY 4.0
-
-</div>
+**APA:**
+Takwara, F. R. (2026). *Perfil Técnico: Jesiel Campos — Núcleo de Equipamentos* (Versão 2.1). Anais e Memória — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18882784
 
 ---
+**🎋 Takwara — Soberania Técnica para a Justiça Social**

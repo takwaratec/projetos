@@ -1,19 +1,36 @@
 ---
 author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18882784
+keywords:
+- economia solidária
+- empreendedorismo feminino
+- tecnologia social
+- governança comunitária
+- inovação social
+- amazônia
+language: pt
 license: CC BY 4.0
-series: Série Técnica Plataforma Amazônia Regenerativa — Memória
+series: Série Técnica Plataforma Amazônia Regenerativa — Anais e Memória
+subtitle: Perfil Profissional e Trajetória na Plataforma
 title: 'Perfil Técnico: Profa. Dra. Tânia Cristina da Silva Cruz'
-version: '2.0'
+translations:
+  en: OPS_perfil-taina-cruz_en.md
+  es: OPS_perfil-taina-cruz_es.md
+  pt: OPS_perfil-taina-cruz.md
+type: Perfil Técnico
+version: '2.1'
 ---
 # Profa. Dra. Tânia Cristina da Silva Cruz — Coordenação Institucional
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./OPS_perfil-taina-cruz.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-taina-cruz_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-taina-cruz_es.md)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Perfil%20Técnico-teal)
 
 > **Função na Plataforma:** Coordenação Institucional e Parceria Estratégica  
 > **Instituição:** Universidade de Brasília — FUP/CDT/INCUB.TS  
@@ -131,5 +148,10 @@ mestrado concluídas, 125 outras orientações (IC, TCC, especialização).
 
 ---
 
-*Perfil adaptado para a Plataforma Amazônia Regenerativa — CC BY 4.0*  
-*Repositório: [github.com/takwaratec/projetos](https://github.com/takwaratec/projetos)*
+## Como Citar
+
+**APA:**
+Takwara, F. R. (2026). *Perfil Técnico: Profa. Dra. Tânia Cristina da Silva Cruz* (Versão 2.1). Anais e Memória — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18882784
+
+---
+**🎋 Takwara — Soberania Técnica para a Justiça Social**

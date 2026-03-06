@@ -3,8 +3,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-05'
-doi: 10.5281/zenodo.18827106
-doi_collection: 10.5281/zenodo.17225867
+doi: 10.5281/zenodo.18843828
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - bambu
 - biomassa
@@ -22,7 +22,7 @@ version: '2.1'
 ---
 # Tijolos Ecológicos de Biomassa e Poliuretano Vegetal: Biotecnologia Habitacional
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_tijolos-ecologicos.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -164,7 +164,7 @@ Embora desafios técnicos, de mercado e de infraestrutura precisem ser cuidadosa
 ## Como Citar
 
 **APA:**
-Takwara, F. R. (2026). *Tijolos Ecológicos de Biomassa e Poliuretano Vegetal: Biotecnologia Habitacional* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Tijolos Ecológicos de Biomassa e Poliuretano Vegetal: Biotecnologia Habitacional* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18843828
 
 ---
 **🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

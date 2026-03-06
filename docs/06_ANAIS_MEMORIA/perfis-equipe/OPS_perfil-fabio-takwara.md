@@ -1,19 +1,36 @@
 ---
 author:
+- affiliation: Universidade de Brasília / Núcleo Takwara
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18882784
+keywords:
+- bioeconomia
+- amazônia
+- bambu
+- tecnologia social
+- arquitetura vernacular
+- soberania tecnológica
+language: pt
 license: CC BY 4.0
-series: Série Técnica Plataforma Amazônia Regenerativa — Memória
+series: Série Técnica Plataforma Amazônia Regenerativa — Anais e Memória
+subtitle: Perfil Profissional e Trajetória na Plataforma
 title: 'Perfil Técnico: Fabio Takwara — Idealizador e Diretor'
-version: '2.0'
+translations:
+  en: OPS_perfil-fabio-takwara_en.md
+  es: OPS_perfil-fabio-takwara_es.md
+  pt: OPS_perfil-fabio-takwara.md
+type: Perfil Técnico
+version: '2.1'
 ---
 # Fabio Takwara — Diretor de Inovação Tecnológica
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./OPS_perfil-fabio-takwara.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-fabio-takwara_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-fabio-takwara_es.md)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Tipo](https://img.shields.io/badge/tipo-Perfil%20Técnico-teal)
 
 > **Função na Plataforma:** Idealizador, Arquiteto do Sistema e Diretor de Inovação Tecnológica  
 > **Sede:** Limeira, São Paulo — Brasil  
@@ -49,8 +66,9 @@ Após décadas de prototipagem e enfrentamento de incoerências institucionais, 
 
 \<div align="left"\>
 
-**🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica** Perfil 01 | Fabio Resck Takwara — Idealizador e Diretor de Inovação
+**🎋 Takwara — Tecnología del Bambu para la Soberania Amazónica**
+Perfil 01 | Fabio Takwara — Creador de la Tecnología Takwara
+[takwaratec.github.io/projetos](https://takwaratec.github.io/projetos/) | CC BY 4.0
 
-[resck.github.io/Takwara-Tech/](https://www.google.com/search?q=https://resck.github.io/Takwara-Tech/) | CC BY 4.0
 
 \</div\>

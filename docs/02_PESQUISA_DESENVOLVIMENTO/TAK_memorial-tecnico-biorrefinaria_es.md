@@ -5,7 +5,7 @@ author:
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
 doi: 10.5281/zenodo.18826841
-doi_collection: 10.5281/zenodo.17225867
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - pirólisis
 - biochar
@@ -21,7 +21,7 @@ language: es
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18843828
 - 10.5281/zenodo.18827513
 series: Serie Técnica Plataforma Amazonía Regenerativa — Investigación y Desarrollo
 
@@ -334,7 +334,7 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 ## Cómo citar este documento
 
 **APA:**
-Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólisis y Tratamiento de Bambú* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólisis y Tratamiento de Bambú* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18843828
 
 ---
 **🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

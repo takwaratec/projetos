@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
-doi_collection: 10.5281/zenodo.17225867
+doi: 10.5281/zenodo.18843828
+doi_collection: 10.5281/zenodo.18882784
 keywords:
 - saneamento ecológico
 - turismo
@@ -19,7 +19,7 @@ language: pt
 license: CC BY 4.0
 related_works:
 - 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18843828
 series: Série Técnica Plataforma Amazônia Regenerativa — Pesquisa e Desenvolvimento
 subtitle: Relatório de Infraestrutura, Saúde Pública e Crescimento Turístico
 title: 'Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística'
@@ -32,7 +32,7 @@ version: '2.1'
 ---
 # Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_nota-tecnica-saneamento-ecologico.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_nota-tecnica-saneamento-ecologico_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_nota-tecnica-saneamento-ecologico_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -199,11 +199,11 @@ Somente destinos que tratarem seu esgoto com seriedade técnica e inovação des
 ---
 
 **🎋 Takwara — Tecnologia do Bambu para a Soberanía Amazónica**
-**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
+**DOI: [10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828)**
 
 ---
 
 ## Como Citar
 
 **APA:**
-Takwara, F. R. (2026). *Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18843828

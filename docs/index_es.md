@@ -2,7 +2,7 @@
 
 **Polo integrado de bioindustrias comunitarias de bajo carbono en la Amazonía Legal**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18827106.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18882784.svg)](https://doi.org/10.5281/zenodo.18882784)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Estado: Investigación Activa](https://img.shields.io/badge/status-Investigaci%C3%B3n%20Activa-brightgreen.svg)]()
 
@@ -36,14 +36,14 @@ Memorias técnicas e investigaciones de base biotecnológica e ingeniería.
 ### 3. Impacto Socioambiental y Manejo
 Manuales y guías para implementación territorial y regeneración.
 - **Manuales:** [Bioeconomía del Bambú](01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu_es.md) | [Fitorremediación y Carbono](01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono_es.md)
-- **Ecológico:** [Manejo de Guadua Amazónica](02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica_es.md) | [Tratamiento sin Veneno](02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md) | [Saneamiento Ecológico](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico_es.md)
+- **Ecológico:** [Manejo de Guadua Amazónica](02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica_es.md) | [Tratamiento sin Veneno](02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno_es.md) | [Saneamiento Ecológico](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico_es.md)
 
 ### 4. Capital Humano y Consejo
 Perfiles técnicos y científicos liderando los frentes de la Plataforma.
-- [Fabio Resck Takwara (Tecnología)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara.md)
-- [Profa. Tânia Cruz (Investigación Científica)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz.md)
-- [Jesiel Campos (Ingeniería y Campo)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-jesiel-campos.md)
-- [Tiago Filemon (Gestión Estratégica)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-tiago-filemon.md)
+- [Fabio Resck Takwara (Tecnología)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara_es.md)
+- [Profa. Tânia Cruz (Investigación Científica)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz_es.md)
+- [Jesiel Campos (Ingeniería y Campo)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-jesiel-campos_es.md)
+- [Tiago Filemon (Gestión Estratégica)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-tiago-filemon_es.md)
 
 ### 5. Advocacy y Difusión
 Posicionamiento político-climático y diseminación de conocimiento.
@@ -58,4 +58,4 @@ Este acervo sigue el **Protocolo 5.1** y el estándar **BTC v2.1**, con versiona
 **Autor original:** Fabio Resck Takwara — Tecnologia Takwara  
 **Parcería institucional:** Profa. Dra. Tânia Cristina Cruz (UnB/FUP/CDT)  
 **Licencia:** [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**DOI Master:** [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)
+**DOI Master:** [10.5281/zenodo.18882784](https://doi.org/10.5281/zenodo.18882784)

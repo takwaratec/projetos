@@ -2,7 +2,7 @@
 
 **Integrated hub of low-carbon community bio-industries in the Legal Amazon**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18827106.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18882784.svg)](https://doi.org/10.5281/zenodo.18882784)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Status: Active Research](https://img.shields.io/badge/status-Active%20Research-brightgreen.svg)]()
 
@@ -36,14 +36,14 @@ Technical memorials and bio-based research and engineering.
 ### 3. Socio-Environmental Impact and Management
 Manuals and guides for territorial implementation and regeneration.
 - **Manuals:** [Bamboo Bioeconomy](01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu_en.md) | [Phytoremediation and Carbon](01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono_en.md)
-- **Ecological:** [Guadua Amazonica Management](02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica_en.md) | [Pest Control without Poison](02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md) | [Ecological Sanitation](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico_en.md)
+- **Ecological:** [Guadua Amazonica Management](02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica_en.md) | [Pest Control without Poison](02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno_en.md) | [Ecological Sanitation](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico_en.md)
 
 ### 4. Human Capital and Council
 Technical and scientific profiles leading the Platform's fronts.
-- [Fabio Resck Takwara (Technology)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara.md)
-- [Prof. Tânia Cruz (Scientific Research)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz.md)
-- [Jesiel Campos (Engineering and Field)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-jesiel-campos.md)
-- [Tiago Filemon (Strategic Management)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-tiago-filemon.md)
+- [Fabio Resck Takwara (Technology)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara_en.md)
+- [Prof. Tânia Cruz (Scientific Research)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz_en.md)
+- [Jesiel Campos (Engineering and Field)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-jesiel-campos_en.md)
+- [Tiago Filemon (Strategic Management)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-tiago-filemon_en.md)
 
 ### 5. Advocacy and Outreach
 Climate-political positioning and knowledge dissemination.
@@ -58,4 +58,4 @@ This collection follows **Protocol 5.1** and the **BTC v2.1** standard, with aud
 **Original Author:** Fabio Resck Takwara — Takwara Technology  
 **Institutional Partnership:** Prof. Dr. Tânia Cristina Cruz (UnB/FUP/CDT)  
 **License:** [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**Master DOI:** [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)
+**Master DOI:** [10.5281/zenodo.18882784](https://doi.org/10.5281/zenodo.18882784)

@@ -2,7 +2,7 @@
 
 **Polo integrado de bioindústrias comunitárias de baixo carbono na Amazônia Legal**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18827106.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18882784.svg)](https://doi.org/10.5281/zenodo.18882784)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Status: Pesquisa Ativa](https://img.shields.io/badge/status-Pesquisa%20Ativa-brightgreen.svg)]()
 
@@ -58,4 +58,4 @@ Este acervo segue o **Protocolo 5.1** e o padrão **BTC v2.1**, com versionament
 **Autor original:** Fabio Resck Takwara — Tecnologia Takwara  
 **Parceria institucional:** Profa. Dra. Tânia Cristina Cruz (UnB/FUP/CDT)  
 **Licença:** [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**DOI Master:** [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)
+**DOI Master:** [10.5281/zenodo.18882784](https://doi.org/10.5281/zenodo.18882784)
