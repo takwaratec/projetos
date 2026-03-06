@@ -38,7 +38,10 @@ nav:
       - Matriz de Correlação: 00_GOVERNANCA/GOV_MATRIZ_CORRELACAO.md
       - Compartilhamento de Dados: 00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados.md
   - 2. Tecnologia e Soberania (R&D):
-      - Memorial Único de Equipamentos: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md
+      - Memorial Único de Equipamentos: 
+          - PT: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md
+          - EN: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes_en.md
+          - ES: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes_es.md
       - Poliuretano Vegetal e Solda: 02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal.md
       - Biorrefinaria Comunitária: 02_PESQUISA_DESENVOLVIMENTO/TAK_memorial-tecnico-biorrefinaria_pt.md
       - Conexões Estruturais: 01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu.md
