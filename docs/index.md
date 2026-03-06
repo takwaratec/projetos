@@ -26,12 +26,12 @@ Documentos que validam a integridade, autoria e sustentabilidade administrativa 
 - [Política de Compartilhamento de Dados](00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados.md)
 - [Memorando de Orçamento](00_GOVERNANCA/GOV_memorando-orcamento-consolidado.md)
 
-### 2. Ciência e Tecnologia (R&D)
-Memoriais técnicos e pesquisas de base biotecnológica e engenharia.
+### 2. Tecnologia e Soberania (R&D)
+Memoriais estratégicos e pesquisas de base biotecnológica e engenharia social.
+- **Portfólio Avançado:** [Memorial Único de Equipamentos e Patentes](08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md)
 - **Biopolímeros:** [Poliuretano Vegetal e Solda](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal.md)
 - **Engenharia:** [Conexões Estruturais](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu.md) | [Tijolos Ecológicos](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) | [Domos Geodésicos](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-domos-geodesicos.md)
-- **Bioenergia:** [Biorrefinaria Comunitária](02_PESQUISA_DESENVOLVIMENTO/TAK_memorial-tecnico-biorrefinaria_pt.md) | [Carvão e Extrato Pirolenhoso](02_PESQUISA_DESENVOLVIMENTO/TAK_carvao-pirolenhoso.md) | [Briquetes](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-briquetes.md)
-- **Monitoramento:** [SMEGA (Geospatial AI)](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md)
+- **Bioenergia:** [Biorrefinaria Comunitária](02_PESQUISA_DESENVOLVIMENTO/TAK_memorial-tecnico-biorrefinaria_pt.md) | [Monitoramento SMEGA](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md)
 
 ### 3. Impacto Socioambiental e Manejo
 Manuais e guias para implementação territorial e regeneração.
