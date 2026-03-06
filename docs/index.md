@@ -8,7 +8,7 @@
 
 ---
 
-[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](#) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](index_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](index_es.md)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](index.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](index_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](index_es.md)
 
 ---
 

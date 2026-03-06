@@ -174,3 +174,19 @@ Sugestão de primeiros passos para quem assumir daqui:
 3. Ajudar o Fabio a consolidar o **GEMINI.md v2.0** com os módulos novos, para que qualquer IA futura comece já alinhada.  
 
 Com isso, o próximo agente terá contexto suficiente para continuar o trabalho sem precisar dos anexos originais.
+
+***
+
+## 9. Módulo G — Segmentação de Agentes e Engenharia de Soberania
+
+A fim de evitar atropelos operacionais e garantir a integridade dos ativos de PI, aplicam-se as seguintes regras de governança para qualquer agente de IA:
+
+1.  **Segmentação por Skill**: Cada agente deve iniciar e finalizar sua sessão de trabalho sob uma SKILL explicitamente definida (ex: /skill engenharia de equipamentos). A troca de foco deve ser comunicada e validada pelo usuário.
+2.  **Proibição de Commits (Engenharia)**: Agentes operando sob skills de Engenharia, Tecnologia ou R&D **não possuem permissão para realizar commits ou pushes** no repositório. O versionamento final de documentos técnicos é tarefa exclusiva dos agentes de **Biblioteconomia** ou do usuário humano.
+3.  **Status de Visibilidade**:
+    - **Draft/Edição**: Status padrão para documentos em fase de refinamento visual, orçamentário ou jurídico.
+    - **Finalizado (Restrito)**: Documentos com PI consolidada, mas cuja Engenharia de Detalhamento (CAD/BoM) deve permanecer em camada privada (Série 08) para proteção de ativos.
+4.  **Esgotamento Técnico**: Uma tarefa só é considerada "Concluída" quando todos os mapas mentais, prompts de alta fidelidade e justificativas jurídicas de fluxo forem esgotados e validados em paridade com o padrão do Reator T02.
+
+---
+**🎋 Takwara — Ordem e Soberania na Documentação Científica**
