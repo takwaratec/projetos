@@ -3,7 +3,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_plataforma-v5.1.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_plataforma-v5.1_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_plataforma-v5.1_es.md)
-![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
 ...
 
 
