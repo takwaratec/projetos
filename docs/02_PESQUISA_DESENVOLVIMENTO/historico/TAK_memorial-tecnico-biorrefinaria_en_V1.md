@@ -1,7 +1,7 @@
 ---
 author: Takwara, Fabio Resck
 date: '2026-03-04'
-H.5281/zenodo.18827106
+10.5281/zenodo.18827106
 language: en
 license: CC BY 4.0
 series: Regenerative Amazon Platform Technical Series — Research and Development

@@ -25,10 +25,10 @@ Through an open and traceable data architecture (Master DOI), the Platform offer
 
 For immediate analytical review, consult the final audited documents ready for submission:
 
-*   📑 [**01. Consolidated Form**](09_DOSSIE_BNDES/01_FORMULARIO_01_CONSOLIDADO_en.md) — *Technical Details (Mestre 5.1)*
-*   📊 [**02. Consolidated Budget**](09_DOSSIE_BNDES/02_FORMULARIO_ORCAMENTO_CONSOLIDADO_en.md) — *Rubrics by BNDES category*
-*   🗺️ [**03. Migration Map**](09_DOSSIE_BNDES/03_MAPA_MIGRACAO_BNDES_C02_en.md) — *Systemic transposition guide*
-*   🛡️ [**04. Audit Report 5.1**](09_DOSSIE_BNDES/06_RELATORIO_AUDITORIA_5.1_en.md) — *Integrity and safeguards opinion*
+*   📑 [**01. Consolidated Form**](09_DOSSIE_BNDES/01_FORMULARIO_01_CONSOLIDADO.md) — *Technical Details (Mestre 5.1)*
+*   📊 [**02. Consolidated Budget**](09_DOSSIE_BNDES/02_FORMULARIO_ORCAMENTO_CONSOLIDADO.md) — *Rubrics by BNDES category*
+*   🗺️ [**03. Migration Map**](09_DOSSIE_BNDES/03_MAPA_MIGRACAO_BNDES_C02.md) — *Systemic transposition guide*
+*   🛡️ [**04. Audit Report 5.1**](09_DOSSIE_BNDES/06_RELATORIO_AUDITORIA_5.1.md) — *Integrity and safeguards opinion*
 
 ---
 
@@ -36,34 +36,34 @@ For immediate analytical review, consult the final audited documents ready for s
 
 ### 1. Strategy and Governance
 Documents validating the project's integrity, authorship, and administrative sustainability.
-*   📜 [**Protocol 5.1: Governance and Transparency**](00_GOVERNANCA/GOV_PROTOCOLO_5.1_en.md)
-*   📑 [Executive Summary (v2.1)](01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1_en.md)
-*   ⚖️ [Authorship and IP Rights](00_GOVERNANCA/GOV_AUTORIA_en.md)
-*   🖇️ [Project Correlation Matrix](00_GOVERNANCA/GOV_MATRIZ_CORRELACAO_en.md)
-*   🔒 [Data Sharing Policy](00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados_en.md)
-*   💰 [Budget Consolidation (v2.2)](09_DOSSIE_BNDES/05_RESUMO_CONSOLIDACAO_ORCAMENTARIA_en.md)
+*   📜 [**Protocol 5.1: Governance and Transparency**](00_GOVERNANCA/GOV_PROTOCOLO_5.1.md)
+*   📑 [Executive Summary (v2.1)](01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1.md)
+*   ⚖️ [Authorship and IP Rights](00_GOVERNANCA/GOV_AUTORIA.md)
+*   🖇️ [Project Correlation Matrix](00_GOVERNANCA/GOV_MATRIZ_CORRELACAO.md)
+*   🔒 [Data Sharing Policy](00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados.md)
+*   💰 [Budget Consolidation (v2.2)](09_DOSSIE_BNDES/05_RESUMO_CONSOLIDACAO_ORCAMENTARIA.md)
 
 ### 2. Science and Technology (R&D)
 Technical memorials and bio-based research and engineering.
-*   ⚙️ [Unique Memorial of Equipment and Patents](08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes_en.md)
-*   🔥 [Biorefinery: Reactor Memorial (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Management Strategy](01_TECNOLOGIA_TAKWARA/NT_estrategia-manejo-biorrefinaria_en.md)
+*   ⚙️ [Unique Memorial of Equipment and Patents](08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md)
+*   🔥 [Biorefinery: Reactor Memorial (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Management Strategy](01_TECNOLOGIA_TAKWARA/NT_estrategia-manejo-biorrefinaria.md)
 *   🛠️ **Social Systems:** [Tamboreador](08_PROJETOS_ENGENHARIA/TAMBOREADOR/TAK_memorial-patente-tamboreador.md) • [Resinator (T03)](08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md) • [Mixer (T04)](08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_memorial-patente-misturador.md)
 *   🏗️ **Construction:** [Cassette Press (T05)](08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_memorial-patente-prensa-cassetes.md) • [Welding Jigs (T06)](08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_memorial-patente-solda-gabaritos.md)
-*   🧪 **Research:** [Vegetable PU](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal_en.md) • [Bamboo Connections](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu_en.md) • [Ecological Bricks](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) • [SMEGA Monitoring](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga_en.md)
+*   🧪 **Research:** [Vegetable PU](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal.md) • [Bamboo Connections](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu.md) • [Ecological Bricks](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) • [SMEGA Monitoring](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md)
 
 ### 3. Socio-Environmental Impact and Management
 Manuals and guides for territorial implementation and regeneration.
-*   📖 **Manuals:** [Bamboo Bioeconomy](01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu_en.md) • [Phytoremediation and Carbon](01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono_en.md)
-*   🌿 **Ecological:** [Guadua Amazonica Management](02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica_en.md) • [Pest Control without Poison](02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno_en.md) • [Ecological Sanitation](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico_en.md)
+*   📖 **Manuals:** [Bamboo Bioeconomy](01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md) • [Phytoremediation and Carbon](01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md)
+*   🌿 **Ecological:** [Guadua Amazonica Management](02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica.md) • [Pest Control without Poison](02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md) • [Ecological Sanitation](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico.md)
 
 ### 4. Human Capital and Council
 Technical and scientific profiles leading the Mestre 5.1 fronts.
-*   👤 [Fabio Resck Takwara (Technology)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara_en.md)
-*   👤 [Prof. Tânia Cristina Cruz (Scientific Research)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz_en.md)
+*   👤 [Fabio Resck Takwara (Technology)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara.md)
+*   👤 [Prof. Tânia Cristina Cruz (Scientific Research)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz.md)
 
 ### 5. Advocacy and Outreach
 Climate-political positioning and knowledge dissemination.
-*   🌍 [COP30 Strategic Dossier](05_ADVOCACY_COP30/COM_dossie-cop30_en.md)
+*   🌍 [COP30 Strategic Dossier](05_ADVOCACY_COP30/COM_dossie-cop30.md)
 *   📢 [Medium Blog (Selected Articles)](07_BLOG_MEDIUM/)
 
 ---

@@ -31,29 +31,36 @@ nav:
       - 03. Mapa de Migração (C02): 09_DOSSIE_BNDES/03_MAPA_MIGRACAO_BNDES_C02.md
       - 04. Relatório de Auditoria 5.1: 09_DOSSIE_BNDES/06_RELATORIO_AUDITORIA_5.1.md
       - 05. Resumo Técnico-Financeiro: 09_DOSSIE_BNDES/05_RESUMO_CONSOLIDACAO_ORCAMENTARIA.md
-  - 1. Estratégia e Soberania:
-      - Plataforma Amazônia Regenerativa v5.1: 
-          - Português (Master): 06_ANAIS_MEMORIA/TAK_plataforma-v5.1.md
-          - English: 06_ANAIS_MEMORIA/TAK_plataforma-v5.1_en.md
-          - Español: 06_ANAIS_MEMORIA/TAK_plataforma-v5.1_es.md
-      - Dossiê Estratégico COP30: 05_ADVOCACY_COP30/COM_dossie-cop30.md
+  - 1. Estratégia e Governança:
+      - Apresentação Plataforma 5.1 (IH/IA): 
+          - Português: 00_GOVERNANCA/GOV_APRESENTACAO_PLATAFORMA_5.1.md
+          - English: 00_GOVERNANCA/GOV_APRESENTACAO_PLATAFORMA_5.1_en.md
+          - Español: 00_GOVERNANCA/GOV_APRESENTACAO_PLATAFORMA_5.1_es.md
       - Protocolo 5.1 (Governança): 00_GOVERNANCA/GOV_PROTOCOLO_5.1.md
+      - Resumo Executivo (v2.1): 
+          - Português: 06_ANAIS_MEMORIA/TAK_relatorio-executivo.md
+          - English: 06_ANAIS_MEMORIA/TAK_relatorio-executivo_en.md
+          - Español: 06_ANAIS_MEMORIA/TAK_relatorio-executivo_es.md
       - Autoria e Propriedade Intelectual: 00_GOVERNANCA/GOV_AUTORIA.md
+      - Matriz de Correlação: 00_GOVERNANCA/GOV_MATRIZ_CORRELACAO.md
   - 2. Tecnologia e Soberania (R&D):
       - Memorial Único de Equipamentos: 
-          - PT: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md
-      - Biorrefinaria Comunitária: 02_PESQUISA_DESENVOLVIMENTO/TAK_memorial-tecnico-biorrefinaria_pt.md
-      - Memorial do Reator (T02): 08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md
+          - Português: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md
+          - English: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes_en.md
+          - Español: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes_es.md
+      - Biorrefinaria (T02): 08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md
       - Tamboreador (T01): 08_PROJETOS_ENGENHARIA/TAMBOREADOR/TAK_memorial-patente-tamboreador.md
       - Resinador Rotativo (T03): 08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md
-  - 3. Impacto e Manejo:
+  - 3. Impacto Socioambiental e Manejo:
+      - Bioeconomia do Bambu: 01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md
+      - Fitorremediação e Carbono: 01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md
       - Saneamento Ecológico: 02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico.md
       - Tratamento Sem Veneno: 02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md
-      - Crêdito de Carbono: 01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md
-  - 4. Equipe:
+  - 4. Capital Humano e Conselho:
       - Fabio Resck Takwara: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara.md
       - Tânia Cristina Cruz: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz.md
-  - 5. Blog:
+  - 5. Advocacy e Difusão:
+      - Dossiê Estratégico COP30: 05_ADVOCACY_COP30/COM_dossie-cop30.md
       - 'Artigos Selecionados': 07_BLOG_MEDIUM/
 
 not_in_nav:

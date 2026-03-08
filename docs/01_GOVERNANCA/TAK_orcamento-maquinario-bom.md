@@ -2,7 +2,7 @@
 title: "BoM Industrial e Estimativa de Custos: Portfólio T01-T07"
 author: "Avaliador Industrial Takwara"
 date: '2026-03-06'
-H.5281/zenodo.18827106
+10.5281/zenodo.18827106
 ---
 
 # Bill of Materials (BoM) e Precificação de Contrapartida

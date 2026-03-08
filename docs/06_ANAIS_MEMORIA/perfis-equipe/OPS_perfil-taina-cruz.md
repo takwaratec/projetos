@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-H.5281/zenodo.18827106
+10.5281/zenodo.18827106
 keywords:
 - economia solidária
 - empreendedorismo feminino
