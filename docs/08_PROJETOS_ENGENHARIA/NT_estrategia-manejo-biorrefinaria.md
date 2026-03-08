@@ -2,7 +2,7 @@
 title: "Nota Técnica Mestre: Estratégia de Manejo e Logística de Biorrefinaria Bioeconômica"
 author: "Núcleo Takwara / Plataforma Amazônia Regenerativa"
 date: "2026-03-07"
-version: "2.1.0"
+version: "2.2.2"
 status: "Finalizado"
 type: "Nota Técnica"
 ---
