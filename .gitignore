@@ -96,3 +96,15 @@ site/
 .venv/
 __pycache__/
 .vscode/
+
+# ── PROTEÇÃO CONTRA VAZAMENTO (ARQUIVOS SENSÍVEIS, ESBOÇOS, MAPAS MENTAIS) ──
+docs/99_RESTRITO/
+99_RESTRITO/
+*mapa*mental*
+*brainstorm*
+*esboço*
+*esboco*
+*rascunho*
+*pesquisas*incremento*
+*informacao_pessoal*
+*adm_secreto*
