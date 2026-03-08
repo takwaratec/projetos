@@ -55,6 +55,7 @@ Technical memorials and bio-based research and engineering.
 Manuals and guides for territorial implementation and regeneration.
 *   📖 **Manuals:** [Bamboo Bioeconomy](01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md) • [Phytoremediation and Carbon](01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md)
 *   🌿 **Ecological:** [Guadua Amazonica Management](02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica.md) • [Pest Control without Poison](02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md) • [Ecological Sanitation](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico.md)
+*   🔍 **Field Research:** [Bamboo Dynamics and Georeferencing](02_PESQUISA_DESENVOLVIMENTO/RES_pesquisa-bambu-indigenas-georreferenciamento_en.md)
 
 ### 4. Human Capital and Council
 Technical and scientific profiles leading the Mestre 5.1 fronts.

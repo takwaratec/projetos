@@ -55,6 +55,7 @@ Memoriais estratégicos e pesquisas de base biotecnológica e engenharia social.
 Manuais e guias para implementação territorial e regeneração.
 *   📖 **Manuais:** [Bioeconomia do Bambu](01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md) • [Fitorremediação e Carbono](01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md)
 *   🌿 **Ecológico:** [Manejo de Guadua Amazônica](02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica.md) • [Tratamento sem Veneno](02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md) • [Saneamento Ecológico](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico.md)
+*   🔍 **Pesquisa de Campo:** [Dinâmicas de Bambu e Georreferenciamento](02_PESQUISA_DESENVOLVIMENTO/RES_pesquisa-bambu-indigenas-georreferenciamento.md)
 
 ### 4. Capital Humano e Conselho
 Perfis técnicos e científicos liderando as frentes da Mestre 5.1.
