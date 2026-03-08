@@ -22,7 +22,7 @@ Este documento consolida o levantamento das tecnologias proprietárias do **Núc
 
 ### 1.4 Sistemas de União e Resinagem
 *   **Solda Vegetal:** Técnica de ancoragem química e mecânica utilizando PU de Mamona (Mamonex).
-*   **Maquinário de Resinagem Airless ("Frangueira"):** Sistema de eixos rotativos com pontas cônicas que rotacionam as varas de bambu para aplicação uniforme de PU UG132A via airless.
+*   **Maquinário de Resinagem Airless (Resinador Rotativo):** Sistema de eixos rotativos com pontas cônicas que rotacionam as varas de bambu para aplicação uniforme de PU UG132A via airless.
 
 ---
 

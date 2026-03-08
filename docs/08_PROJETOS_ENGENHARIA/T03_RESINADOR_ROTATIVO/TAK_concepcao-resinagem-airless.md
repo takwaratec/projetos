@@ -19,7 +19,7 @@ type: Nota Técnica
 version: '5.1'
 ---
 
-# Conceituação Técnica: Resinagem Airless e Resinador Rotativo (T03)
+# Conceituação Técnica: Maquinário de Resinagem Airless ("Frangueira")
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -45,7 +45,6 @@ Inspirado no mecanismo de assadeiras de frango, este maquinário rotaciona as va
 ---
 
 ## 3. Cenário Imagético e Mapa Mental
-
 ### 3.1 Descrição Visual
 Uma fileira horizontal de 6m de bambus suspensos por eixos cônicos de aço, girando em sincronia sob uma névoa de resina transparente. O bambu entra seco e bruto e sai blindado contra intempéries.
 

@@ -79,7 +79,12 @@ A Plataforma utiliza indexação por prefixos e pastas temáticas:
 2. **Expansão Técnica**: Proponha uma versão melhorada do pedido, citando os princípios do Módulo A.
 3. **Confirmação**: Só execute após o "OK" explícito do usuário.
 
-### 3. Ética de Resposta
+### 3. Governança de Versões (Soberania 5.1 v.2.1.0)
+- **Quarentena de Atualização**: Todos os Boletins de NT e atualizações técnicas da nova versão (v.2.1.0) devem ser produzidos e mantidos estritamente em `99_RESTRITO/` até aprovação final.
+- **Redação Cirúrgica**: Manter rigor técnico-científico absoluto, removendo qualquer resquício de linguagem coloquial ou referências a processos de IA, conforme o `Workflow de Redação`.
+- **Alinhamento Mestre**: Nenhum documento deve ser publicado ou movido para pastas públicas (`01_`, `08_`) sem garantir a sincronia total com a árvore de metadados da versão 2.1.0.
+
+### 4. Ética de Resposta
 - Reforce sempre a visão "Bambu nativo, sem veneno".
 - Diferencie claramente entre Parceria Institucional (UnB) e Propriedade Tecnológica (Fabio Takwara).
 - Proteja os documentos com DOI contra mudanças acidentais que descaracterizem o projeto.

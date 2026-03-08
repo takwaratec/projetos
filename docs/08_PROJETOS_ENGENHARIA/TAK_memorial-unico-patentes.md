@@ -30,47 +30,53 @@ Este documento consolida os **Memoriais Descritivos de Patente** e as **Concepç
 
 ---
 
-## 1. Biorrefinaria T02: Reator de Pirólise e Tratamento Atmosférico
-**Invenção:** Sistema integrado de pirólise indireta e cascateamento térmico para imunização de bambu sem veneno.
-- **Diferencial:** Aproveitamento de gases não-condensáveis (*syngas*) e vapor de flash por coluna hidrostática.
-- **Status:** Patente de Invenção em Tramitação (Draft/Edição).
-- [Acessar Memorial Completo](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-reator.md)
+## 1. Forno Ecológico de Alta Eficiência T01
+**Invenção:** Sistema de carbonização de biomassa com re-combustão de gases para produção de biochar.
+- **Diferencial:** Design baseado no IFB para uso social-regenerativo (Smokeless).
+- **Status:** ![Status](https://img.shields.io/badge/Status-Pendente%20(PVI/Documentação)-red)
+- [Acessar Memorial](./T01_FORNO_ECOLOGICO/TAK_memorial-patente-forno.md) | [Conceituação](./T01_FORNO_ECOLOGICO/TAK_concepcao-forno-ecologico.md)
 
-## 2. Resinador Rotativo T03: A "Frangueira" Industrial
+## 2. Biorrefinaria T02: Reator de Pirólise e Tratamento Atmosférico
+**Invenção:** Sistema integrado de pirólise indireta e cascateamento térmico.
+- **Diferencial:** Aproveitamento de gases não-condensáveis (*syngas*) e vapor de flash.
+- **Status:** ![Status](https://img.shields.io/badge/Status-Finalizado%20(Advocacy)-blue)
+- [Acessar Memorial Completo](./T02_BIORREFINARIA/TAK_memorial-patente-reator.md)
+
+## 3. Resinador Rotativo T03: Estação de Cura de Eixos Múltiplos
 **Invenção:** Dispositivo de rotação sincronizada multi-eixo (módulos de 12 varas) para cura uniforme de biopolímeros.
 - **Diferencial:** Ponteiras cônicas de autoajuste interno (lúmen) e catracas de torque gradual.
-- **Status:** Patente de Invenção (Industrial) e MU (Artesanal/Tanquinho) - (Draft/Edição).
-- [Acessar Memorial Industrial](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-frangueira-industrial.md)
+- **Status:** Finalizado (Advocacy).
+- [Acessar Memorial Industrial](./T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md)
 
 ## 3. Misturador de Biocompósitos T04: A Betoneira Impermeável
 **Invenção:** Câmara de mistura para fibras e resinas colantes com vedações dinâmicas.
 - **Diferencial:** Sistema de **Vedação por Gaxeta Ajustável** e aspersão pneumática interna (**Jato PU**).
-- **Status:** Patente de Invenção.
-- [Acessar Memorial Completo](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-misturador.md)
+- **Status:** Finalizado (Advocacy).
+- [Acessar Memorial Completo](./T04_MISTURADOR/TAK_memorial-patente-misturador.md)
 
 ## 4. Prensa de Cassetes Intercambiáveis T05 (Mecânicas Celulares)
 **Invenção:** Prensa universal para tijolos ecológicos e elementos construtivos celulares.
 - **Diferencial:** Troca rápida de moldes (cassetes) em escala industrial aceitável.
-- **Status:** Patente de Invenção.
-- [Acessar Memorial Completo](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-prensa-cassetes.md)
+- **Status:** Finalizado (Advocacy).
+- [Acessar Memorial Completo](./T05_PRENSA_CASSETES/TAK_memorial-patente-prensa-cassetes.md)
 
 ## 5. Gabaritos de Montagem e Solda Vegetal T06
 **Modelo de Utilidade:** Dispositivos de alinhamento espacial para pré-fabricação de treliças.
 - **Diferencial:** Grampos articulados com revestimento anti-aderente para alinhamento milimétrico de varas.
-- **Status:** Modelo de Utilidade (Draft/Edição).
-- [Acessar Memorial Completo](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-solda-gabaritos.md)
+- **Status:** Finalizado (Advocacy).
+- [Acessar Memorial Completo](./T06_GABARITOS_SOLDA/TAK_memorial-patente-solda-gabaritos.md)
 
 ## 6. Prensa de Sanduiche para Painéis e OSB T07
 **Invenção:** Sistema de conformação de grandes superfícies via contenção por carga estática.
 - **Diferencial:** Uso de **contrapesos sincronizados** em mesas de sanduíche, eliminando pistões complexos em placas de grande formato.
-- **Status:** Patente de Invenção / Nota Técnica (Draft/Edição).
-- [Acessar Concepção Técnica](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_concepcao-prensa-sanduiche.md)
+- **Status:** Finalizado (Advocacy).
+- [Acessar Concepção Técnica](./T07_PRENSA_SANDUICHE/TAK_concepcao-prensa-sanduiche.md)
 
 ## 7. Tamboreador de Varas: Abrasão Térmica e Sílica
 **Invenção:** Equipamento de beneficiamento superficial longitudinal com captura de particulados.
 - **Diferencial:** Ciclone separador para coleta de sílica e integração com calor residual da vaporização.
 - **Status:** Finalizado (Privado/Restrito).
-- [Acessar Memorial Industrial](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/01_MAQUINARIO_PROPRIETARIO/TAK_memorial-patente-tamboreador.md)
+- [Acessar Memorial Industrial](./TAMBOREADOR/TAK_memorial-patente-tamboreador.md)
 
 ---
 

@@ -14,12 +14,12 @@ keywords:
 language: pt
 license: CC BY 4.0
 series: Série Projetos de Engenharia — Maquinário Proprietário
-title: 'Memorial Jurídico: Resinador Rotativo Industrial "Frangueira" T03'
+title: 'Memorial Jurídico: Resinador Rotativo Industrial T03'
 type: Memorial de Patente
 version: '5.1'
 ---
 
-# Memorial Jurídico: Resinador Rotativo Industrial "Frangueira" T03
+# Memorial Jurídico: Resinador Rotativo Industrial T03
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -35,8 +35,8 @@ Refere-se a um **Dispositivo Industrial de Rotação Sincronizada** para a cura 
 ### 1.2 Problema Técnico
 A aplicação de resinas de alto brilho (biopolímeros) em colmos de bambu sofre com o escorrimento e formação de bolhas (meniscos irregulares) devido à gravidade durante o tempo de "gel". Métodos manuais ou estáticos de secagem resultam em perda de material e acabamento heterogêneo, inviabilizando a escala industrial de luxo ou construção civil de alto desempenho.
 
-### 1.3 Solução Proposta (A "Frangueira")
-A invenção apresenta um sistema de rotisseria industrial multi-eixo configurado em módulos de 12 unidades. O diferencial técnico reside nas **Ponteiras Cônicas de Autoajuste**, compostas de elastômero semi-emborrachado que se acoplam ao lúmen (cavidade interna) do bambu. A transmissão de força é garantida por um sistema de **catracas dentadas de torque gradual**, que impede o escorregamento axial da peça durante o giro perene. Na escala industrial, o sistema utiliza **polias individuais com embreagem manual**, permitindo que o operador interrompa a rotação de uma única vara para inspeção ou retoque sem paralisar o lote completo.
+### 1.3 Solução Proposta (Resinador Rotativo de Eixos Múltiplos)
+A invenção apresenta um sistema de resinagem rotativa industrial multi-eixo configurado em módulos de 12 unidades. O diferencial técnico reside nas **Ponteiras Cônicas de Autoajuste**, compostas de elastômero semi-emborrachado que se acoplam ao lúmen (cavidade interna) do bambu. A transmissão de força é garantida por um sistema de **catracas dentadas de torque gradual**, que impede o escorregamento axial da peça durante o giro perene. Na escala industrial, o sistema utiliza **polias individuais com embreagem manual**, permitindo que o operador interrompa a rotação de uma única vara para inspeção ou retoque sem paralisar o lote completo.
 
 ---
 
@@ -81,4 +81,7 @@ O sistema é otimizado para o **"Gel-Time"** do biopolímero (aprox. 2 horas). C
 ## Como Citar
 
 **APA:**
-Takwara, F. R. (2026). *Memorial Jurídico: Resinador Rotativo Industrial "Frangueira" T03* (Versão 5.1). Memorial de Patente — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+Takwara, F. R. (2026). *Memorial Jurídico: Resinador Rotativo Industrial T03* (Versão 5.1). Memorial de Patente — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
+
+---
+**🎋 Takwara — Engenharia e Estratégia para a Bioeconomia do Amanhã**

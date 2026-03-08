@@ -33,37 +33,37 @@ This document consolidates the **Descriptive Patent Memorials** and **Conceptual
 ## 1. Biorefinery T02: Pyrolysis Reactor and Atmospheric Treatment
 **Invention:** Integrated indirect pyrolysis and thermal cascading system for poison-free bamboo immunization.
 - **Differentiator:** Utilization of non-condensable gases (*syngas*) and flash steam via hydrostatic column.
-- **Status:** Invention Patent Pending (Draft/Editing).
+- **Status:** Finalized (Advocacy).
 - [Access Full Memorial (Restricted/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-reator.md)
 
-## 2. Rotary Resinator T03: The Industrial "Frangueira"
+## 2. Rotary Resinator T03: Multi-Axis Bamboo Station
 **Invention:** Multi-axis synchronized rotation device (12-pole modules) for uniform curing of biopolymers.
 - **Differentiator:** Conical internal self-adjusting tips (lumen) and gradual torque ratchets.
-- **Status:** Invention Patent (Industrial) and UM (Artisanal/Pedal) - (Draft/Editing).
-- [Access Industrial Memorial (Restricted/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-frangueira-industrial.md)
+- **Status:** Finalized (Advocacy).
+- [Access Industrial Memorial (Restricted/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md)
 
 ## 3. Biocomposite Mixer T04: The Waterproof Concrete Mixer
 **Invention:** Mixing chamber for fibers and adhesive resins with dynamic seals.
 - **Differentiator:** **Adjustable Gland Seal** system and internal pneumatic spraying (**PU Jet**).
-- **Status:** Invention Patent.
+- **Status:** Finalized (Advocacy).
 - [Access Full Memorial (Restricted/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-misturador.md)
 
 ## 4. T05 Interchangeable Cassette Press (Cellular Mechanics)
 **Invention:** Universal press for ecological bricks and cellular construction elements.
 - **Differentiator:** Quick mold change (cassettes) at an acceptable industrial scale.
-- **Status:** Invention Patent.
+- **Status:** Finalized (Advocacy).
 - [Access Full Memorial (Restricted/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-prensa-cassetes.md)
 
 ## 5. T06 Assembly Jigs and Plant-Based Welding
 **Utility Model:** Spatial alignment devices for truss pre-fabrication.
 - **Differentiator:** Articulated clamps with non-stick coating for millimeter-precise pole alignment.
-- **Status:** Utility Model (Draft/Editing).
+- **Status:** Finalized (Advocacy).
 - [Access Full Memorial (Restricted/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_memorial-patente-solda-gabaritos.md)
 
 ## 6. T07 Sandwich Press for Panels and OSB
 **Invention:** Large surface shaping system via static load containment.
 - **Differentiator:** Use of **synchronized counterweights** on sandwich tables, eliminating complex pistons for large format boards.
-- **Status:** Invention Patent / Technical Note (Draft/Editing).
+- **Status:** Finalized (Advocacy).
 - [Access Technical Conception (Restricted/PT)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/docs/08_PROJETOS_ENGENHARIA/TAK_concepcao-prensa-sanduiche.md)
 
 ## 7. Pole Tumbler: Thermal Abrasion and Silica

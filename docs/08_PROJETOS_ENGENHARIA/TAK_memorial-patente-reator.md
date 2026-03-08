@@ -53,6 +53,12 @@ Por derradeiro, toda exaustão purificada emanada pós-combustão do Riser cede 
 
 ## 6. Quadro Reivindicatório
 
+## 6. Logística de Fabricação e Implantação Modular
+A invenção é projetada para fabricação modular *off-site* e montagem *on-site*, com o Queimador *Rocket Stove* operando preferencialmente em configuração **semi-enterrada** para otimização da inércia térmica e segurança operacional em contextos comunitários. A modularização permite o transporte de componentes em unidades de carga inferiores a 150kg.
+
+## 7. Roteiro de Apresentação e Defesa do Invento (Pitch)
+O sistema opera como uma **micro-usina de cascateamento**, onde a energia da carbonização (Universo Sujo) é convertida em vapor químico (Universo do Vapor) para imunização de bambu, e o calor residual é captado via jaqueta de vácuo para secagem controlada (Universo Limpo). Trata-se de uma solução de ciclo fechado que elimina a dependência de insumos externos e redes elétricas complexas.
+
 **REIVINDICAÇÕES**
 
 **1.** SISTEMA INTEGRADO DE BIORREFINARIA DE CASCATEAMENTO TÉRMICO, caracterizado por compreender de forma interligada fluida e térmica: (a) um Reator de Pirólise primário e selado com invólucro para aquecimento indireto; (b) um Queimador tipo *Rocket Stove* dotado de tubo *Riser* provido de tiragem natural vertical extrema; (c) um Condensador Tubular descendente interconectado operando em contrafrio com sifão depurador de fluxo contínuo de licores lenhosos; (d) um supressor geométrico de retorno de chama (Corta-Chamas) inserido no loop de realimentação gasona entre o Condensador e o Queimador; (e) uma Caldeira de Permutação tipo serpentina enroscada à face externa do Riser alimentada exclusivamente por coluna de pressão hidrostática; (f) um par isolado de Câmaras de Tratamento (Câmara A e Câmara B) operadas volumetricamente à pressão atmosférica circundante; e (g) jaqueta de indução de aquecimento de ar convectivo operada por vácuo motor.

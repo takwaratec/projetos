@@ -37,6 +37,7 @@ Atualmente, o lixamento de varas de bambu em escala comercial é realizado manua
 1.  **Inconsistência:** Desgaste irregular das fibras.
 2.  **Risco Ocupacional:** Alta dispersão de pó de sílica em suspensão.
 3.  **Ineficiência:** Gargalo produtivo frente a câmaras de vapor industriais.
+4.  **Desperdício de Material:** A sílica removida não é aproveitada de forma sistemática.
 Modelos rotativos existentes (como os usados em joalheria ou pellets) não comportam o comprimento longitudinal de varas de 6 metros, nem integram o calor residual do tratamento térmico como facilitador de abrasão.
 
 ### 1.3 Sumário da Invenção

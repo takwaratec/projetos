@@ -66,6 +66,8 @@ docs/technical-support/referencias academicas/
 docs/ref-BNDES/
 
 # ── REGRAS DE SEGURANÇA E ACESSO RESTRITO (GEMINI v2.0) ──────
+.agents/
+MODELOS DE INTELIGENCIA HIBRIDA/
 99_RESTRITO/
 *_PRIVADO/
 *_RESTRITO/
