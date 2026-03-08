@@ -4,9 +4,11 @@
 Este guia orienta a submissão do pacote curado para o Zenodo, garantindo que as versões em inglês e espanhol sejam corretamente indexadas e que o **Master DOI** seja preservado.
 
 ## 1. Preparação do Arquivo
+**REGRA IMUTÁVEL: É estritamente proibido compartilhar no Zenodo ou incluir em commits de distribuição final quaisquer arquivos de brainstorm, mapas mentais, rascunhos, pesquisas brutas e instruções de interação IH/IA (ex: prompts e diretórios `.agents` ou `99_RESTRITO`). Estes não fazem parte da coleção oficial.**
+
 1.  Localize a pasta [**dist_zenodo_v2.2.2/**](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres_Bioeconomia_Amazonia/dist_zenodo_v2.2.2/).
 2.  Comprima esta pasta em um arquivo `.zip` (Ex: `Amazonia_Regenerativa_v2.2.2.zip`).
-    - *Nota: O rsync já removeu rascunhos e pastas restritas, então o zip estará limpo.*
+    - *Nota: Verifique rigorosamente se não há pastas como `99_RESTRITO` ou arquivos de `rascunhos` antes de fechar o zip.*
 
 ## 2. No Painel do Zenodo
 1.  Acesse sua conta no [Zenodo](https://zenodo.org/) e vá em **Uploads**.
