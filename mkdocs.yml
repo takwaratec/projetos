@@ -64,6 +64,8 @@ not_in_nav:
   - 01_GOVERNANCA/**
   - 04_GESTAO_OPERACIONAL/**
   - 09_DOSSIE_BNDES/04_ORCAMENTO_DETALHADO_MASTER.md
+  - "**/perfis-equipe/OPS_perfil-jesiel-campos.md"
+  - "**/perfis-equipe/OPS_perfil-tiago-filemon.md"
 
 extra:
   social:
