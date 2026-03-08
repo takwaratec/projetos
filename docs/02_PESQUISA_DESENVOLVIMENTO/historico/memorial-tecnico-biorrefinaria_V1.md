@@ -1,7 +1,7 @@
 ---
 author: Takwara, Fabio Resck
 date: '2026-03-04'
-10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18827106
 language: pt-BR
 license: CC BY 4.0
 series: Série Técnica Plataforma Amazônia Regenerativa — Pesquisa e Desenvolvimento
@@ -9,7 +9,7 @@ subtitle: Sistema de Pirólise, Carvão Ativado e Biopolímeros de Bambu
 title: 'Memorial Técnico: Biorrefinaria Integrada'
 translations:
   pt: memorial-tecnico-biorrefinaria_V1.md
-version: '2.1'
+version: '2.2.2'
 ---
 # Memorial Técnico: Biorrefinaria Integrada
 
@@ -18,7 +18,7 @@ version: '2.1'
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./memorial-tecnico-biorrefinaria_V1.md)
-![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
 
 ---
 
