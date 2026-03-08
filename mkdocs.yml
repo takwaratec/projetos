@@ -62,6 +62,8 @@ nav:
   - 5. Advocacy e Difusão:
       - Dossiê Estratégico COP30: 05_ADVOCACY_COP30/COM_dossie-cop30.md
       - 'Artigos Selecionados': 07_BLOG_MEDIUM/2021-01-17_A-ECOLOGIA-DO-BAMBU-969a2cc49ae3.md
+  - 🛠️ Área de Trabalho (GT):
+      - Validação de Componentes: 99_RESTRITO/03_PROVISORIO/PREVIEW_PLATAFORMA.md
 
 not_in_nav: |
   99_RESTRITO/**
@@ -75,6 +77,7 @@ not_in_nav: |
   **/perfis-equipe/OPS_perfil-tiago-filemon.md
 
 extra:
+  version: v2.2.2
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/takwaratec/projetos

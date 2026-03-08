@@ -7,15 +7,16 @@ Este documento define a camada de governança técnica da **Plataforma Amazônia
 A arquitetura da Plataforma 5.1 é fundamentada em uma pesquisa de integração entre **Inteligência Humana (IH)** e **Inteligência Artificial (IA)**. O objetivo não é substituir o saber acadêmico ou territorial, mas prover uma **infraestrutura editorial de alta precisão**:
 
 *   **Auditagem em Tempo Real:** O sistema atua como uma banca examinadora constante, verificando conformidade com as exigências do BNDES, Salvaguardas de Cancun e Indicadores de Impacto.
-*   **Alívio Operational:** Toda a tarefa exaustiva de integração de propostas herdadas e formatação técnica é suportada pelos agentes de IA, liberando o GT para focar na fidedignidade dos dados.
+*   **Fluxo de Integração por Pastas:** O GT disponibiliza seus arquivos brutos e currículos em pastas; nossos agentes de IA realizam a catalogação, sugerem edições e geram links de pré-visualização.
+*   **Alívio Operacional:** Toda a tarefa exaustiva de integração de propostas e formatação técnica é suportada pelos agentes, liberando as Mestras e Mestres para focarem na fidedignidade.
 
-## 🛡️ Protocolos de Integridade e Bloqueio
+## 🛡️ Protocolos de Integridade e Rastreabilidade
 
-Diferente de sistemas de IA convencionais, a Plataforma 5.1 opera sob **Protocolos de Bloqueio Editorial**:
+Diferente de sistemas de IA convencionais, a Plataforma 5.1 opera sob **Protocolos de Bloqueio Editorial** e rastreio absoluto:
 
 1.  **Anti-Alucinação:** Bloqueios algorítmicos que impedem a criação de dados fictícios ou imprecisões técnicas.
-2.  **Proteção Autoral:** Garantia de que o conteúdo autoral e saber tradicional não sejam alterados sem supervisão direta.
-3.  **Fidedignidade Absoluta:** O sistema é uma ferramenta de "curadoria editorial", focada em orquestrar a complexidade do dossiê sem comprometer a essência científica e social do projeto.
+2.  **Assinatura Digital de Autoria:** Cada alteração integrada é vinculada à digital de quem a produziu/aprovou. O sistema rastreia "quem fez o quê" desde a primeira publicação.
+3.  **Aprovação via Links Provisórios:** Nenhuma mudança entra na mestre sem passar pela aprovação do autor via links de visualização prévia.
 
 ## 🍳 A Cozinha do Projeto
 
