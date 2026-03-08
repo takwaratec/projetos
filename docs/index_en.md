@@ -59,7 +59,7 @@ Manuals and guides for territorial implementation and regeneration.
 ### 4. Human Capital and Council
 Technical and scientific profiles leading the Mestre 5.1 fronts.
 *   👤 [Fabio Resck Takwara (Technology)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara.md)
-*   👤 [Prof. Tânia Cristina Cruz (Scientific Research)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz.md)
+*   👤 [Prof. Tânia Cristina Cruz (Scientific Research)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-tania-cruz.md)
 
 ### 5. Advocacy and Outreach
 Climate-political positioning and knowledge dissemination.

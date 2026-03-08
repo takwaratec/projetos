@@ -59,7 +59,7 @@ Manuales y guías para implementación territorial y regeneración.
 ### 4. Capital Humano y Consejo
 Perfiles técnicos y científicos liderando los frentes de la Mestre 5.1.
 *   👤 [Fabio Resck Takwara (Tecnología)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara.md)
-*   👤 [Profa. Tânia Cristina Cruz (Investigación Científica)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz.md)
+*   👤 [Profa. Tânia Cristina Cruz (Investigación Científica)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-tania-cruz.md)
 
 ### 5. Advocacy y Difusión
 Posicionamiento político-climático y diseminación de conocimiento.

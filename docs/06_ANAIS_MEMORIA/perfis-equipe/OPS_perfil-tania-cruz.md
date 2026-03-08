@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-H.5281/zenodo.18827106
+10.5281/zenodo.18827106
 keywords:
 - economia solidária
 - empreendedorismo feminino
@@ -18,9 +18,9 @@ series: Série Técnica Plataforma Amazônia Regenerativa — Anais e Memória
 subtitle: Perfil Profissional e Trajetória na Plataforma
 title: 'Perfil Técnico: Profa. Dra. Tânia Cristina da Silva Cruz'
 translations:
-  en: OPS_perfil-taina-cruz_en.md
-  es: OPS_perfil-taina-cruz_es.md
-  pt: OPS_perfil-taina-cruz.md
+  en: OPS_perfil-tania-cruz_en.md
+  es: OPS_perfil-tania-cruz_es.md
+  pt: OPS_perfil-tania-cruz.md
 type: Perfil Técnico
 version: '2.1'
 ---
@@ -28,7 +28,7 @@ version: '2.1'
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./OPS_perfil-taina-cruz.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-taina-cruz_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-taina-cruz_es.md)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./OPS_perfil-tania-cruz.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-tania-cruz_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-tania-cruz_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
 ![Tipo](https://img.shields.io/badge/tipo-Perfil%20Técnico-teal)
 
@@ -57,10 +57,7 @@ Sua inserção na Plataforma articula três dimensões complementares:
   empreendedorismo feminino e tecnologia social orienta o modelo de governança comunitária
   da Plataforma, com centralidade em cooperativas e organizações de mulheres
 
-> ⚠️ **Nota de autoria:** A parceria com a UnB/FUP não implica transferência de
-> titularidade intelectual sobre a Tecnologia Takwara. A autoria original permanece
-> com **Fabio Resck Takwara**, conforme declarado no Repo-Me e registrado no Zenodo.
-> A Profa. Tânia atua como parceira estratégica e proponente institucional.
+
 
 ---
 

@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-10.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - economía solidaria
 - emprendimiento femenino
@@ -18,9 +18,9 @@ series: Serie Técnica Plataforma Amazonia Regenerativa — Anales y Memoria
 subtitle: Perfil Profesional y Trayectoria en la Plataforma
 title: 'Perfil Técnico: Profa. Dra. Tânia Cristina da Silva Cruz'
 translations:
-  en: OPS_perfil-taina-cruz_en.md
-  es: OPS_perfil-taina-cruz_es.md
-  pt: OPS_perfil-taina-cruz.md
+  en: OPS_perfil-tania-cruz_en.md
+  es: OPS_perfil-tania-cruz_es.md
+  pt: OPS_perfil-tania-cruz.md
 type: Perfil Técnico
 version: '2.1'
 ---
@@ -28,7 +28,7 @@ version: '2.1'
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./OPS_perfil-taina-cruz.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-taina-cruz_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-taina-cruz_es.md)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./OPS_perfil-tania-cruz.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-tania-cruz_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-tania-cruz_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
 ![Tipo](https://img.shields.io/badge/tipo-Perfil%20Técnico-teal)
 
@@ -49,7 +49,7 @@ Su inserción en la Plataforma articula tres dimensiones complementarias:
 - **Transferencia de tecnología** — como coordinadora de la CEDES/NIT-CDT/UnB, actúa en la estructuración de los mecanismos de propiedad intelectual y transferencia de las tecnologías Takwara para cooperativas amazónicas.
 - **Gobernanza con enfoque de género** — su experiencia consolidada en economía solidaria, emprendimiento femenino y tecnología social orienta el modelo de gobernanza comunitaria de la Plataforma, con centralidad en cooperativas y organizaciones de mujeres.
 
-> ⚠️ **Nota de autoría:** La alianza con la UnB/FUP no implica transferencia de titularidad intelectual sobre la Tecnología Takwara. La autoría original permanece con **Fabio Resck Takwara**, conforme se declara en Repo-Me y se registra en Zenodo. La Profa. Tânia actúa como socia estratégica y proponente institucional.
+
 
 ---
 

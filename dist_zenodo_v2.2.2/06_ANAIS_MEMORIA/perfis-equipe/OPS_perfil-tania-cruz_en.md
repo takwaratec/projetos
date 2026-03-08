@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-10.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - solidarity economy
 - female entrepreneurship
@@ -18,9 +18,9 @@ series: Technical Series Regenerative Amazon Platform — Annals and Memory
 subtitle: Professional Profile and Career Path in the Platform
 title: 'Technical Profile: Prof. Dr. Tânia Cristina da Silva Cruz'
 translations:
-  en: OPS_perfil-taina-cruz_en.md
-  es: OPS_perfil-taina-cruz_es.md
-  pt: OPS_perfil-taina-cruz.md
+  en: OPS_perfil-tania-cruz_en.md
+  es: OPS_perfil-tania-cruz_es.md
+  pt: OPS_perfil-tania-cruz.md
 type: Technical Profile
 version: '2.1'
 ---
@@ -28,7 +28,7 @@ version: '2.1'
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./OPS_perfil-taina-cruz.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-taina-cruz_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./OPS_perfil-taina-cruz_es.md)
+[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./OPS_perfil-tania-cruz.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-tania-cruz_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./OPS_perfil-tania-cruz_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
 ![Type](https://img.shields.io/badge/type-Technical%20Profile-teal)
 
@@ -49,7 +49,7 @@ Her involvement in the Platform articulates three complementary dimensions:
 - **Technology Transfer** — As coordinator of CEDES/NIT-CDT/UnB, she works on structuring intellectual property mechanisms and the transfer of Takwara technologies to Amazonian cooperatives.
 - **Gender-Focused Governance** — Her consolidated expertise in solidarity economy, female entrepreneurship, and social technology guides the Platform's community governance model, with a focus on cooperatives and women's organizations.
 
-> ⚠️ **Authorship Note:** The partnership with UnB/FUP does not imply a transfer of intellectual ownership over Takwara Technology. The original authorship remains with **Fabio Resck Takwara**, as declared in Repo-Me and registered on Zenodo. Prof. Tânia acts as a strategic partner and institutional proponent.
+
 
 ---
 
