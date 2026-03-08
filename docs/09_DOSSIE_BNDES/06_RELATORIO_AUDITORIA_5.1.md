@@ -1,4 +1,4 @@
-# RELATÓRIO DE AUDITORIA TÉCNICO-FINANCEIRA: CONFORMIDADE BNDES (C02)
+# RELATÓRIO DE AUDITORIA TÉCNICO-FINANCEIRA: CONFORMIDADE BNDES
 **Projeto:** Mãos que Tecem a Floresta (Mestre 5.1)  
 **Data:** Março 2026 | **Protocolo:** Advocacy 5.1 (Rastreabilidade e Soberania)  
 **Auditado por:** Antigravity (IA Takwara)
@@ -6,7 +6,7 @@
 ---
 
 ## 1. CONCLUSÃO GERAL
-O projeto e a planilha orçamentária (Componente 02 - R$ 25,3M) estão **EM CONFORMIDADE** com as diretrizes do **Guia BNDES / Fundo Amazônia**, tendo superado subestimações críticas da versão anterior (v2.0) relacionadas a encargos trabalhistas, logística amazônica e licenciamento obrigatório.
+O projeto e a planilha orçamentária (R$ 25,3M) estão **EM CONFORMIDADE** com as diretrizes do **Guia BNDES / Fundo Amazônia**, tendo superado subestimações críticas da versão anterior (v2.0) relacionadas a encargos trabalhistas, logística amazônica e licenciamento obrigatório.
 
 ---
 

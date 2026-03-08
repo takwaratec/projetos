@@ -47,44 +47,30 @@ Fortalecer o protagonismo das mulheres e a sustentabilidade das cadeias produtiv
 
 ---
 
-## 4. Componentes do Projeto
+## 4. Estrutura do Projeto (Mestre 5.1)
 
-**Profa. Georgia Patrícia da Silva Ferko**  
-*Link Lattes:* [http://lattes.cnpq.br/8762583706265854](http://lattes.cnpq.br/8762583706265854)
-
-### Componente 01: CADEIA DO ARTESANATO (Profa. Georgia Ferko)
-**Descrição:** Fortalecimento da cadeia produtiva do artesanato de base florestal em Roraima e Acre, promovendo a autonomia econômica de mulheres através da agregação de valor às fibras, sementes e biomassas nativas com design sustentável e rastreabilidade 5.1.
-
-**Justificativa do Componente:**
-O artesanato amazônico sustentado por mulheres é um pilar da bioeconomia do cuidado, porém enfrenta gargalos de preservação de materiais e acesso a mercados premium. Sob o Protocolo 5.1, este componente foca na inovação do design e na durabilidade das peças através de tratamentos biotecnológicos, transformando a arte tradicional em um ativo de soberania material e conservação da floresta em pé.
-
-**Produtos e Serviços:**
-1. **P1.1: Inventário de Saberes e Matérias-Primas [5.1]:** Mapeamento e registro de técnicas tradicionais e fibras/sementes locais.
-2. **P1.2: Linha de Bio-Design "Mãos que Tecem":** Coleção de artefatos de alto valor agregado com selo de origem e rastreabilidade.
-3. **P1.3: Redes de Comercialização Solidária:** Estruturação de canais diretos de venda e e-commerce pautados na transparência e preço justo.
-
-**Atividades Necessárias:**
-- At. 1.1: Oficinas de design colaborativo e aprimoramento técnico.
-- At. 1.2: Implementação de protocolos de secagem e armazenamento de matérias-primas.
-- At. 1.3: Criação de materiais de comunicação e catálogos digitais.
+O projeto é estruturado em um eixo técnico-operacional único, sob responsabilidade direta de **Fabio Takwara (Tecnologia/Soberania)** e da **Profa. Tânia Cristina Cruz (UnB/CDT)**, integrando a Biorrefinaria, a Bioarquitetura e a Gestão de Ativos Digitais.
 
 ---
 
-### Componente 02: BIOARQUITETURA E BIORREFINARIA (Takwara/UnB)
+### COMPONENTE ÚNICO: Bioarquitetura e Biorrefinaria Regenerativa
 **Descrição:** Módulo de Bioconstrução que valida o bambu amazônico como “aço vegetal” e, articulado aos saberes femininos e à bioarquitetura com terra, desenvolve domos, painéis e sistemas construtivos regenerativos para habitação social, equipamentos comunitários e infraestrutura industrial 5.1.
 
 **Justificativa do Componente:**
 O componente enfrenta três emergências na Amazônia: doenças por falta de saneamento, déficit de moradia digna e risco de incêndios em florestas de Guadua spp. Ao combinar manejo ecológico de bambu, biorrefinaria comunitária, saneamento ecológico em pesquisa-ação e sistemas construtivos regenerativos, converte passivos sanitários, florestais e de resíduos em habitação segura, infraestrutura comunitária e trabalho para mulheres em cadeias da bioeconomia.
 
 **Produtos e Serviços:**
-1. **P2.1: Infraestrutura Sanitária e Habitacional:** Implantação de protótipos de saneamento ecológico (BSM/BER), habitação de interesse social (HIS) e equipamentos em biocompósitos bambu-PU e bambu tratado ("bambu sem veneno").
-2. **P2.2: Núcleo Industrial de Baixo Carbono:** Implantação de Biorrefinaria (briquetes, biochar, carvão vegetal, extrato pirolenhoso) integrada a Unidades de Beneficiamento Primário (UBPs).
-3. **P2.3: Programa Domo Voador:** Dispositivo itinerante de arquitetura, pedagogia e mobilização territorial para transferência de tecnologia social.
+1. **P1: Infraestrutura Sanitária e Habitacional:** Implantação de protótipos de saneamento ecológico (BSM/BER), habitação de interesse social (HIS) e equipamentos em biocompósitos bambu-PU e bambu tratado ("bambu sem veneno").
+2. **P2: Núcleo Industrial de Baixo Carbono:** Implantação de Biorrefinaria (briquetes, biochar, carvão vegetal, extrato pirolenhoso) integrada a Unidades de Beneficiamento Primário (UBPs).
+3. **P3: Programa Domo Voador:** Dispositivo itinerante de arquitetura, pedagogia e mobilização territorial para transferência de tecnologia social.
 
 **Atividades Necessárias:**
-- At. 2.1: Diagnóstico participativo de moradia e saneamento nas comunidades-piloto.
-- At. 2.2: Manejo de Guadua spp. e operação da biorrefinaria industrial 5.1.
-- At. 2.3: Formação de "Mestras e Mestres Construtores" e brigadas de saneamento.
+- At. 1.1: Diagnóstico participativo de moradia e saneamento nas comunidades-piloto.
+- At. 1.2: Manejo de Guadua spp. e operação da biorrefinaria industrial 5.1.
+- At. 1.3: Formação de "Mestras e Mestres Construtores" e brigadas de saneamento.
+
+**Metas Relacionadas:**
+- 150 hectares sob manejo; 1 Biorrefinaria Operacional; 40-60 módulos BSM/BER instalados; 1.000–1.500 m² de bioarquitetura demonstrativa; 120 mulheres e jovens formados (60 bolsas).
 
 **Metas Relacionadas:**
 - 150 hectares sob manejo; 1 Biorrefinaria Operacional; 40-60 módulos BSM/BER instalados; 1.000–1.500 m² de bioarquitetura demonstrativa; 120 mulheres e jovens formados (60 bolsas).
@@ -112,7 +98,6 @@ O componente enfrenta três emergências na Amazônia: doenças por falta de san
 
 ## RESUMO ORÇAMENTÁRIO CONSOLIDADO (48 MESES)
 
-*   **COMPONENTE 01 (Artesanato):** À definir (Gestão Independente)
-*   **COMPONENTE 02 (Bioarquitetura/Indústria):** R$ 25.380.957,00
+*   **DOTAÇÃO INTEGRAL (Mestre 5.1):** R$ 25.380.957,00
 *   **ORÇAMENTO TOTAL (ESTE DOSSIÊ):** **R$ 25.380.957,00**
 *   **Fundo Amazônia (Aporte solicitado):** R$ 22.842.861,30 (estimativa após descontar contrapartida mínima)

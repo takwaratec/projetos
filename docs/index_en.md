@@ -1,20 +1,17 @@
-# Regenerative Amazon Platform
+The **Regenerative Amazon Platform** is not merely a technical documentation repository, but a **dynamic system for auditing, transparency, and governance (Protocol 5.1)**. This ecosystem was designed to serve as an analytical benchmark and impact sieve for high-complexity socio-environmental projects in Brazil.
 
-**Integrated hub of low-carbon community bio-industries in the Legal Amazon**
+Through an open and traceable data architecture (Master DOI), the Platform offers auditors, evaluators, and donors a granular view of financial flows, causal links, and real safeguards applied in the territory. Here, technology acts as an independent verification layer, eliminating information asymmetries and ensuring that every investment translates into effective community bio-sovereignty.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18882784.svg)](https://doi.org/10.5281/zenodo.18882784)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Status: Active Research](https://img.shields.io/badge/status-Active%20Research-brightgreen.svg)]()
+## 🎯 Evaluation Dossier (Amazon Fund)
 
----
+For immediate analytical review, consult the final audited documents ready for submission:
 
-[![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](index.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](#) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](index_es.md)
+- [**01. Consolidated Form**](09_DOSSIE_BNDES/01_FORMULARIO_01_CONSOLIDADO.md): Detailing Components 01 and 02.
+- [**02. Consolidated Budget**](09_DOSSIE_BNDES/02_FORMULARIO_ORCAMENTO_CONSOLIDADO.md): Summary of rubrics by BNDES category.
+- [**03. Migration Map (C02)**](09_DOSSIE_BNDES/03_MAPA_MIGRACAO_BNDES_C02.md): Guide for transposition to the official system.
+- [**04. Audit Report 5.1**](09_DOSSIE_BNDES/06_RELATORIO_AUDITORIA_5.1.md): Compliance and safeguards opinion.
 
----
-
-Welcome to the official documentation of the Regenerative Amazon Platform. This space consolidates the project's intellectual, technical, and strategic capital, serving as a central hub for evaluators, auditors, and partners.
-
-## 📂 Evaluation Axes
+## 📂 Structural Axes
 
 Navigate through the Platform's complete structure via the axes below:
 
@@ -24,14 +21,16 @@ Documents validating the project's integrity, authorship, and administrative sus
 - [Authorship and IP Rights](00_GOVERNANCA/GOV_AUTORIA_en.md)
 - [Project Correlation Matrix](00_GOVERNANCA/GOV_MATRIZ_CORRELACAO_en.md)
 - [Data Sharing Policy](00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados_en.md)
+- [Budget Consolidation (v2.2)](09_DOSSIE_BNDES/05_RESUMO_CONSOLIDACAO_ORCAMENTARIA.md)
 - [Budget Memorandum](00_GOVERNANCA/GOV_memorando-orcamento-consolidado_en.md)
 
 ### 2. Science and Technology (R&D)
 Technical memorials and bio-based research and engineering.
-- **Biopolymers:** [Vegetable Polyurethane and Welding](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal_en.md)
-- **Engineering:** [Structural Connections](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu_en.md) | [Ecological Bricks](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) | [Geodesic Domes](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-domos-geodesicos_en.md)
-- **Bioenergy:** [Community Biorefinery](02_PESQUISA_DESENVOLVIMENTO/TAK_memorial-tecnico-biorrefinaria_en.md) | [Charcoal and Pyroligneous Extract](02_PESQUISA_DESENVOLVIMENTO/TAK_carvao-pirolenhoso.md) | [Briquettes](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-briquetes_en.md)
-- **Monitoring:** [SMEGA (Geospatial AI)](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga_en.md)
+- **Advanced Portfolio:** [Unique Memorial of Equipment and Patents](08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes_en.md)
+- **Biorefinery:** [Reactor Memorial (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Management Strategy](01_TECNOLOGIA_TAKWARA/NT_estrategia-manejo-biorrefinaria.md)
+- **Social-Regenerative Equipment:** [Tamboreador](08_PROJETOS_ENGENHARIA/TAMBOREADOR/TAK_memorial-patente-tamboreador.md) | [Resinator (T03)](08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md) | [Mixer (T04)](08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_memorial-patente-misturador.md)
+- **Construction Systems:** [Cassette Press (T05)](08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_memorial-patente-prensa-cassetes.md) | [Welding Jigs (T06)](08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_memorial-patente-solda-gabaritos.md)
+- **Research and Testing:** [Vegetable PU](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal_en.md) | [Bamboo Connections](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu_en.md) | [Ecological Bricks](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) | [SMEGA Monitoring](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga_en.md)
 
 ### 3. Socio-Environmental Impact and Management
 Manuals and guides for territorial implementation and regeneration.
@@ -58,4 +57,4 @@ This collection follows **Protocol 5.1** and the **BTC v2.1** standard, with aud
 **Original Author:** Fabio Resck Takwara — Takwara Technology  
 **Institutional Partnership:** Prof. Dr. Tânia Cristina Cruz (UnB/FUP/CDT)  
 **License:** [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**Master DOI:** [10.5281/zenodo.18882784](https://doi.org/10.5281/zenodo.18882784)
+**Master DOI:** [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)

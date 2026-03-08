@@ -4,7 +4,7 @@
 
 ---
 
-### **Componente 02: Biorrefinaria de Bambu**
+### **Componente: Biorrefinaria de Bambu e Bioarquitetura Regenerativa**
 **Frase Descritiva (até 500 caracteres):**  
 Módulo de Bioarquitetura e Biorrefinaria que valida o bambu amazônico como “aço vegetal”. Articulado aos saberes femininos e à construção com terra, desenvolve domos, painéis e sistemas regenerativos para habitação de interesse social, saneamento ecológico e infraestrutura industrial de baixo carbono. Aplica o Protocolo 5.1 para garantir rastreabilidade total (DOI/Zenodo) e soberania tecnológica comunitária na bioeconomia da Amazônia.
 
