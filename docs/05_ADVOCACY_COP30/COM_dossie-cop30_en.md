@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-10.5281/zenodo.18827106
-10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18827106
+doi: 10.5281/zenodo.18827106
 keywords:
 - COP30
 - Amazon
@@ -26,7 +26,7 @@ translations:
   es: COM_dossie-cop30_es.md
   pt: COM_dossie-cop30.md
 type: Strategic Dossier
-version: '2.1'
+version: '2.2.2'
 ---
 
 # **COP30 Dossier: The Usurpation of Green Gold and the Paradox of Brazilian Environmental Diplomacy**
@@ -34,7 +34,7 @@ version: '2.1'
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./COM_dossie-cop30.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./COM_dossie-cop30_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./COM_dossie-cop30_es.md)
-![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
 ![Type](https://img.shields.io/badge/type-Strategic%20Dossier-teal)
 
 ## **Executive Summary (for COP30 and International Community)**
