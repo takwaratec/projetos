@@ -46,7 +46,7 @@ Documents validating the project's integrity, authorship, and administrative sus
 ### 2. Science and Technology (R&D)
 Technical memorials and bio-based research and engineering.
 *   ⚙️ [Unique Memorial of Equipment and Patents](08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md)
-*   🔥 [Biorefinery: Reactor Memorial (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Management Strategy](01_TECNOLOGIA_TAKWARA/NT_estrategia-manejo-biorrefinaria.md)
+*   🔥 [Biorefinery: Reactor Memorial (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md)
 *   🛠️ **Social Systems:** [Tamboreador](08_PROJETOS_ENGENHARIA/TAMBOREADOR/TAK_memorial-patente-tamboreador.md) • [Resinator (T03)](08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md) • [Mixer (T04)](08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_memorial-patente-misturador.md)
 *   🏗️ **Construction:** [Cassette Press (T05)](08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_memorial-patente-prensa-cassetes.md) • [Welding Jigs (T06)](08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_memorial-patente-solda-gabaritos.md)
 *   🧪 **Research:** [Vegetable PU](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal.md) • [Bamboo Connections](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu.md) • [Ecological Bricks](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) • [SMEGA Monitoring](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md)
@@ -64,7 +64,7 @@ Technical and scientific profiles leading the Mestre 5.1 fronts.
 ### 5. Advocacy and Outreach
 Climate-political positioning and knowledge dissemination.
 *   🌍 [COP30 Strategic Dossier](05_ADVOCACY_COP30/COM_dossie-cop30.md)
-*   📢 [Medium Blog (Selected Articles)](07_BLOG_MEDIUM/)
+*   📢 [Medium Blog (Selected Articles)](07_BLOG_MEDIUM/2021-01-17_Ecology-Bamboo_en.md)
 
 ---
 

@@ -61,18 +61,18 @@ nav:
       - Tânia Cristina Cruz: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz.md
   - 5. Advocacy e Difusão:
       - Dossiê Estratégico COP30: 05_ADVOCACY_COP30/COM_dossie-cop30.md
-      - 'Artigos Selecionados': 07_BLOG_MEDIUM/
+      - 'Artigos Selecionados': 07_BLOG_MEDIUM/2021-01-17_A-ECOLOGIA-DO-BAMBU-969a2cc49ae3.md
 
-not_in_nav:
-  - 99_RESTRITO/**
-  - Arquivo Takwara/**
-  - history-version/**
-  - "**/historico/**"
-  - 01_GOVERNANCA/**
-  - 04_GESTAO_OPERACIONAL/**
-  - 09_DOSSIE_BNDES/04_ORCAMENTO_DETALHADO_MASTER.md
-  - "**/perfis-equipe/OPS_perfil-jesiel-campos.md"
-  - "**/perfis-equipe/OPS_perfil-tiago-filemon.md"
+not_in_nav: |
+  99_RESTRITO/**
+  Arquivo Takwara/**
+  history-version/**
+  **/historico/**
+  01_GOVERNANCA/**
+  04_GESTAO_OPERACIONAL/**
+  09_DOSSIE_BNDES/04_ORCAMENTO_DETALHADO_MASTER.md
+  **/perfis-equipe/OPS_perfil-jesiel-campos.md
+  **/perfis-equipe/OPS_perfil-tiago-filemon.md
 
 extra:
   social:

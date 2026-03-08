@@ -46,7 +46,7 @@ Documentos que validan la integridad, autoría y sostenibilidad administrativa d
 ### 2. Ciencia y Tecnología (I+D)
 Memorias técnicas e investigaciones de base biotecnológica e ingeniería.
 *   ⚙️ [Memorial Único de Equipos y Patentes](08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md)
-*   🔥 [Biorrefinería: Memorial del Reactor (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Estrategia Manejo](01_TECNOLOGIA_TAKWARA/NT_estrategia-manejo-biorrefinaria.md)
+*   🔥 [Biorrefinería: Memorial del Reactor (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md)
 *   🛠️ **Sistemas Sociales:** [Tamboreador](08_PROJETOS_ENGENHARIA/TAMBOREADOR/TAK_memorial-patente-tamboreador.md) • [Resinador (T03)](08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md) • [Mezclador (T04)](08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_memorial-patente-misturador.md)
 *   🏗️ **Construcción:** [Prensa Cassetes (T05)](08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_memorial-patente-prensa-cassetes.md) • [Plantillas de Soldadura (T06)](08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_memorial-patente-solda-gabaritos.md)
 *   🧪 **Investigación:** [PU Vegetal](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal.md) • [Conexiones de Bambú](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu.md) • [Ladrillos Ecológicos](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) • [Monitoreo SMEGA](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md)
@@ -64,7 +64,7 @@ Perfiles técnicos y científicos liderando los frentes de la Mestre 5.1.
 ### 5. Advocacy y Difusión
 Posicionamiento político-climático y diseminación de conocimiento.
 *   🌍 [Dossier Estratégico COP30](05_ADVOCACY_COP30/COM_dossie-cop30.md)
-*   📢 [Blog Medium (Artículos Seleccionados)](07_BLOG_MEDIUM/)
+*   📢 [Blog Medium (Artículos Seleccionados)](07_BLOG_MEDIUM/2021-01-17_Ecology-Bamboo_es.md)
 
 ---
 

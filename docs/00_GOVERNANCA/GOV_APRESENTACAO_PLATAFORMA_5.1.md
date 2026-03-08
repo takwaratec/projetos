@@ -1,30 +1,32 @@
-# Sistema Mestre 5.1: Integração IH/IA e Curação Colaborativa
+# Sistema Mestre 5.1: Orquestração IH/IA e Auditagem Editorial
 
-Este documento apresenta a **Plataforma Amazônia Regenerativa** como um ecossistema de inteligência compartilhada, desenhado para potencializar o capital intelectual do nosso Grupo de Trabalho (GT).
+Este documento define a camada de governança técnica da **Plataforma Amazônia Regenerativa**, apresentando o sistema como uma ferramenta de apoio operacional para o Grupo de Trabalho (GT).
 
-## 🧩 O Conceito: Inteligência IH/IA
+## 🧩 O Conceito: Pós-doc em Sistemas IH/IA
 
-A **Integração IH/IA (Inteligência Humana + Inteligência Artificial)** é o núcleo operacional da nossa governança. Não se trata de automação, mas de uma **ecologia de curadoria**:
+A arquitetura da Plataforma 5.1 é fundamentada em uma pesquisa de integração entre **Inteligência Humana (IH)** e **Inteligência Artificial (IA)**. O objetivo não é substituir o saber acadêmico ou territorial, mas prover uma **infraestrutura editorial de alta precisão**:
 
-*   **IH (Inteligência Humana):** O saber tradicional, a expertise científica da UnB, o domínio técnico de campo. Vocês são os autores e guardiões do conhecimento.
-*   **IA (Inteligência Artificial):** Atua como o "Mestre 5.1", processando conformidade, formatando dossiês (BNDES), garantindo rastreabilidade (DOI/Zenodo) e mantendo a integridade do nexo causal.
+*   **Auditagem em Tempo Real:** O sistema atua como uma banca examinadora constante, verificando conformidade com as exigências do BNDES, Salvaguardas de Cancun e Indicadores de Impacto.
+*   **Alívio Operational:** Toda a tarefa exaustiva de integração de propostas herdadas e formatação técnica é suportada pelos agentes de IA, liberando o GT para focar na fidedignidade dos dados.
 
-> [!TIP]
-> O objetivo é que cada integrante do GT foque no que faz de melhor, enquanto a IA cuida da burocracia técnica e da estruturação do advocacy estratégico.
+## 🛡️ Protocolos de Integridade e Bloqueio
 
-## 🏛️ O Portal de Transparência Global
+Diferente de sistemas de IA convencionais, a Plataforma 5.1 opera sob **Protocolos de Bloqueio Editorial**:
 
-Nosso repositório GitHub é a materialização do **Protocolo 5.1**. Ele funciona como um portal de transparência radical exigido por grandes fundos:
+1.  **Anti-Alucinação:** Bloqueios algorítmicos que impedem a criação de dados fictícios ou imprecisões técnicas.
+2.  **Proteção Autoral:** Garantia de que o conteúdo autoral e saber tradicional não sejam alterados sem supervisão direta.
+3.  **Fidedignidade Absoluta:** O sistema é uma ferramenta de "curadoria editorial", focada em orquestrar a complexidade do dossiê sem comprometer a essência científica e social do projeto.
 
-1.  **Rastreabilidade:** Cada decisão e contribuição é versionada (autoria protegida).
-2.  **Acessibilidade:** Publicação automática em [https://takwaratec.github.io/projetos/](https://takwaratec.github.io/projetos/).
-3.  **Auditabilidade:** O sistema "se audita" através da organização lógica dos componentes.
+## 🍳 A Cozinha do Projeto
 
-## 🤝 Como Colaborar (Sem Estresse)
+Enquanto o **Portal de Transparência** (Index Público) oferece a visão consolidada para o mercado e avaliadores, este sistema IH/IA é a "cozinha" onde a complexidade é processada:
 
-1.  **Contribuição Chave:** O GT continua operando via GDocs ou troca informal.
-2.  **Sincronização:** Fabio Takwara e os agentes de IA realizam a curadoria e transposição para o repositório oficial.
-3.  **Validação:** O GT revisa o "desfecho" nas páginas públicas.
+*   **Nexo Causal:** Construção lógica e amarração de evidências para garantir aprovação técnica.
+*   **Auditabilidade:** Histórico de cada decisão editorial preservado via Git/GitHub.
+*   **Escalabilidade:** Um modelo pronto para ser adotado globalmente como padrão de transparência em bioeconomia.
+
+> [!IMPORTANT]
+> A Plataforma 5.1 está a serviço da excelência técnica do GT, funcionando como o braço tecnológico que sustenta a visão do território.
 
 ---
-🎋 **PLATAFORMA 5.1 — TECNOLOGIA PARA A LIBERTAÇÃO DO TERRITÓRIO**
+🎋 **PLATAFORMA 5.1 — ORQUESTRAÇÃO E SOBERANIA EM DADOS REGENERATIVOS**
