@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18843828
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - bioeconomia comunitária
 - bambu
@@ -22,8 +22,8 @@ keywords:
 language: pt-BR
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18843828
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Série Técnica Plataforma Amazônia Regenerativa — Bioeconomia Comunitária
 subtitle: Guia Prático de Governança e Industrialização Regional
 title: 'Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa'
@@ -32,7 +32,7 @@ version: '2.1'
 ---
 # Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_manual-bioeconomia-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_manual-bioeconomia-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_manual-bioeconomia-bambu_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -894,8 +894,8 @@ Esta seção é para quem não tem formação técnica específica mas quer part
 
 **Documentação Técnica da Plataforma**
 
-- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu (DOI): [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)
-- Plataforma Amazônia Regenerativa v5.1 (DOI): [10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828)
+- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu (DOI): [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)
+- Plataforma Amazônia Regenerativa v5.1 (DOI): [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)
 - Inventário RMC — fontes acadêmicas: [embrapa.br/bambu](https://www.embrapa.br/busca-de-noticias/-/noticia/87187287/estudo-mostra-potencial-do-bambu-no-acre) | [conhecer.org.br (invasão P. aurea)](https://www.conhecer.org.br/enciclop/2021C/invasao.pdf)
 
 **Insumos da Tecnologia Takwara**
@@ -929,14 +929,14 @@ Esta seção é para quem não tem formação técnica específica mas quer part
 ## Como citar esta cartilha
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa — Um Guia Prático para Qualquer Pessoa, em Qualquer Bioma*. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827513. Acesso em: 01 mar. 2026.
+TAKWARA, Fabio Resck. *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa — Um Guia Prático para Qualquer Pessoa, em Qualquer Bioma*. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827106. Acesso em: 01 mar. 2026.
 
 **APA:**
-Takwara, F. R. (2026). *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827513
+Takwara, F. R. (2026). *Cartilha de Bioeconomia Comunitária do Bambu: Da Floresta à Cooperativa* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 **Faz parte de:**
-Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867
+Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.18827106
 
 **Documentos relacionados na coleção:**
-- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18826841
-- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18843828
+- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18827106
+- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18827106

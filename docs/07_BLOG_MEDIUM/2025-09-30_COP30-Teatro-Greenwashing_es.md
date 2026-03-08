@@ -24,7 +24,7 @@ Cuando el **66,7%** de la población de Belém SE QUEDA FUERA del saneamiento b�
 
 ### **Cuando la Retórica Encuentra la Realidad**
 
-***DOI: 10.5281/zenodo.17229601***
+***DOI: 10.5281/zenodo.18827106***
 
 **Brasil, 23 de septiembre de 2025.**
 
@@ -46,7 +46,7 @@ Esta pieza documental se estructura en **“Actos” rigurosamente fundamentados
 
 *Este trabajo está bajo licencia Creative Commons Atribución 4.0 Internacional.*
 
-[*DOI: 10.5281/zenodo.17229601*](https://doi.org/10.5281/zenodo.17229601)
+[*DOI: 10.5281/zenodo.18827106*](https://doi.org/10.5281/zenodo.18827106)
 
 **PARTICIPE AHORA:**
 

@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18843828
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 language: en
 license: CC BY 4.0
 series: Technical Series Regenerative Amazon Platform — Memoir
@@ -14,7 +14,7 @@ version: '2.1'
 ---
 # Regenerative Amazon Platform v5.1
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_plataforma-v5.1.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_plataforma-v5.1_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_plataforma-v5.1_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -151,7 +151,7 @@ The investment thesis is explicitly stated as an economic flywheel, organized ar
 
 ## 13. Bibliographic References (Major)
 
-TAKWARA, F. R. (2026). *Regenerative Amazon Platform v5.1: Ecological Sanitation, Guadua spp. Bamboo, Recycled PET, and Low-Carbon Community Bio-industries*. Technical Series Regenerative Amazon Platform. Brasília: Takwara Nucleus / University of Brasília. Technical report. [https://doi.org/10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828).
+TAKWARA, F. R. (2026). *Regenerative Amazon Platform v5.1: Ecological Sanitation, Guadua spp. Bamboo, Recycled PET, and Low-Carbon Community Bio-industries*. Technical Series Regenerative Amazon Platform. Brasília: Takwara Nucleus / University of Brasília. Technical report. [https://doi.org/10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106).
 
 VERRA. VM0044: Methodology for Biochar Utilization in Soil and Non‑Soil Applications. Version 1.2. Washington, DC, 2025.
 
@@ -160,4 +160,4 @@ VERRA. VM0044: Methodology for Biochar Utilization in Soil and Non‑Soil Applic
 ## How to Cite This Document
 
 **APA:**
-Takwara, F. R. (2026). *Regenerative Amazon Platform v5.1 — Ecological Sanitation, Guadua spp. Bamboo, Recycled PET, and Low-Carbon Community Bio-industries* (Technical Report). Takwara Center / University of Brasília. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Regenerative Amazon Platform v5.1 — Ecological Sanitation, Guadua spp. Bamboo, Recycled PET, and Low-Carbon Community Bio-industries* (Technical Report). Takwara Center / University of Brasília. https://doi.org/10.5281/zenodo.18827106

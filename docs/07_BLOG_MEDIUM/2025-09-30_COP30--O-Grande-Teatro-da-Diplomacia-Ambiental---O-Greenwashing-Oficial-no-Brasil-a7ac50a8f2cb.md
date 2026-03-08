@@ -23,7 +23,7 @@ Quando **66,7%** da população de Belém FICA DE FORA do saneamento básico, co
 
 ### **Quando a Retórica Encontra a Realidade**
 
-***DOI: 10.5281/zenodo.17229601***
+***DOI: 10.5281/zenodo.18827106***
 
 **Brasil, 23 de setembro de 2025.**
 
@@ -45,7 +45,7 @@ Esta peça documental se estrutura em **“Atos” rigorosamente fundamentados**
 
 *Este trabalho está licenciado sob a Creative Commons Atribuição 4.0 Internacional.*
 
-[*DOI: 10.5281/zenodo.17229601*](https://doi.org/10.5281/zenodo.17229601)
+[*DOI: 10.5281/zenodo.18827106*](https://doi.org/10.5281/zenodo.18827106)
 
 **PARTICIPE AGORA:**
 

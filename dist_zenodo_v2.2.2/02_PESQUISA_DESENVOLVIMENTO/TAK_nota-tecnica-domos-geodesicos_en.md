@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18843828
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - geodesic domes
 - greenhouses
@@ -18,8 +18,8 @@ keywords:
 language: en
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18843828
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Regenerative Amazon Platform Technical Series — Research and Development
 subtitle: Technical Validation of Controlled Environment Greenhouses for Regenerative Industrialization
 title: 'Geodesic Domes: Microclimate and Bio-industry in the Amazon'
@@ -32,7 +32,7 @@ version: '2.1'
 ---
 # Geodesic Domes: Microclimate and Bio-industry in the Amazon
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_nota-tecnica-domos-geodesicos.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_nota-tecnica-domos-geodesicos_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_nota-tecnica-domos-geodesicos_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -210,14 +210,14 @@ TAKWARA, Fabio. **Plataforma de Bio-soberania Nacional: Industrialização Suste
 ---
 
 **🎋 Takwara — Bamboo Technology for Amazonian Sovereignty**
-**DOI: [10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828)**
+**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
 
 ---
 
 ## How to cite this document
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Technical Note: Geodesic Domes and National Bio-sovereignty in the Amazon — Technical Validation of Controlled Environment Greenhouses for Regenerative Industrialization*. Technical Series Regenerative Amazon Platform — Research and Development. Brasília: Núcleo Takwara / University of Brasília, 2026. Available at: https://doi.org/10.5281/zenodo.18843828.
+TAKWARA, Fabio Resck. *Technical Note: Geodesic Domes and National Bio-sovereignty in the Amazon — Technical Validation of Controlled Environment Greenhouses for Regenerative Industrialization*. Technical Series Regenerative Amazon Platform — Research and Development. Brasília: Núcleo Takwara / University of Brasília, 2026. Available at: https://doi.org/10.5281/zenodo.18827106.
 
 **APA:**
-Takwara, F. R. (2026). *Technical Note: Geodesic Domes and National Bio-sovereignty in the Amazon* (Version 2.0). Núcleo Takwara / University of Brasília. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Technical Note: Geodesic Domes and National Bio-sovereignty in the Amazon* (Version 2.0). Núcleo Takwara / University of Brasília. https://doi.org/10.5281/zenodo.18827106

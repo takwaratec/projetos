@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18843828
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - fitorremediação
 - metais pesados
@@ -26,9 +26,9 @@ keywords:
 language: pt-BR
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18843828
-- 10.5281/zenodo.18827513
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Série Técnica Plataforma Amazônia Regenerativa — Restauração e Carbono
 
 title: 'Fitorremediação e Mercados de Carbono: O Bambu como Engenheiro Ecológico'
@@ -41,7 +41,7 @@ version: '2.1'
 ---
 # Fitorremediação e Mercados de Carbono: O Bambu como Engenheiro Ecológico
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_manual-fitorremediacao-credito-carbono.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_manual-fitorremediacao-credito-carbono_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_manual-fitorremediacao-credito-carbono_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -487,7 +487,7 @@ Brotos jovens de bambu contêm a **taxifilina**, um glicosídeo cianogênico que
 *Este capítulo integra a Cartilha de Bioeconomia Comunitária do Bambu — Plataforma Amazônia Regenerativa. Documento vivo: atualizado a cada nova versão do repositório. Licença CC BY 4.0.*
 
 **🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
-**Coleção DOI: [10.5281/zenodo.17225867](https://doi.org/10.5281/zenodo.17225867)**
+**Coleção DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
 
 
 
@@ -497,15 +497,15 @@ Brotos jovens de bambu contêm a **taxifilina**, um glicosídeo cianogênico que
 ## Como citar este documento
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono: O Bambu como Engenheiro Ecológico — Do Solo Contaminado ao Crédito Certificado*. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827891. Acesso em: 01 mar. 2026.
+TAKWARA, Fabio Resck. *Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono: O Bambu como Engenheiro Ecológico — Do Solo Contaminado ao Crédito Certificado*. Série Técnica Plataforma Amazônia Regenerativa — Aplicabilidade Nacional. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827106. Acesso em: 01 mar. 2026.
 
 **APA:**
-Takwara, F. R. (2026). *Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827891
+Takwara, F. R. (2026). *Regeneração de Solos Degradados, Fitorremediação e Mercados de Carbono* (Version 1.0). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 **Faz parte de:**
-Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867
+Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.18827106
 
 **Documentos relacionados na coleção:**
-- Cartilha de Bioeconomia Comunitária do Bambu — https://doi.org/10.5281/zenodo.18827513
-- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18826841
-- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18843828
+- Cartilha de Bioeconomia Comunitária do Bambu — https://doi.org/10.5281/zenodo.18827106
+- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18827106
+- Plataforma Amazônia Regenerativa v5.1 — https://doi.org/10.5281/zenodo.18827106

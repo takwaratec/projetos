@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
 keywords:
 - mecanização agrícola
 - agricultura familiar
@@ -26,7 +26,7 @@ version: '2.1'
 ---
 # Jesiel Pereira de Campos Silva — Núcleo de Equipamentos
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./OPS_perfil-jesiel-campos.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-jesiel-campos_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-jesiel-campos_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -59,7 +59,7 @@ Jesiel transitou do Cerrado para a Amazônia, do processamento de alimentos para
 ## Como Citar
 
 **APA:**
-Takwara, F. R. (2026). *Perfil Técnico: Jesiel Campos — Núcleo de Equipamentos* (Versão 2.1). Anais e Memória — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18882784
+Takwara, F. R. (2026). *Perfil Técnico: Jesiel Campos — Núcleo de Equipamentos* (Versão 2.1). Anais e Memória — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 ---
 **🎋 Takwara — Soberania Técnica para a Justiça Social**

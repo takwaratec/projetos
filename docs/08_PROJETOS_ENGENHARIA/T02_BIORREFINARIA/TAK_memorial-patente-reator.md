@@ -2,7 +2,7 @@
 title: "Memorial Descritivo de Patente: Reator T02"
 author: "Fabio Resck Takwara"
 date: '2026-03-06'
-doi: 10.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - patente
 - biorrefinaria

@@ -2,7 +2,7 @@
 title: "Memorial Descritivo de Patente: Reator T02"
 author: "Fabio Resck Takwara"
 date: '2026-03-06'
-doi: 10.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - patente
 - biorrefinaria
@@ -74,4 +74,4 @@ O sistema opera como uma **micro-usina de cascateamento**, onde a energia da car
 ---
 
 > **Citação Recomendada:**
-> Takwara, F. R. (2026). *Memorial Descritivo de Patente: Reator T02*. Plataforma Amazônia Regenerativa (Vol. 5.1). Zenodo. https://doi.org/10.5281/zenodo.14827106
+> Takwara, F. R. (2026). *Memorial Descritivo de Patente: Reator T02*. Plataforma Amazônia Regenerativa (Vol. 5.1). Zenodo. https://doi.org/10.5281/zenodo.18827106

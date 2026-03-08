@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18826841
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - pirólisis
 - biochar
@@ -20,9 +20,9 @@ keywords:
 language: es
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18843828
-- 10.5281/zenodo.18827513
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Serie Técnica Plataforma Amazonía Regenerativa — Investigación y Desarrollo
 
 title: 'Biorrefinería Comunitaria: Pirólisis, Biochar y Cascadeo Térmico'
@@ -35,7 +35,7 @@ version: '2.1'
 ---
 # Biorrefinería Comunitaria: Pirólisis, Biochar y Cascadeo Térmico
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18826841-blue.svg)](https://doi.org/10.5281/zenodo.18826841)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_memorial-tecnico-biorrefinaria_pt.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_memorial-tecnico-biorrefinaria_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_memorial-tecnico-biorrefinaria_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -325,7 +325,7 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 ---
 
 **🎋 Takwara — Tecnología del Bambú para la Soberanía Amazónica**
-**DOI: [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)**
+**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
 
 *Plataforma Amazonía Regenerativa — Documento técnico oficial.*
 *Licencia CC BY 4.0.*
@@ -334,7 +334,7 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 ## Cómo citar este documento
 
 **APA:**
-Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólisis y Tratamiento de Bambú* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólisis y Tratamiento de Bambú* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
 
 ---
 **🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

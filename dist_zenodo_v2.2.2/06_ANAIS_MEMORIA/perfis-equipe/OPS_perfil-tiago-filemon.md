@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
 keywords:
 - bioconstrução
 - arquitetura vernacular
@@ -26,7 +26,7 @@ version: '2.1'
 ---
 # Filemon Tiago — Coordenador de Campo da Tecnologia Takwara
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./OPS_perfil-tiago-filemon.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-tiago-filemon_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-tiago-filemon_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -57,7 +57,7 @@ Filemon trabalhava 90% com BTC por necessidade de mercado, com o desejo declarad
 ## Como Citar
 
 **APA:**
-Takwara, F. R. (2026). *Perfil Técnico: Tiago Filemon — Coordenação de Campo* (Versão 2.1). Anais e Memória — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18882784
+Takwara, F. R. (2026). *Perfil Técnico: Tiago Filemon — Coordenação de Campo* (Versão 2.1). Anais e Memória — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 ---
 **🎋 Takwara — Soberania Técnica para a Justiça Social**

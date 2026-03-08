@@ -1,6 +1,6 @@
 # Plataforma Amazônia Regenerativa v5.1
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_plataforma-v5.1.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_plataforma-v5.1_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_plataforma-v5.1_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -859,13 +859,13 @@ CARDOSO, A. C. Infraestruturas, transportes e rede urbana na Amazônia. Cadernos
 ## Como citar este documento
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Plataforma Amazônia Regenerativa v5.1: Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono*. Série Técnica Plataforma Amazônia Regenerativa. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Relatório técnico. Disponível em: https://doi.org/10.5281/zenodo.18843828. Acesso em: 01 mar. 2026.
+TAKWARA, Fabio Resck. *Plataforma Amazônia Regenerativa v5.1: Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono*. Série Técnica Plataforma Amazônia Regenerativa. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Relatório técnico. Disponível em: https://doi.org/10.5281/zenodo.18827106. Acesso em: 01 mar. 2026.
 
 **APA:**
-Takwara, F. R. (2026). *Plataforma Amazônia Regenerativa v5.1: Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono* (Technical Report). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Plataforma Amazônia Regenerativa v5.1: Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono* (Technical Report). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 **Faz parte de:**
-Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867
+Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.18827106
 
 **Documentos relacionados:**
-- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18826841
+- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18827106

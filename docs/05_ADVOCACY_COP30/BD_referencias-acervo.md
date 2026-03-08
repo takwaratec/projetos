@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.17225867
+H.5281/zenodo.18827106
 keywords:
 - banco de referências
 - DOI
@@ -22,7 +22,7 @@ version: '2.1'
 ---
 # Banco de Referências do Acervo — Plataforma Amazônia Regenerativa
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17225867-blue.svg)](https://doi.org/10.5281/zenodo.17225867)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
@@ -34,14 +34,14 @@ version: '2.1'
 
 | ID | DOI | Título | Versão | Status |
 |:---|:----|:-------|:-------|:-------|
-| Z-01 | [10.5281/zenodo.17225867](https://doi.org/10.5281/zenodo.17225867) | Plataforma Amazônia Regenerativa v5.1 — Master DOI | 2.0 | ✅ Ativo |
-| Z-02 | [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841) | Registro auxiliar v2.0 | 2.0 | ✅ Ativo |
-| Z-03 | [10.5281/zenodo.18827513](https://doi.org/10.5281/zenodo.18827513) | Registro auxiliar v2.0 | 2.0 | ✅ Ativo |
-| Z-04 | [10.5281/zenodo.18827891](https://doi.org/10.5281/zenodo.18827891) | Registro auxiliar v2.0 | 2.0 | ✅ Ativo |
-| Z-05 | [10.5281/zenodo.18828166](https://doi.org/10.5281/zenodo.18828166) | Registro auxiliar v2.0 | 2.0 | ✅ Ativo |
-| Z-06 | [10.5281/zenodo.18828592](https://doi.org/10.5281/zenodo.18828592) | Registro auxiliar v2.0 | 2.0 | ✅ Ativo |
-| Z-07 | [10.5281/zenodo.17225867](https://doi.org/10.5281/zenodo.17225867) | Coleção v1.0 (legado — descontinuado) | 1.0 | ⚠️ Legado |
-| Z-08 | [10.5281/zenodo.17229601](https://doi.org/10.5281/zenodo.17229601) | Relatório histórico v1.0 (legado) | 1.0 | ⚠️ Legado |
+| Z-01 | [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106) | Plataforma Amazônia Regenerativa v5.1 — Master DOI | 2.0 | ✅ Ativo |
+| Z-02 | [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106) | Registro auxiliar v2.0 | 2.0 | ✅ Ativo |
+| Z-03 | [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106) | Registro auxiliar v2.0 | 2.0 | ✅ Ativo |
+| Z-04 | [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106) | Registro auxiliar v2.0 | 2.0 | ✅ Ativo |
+| Z-05 | [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106) | Registro auxiliar v2.0 | 2.0 | ✅ Ativo |
+| Z-06 | [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106) | Registro auxiliar v2.0 | 2.0 | ✅ Ativo |
+| Z-07 | [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106) | Coleção v1.0 (legado — descontinuado) | 1.0 | ⚠️ Legado |
+| Z-08 | [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106) | Relatório histórico v1.0 (legado) | 1.0 | ⚠️ Legado |
 | Z-09 | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) | Manual de Operação da Plataforma Digital v1.0 | 1.0 | ❌ PLACEHOLDER — Substituir após publicação |
 
 > [!CAUTION]
@@ -157,27 +157,27 @@ version: '2.1'
 ```
 TAKWARA, Fabio Resck. Plataforma Amazônia Regenerativa v5.1 — Fundamentos Técnicos e Soberania.
 Série Técnica Plataforma Amazônia Regenerativa — Arquivo Mestre. Brasília: Núcleo Takwara / UnB, 2026.
-DOI: 10.5281/zenodo.17225867
+DOI: 10.5281/zenodo.18827106
 
 TAKWARA, Fabio Resck. Nota Técnica: Domos Geodésicos e Bio-soberania Nacional na Amazônia.
 Série Técnica — P&D. Brasília: Núcleo Takwara / UnB, 2026.
-DOI: 10.5281/zenodo.17225867
+DOI: 10.5281/zenodo.18827106
 
 TAKWARA, Fabio Resck. Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística.
 Série Técnica — P&D. Brasília: Núcleo Takwara / UnB, 2026.
-DOI: 10.5281/zenodo.17225867
+DOI: 10.5281/zenodo.18827106
 
 TAKWARA, Fabio Resck. Nota Técnica: Briquetes de Alta Densidade a partir de Bambu e Resíduos Agroextrativistas.
 Série Técnica — P&D. Brasília: Núcleo Takwara / UnB, 2026.
-DOI: 10.5281/zenodo.17225867
+DOI: 10.5281/zenodo.18827106
 
 TAKWARA, Fabio Resck. Relatório Técnico: Poliuretano Vegetal e Engenharia de Biopolímeros.
 Série Técnica — P&D. Brasília: Núcleo Takwara / UnB, 2026.
-DOI: 10.5281/zenodo.17225867
+DOI: 10.5281/zenodo.18827106
 
 TAKWARA, Fabio Resck. Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu.
 Série Técnica — P&D. Brasília: Núcleo Takwara / UnB, 2026.
-DOI: 10.5281/zenodo.17225867
+DOI: 10.5281/zenodo.18827106
 ```
 
 ### 5.2 Referências Acadêmicas Externas

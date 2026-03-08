@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-07'
-doi: 10.5281/zenodo.14827106
+H.5281/zenodo.18827106
 keywords:
 - gabaritos
 - solda vegetal
@@ -21,7 +21,7 @@ version: '5.1'
 
 # Conceituação Técnica: Gabaritos de Montagem para Solda Vegetal T06
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.14827106-blue.svg)](https://doi.org/10.5281/zenodo.14827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-V5.1%20(Advocacy)-blue)
 
@@ -80,4 +80,4 @@ O T06 recebe o bambu processado pelo **Resinador Rotativo (T03)**. Embora não h
 ## Como Citar
 
 **APA:**
-Takwara, F. R. (2026). *Conceituação Técnica: Gabaritos de Montagem para Solda Vegetal T06* (Versão 5.1). Nota Técnica — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.14827106
+Takwara, F. R. (2026). *Conceituação Técnica: Gabaritos de Montagem para Solda Vegetal T06* (Versão 5.1). Nota Técnica — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106

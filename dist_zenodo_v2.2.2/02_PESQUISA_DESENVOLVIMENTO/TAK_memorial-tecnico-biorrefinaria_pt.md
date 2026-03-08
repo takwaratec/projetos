@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18826841
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - pirólise
 - biochar
@@ -20,9 +20,9 @@ keywords:
 language: pt
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18843828
-- 10.5281/zenodo.18827513
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Série Técnica Plataforma Amazônia Regenerativa — Investigação e Desenvolvimento
 
 title: 'Biorrefinaria Comunitária: Pirólise, Biochar e Cascateamento Térmico'
@@ -35,7 +35,7 @@ version: '2.1'
 ---
 # Biorrefinaria Comunitária: Pirólise, Biochar e Cascateamento Térmico
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18826841-blue.svg)](https://doi.org/10.5281/zenodo.18826841)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_memorial-tecnico-biorrefinaria_pt.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_memorial-tecnico-biorrefinaria_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_memorial-tecnico-biorrefinaria_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -324,7 +324,7 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 ---
 
 **🎋 Takwara — Tecnologia do Bambu para a Soberania Amazônica**
-**DOI: [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)**
+**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
 
 *Plataforma Amazônia Regenerativa — Documento técnico oficial.*
 *Licença CC BY 4.0.*
@@ -333,7 +333,7 @@ UFJF — Universidade Federal de Juiz de Fora. **MEC010: Transferência de Calor
 ## Como citar este documento
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — Base Técnica para Bioeconomia, Soberania Energética e Captação de Recursos*. Série Técnica Plataforma Amazônia Regenerativa — Documentação Técnica de Engenharia. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18826841.
+TAKWARA, Fabio Resck. *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — Base Técnica para Bioeconomia, Soberania Energética e Captação de Recursos*. Série Técnica Plataforma Amazônia Regenerativa — Documentação Técnica de Engenharia. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827106.
 
 **APA:**
-Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106

@@ -1,6 +1,6 @@
 ---
 date: '2026-03-04'
-doi: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
 license: CC BY 4.0
 translations:
   pt: OPS_orcamento-detalhado.md
@@ -8,9 +8,9 @@ version: '2.1'
 ---
 # Ops Orcamento-Detalhado
 
-**Série:** Acervo Takwara **Versão:** 2.0 | **Data:** 2026-03-04 | **Autor:** Fabio Takwara | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18882784
+**Série:** Acervo Takwara **Versão:** 2.0 | **Data:** 2026-03-04 | **Autor:** Fabio Takwara | **Licença:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./OPS_orcamento-detalhado.md)
 ![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
@@ -22,7 +22,7 @@ documento: financeiro/manual-orcamento-justificado-v1.0.md
 título: Manual de Orçamento Justificado, Contrapartida e Avaliação de Riscos
          Financeiros — Plataforma Amazônia Regenerativa (48 Meses)
 coleção: Plataforma Amazônia Regenerativa v5.1 — Documentação Institucional
-         [DOCUMENTO DE TRABALHO — Consolidação UnB/FUP — Master DOI: 10.5281/zenodo.18882784]
+         [DOCUMENTO DE TRABALHO — Consolidação UnB/FUP — Master DOI: 10.5281/zenodo.18827106]
 vinculação: Seção 12 do Projeto Principal | Substitui e expande o Anexo
             Financeiro v2.0
 versão: 1.0-draft | março 2026

@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18843828
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - domos geodésicos
 - invernaderos
@@ -18,8 +18,8 @@ keywords:
 language: es
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18843828
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Serie Técnica Plataforma Amazonía Regenerativa — Investigación y Desarrollo
 subtitle: Validación Técnica de Invernaderos de Ambiente Controlado para la Industrialización Regenerativa
 title: 'Nota Técnica: Domos Geodésicos y Bio-soberanía Nacional en la Amazonía'
@@ -32,7 +32,7 @@ version: '2.1'
 ---
 # Domos Geodésicos: Microclima y Bio-industria en la Amazonía
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./TAK_nota-tecnica-domos-geodesicos.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_nota-tecnica-domos-geodesicos_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_nota-tecnica-domos-geodesicos_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -210,14 +210,14 @@ TAKWARA, Fabio. **Plataforma de Bio-soberania Nacional: Industrialização Suste
 ---
 
 **🎋 Takwara — Tecnología del Bambú para la Soberanía Amazónica**
-**DOI: [10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828)**
+**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
 
 ---
 
 ## Cómo citar este documento
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Nota Técnica: Domos Geodésicos y Bio-soberanía Nacional en la Amazonía — Validación Técnica de Invernaderos de Ambiente Controlado para la Industrialización Regenerativa*. Serie Técnica Plataforma Amazonía Regenerativa — Investigación y Desarrollo. Brasilia: Núcleo Takwara / Universidad de Brasilia, 2026. Disponible en: https://doi.org/10.5281/zenodo.18843828.
+TAKWARA, Fabio Resck. *Nota Técnica: Domos Geodésicos y Bio-soberanía Nacional en la Amazonía — Validación Técnica de Invernaderos de Ambiente Controlado para la Industrialización Regenerativa*. Serie Técnica Plataforma Amazonía Regenerativa — Investigación y Desarrollo. Brasilia: Núcleo Takwara / Universidad de Brasilia, 2026. Disponible en: https://doi.org/10.5281/zenodo.18827106.
 
 **APA:**
-Takwara, F. R. (2026). *Nota Técnica: Domos Geodésicos y Bio-soberanía Nacional en la Amazonía* (Versión 2.0). Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Nota Técnica: Domos Geodésicos y Bio-soberanía Nacional en la Amazonía* (Versión 2.0). Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106

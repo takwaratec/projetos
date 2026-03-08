@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18826841
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - pyrolysis
 - biochar
@@ -20,9 +20,9 @@ keywords:
 language: en
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18843828
-- 10.5281/zenodo.18827513
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Regenerative Amazon Platform Technical Series — Research and Development
 
 title: 'Community Biorefinery: Pyrolysis, Biochar, and Thermal Cascading'
@@ -35,7 +35,7 @@ version: '2.1'
 ---
 # Community Biorefinery: Pyrolysis, Biochar, and Thermal Cascading
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18826841-blue.svg)](https://doi.org/10.5281/zenodo.18826841)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_memorial-tecnico-biorrefinaria_pt.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_memorial-tecnico-biorrefinaria_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_memorial-tecnico-biorrefinaria_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -324,7 +324,7 @@ UFJF. **MEC010: Heat Transfer and Thermal Project Design** — non-condensable p
 ---
 
 **🎋 Takwara — Bamboo Technology for Amazonian Sovereignty**
-**DOI: [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)**
+**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
 
 *Regenerative Amazon Platform — Official technical document.*
 *CC BY 4.0 License.*
@@ -333,7 +333,7 @@ UFJF. **MEC010: Heat Transfer and Thermal Project Design** — non-condensable p
 ## How to cite this document
 
 **APA:**
-Takwara, F. R. (2026). *Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
 
 ---
 *Regenerative Amazon Platform — Official technical document.*

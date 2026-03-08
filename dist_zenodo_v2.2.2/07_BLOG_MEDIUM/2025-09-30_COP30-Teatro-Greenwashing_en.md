@@ -24,7 +24,7 @@ When **66.7%** of Belém's population IS LEFT OUT of basic sanitation, with over
 
 ### **When Rhetoric Meets Reality**
 
-***DOI: 10.5281/zenodo.17229601***
+***DOI: 10.5281/zenodo.18827106***
 
 **Brazil, September 23, 2025.**
 
@@ -46,7 +46,7 @@ This documentary piece is structured into **"Acts" rigorously grounded** in scie
 
 *This work is licensed under Creative Commons Attribution 4.0 International.*
 
-[*DOI: 10.5281/zenodo.17229601*](https://doi.org/10.5281/zenodo.17229601)
+[*DOI: 10.5281/zenodo.18827106*](https://doi.org/10.5281/zenodo.18827106)
 
 **PARTICIPATE NOW:**
 

@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
 keywords:
 - solidarity economy
 - female entrepreneurship
@@ -26,7 +26,7 @@ version: '2.1'
 ---
 # Prof. Dr. Tânia Cristina da Silva Cruz — Institutional Coordination
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./OPS_perfil-taina-cruz.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-taina-cruz_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./OPS_perfil-taina-cruz_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -128,7 +128,7 @@ Among the 12 technical works registered, those with the strongest synergy with t
 ## How to Cite
 
 **APA:**
-Takwara, F. R. (2026). *Technical Profile: Prof. Dr. Tânia Cristina da Silva Cruz* (Version 2.1). Annals and Memory — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18882784
+Takwara, F. R. (2026). *Technical Profile: Prof. Dr. Tânia Cristina da Silva Cruz* (Version 2.1). Annals and Memory — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
 
 ---
 **🎋 Takwara — Technical Sovereignty for Social Justice**

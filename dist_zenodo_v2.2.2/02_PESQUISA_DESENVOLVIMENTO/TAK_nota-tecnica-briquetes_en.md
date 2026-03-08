@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18843828
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - bioenergy
 - briquettes
@@ -20,9 +20,9 @@ keywords:
 language: en
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18843828
-- 10.5281/zenodo.18827513
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Regenerative Amazon Platform Technical Series — Research and Development
 subtitle: Production Process, Uses, and Bioenergy References
 title: 'Technical Note: High-Density Briquettes from Bamboo and Agro-extractivist Waste'
@@ -35,7 +35,7 @@ version: '2.1'
 ---
 # Technical Note: High-Density Briquettes from Bamboo and Agro-extractivist Waste
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_nota-tecnica-briquetes.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_nota-tecnica-briquetes_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_nota-tecnica-briquetes_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -153,11 +153,11 @@ The project is aligned with the **Coopera+ Amazônia** program (MDIC/Sebrae/BNDE
 ---
 
 **🎋 Takwara — Bamboo Technology for Amazonian Sovereignty**
-**DOI: [10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828)**
+**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
 ## How to cite this document
 
 **APA:**
-Takwara, F. R. (2026). *Technical Note: High-Density Briquettes from Bamboo and Agro-extractivist Waste* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Technical Note: High-Density Briquettes from Bamboo and Agro-extractivist Waste* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
 
 ---
 **🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

@@ -2,7 +2,7 @@
 title: "Parâmetros de Referência Orçamentária: Médias Industriais Amazônia (2026)"
 author: "Avaliador Industrial Takwara"
 date: '2026-03-06'
-doi: 10.5281/zenodo.18843828
+H.5281/zenodo.18827106
 ---
 
 # Parâmetros de Referência: Precificação Industrial Norte (Manaus/Rio Branco)

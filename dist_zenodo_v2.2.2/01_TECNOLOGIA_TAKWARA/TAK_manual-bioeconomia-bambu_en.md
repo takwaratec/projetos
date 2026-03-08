@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-05'
-doi: 10.5281/zenodo.18843828
+H.5281/zenodo.18827106
 language: en
 license: CC BY 4.0
 series: Regenerative Amazon Platform Technical Series — Bioeconomy and Governance
@@ -20,7 +20,7 @@ version: '2.1'
 
 # Community Bamboo Bioeconomy: From Forest to Cooperative
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./TAK_manual-bioeconomia-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_manual-bioeconomia-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./TAK_manual-bioeconomia-bambu_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -820,8 +820,8 @@ This section is for those who do not have specific technical training but want t
 - Google Earth Engine (satellite time series): [earthengine.google.com](https://earthengine.google.com)
 
 **Platform Technical Documentation**
-- Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System (DOI): [10.5281/zenodo.18826841](https://doi.org/10.5281/zenodo.18826841)
-- Regenerative Amazon Platform v5.1 (DOI): [10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828)
+- Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System (DOI): [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)
+- Regenerative Amazon Platform v5.1 (DOI): [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)
 - RMC Inventory — academic sources: [embrapa.br/bambu](https://www.embrapa.br/busca-de-noticias/-/noticia/87187287/estudo-mostra-potencial-do-bambu-no-acre) | [conhecer.org.br (P. aurea invasion)](https://www.conhecer.org.br/enciclop/2021C/invasao.pdf)
 
 **Takwara Technology Inputs**
@@ -848,11 +848,11 @@ This section is for those who do not have specific technical training but want t
 ## How to cite this handbook
 
 **APA:**
-Takwara, F. R. (2026). *Community Bamboo Bioeconomy Handbook: From Forest to Cooperative* (Version 2.0). Takwara Center / University of Brasília. https://doi.org/10.5281/zenodo.18827513
+Takwara, F. R. (2026). *Community Bamboo Bioeconomy Handbook: From Forest to Cooperative* (Version 2.0). Takwara Center / University of Brasília. https://doi.org/10.5281/zenodo.18827106
 
 **Part of:**
-Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Zenodo Collection]. https://doi.org/10.5281/zenodo.17225867
+Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Zenodo Collection]. https://doi.org/10.5281/zenodo.18827106
 
 **Related documents in the collection:**
-- Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System — https://doi.org/10.5281/zenodo.18826841
-- Regenerative Amazon Platform v5.1 — https://doi.org/10.5281/zenodo.18843828
+- Technical Memorial: Integrated Bamboo Pyrolysis and Treatment System — https://doi.org/10.5281/zenodo.18827106
+- Regenerative Amazon Platform v5.1 — https://doi.org/10.5281/zenodo.18827106

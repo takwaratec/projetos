@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-05'
-doi: 10.5281/zenodo.18843828
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - Guadua bamboo
 - native bamboo
@@ -17,9 +17,9 @@ keywords:
 language: en
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18843828
-- 10.5281/zenodo.18827513
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Regenerative Amazon Platform Technical Series — Research and Development
 title: 'Guadua Bamboo: The Structural Fiber of Amazonian Sovereignty'
 translations:
@@ -31,7 +31,7 @@ version: '2.1'
 ---
 # Guadua Bamboo: The Structural Fiber of Amazonian Sovereignty
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_guadua-amazonica.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_guadua-amazonica_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_guadua-amazonica_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -100,7 +100,7 @@ Guadua bamboo is the structural fiber that bridges the Northeastern castor bean 
 ## How to Cite
 
 **APA:**
-Takwara, F. R. (2026). *Guadua Bamboo: The Structural Fiber of Amazonian Sovereignty* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Guadua Bamboo: The Structural Fiber of Amazonian Sovereignty* (Version 2.1). Technical-Scientific Bulletin — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
 
 ---
 **🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

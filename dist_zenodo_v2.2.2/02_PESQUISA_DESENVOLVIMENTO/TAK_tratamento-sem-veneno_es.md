@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18843828
+H.5281/zenodo.18827106
 keywords:
 - tratamiento sin veneno
 - bambú
@@ -27,9 +27,9 @@ version: '2.1'
 ---
 # Tratamiento Sin Veneno: Soberanía Tecnológica para el Bambú Nativo
 
-**Serie:** Manejo y Biomasa | **Versión:** 2.1 | **Fecha:** 2026-03-04 | **Autor:** Fabio Takwara | **Licencia:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18843828
+**Serie:** Manejo y Biomasa | **Versión:** 2.1 | **Fecha:** 2026-03-04 | **Autor:** Fabio Takwara | **Licencia:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_tratamento-sem-veneno.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_tratamento-sem-veneno_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_tratamento-sem-veneno_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -190,7 +190,7 @@ Esta cadena — tratamiento al vapor → secado → PU vegetal → biocompósito
 ## Cómo citar este documento
 
 **APA:**
-Takwara, F. R. (2026). *Tratamiento Sin Veneno: Soberanía Tecnológica para el Bambú Nativo* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Tratamiento Sin Veneno: Soberanía Tecnológica para el Bambú Nativo* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106
 
 ---
 **🎋 Takwara — Sustainable Technology and Sovereignty in the Amazon**

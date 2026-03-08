@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
 keywords:
 - bioeconomy
 - amazon
@@ -26,7 +26,7 @@ version: '2.1'
 ---
 # Fabio Takwara — Director of Technological Innovation
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18882784-blue.svg)](https://doi.org/10.5281/zenodo.18882784)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./OPS_perfil-fabio-takwara.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-fabio-takwara_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-fabio-takwara_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -66,7 +66,7 @@ After decades of prototyping and facing institutional inconsistencies, the Platf
 ## How to Cite
 
 **APA:**
-Takwara, F. R. (2026). *Technical Profile: Fabio Takwara — Creator and Director* (Version 2.1). Annals and Memory — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18882784
+Takwara, F. R. (2026). *Technical Profile: Fabio Takwara — Creator and Director* (Version 2.1). Annals and Memory — Takwara Nucleus / University of Brasília. https://doi.org/10.5281/zenodo.18827106
 
 ---
 **🎋 Takwara — Technical Sovereignty for Social Justice**

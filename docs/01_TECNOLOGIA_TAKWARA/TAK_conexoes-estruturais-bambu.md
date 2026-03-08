@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18843828
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - biocompósitos
 - conexões de bambu
@@ -16,8 +16,8 @@ keywords:
 language: pt
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827513
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Série Técnica Plataforma Amazônia Regenerativa — Investigação e Desenvolvimento
 title: 'Solda Vegetal: Conexões Estruturais e Biocompósitos em Bambu'
 translations:
@@ -29,7 +29,7 @@ version: '2.1'
 ---
 # Solda Vegetal: Conexões Estruturais e Biocompósitos em Bambu
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_conexoes-estruturais-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_conexoes-estruturais-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_conexoes-estruturais-bambu_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -141,7 +141,7 @@ O Sistema Takwara e seus painéis sanduíche embutem princípios construtivos ra
 ---
 
 **🎋 Takwara — Tecnologia Sustentável e Soberania na Amazônia**
-**DOI: [10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828)**
+**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
 
 *Série Técnica Plataforma Amazônia Regenerativa — Documento técnico oficial.*
 *Licença CC BY 4.0.*
@@ -151,4 +151,4 @@ O Sistema Takwara e seus painéis sanduíche embutem princípios construtivos ra
 ## COMO CITAR ESTE DOCUMENTO
 
 **APA:**
-Takwara, F. R. (2026). *Sistemas de Conexões Estruturais e Biocompósitos em Bambu* (Versão 2.1). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Sistemas de Conexões Estruturais e Biocompósitos em Bambu* (Versão 2.1). Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106

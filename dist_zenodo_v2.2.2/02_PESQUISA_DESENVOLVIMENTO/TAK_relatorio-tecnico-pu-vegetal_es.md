@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-05'
-doi: 10.5281/zenodo.18843828
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - poliuretano vegetal
 - aceite de ricino
@@ -18,8 +18,8 @@ keywords:
 language: es
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18827513
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Serie Técnica Plataforma Amazonía Regenerativa — Investigación y Desarrollo
 title: 'Del Tractor al Rolls Royce — La Síntesis Regenerativa Planetaria'
 translations:
@@ -31,7 +31,7 @@ version: '2.1'
 ---
 # Del Tractor al Rolls Royce — La Síntesis Regenerativa Planetaria
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_relatorio-tecnico-pu-vegetal.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_relatorio-tecnico-pu-vegetal_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_relatorio-tecnico-pu-vegetal_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -158,4 +158,4 @@ Takwara, F. (2021, 23 de agosto). O Poliuretano Vegetal. *Medium*. [Link](https:
 ## Cómo Citar
 
 **APA:**
-Takwara, F. R. (2026). *Del Tractor al Rolls Royce — La Síntesis Regenerativa Planetaria* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Del Tractor al Rolls Royce — La Síntesis Regenerativa Planetaria* (Versión 2.1). Boletín Técnico-Científico — Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106

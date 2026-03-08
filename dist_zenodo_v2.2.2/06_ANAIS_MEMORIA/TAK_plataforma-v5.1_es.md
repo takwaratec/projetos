@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18843828
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 language: es
 license: CC BY 4.0
 series: Serie Técnica Plataforma Amazonia Regenerativa — Memoria
@@ -14,7 +14,7 @@ version: '2.1'
 ---
 # Plataforma Amazonia Regenerativa v5.1
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_plataforma-v5.1.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_plataforma-v5.1_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_plataforma-v5.1_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -151,7 +151,7 @@ La tesis de inversión se explicita como un volante de inercia económico, organ
 
 ## 13. Referencias Bibliográficas (Principales)
 
-TAKWARA, F. R. (2026). *Plataforma Amazônia Regenerativa v5.1: Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono*. Série Técnica Plataforma Amazônia Regenerativa. Brasília: Núcleo Takwara / Universidade de Brasília. Relatório técnico. [https://doi.org/10.5281/zenodo.18843828](https://doi.org/10.5281/zenodo.18843828).
+TAKWARA, F. R. (2026). *Plataforma Amazônia Regenerativa v5.1: Saneamento Ecológico, Bambu Guadua spp., PET Reciclado e Bioindústrias Comunitárias de Baixo Carbono*. Série Técnica Plataforma Amazônia Regenerativa. Brasília: Núcleo Takwara / Universidade de Brasília. Relatório técnico. [https://doi.org/10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106).
 
 VERRA. VM0044: Methodology for Biochar Utilization in Soil and Non‑Soil Applications. Version 1.2. Washington, DC, 2025.
 
@@ -160,4 +160,4 @@ VERRA. VM0044: Methodology for Biochar Utilization in Soil and Non‑Soil Applic
 ## Cómo citar este documento
 
 **APA:**
-Takwara, F. R. (2026). *Plataforma Amazônia Regenerativa v5.1 — Saneamiento Ecológico, Bambú Guadua spp., PET Reciclado y Bioindustrias Comunitarias de Bajo Carbono* (Relatorio técnico). Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Plataforma Amazônia Regenerativa v5.1 — Saneamiento Ecológico, Bambú Guadua spp., PET Reciclado y Bioindustrias Comunitarias de Bajo Carbono* (Relatorio técnico). Núcleo Takwara / Universidad de Brasilia. https://doi.org/10.5281/zenodo.18827106

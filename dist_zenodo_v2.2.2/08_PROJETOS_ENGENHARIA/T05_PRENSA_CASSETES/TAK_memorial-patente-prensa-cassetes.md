@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-06'
-doi: 10.5281/zenodo.14827106
+H.5281/zenodo.18827106
 keywords:
 - patente
 - prensa
@@ -22,7 +22,7 @@ version: '5.1'
 
 # Memorial Jurídico: Prensa de Cassetes Intercambiáveis T05
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.14827106-blue.svg)](https://doi.org/10.5281/zenodo.14827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status](https://img.shields.io/badge/status-Finalizado%20(Advocacy)-blue)
 
@@ -77,4 +77,4 @@ Cada cassete é um conjunto autônomo de paredes e matrizes em aço de alta resi
 ## Como Citar
 
 **APA:**
-Takwara, F. R. (2026). *Memorial Jurídico: Prensa de Cassetes Intercambiáveis T05* (Versão 5.1). Memorial de Patente — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.14827106
+Takwara, F. R. (2026). *Memorial Jurídico: Prensa de Cassetes Intercambiáveis T05* (Versão 5.1). Memorial de Patente — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106

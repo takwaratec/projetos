@@ -8,10 +8,10 @@ type: "Relatório Técnico"
 language: "pt"
 translation: ["en", "es"]
 keywords: ["biorrefinaria", "bambu", "termodinâmica", "pirólise", "advocacy 5.1"]
-master_doi: "10.5281/zenodo.14827106"
+master_doi: "10.5281/zenodo.18827106"
 ---
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.14827106-blue.svg)](https://doi.org/10.5281/zenodo.14827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-PT-green.svg)](#)
 [![Status](https://img.shields.io/badge/Status-Finalizado-success.svg)](#)
@@ -195,4 +195,4 @@ Este roteiro serve como guia para a defesa do invento perante examinadores de pa
 ---
 
 > **Citação Recomendada:**
-> Takwara, F. R. (2026). *Relatório de Viabilidade Técnica: Biorrefinaria T02*. Plataforma Amazônia Regenerativa (Vol. 5.1). Zenodo. https://doi.org/10.5281/zenodo.14827106
+> Takwara, F. R. (2026). *Relatório de Viabilidade Técnica: Biorrefinaria T02*. Plataforma Amazônia Regenerativa (Vol. 5.1). Zenodo. https://doi.org/10.5281/zenodo.18827106

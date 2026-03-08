@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18828592
-doi_collection: 10.5281/zenodo.18882784
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - bioeconomia
 - Amazônia
@@ -20,9 +20,9 @@ keywords:
 language: pt
 license: CC BY 4.0
 related_works:
-- 10.5281/zenodo.18826841
-- 10.5281/zenodo.18843828
-- 10.5281/zenodo.18827513
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
+- 10.5281/zenodo.18827106
 series: Série Técnica Plataforma Amazônia Regenerativa — Documentos de Política e Investimento
 subtitle: 'Estruturação de Polo de Bioindústrias Comunitárias e Infraestrutura Sustentável na Amazônia Legal'
 title: 'Relatório Executivo: Plataforma Amazônia Regenerativa e Inovações'
@@ -35,7 +35,7 @@ version: '2.1'
 ---
 # Relatório Executivo: Plataforma Amazônia Regenerativa e Inovações
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18843828-blue.svg)](https://doi.org/10.5281/zenodo.18843828)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_relatorio-executivo-v1.0.1.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglês-blue)](./TAK_relatorio-executivo-v1.0.1_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Espanhol-orange)](./TAK_relatorio-executivo-v1.0.1_es.md)
 ![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
@@ -191,17 +191,17 @@ Cronograma de 18 meses:
 ## Como citar este documento
 
 **ABNT:**
-TAKWARA, Fabio Resck. *Relatório Executivo: Plataforma Amazônia Regenerativa e Inovações — Estruturação de Polo de Bioindústrias Comunitárias e Infraestrutura Sustentável na Amazônia Legal*. Série Técnica Plataforma Amazônia Regenerativa — Documentos de Política e Investimento. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18828592.
+TAKWARA, Fabio Resck. *Relatório Executivo: Plataforma Amazônia Regenerativa e Inovações — Estruturação de Polo de Bioindústrias Comunitárias e Infraestrutura Sustentável na Amazônia Legal*. Série Técnica Plataforma Amazônia Regenerativa — Documentos de Política e Investimento. Brasília: Núcleo Takwara / Universidade de Brasília, 2026. Disponível em: https://doi.org/10.5281/zenodo.18827106.
 
 **APA:**
-Takwara, F. R. (2026). *Relatório Executivo: Plataforma Amazônia Regenerativa e Inovações* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18843828
+Takwara, F. R. (2026). *Relatório Executivo: Plataforma Amazônia Regenerativa e Inovações* (Versão 2.1). Boletim Técnico-Científico — Núcleo Takwara / Universidade de Brasília. https://doi.org/10.5281/zenodo.18827106
 
 **Faz parte de:**
-Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.17225867
+Takwara, F. R. (2026). *Série Técnica Plataforma Amazônia Regenerativa* [Coleção Zenodo]. https://doi.org/10.5281/zenodo.18827106
 
 **Documentos técnicos de referência:**
-- Plataforma Amazônia Regenerativa v5.1 (documento base) — https://doi.org/10.5281/zenodo.18843828
-- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18826841
-- Cartilha de Bioeconomia Comunitária do Bambu — https://doi.org/10.5281/zenodo.18827513
-- Regeneração de Solos, Fitorremediação e Mercados de Carbono — https://doi.org/10.5281/zenodo.18827891
-- Manual de Operação da Plataforma Digital (GitHub + Zenodo) — https://doi.org/10.5281/zenodo.18828166
+- Plataforma Amazônia Regenerativa v5.1 (documento base) — https://doi.org/10.5281/zenodo.18827106
+- Memorial Técnico: Sistema Integrado de Pirólise e Tratamento de Bambu — https://doi.org/10.5281/zenodo.18827106
+- Cartilha de Bioeconomia Comunitária do Bambu — https://doi.org/10.5281/zenodo.18827106
+- Regeneração de Solos, Fitorremediação e Mercados de Carbono — https://doi.org/10.5281/zenodo.18827106
+- Manual de Operação da Plataforma Digital (GitHub + Zenodo) — https://doi.org/10.5281/zenodo.18827106
