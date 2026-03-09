@@ -25,12 +25,6 @@ theme:
 
 nav:
   - Início: index.md
-  - 📂 Dossiê BNDES (Auditado):
-      - 01. Formulário Consolidado: 09_DOSSIE_BNDES/01_FORMULARIO_01_CONSOLIDADO.md
-      - 02. Orçamento Consolidado: 09_DOSSIE_BNDES/02_FORMULARIO_ORCAMENTO_CONSOLIDADO.md
-      - 03. Mapa de Migração (C02): 09_DOSSIE_BNDES/03_MAPA_MIGRACAO_BNDES_C02.md
-      - 04. Relatório de Auditoria 5.1: 09_DOSSIE_BNDES/06_RELATORIO_AUDITORIA_5.1.md
-      - 05. Resumo Técnico-Financeiro: 09_DOSSIE_BNDES/05_RESUMO_CONSOLIDACAO_ORCAMENTARIA.md
   - 1. Estratégia e Governança:
       - Protocolo 5.1 (Governança): 00_GOVERNANCA/GOV_PROTOCOLO_5.1.md
       - Resumo Executivo (v2.1): 
@@ -52,6 +46,7 @@ nav:
       - Fitorremediação e Carbono: 01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md
       - Saneamento Ecológico: 02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico.md
       - Tratamento Sem Veneno: 02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md
+      - Dinâmicas de Bambu e Georreferenciamento: 02_PESQUISA_DESENVOLVIMENTO/RES_pesquisa-bambu-indigenas-georreferenciamento.md
   - 4. Capital Humano e Conselho:
       - Fabio Resck Takwara: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara.md
       - Tânia Cristina Cruz: 06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-tania-cruz.md
@@ -68,7 +63,7 @@ not_in_nav: |
   **/historico/**
   01_GOVERNANCA/**
   04_GESTAO_OPERACIONAL/**
-  09_DOSSIE_BNDES/04_ORCAMENTO_DETALHADO_MASTER.md
+  09_DOSSIE_BNDES/**
   **/perfis-equipe/OPS_perfil-jesiel-campos.md
   **/perfis-equipe/OPS_perfil-tiago-filemon.md
 
