@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+H.5281/zenodo.18827106
 language: en
 license: CC BY 4.0
 series: Legal Governance
@@ -14,17 +14,17 @@ translations:
   es: GOV_LICENSE_es.md
   pt: GOV_LICENSE.md
 type: Governance
-version: '2.2.2'
+version: '2.1'
 ---
 
 # Creative Commons License
 
-**Series:** Governance **Version:** 2.2.2 | **Date:** 2026-03-04 | **Author:** Fabio Takwara | **License:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
+**Series:** Governance **Version:** 2.0 | **Date:** 2026-03-04 | **Author:** Fabio Takwara | **License:** CC BY 4.0 | **DOI:** 10.5281/zenodo.18827106
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portuguese-green)](./GOV_LICENSE.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./GOV_LICENSE_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Spanish-orange)](./GOV_LICENSE_es.md)
-![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
 ---
 

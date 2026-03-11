@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - economía solidaria
 - emprendimiento femenino
@@ -22,14 +22,14 @@ translations:
   es: OPS_perfil-tania-cruz_es.md
   pt: OPS_perfil-tania-cruz.md
 type: Perfil Técnico
-version: '2.2.2'
+version: '2.1'
 ---
 # Profa. Dra. Tânia Cristina da Silva Cruz — Coordinación Institucional
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Portugués-green)](./OPS_perfil-tania-cruz.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./OPS_perfil-tania-cruz_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./OPS_perfil-tania-cruz_es.md)
-![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
 ![Tipo](https://img.shields.io/badge/tipo-Perfil%20Técnico-teal)
 
 > **Función en la Plataforma:** Coordinación Institucional y Alianza Estratégica  

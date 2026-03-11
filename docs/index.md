@@ -46,7 +46,7 @@ Documentos que validam a integridade, autoria e sustentabilidade administrativa 
 ### 2. Tecnologia e Soberania (R&D)
 Memoriais estratégicos e pesquisas de base biotecnológica e engenharia social.
 *   ⚙️ [Memorial Único de Equipamentos e Patentes](08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md)
-*   🔥 [Biorrefinaria: Memorial do Reator (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md)
+*   🔥 [Biorrefinaria: Memorial do Reator (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Estratégia Manejo](01_TECNOLOGIA_TAKWARA/NT_estrategia-manejo-biorrefinaria.md)
 *   🛠️ **Sistemas Sociais:** [Tamboreador](08_PROJETOS_ENGENHARIA/TAMBOREADOR/TAK_memorial-patente-tamboreador.md) • [Resinador (T03)](08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md) • [Misturador (T04)](08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_memorial-patente-misturador.md)
 *   🏗️ **Construção:** [Prensa Cassetes (T05)](08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_memorial-patente-prensa-cassetes.md) • [Gabaritos Solda (T06)](08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_memorial-patente-solda-gabaritos.md)
 *   🧪 **Pesquisa:** [PU Vegetal](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal.md) • [Conexões Bambu](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu.md) • [Tijolos Ecológicos](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) • [Monitoramento SMEGA](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md)
@@ -55,17 +55,16 @@ Memoriais estratégicos e pesquisas de base biotecnológica e engenharia social.
 Manuais e guias para implementação territorial e regeneração.
 *   📖 **Manuais:** [Bioeconomia do Bambu](01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md) • [Fitorremediação e Carbono](01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md)
 *   🌿 **Ecológico:** [Manejo de Guadua Amazônica](02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica.md) • [Tratamento sem Veneno](02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md) • [Saneamento Ecológico](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico.md)
-*   🔍 **Pesquisa de Campo:** [Dinâmicas de Bambu e Georreferenciamento](02_PESQUISA_DESENVOLVIMENTO/RES_pesquisa-bambu-indigenas-georreferenciamento.md)
 
 ### 4. Capital Humano e Conselho
 Perfis técnicos e científicos liderando as frentes da Mestre 5.1.
 *   👤 [Fabio Resck Takwara (Tecnologia)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-fabio-takwara.md)
-*   👤 [Profa. Tânia Cristina Cruz (Pesquisa Científica)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-tania-cruz.md)
+*   👤 [Profa. Tânia Cristina Cruz (Pesquisa Científica)](06_ANAIS_MEMORIA/perfis-equipe/OPS_perfil-taina-cruz.md)
 
 ### 5. Advocacy e Difusão
 Posicionamento político-climático e disseminação de conhecimento.
 *   🌍 [Dossiê Estratégico COP30](05_ADVOCACY_COP30/COM_dossie-cop30.md)
-*   📢 [Blog Medium (Artigos Selecionados)](07_BLOG_MEDIUM/2021-01-17_A-ECOLOGIA-DO-BAMBU-969a2cc49ae3.md)
+*   📢 [Blog Medium (Artigos Selecionados)](07_BLOG_MEDIUM/)
 
 ---
 

@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-05'
-doi: 10.5281/zenodo.18827106
-doi: 10.5281/zenodo.18827106
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - plant-based weld
 - vegetable polyurethane
@@ -25,14 +25,14 @@ translations:
   es: TAK_conexoes-estruturais-bambu_es.md
   pt: TAK_conexoes-estruturais-bambu.md
 type: Technical-Scientific Bulletin
-version: '2.2.2'
+version: '2.1'
 ---
 # Plant-Based Weld: Structural Connections and Biocomposites in Bamboo
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_conexoes-estruturais-bambu.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_conexoes-estruturais-bambu_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_conexoes-estruturais-bambu_es.md)
-![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
 ![Type](https://img.shields.io/badge/type-Technical--Scientific%20Bulletin-teal)
 
 ---

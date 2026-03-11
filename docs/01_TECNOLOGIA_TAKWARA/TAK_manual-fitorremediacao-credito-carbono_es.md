@@ -4,8 +4,8 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
-doi: 10.5281/zenodo.18827106
+H.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - fitorremediación
 - metales pesados
@@ -37,14 +37,14 @@ translations:
   es: TAK_manual-fitorremediacao-credito-carbono_es.md
   pt: TAK_manual-fitorremediacao-credito-carbono.md
 type: Boletín Técnico-Científico
-version: '2.2.2'
+version: '2.1'
 ---
 # Fitorremediacción y Mercados de Carbono: El Bambú como Ingeniero Ecológico
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_manual-fitorremediacao-credito-carbono.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-Inglés-blue)](./TAK_manual-fitorremediacao-credito-carbono_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_manual-fitorremediacao-credito-carbono_es.md)
-![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
 ![Tipo](https://img.shields.io/badge/tipo-Boletín%20Técnico--Científico-teal)
 
 ---

@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - carvão vegetal
 - biochar
@@ -24,7 +24,7 @@ translations:
   es: TAK_carvao-pirolenhoso_es.md
   pt: TAK_carvao-pirolenhoso.md
 type: Boletim Técnico-Científico
-version: '2.2.2'
+version: '2.1'
 ---
 # Bambu como Plataforma para a Bioeconomia de Carbono Negativo
 
@@ -33,7 +33,7 @@ version: '2.2.2'
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![🇧🇷 PT](https://img.shields.io/badge/🇧🇷-Português-green)](./TAK_carvao-pirolenhoso.md) [![🇺🇸 EN](https://img.shields.io/badge/🇺🇸-English-blue)](./TAK_carvao-pirolenhoso_en.md) [![🇪🇸 ES](https://img.shields.io/badge/🇪🇸-Español-orange)](./TAK_carvao-pirolenhoso_es.md)
-![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.1%20(Advocacy%205.1)-blue)
 ![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
 
 ---
