@@ -1,0 +1,20 @@
+# 🧠 Configuração TakwaraTec
+target:
+  repo: "takwaratec/projetos"
+  branch: "main"
+
+# 🛠️ SKILLS: O que a IA deve fazer
+skills:
+  - name: "gemini-analyst"
+    model: "gemini-2.5-flash"
+
+# ✅ TASKS: Tarefas prontas para rodar
+tasks:
+  resumir:
+    run: "antigravity ask --file 'Biomass2Biochar-Chapter4_1.1.pdf' 'Resuma este documento focando em bioeconomia'"
+  
+# 🌊 WORKFLOWS: Automação Total
+workflows:
+  auto_sync:
+
+    

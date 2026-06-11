@@ -1,5 +1,5 @@
 {
-  "title": "Plataforma Amazônia Regenerativa — Documentação Técnica e Científica",
+  "title": "Projeto Mulheres Que Tecem a Floresta (Consórcio UnB/UFRR/UFAC)",
   "upload_type": "publication",
   "publication_type": "technicalnote",
   "license": "CC-BY-4.0",
@@ -19,7 +19,17 @@
     },
     {
       "name": "Tiago, Filemon",
-      "affiliation": "BioArquitetura Urbana",
+      "affiliation": "BioArquitetura Urbana / UFAC",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Souza da Silva, Sonaira",
+      "affiliation": "Universidade Federal do Acre — UFAC",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Georgia, Maria",
+      "affiliation": "Artesanato e Design Amazônico",
       "type": "ProjectMember"
     }
   ],
@@ -27,19 +37,21 @@
     "bambu",
     "bioeconomia",
     "Amazônia",
-    "biorrefinaria",
+    "biorrefinaria modular",
     "biochar",
     "habitação social",
     "BNDES",
     "Fundo Amazônia",
     "Guadua",
     "tecnologia social",
-    "ciência aberta"
+    "ciência aberta",
+    "Mulheres que Tecem a Floresta",
+    "Mãos Que Tecem a Floresta"
   ],
   "related_identifiers": [
     {
-      "identifier": "10.5281/zenodo.17225867",
-      "relation": "isContinuedBy",
+      "identifier": "10.5281/zenodo.18827106",
+      "relation": "isVersionOf",
       "resource_type": "publication-technicalnote"
     }
   ]

@@ -13,15 +13,16 @@ Este agente deve seguir rigorosamente as "Regras de Ouro" definidas no `GOV_GEMI
 
 ## 2. Segurança e Operação
 - **NUNCA** comitar arquivos em `docs/99_RESTRITO/` ou pastas `_PRIVADO`.
-- Ignorar arquivos binários (`.pdf`, `.docx`) a menos que sejam manuais oficiais em `01_TECNOLOGIA`.
+- **docs/ Locking**: A pasta `docs/` é READ-ONLY para agentes. Edições são permitidas apenas para metadados (headers/badges) pré-commit.
+- **Sombra Staging**: Todo o trabalho ativo ocorre em `01_SOMBRA_AUDITORIA/`. Arquivos lá devem ser categorizados (NT, Memorando, etc.).
+- **Promoção em Lote**: A migração para `docs/` ocorre via `/sombra-sync` após auditoria humana.
 - Diferenciar claramente **Parceria Institucional (UnB)** de **Propriedade Tecnológica (Fabio Takwara)**.
 
 ## 3. Regras Universais de Publicação e Commit (TODOS OS AGENTES)
-- **Projetos de Engenharia (`08_`)**: Devem ser compartilhados, publicados e integrados ao Zenodo **APENAS OS MEMORIAIS JURÍDICOS** (Memoriais de Patente e Memorial Único).
-- **Restrição Absoluta de Propriedade Intelectual (IP)**: Documentos de concepção, estratégias operacionais, relatórios comparativos, notas brutas e metodologias internas são ESTRITAMENTE RESTRITOS, não importando a skill ou contexto do agente.
-- **Formatação Rigorosa**: É terminantemente PROIBIDO para a IA gerar commits, pacotes de lançamento (releases) ou índices (como MkDocs) de qualquer arquivo (seja suporte, rascunho, gravação de reunião, esboço, mapa mental ou brainstorm) que não cumpra o Protocolo de formatação, possuindo Cabeçalho (Frontmatter/YAML) validado, Master DOI da Coleção, rodapé e estrutura formal.
+- **Comprometimento Ético**: Agentes NUNCA realizam commits sem uma avaliação humana prévia baseada em report detalhado.
+- **Projetos de Engenharia (`08_`)**: Devem ser compartilhados apenas memoriais jurídicos validados.
+- **Zenodo Release**: Automatizar a criação do `.zip` após commit de release v2.0.
 
 ## 5. Identidade Visual & IA Generativa (Módulo E)
+- **Estilo Dinâmico**: Perguntar sempre qual estilo (Realista CAD ou Sketched Warhol) via "nlm" para cada imagem.
 - **Branding**: Imagens com pass-partout branco e assinatura "Takwara 2026" (canto inf. esq.).
-- **Estilo**: Realista (técnico) ou Sketched (estilo Henfil / Andy Warhol).
-- **Proibições Visuais**: Sem cores de CCA/CCB, sem estruturas Spin/Ripper, apenas Guadua e PU Vegetal.

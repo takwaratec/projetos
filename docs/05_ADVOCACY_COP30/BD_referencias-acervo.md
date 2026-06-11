@@ -4,7 +4,7 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+H.5281/zenodo.18827106
 keywords:
 - banco de referências
 - DOI
@@ -18,13 +18,13 @@ title: 'Banco de Referências do Acervo Takwara'
 translations:
   pt: BD_referencias-acervo.md
 type: Database
-version: '2.2.2'
+version: '2.1'
 ---
 # Banco de Referências do Acervo — Plataforma Amazônia Regenerativa
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
 > **Protocolo de Verificação Independente de Fontes (PVI):** Este banco registra todas as referências externas do acervo, seus DOIs e status de acessibilidade. Atualizado em: **2026-03-04**.
 
@@ -182,24 +182,64 @@ DOI: 10.5281/zenodo.18827106
 
 ### 5.2 Referências Acadêmicas Externas
 
-```
-CHIERICE, G.O.; CLARO NETO, S. Aplicação industrial do óleo de mamona. In: O Agronegócio da Mamona
-no Brasil. Embrapa Algodão, 2001.
+```text
+ANA. Nota de Referência nº 8/2024: Metas de Universalização do Saneamento. Brasília: Agência Nacional de Águas, 2024.
 
-NEU, Vania. Banheiro Seco Modulado: sistema de saneamento ecológico descentralizado para comunidades
-da Amazônia. Universidade Federal do Pará, 2020.
+BIAN, F. et al. Bamboo — an untapped plant resource for the phytoremediation of heavy metal contaminated soils. *Chemosphere*, v. 246, p. 125750, 2020.
+
+BRASIL. *Lei 15.042/2024 — Mercado Regulado de Carbono (SBCE)*: planalto.gov.br
+
+BRASIL. *Lei nº 12.651/2012 — Código Florestal*: planalto.gov.br
+
+BRASIL. *Lei nº 14.119/2021 — Política Nacional de PSA*: planalto.gov.br
+
+CHIERICE, G.O.; CLARO NETO, S. Aplicação industrial do óleo de mamona. In: O Agronegócio da Mamona no Brasil. Embrapa Algodão, 2001.
+
+CHIERICE, G. O., & CLARO NETO, S. (2001). Aplicação do Poliuretano Derivado do Óleo de Mamona em Odontologia. *Revista Odonto Ciência*. [Ref. Histórica/IQSC-USP]
+
+CHONGTHAM, N.; BISHT, M. S.; SARANGTHEM, K. Nutritional properties of bamboo shoots. *Comprehensive Reviews in Food Science and Food Safety*, v. 10, n. 3, p. 153–168, 2011.
 
 EMBRAPA. Bambu: uso e manejo no Brasil. Brasília: Embrapa, 2020.
 
-IPCC. Climate Change 2023: Synthesis Report. Geneva: IPCC, 2023.
+FEAM. Geração e Destinação de Resíduos Agroindustriais no Estado de Minas Gerais. Belo Horizonte: FEAM, 2015.
+
+FERREIRA, M., LIMA, M. P., & ALMEIDA, E. (2016). Preparação e caracterização de poliuretanos contendo diferentes quantidades de óleo de baru. *Polímeros*, 26(2), 147-157. DOI: 10.1590/0104-1428.2118.
+
+FERREIRA, V. L. P.; YOTSUYANAGI, K.; CARVALHO, C. R. L. Eliminação do teor de ácido cianídrico de brotos de bambu (Bambusa vulgaris). *Coletânea do ITAL*, v. 25, n. 2, p. 148–153, 1995.
+
+FOOD STANDARDS AUSTRALIA NEW ZEALAND (FSANZ). *Cyanogenic glycosides in cassava and bamboo shoots*. Canberra: FSANZ, 2004.
 
 IBGE. Censo Demográfico 2022: Resultados preliminares. Rio de Janeiro: IBGE, 2023.
 
-ANA. Nota de Referência nº 8/2024: Metas de Universalização do Saneamento.
-Brasília: Agência Nacional de Águas, 2024.
+IGNÁCIO, H. (1999). Avaliação da porosidade e do comportamento in vivo do polímero derivado do óleo de mamona (*Ricinus communis*). *Acta Ortopédica Brasileira*, 7(2).
 
-FEAM. Geração e Destinação de Resíduos Agroindustriais no Estado de Minas Gerais.
-Belo Horizonte: FEAM, 2015.
+IPCC. Climate Change 2023: Synthesis Report. Geneva: IPCC, 2023.
+
+LEITE, F. R. M., & RAMALHO, L. T. O. (2008). Análise histológica da biocompatibilidade do polímero de mamona em implante ósseo. *Acta Cirúrgica Brasileira*, 23(1). DOI: 10.1590/S0102-86502008000700012.
+
+MARINHO, N. P., NISGOSKI, S., KLOCK, U., ANDRADE, A. S., & MUÑIZ, G. I. B. (2013). Caracterização física e térmica de compósito de poliuretano derivado de óleo de mamona associado com partículas de bambu. *Polímeros: Ciência e Tecnologia*, 23(2), 201-205. DOI: 10.1590/S0104-14282013005000007.
+
+NEMENYI, A. et al. Potential use of bamboo in the phytoremediation of heavy metals: A review. *Acta Agraria Debreceniensis*, n. 1, p. 103–113, 2022.
+
+NEU, Vania. Banheiro Seco Modulado: sistema de saneamento ecológico descentralizado para comunidades da Amazônia. Universidade Federal do Pará, 2020.
+
+OIT. *Convenção 169 — Povos Indígenas e Tribais*. ilo.org
+
+PACTO PELA RESTAURAÇÃO DA MATA ATLÂNTICA. *Protocolo de Monitoramento da Restauração Florestal*. São Paulo, 2023.
+
+PATIÑO GUÍO, L. M. (2013). Compostos Orgânicos Voláteis em tintas imobiliárias: caracterização e efeitos sobre a qualidade do ar em ambientes internos construídos. *Tese de Doutorado, USP*. DOI: 10.11606/T.18.2013.tde-23042014-095532.
+
+PLAN VIVO FOUNDATION. *Plan Vivo Standard*. Edinburgh, 2024. planvivo.org
+
+SOCIEDADE INTERNACIONAL DE RESTAURAÇÃO ECOLÓGICA (SER). *Princípios da Restauração Ecológica*. Washington DC: SER, 2019. ser.org
+
+TAKWARA, F. (2021, 23 de agosto). O Poliuretano Vegetal. *Medium*.
+
+TORRES, F. G.; LIMA, V. L. A.; LIMA, R. M. Acúmulo e translocação de zinco e cádmio em plantas de bambu (*Guadua angustifolia*). *Química Nova*, v. 31, n. 1, p. 24–27, 2008.
+
+VERRA. *VM0044: Methodology for Biochar Utilization in Soil and Non-Soil Applications*. v. 1.2. Washington, DC, 2025. verra.org/methodologies/vm0044
+
+WANG, H. et al. Remediation of heavy metal contaminated soils by planting Moso bamboo and its intercropping with Sedum plumbizincicola. *Forests*, v. 14, n. 9, p. 1895, 2023.
 ```
 
 ---

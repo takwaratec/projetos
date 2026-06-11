@@ -4,10 +4,10 @@
 
 **Polo integrado de bioindústrias comunitárias de baixo carbono na Amazônia Legal**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18827106.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Status: Pronto para Avaliação](https://img.shields.io/badge/status-Pronto%20para%20Avalia%C3%A7%C3%A3o-brightgreen.svg)]()
-![Versão](https://img.shields.io/badge/versão-v2.2.2-blue)
+![Versão](https://img.shields.io/badge/versão-v2.0-blue)
 
 ---
 
@@ -32,12 +32,30 @@ Para fins de crivo analítico imediato, consulte os documentos finais auditados 
 
 ---
 
+## 🌿 Projeto: Mulheres Que Tecem a Floresta (WTF)
+> **Consórcio UnB / UFAC / UFRR** | *Elo Feminino, Bioarquitetura e Nova Bioeconomia*
+
+Este projeto é uma **coleção derivada** da Plataforma Amazônia Regenerativa, utilizando sua base técnica (PAR 5.1) para impulsionar a bioeconomia territorial nos estados do Acre, Roraima e Amazonas.
+
+[![Status: Projeto em Ativação](https://img.shields.io/badge/status-Projeto%20em%20Ativa%C3%A7%C3%A3o-orange.svg)]()
+[![Powered by PAR 5.1](https://img.shields.io/badge/Powered%20by-PAR%205.1-green.svg)]()
+
+*   📜 [**Plano Diretor do Consórcio**](00_GOVERNANCA/GOV_projeto-mulheres-que-tecem-a-floresta.md)
+*   🏗️ [**Tecnologias de Base (Biorrefinaria/Bambu)**](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md)
+*   💡 [**Manual de Operação (R&D)**](04_PROJETO_WTF/WTF_cartilha-operador.md) *(Acesso Restrito ao GT)*
+
+**Citação do Projeto:**
+> "TAKWARA, F. R.; CRUZ, T. C.; MARISE, S.; FERKO, G.; FERNANDES, V. [et al.]. **Mulheres Que Tecem a Floresta**. v1.0. 2026. Baseado na arquitetura técnica PAR 5.1."
+
+---
+
 ## 📂 Eixos Estruturantes
 
 ### 1. Estratégia e Governança
 Documentos que validam a integridade, autoria e sustentabilidade administrativa do projeto.
 *   📜 [**Protocolo 5.1: Governança e Transparência**](00_GOVERNANCA/GOV_PROTOCOLO_5.1.md)
-*   📑 [Resumo Executivo (v2.1)](01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1.md)
+*   📑 [Resumo Executivo (v2.1)](06_ANAIS_MEMORIA/TAK_relatorio-executivo.md)
+*   📚 [Glossário e Nomenclatura](00_GOVERNANCA/GOV_glossario-siglas.md)
 *   ⚖️ [Direitos de Autoria e PI](00_GOVERNANCA/GOV_AUTORIA.md)
 *   🖇️ [Matriz de Correlação de Projetos](00_GOVERNANCA/GOV_MATRIZ_CORRELACAO.md)
 *   🔒 [Política de Compartilhamento de Dados](00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados.md)
@@ -46,7 +64,7 @@ Documentos que validam a integridade, autoria e sustentabilidade administrativa 
 ### 2. Tecnologia e Soberania (R&D)
 Memoriais estratégicos e pesquisas de base biotecnológica e engenharia social.
 *   ⚙️ [Memorial Único de Equipamentos e Patentes](08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md)
-*   🔥 [Biorrefinaria: Memorial do Reator (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Estratégia Manejo](01_TECNOLOGIA_TAKWARA/NT_estrategia-manejo-biorrefinaria.md)
+*   🔥 [Biorrefinaria: Memorial do Reator (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Estratégia Manejo](08_PROJETOS_ENGENHARIA/NT_estrategia-manejo-biorrefinaria.md)
 *   🛠️ **Sistemas Sociais:** [Tamboreador](08_PROJETOS_ENGENHARIA/TAMBOREADOR/TAK_memorial-patente-tamboreador.md) • [Resinador (T03)](08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md) • [Misturador (T04)](08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_memorial-patente-misturador.md)
 *   🏗️ **Construção:** [Prensa Cassetes (T05)](08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_memorial-patente-prensa-cassetes.md) • [Gabaritos Solda (T06)](08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_memorial-patente-solda-gabaritos.md)
 *   🧪 **Pesquisa:** [PU Vegetal](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal.md) • [Conexões Bambu](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu.md) • [Tijolos Ecológicos](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) • [Monitoramento SMEGA](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md)

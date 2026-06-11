@@ -28,7 +28,7 @@ version: '2.1'
 
 ---
 
-Este documento mapea los archivos compartidos en Google Drive (Núcleo Takwara) con su ubicación correspondiente en el repositorio GitHub, garantizando la sincronía técnica entre el GT de Producción y el desarrollo de la Plataforma.
+Este documento mapea los archivos compartidos en Google Drive (Núcleo Takwara) con su ubicación correspondiente en el repositorio GitHub, garantizando la sincronía técnica entre el GT de Producción y el desarrollo del proyecto Mulheres Que Tecem a Floresta.
 
 ---
 
@@ -36,7 +36,7 @@ Este documento mapea los archivos compartidos en Google Drive (Núcleo Takwara) 
 | :--- | :--- | :--- |
 | **RESUMEN FINANCIERO** | `99_RESTRITO/01_FINANCEIRO/OPS_resumo-financeiro.md` | Sincronizado |
 | **Informe Ejecutivo: Innovaciones** | `06_ANAIS_MEMORIA/OPS_relatorio-executivo-inovacoes.md` | Sincronizado |
-| **Plataforma Amazonia Regenerativa v5.1** | `06_ANAIS_MEMORIA/TAK_plataforma-v5.1.md` | Maestro v5.1 |
+| **Proyecto Mulheres Que Tecem a Floresta** | `06_ANAIS_MEMORIA/TAK_projeto-mulheres-tecem.md` | Maestro |
 | **Manual - FITORREMEDICIÓN...** | `01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md` | Sincronizado |
 | **CARTILLA DE BIOECONOMÍA...** | `01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md` | Sincronizado |
 

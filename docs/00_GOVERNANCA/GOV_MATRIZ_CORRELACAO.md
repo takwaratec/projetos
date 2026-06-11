@@ -28,7 +28,7 @@ version: '2.0'
 
 ---
 
-Este documento mapeia os arquivos compartilhados no Google Drive (Núcleo Takwara) para a sua localização correspondente no repositório GitHub, garantindo a sincronia técnica entre o GT de Produção e o desenvolvimento da Plataforma.
+Este documento mapeia os arquivos compartilhados no Google Drive (Núcleo Takwara) para a sua localização correspondente no repositório GitHub, garantindo a sincronia técnica entre o GT de Produção e o desenvolvimento do projeto Mulheres Que Tecem a Floresta.
 
 ---
 
@@ -36,7 +36,7 @@ Este documento mapeia os arquivos compartilhados no Google Drive (Núcleo Takwar
 | :--- | :--- | :--- |
 | **RESUMO FINANCEIRO** | `99_RESTRITO/01_FINANCEIRO/OPS_resumo-financeiro.md` | Sincronizado |
 | **Relatório Executivo: Inovações** | `06_ANAIS_MEMORIA/OPS_relatorio-executivo-inovacoes.md` | Sincronizado |
-| **Plataforma Amazônia Regenerativa v5.1** | `06_ANAIS_MEMORIA/TAK_plataforma-v5.1.md` | Mestre v5.1 |
+| **Projeto Mulheres Que Tecem a Floresta** | `06_ANAIS_MEMORIA/TAK_projeto-mulheres-tecem.md` | Mestre |
 | **Manual - FITORREMEDIAÇÃO...** | `01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md` | Sincronizado |
 | **CARTILHA DE BIOECONOMIA...** | `01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md` | Sincronizado |
 
@@ -44,7 +44,7 @@ Este documento mapeia os arquivos compartilhados no Google Drive (Núcleo Takwar
 
 ## Observações de Governança
 - **Master GitHub**: O repositório GitHub é a fonte oficial para versionamento e preservação para o Zenodo.
-- **Edição GDocs**: Mudanças feitas pelo GT no GDocs devem ser reportadas ou integradas ao GitHub mensalmente ou conforme marcos de projeto (ex: COP30).
+- **Edição GDocs**: Mudanças feitas pelo GT no GDocs devem ser reportadas ou integradas ao GitHub mensalmente ou conforme marcos de projeto.
 - **Sem Veneno**: Qualquer alteração técnica deve passar pelo crivo do [`GEMINI.md`](../GEMINI.md).
 
 *Última atualização: 2026-03-04.*

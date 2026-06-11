@@ -4,10 +4,10 @@
 
 **Integrated hub of low-carbon community bio-industries in the Legal Amazon**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18827106.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Status: Ready for Evaluation](https://img.shields.io/badge/status-Ready%20for%20Evaluation-brightgreen.svg)]()
-![Version](https://img.shields.io/badge/version-v2.2.2-blue)
+![Version](https://img.shields.io/badge/version-v2.0-blue)
 
 ---
 
@@ -37,7 +37,8 @@ For immediate analytical review, consult the final audited documents ready for s
 ### 1. Strategy and Governance
 Documents validating the project's integrity, authorship, and administrative sustainability.
 *   📜 [**Protocol 5.1: Governance and Transparency**](00_GOVERNANCA/GOV_PROTOCOLO_5.1_en.md)
-*   📑 [Executive Summary (v2.1)](01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1_en.md)
+*   📑 [Executive Summary (v2.1)](06_ANAIS_MEMORIA/TAK_relatorio-executivo_en.md)
+*   📚 [Glossary and Nomenclature](00_GOVERNANCA/GOV_glossario-siglas_en.md)
 *   ⚖️ [Authorship and IP Rights](00_GOVERNANCA/GOV_AUTORIA_en.md)
 *   🖇️ [Project Correlation Matrix](00_GOVERNANCA/GOV_MATRIZ_CORRELACAO_en.md)
 *   🔒 [Data Sharing Policy](00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados_en.md)
@@ -46,7 +47,7 @@ Documents validating the project's integrity, authorship, and administrative sus
 ### 2. Science and Technology (R&D)
 Technical memorials and bio-based research and engineering.
 *   ⚙️ [Unique Memorial of Equipment and Patents](08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes_en.md)
-*   🔥 [Biorefinery: Reactor Memorial (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Management Strategy](01_TECNOLOGIA_TAKWARA/NT_estrategia-manejo-biorrefinaria_en.md)
+*   🔥 [Biorefinery: Reactor Memorial (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Management Strategy](08_PROJETOS_ENGENHARIA/NT_estrategia-manejo-biorrefinaria.md)
 *   🛠️ **Social Systems:** [Tamboreador](08_PROJETOS_ENGENHARIA/TAMBOREADOR/TAK_memorial-patente-tamboreador.md) • [Resinator (T03)](08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md) • [Mixer (T04)](08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_memorial-patente-misturador.md)
 *   🏗️ **Construction:** [Cassette Press (T05)](08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_memorial-patente-prensa-cassetes.md) • [Welding Jigs (T06)](08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_memorial-patente-solda-gabaritos.md)
 *   🧪 **Research:** [Vegetable PU](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal_en.md) • [Bamboo Connections](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu_en.md) • [Ecological Bricks](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) • [SMEGA Monitoring](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga_en.md)

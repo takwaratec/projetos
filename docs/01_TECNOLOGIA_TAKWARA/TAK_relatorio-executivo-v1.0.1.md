@@ -4,8 +4,6 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-H.5281/zenodo.18827106
-H.5281/zenodo.18827106
 keywords:
 - bioeconomia
 - Amazônia
@@ -113,7 +111,7 @@ O modelo de gestão híbrida visa "demarcar" a operação através do profission
 
 - **Estrutura SPE:** Sociedade de Propósito Específico com holding centralizada em cooperativas de mulheres e jovens.
 - **Gestão Sombra:** Contratação de **CEO e CFO profissionais** de mercado para atuar em conjunto com lideranças locais, com metas de sucessão total em **48 meses**.
-- **Instrumentos de Gestão:** Aplicação de **Matriz RACI** para todos os processos decisórios e cumprimento estrito do Protocolo de Consentimento Prévio, Livre e Informado ( **CPLI** ).
+- **Instrumentos de Gestão:** Aplicação de **Matriz RACI** para todos os processos decisórios e cumprimento estrito do Protocolo de Consentimento Prévio, Livre e Informado ( **CLPI** ).
 
 ---
 

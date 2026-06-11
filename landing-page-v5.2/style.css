@@ -1,0 +1,212 @@
+:root {
+  --primary: #1e3a1a;
+  --secondary: #d4a373;
+  --accent: #bc6c25;
+  --bg: #050505;
+  --text: #ffffff;
+  --muted: rgba(255,255,255,0.6);
+  --glass: rgba(255,255,255,0.03);
+  --card-bg: #111111;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; -webkit-font-smoothing: antialiased; }
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', -apple-system, sans-serif;
+  line-height: 1.5;
+  overflow-x: hidden;
+  padding-bottom: 50px;
+}
+
+/* Mobile-First Layout */
+.container {
+  width: 100%;
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  height: 85vh;
+  background: linear-gradient(0deg, var(--bg) 10%, rgba(0,0,0,0) 100%), 
+              url('assets/hero.png') center center/cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 40px 25px;
+}
+
+.hero-tag {
+  color: var(--secondary);
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 3px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 2.8rem;
+  line-height: 1.1;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.summary-box {
+  background: var(--card-bg);
+  border-left: 4px solid var(--secondary);
+  padding: 20px;
+  margin: -40px 0 40px 0;
+  border-radius: 0 12px 12px 0;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+}
+
+.section-title {
+  font-size: 1.4rem;
+  color: var(--secondary);
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Cards for Mobile */
+.decision-card {
+  background: var(--card-bg);
+  padding: 25px;
+  border-radius: 16px;
+  margin-bottom: 20px;
+  border: 1px solid rgba(255,255,255,0.05);
+}
+
+.card-icon {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  display: block;
+}
+
+.price-tag {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #fff;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.label {
+  font-size: 0.7rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 15px;
+}
+
+/* Comparison Table (Synthesized) */
+.comparativo {
+  width: 100%;
+  margin: 30px 0;
+  font-size: 0.85rem;
+}
+
+.row {
+  display: flex;
+  padding: 15px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.col-1 { width: 35%; color: var(--muted); padding-right: 10px; }
+.col-2 { width: 65%; font-weight: 500; }
+
+/* Autonomy Grid */
+.autonomy-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin: 30px 0;
+}
+
+.box-50 {
+  background: var(--card-bg);
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  border-top: 4px solid var(--secondary);
+}
+
+.box-50 h3 {
+  font-size: 0.8rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.box-50 .value {
+  font-size: 1.5rem;
+  font-weight: 900;
+  display: block;
+}
+
+.impact-list {
+  margin: 20px 0;
+  padding: 0 10px;
+}
+
+.impact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  font-size: 0.9rem;
+}
+
+.impact-icon {
+  margin-right: 15px;
+  font-size: 1.2rem;
+}
+
+.multiplier-tag {
+  background: rgba(188, 108, 37, 0.2);
+  color: var(--accent);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+/* Call to Action */
+.cta-button {
+  background: var(--secondary);
+  color: #000;
+  width: 100%;
+  padding: 20px;
+  border-radius: 50px;
+  text-align: center;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 40px;
+  text-decoration: none;
+  display: block;
+  box-shadow: 0 10px 30px rgba(212, 163, 115, 0.3);
+}
+
+.footer-info {
+  margin-top: 60px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.7rem;
+}
+
+/* Animations */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.6s ease-out;
+}
+
+@keyframes reveal {
+  to { opacity: 1; transform: translateY(0); }
+}

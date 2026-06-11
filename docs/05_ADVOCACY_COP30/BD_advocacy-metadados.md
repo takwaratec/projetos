@@ -4,19 +4,19 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-doi: 10.5281/zenodo.18827106
+H.5281/zenodo.18827106
 license: CC BY 4.0
 series: Série Técnica Plataforma Amazônia Regenerativa — Governança e Dados
 title: 'Banco de Dados de Metadados: Acervo Advocacy Takwara'
 translations:
   pt: BD_advocacy-metadados.md
-version: '2.2.2'
+version: '2.1'
 ---
 # Banco de Dados de Metadados: Acervo Advocacy Takwara
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Status](https://img.shields.io/badge/status-V2.2.2%20(Advocacy%205.1)-blue)
+![Status](https://img.shields.io/badge/status-V2.0%20(Advocacy%205.1)-blue)
 
 > **DOI Mestre do Acervo:** `10.5281/zenodo.18827106` — Todos os documentos da Plataforma Amazônia Regenerativa v2.0 estão indexados sob este identificador único. Atualizado em: **2026-03-04**.
 
@@ -29,7 +29,9 @@ version: '2.2.2'
 | GOV-01 | GOV_GEMINI.md | Regras de Ouro — Bambu, PU Vegetal | 00 | PT, EN, ES | [Z-01](https://doi.org/10.5281/zenodo.18827106) | ✅ |
 | GOV-02 | GOV_AUTORIA.md | Declaração de Propriedade Intelectual | 00 | PT, EN, ES | [Z-01](https://doi.org/10.5281/zenodo.18827106) | ✅ |
 | GOV-03 | GOV_MATRIZ_CORRELACAO.md | Guia de Sincronia GDocs ↔ GitHub | 00 | PT, EN, ES | [Z-01](https://doi.org/10.5281/zenodo.18827106) | ✅ |
-| GOV-04 | GOV_nota-tecnica-compartilhamento.md | Política de Compartilhamento de Dados | 00 | PT, EN, ES | [Z-01](https://doi.org/10.5281/zenodo.18827106) | ✅ |
+| GOV-04 | GOV_nota-tecnica-compartilhamento-de-dados.md | Política de Compartilhamento de Dados | 00 | PT, EN, ES | [Z-01](https://doi.org/10.5281/zenodo.18827106) | ✅ |
+| GOV-05 | GOV_PROTOCOLO_5.1.md | Protocolo 5.1: Governança e Transparência | 00 | PT, EN, ES | [Z-01](https://doi.org/10.5281/zenodo.18827106) | ✅ |
+| GOV-06 | GOV_glossario-siglas.md | Glossário de Siglas e Nomenclatura — Plataforma 5.1 | 00 | PT, EN, ES | [Z-01](https://doi.org/10.5281/zenodo.18827106) | ✅ |
 | TAK-01 | TAK_pu-vegetal-solda.md | Solda Vegetal — Reforço com PU | 01 | PT | [Z-01](https://doi.org/10.5281/zenodo.18827106) | ✅ |
 | TAK-02 | TAK_geodesicas-sistemas.md | Sistemas Geodésicos e Memorial Descritivo | 01 | PT | [Z-01](https://doi.org/10.5281/zenodo.18827106) | ✅ |
 | TAK-03 | TAK_manual-bioeconomia-bambu.md | Cartilha de Bioeconomia Comunitária | 01 | PT, EN, ES | [Z-03](https://doi.org/10.5281/zenodo.18827106) | ✅ |

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Mulheres Que Tecem a Floresta | Decisão Executiva</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="fade-in">
+            <span class="hero-tag">Consórcio UnB · UFAC · UFRR</span>
+            <h1>Mulheres Que <br> Tecem a <br> Floresta</h1>
+            <p style="opacity: 0.8; font-weight: 300;">Regimento de Autonomia e Saneamento Territorial</p>
+        </div>
+    </header>
+
+    <div class="container">
+        
+        <div class="summary-box fade-in">
+            <p><strong>Justificativa:</strong> Transição para Engenharia de Base e Bioconstrução. R$ 30M investidos na eliminação de pontos únicos de falha e na soberania das comunidades.</p>
+        </div>
+
+        <section class="fade-in">
+            <h2 class="section-title">Equilíbrio Estratégico</h2>
+            <div class="autonomy-grid">
+                <div class="box-50">
+                    <h3>CAPEX</h3>
+                    <span class="value">50%</span>
+                    <p style="font-size: 0.7rem; opacity: 0.6; margin-top: 5px;">Máquinas e Infraestrutura</p>
+                </div>
+                <div class="box-50">
+                    <h3>OPEX</h3>
+                    <span class="value">50%</span>
+                    <p style="font-size: 0.7rem; opacity: 0.6; margin-top: 5px;">Pessoas e Autonomia</p>
+                </div>
+            </div>
+            <p style="font-size: 0.85rem; opacity: 0.7; text-align: center;">Divididos simetricamente em 3 núcleos territoriais de R$ 10M.</p>
+        </section>
+
+        <section class="fade-in">
+            <h2 class="section-title">O Roteiro de Soberania</h2>
+            
+            <div class="decision-card">
+                <span class="multiplier-tag">Potencial Multiplicador</span>
+                <span class="price-tag">Rio Branco</span>
+                <span class="label">Fornecedor de Equipamentos</span>
+                <p style="font-size: 0.9rem; opacity: 0.8;">Adequação da planta de processamento de bambu, aquisição de micro-ônibus e início das caravanas de mobilização.</p>
+            </div>
+
+            <div class="decision-card">
+                <span class="multiplier-tag">Meta Conservadora</span>
+                <span class="price-tag">Territórios</span>
+                <span class="label">Bioeconomia Comunitária</span>
+                <p style="font-size: 0.9rem; opacity: 0.8;">Distribuição de kits de processamento a partir do 6º mês. 2 Unidades piloto para testes de desempenho imediato.</p>
+            </div>
+
+            <div class="decision-card">
+                <span class="multiplier-tag">Impacto Sanitário</span>
+                <span class="price-tag">20 Módulos</span>
+                <span class="label">Banheiros Secos (BSM)</span>
+                <p style="font-size: 0.9rem; opacity: 0.8;">Implantação inicial focada em adaptabilidade e redução direta de doenças. Investimento em saúde pública e dignidade.</p>
+            </div>
+        </section>
+
+        <section class="fade-in">
+            <h2 class="section-title">O Manifesto do Retorno</h2>
+            <div class="impact-list">
+                <div class="impact-item">
+                    <span class="impact-icon">🔄</span>
+                    <div>
+                        <strong>CAPEX Retornado</strong>
+                        <p style="font-size: 0.8rem; opacity: 0.6;">Lucro de base investido em móveis, bio-materiais e ferramentas internalizadas.</p>
+                    </div>
+                </div>
+                <div class="impact-item">
+                    <span class="impact-icon">🏥</span>
+                    <div>
+                        <strong>CAPEX Sanitário</strong>
+                        <p style="font-size: 0.8rem; opacity: 0.6;">Redução de custos hospitalares e fortalecimento da resiliência comunitária.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="fade-in" style="margin-top: 40px; padding: 30px; background: var(--glass); border-radius: 16px; text-align: center;">
+            <p style="font-size: 1.1rem; font-weight: 700;">Dependência de Reestruturação:</p>
+            <p style="opacity: 0.8; margin-top: 10px;">
+                A confirmação deste regimento ativa a mobilização urgente do <strong>Domo Voador</strong> e a integração de Rio Branco como fornecedor oficial da rede.
+            </p>
+        </section>
+
+        <a href="mailto:contato@takwara.tec.br" class="cta-button">Confirmar Reestruturação</a>
+
+        <div class="footer-info">
+            <p>🎋 Mulheres Que Tecem a Floresta | Regimento v5.2</p>
+            <p style="margin-top: 5px; opacity: 0.4;">Auditado e Sintetizado para Tomada de Decisão Conclusiva</p>
+        </div>
+via Sistema Takwara para Prof. Tania Cruz</p>
+        </div>
+
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.fade-in').forEach(el => {
+                el.style.opacity = '0';
+                el.style.transition = 'all 0.6s ease-out';
+                observer.observe(el);
+            });
+        });
+    </script>
+</body>
+</html>

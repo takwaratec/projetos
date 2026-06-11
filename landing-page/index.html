@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dossiê Estratégico: Soberania e Desenvolvimento Amazônico</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap');
+
+        body {
+            font-family: 'Outfit', sans-serif;
+        }
+
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            height: 320px;
+        }
+
+        .bg-amazon-gradient {
+            background: linear-gradient(135deg, #064e3b 0%, #065f46 100%);
+        }
+
+        /* Prevent image mutilation but keep consistent card height */
+        .card-image-container {
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            overflow: hidden;
+            background-color: #f5f5f4;
+        }
+
+        .card-image-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            /* Preserves entire image content */
+            transition: transform 0.5s ease;
+        }
+
+        .card-image-container:hover img {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+
+<body class="bg-stone-50 text-stone-900 leading-relaxed">
+
+    <!-- Header Navigation -->
+    <nav class="bg-emerald-950 text-emerald-100 py-4 px-6 sticky top-0 z-50 border-b border-emerald-800 shadow-xl">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <span class="text-2xl">🎋</span>
+                <h1 class="font-bold tracking-tight text-lg uppercase">Mãos que Tecem a Floresta | Master 5.1</h1>
+            </div>
+            <div class="hidden md:flex gap-6 text-sm font-semibold">
+                <a href="#orcamento" class="hover:text-white transition-colors">Orçamento</a>
+                <a href="#obstaculos" class="hover:text-white transition-colors">Obstáculos</a>
+                <a href="#hub" class="hover:text-white transition-colors">Hub Rio Branco</a>
+                <a href="#governanca" class="hover:text-white transition-colors">Governança</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="bg-amazon-gradient text-white py-16 px-6 relative overflow-hidden">
+        <div class="max-w-7xl mx-auto relative z-10">
+            <div class="flex flex-col lg:flex-row items-center gap-12">
+                <div class="lg:w-2/3">
+                    <span
+                        class="inline-block px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-300 text-xs font-bold uppercase mb-4 border border-emerald-500/30">Dossiê
+                        de Readequação Estratégica</span>
+                    <h2 class="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">O Pivô da <span
+                            class="text-emerald-400">Soberania Técnica</span> na Amazônia Legal</h2>
+                    <p class="text-xl text-emerald-100/80 max-w-2xl mb-8">
+                        Supressão do modelo industrial pesado em favor da autonomia micro-industrial: Como otimizar
+                        <strong>R$ 30 Milhões</strong> para viabilizar três componentes através do Hub Rio Branco.
+                    </p>
+                </div>
+                <div class="lg:w-1/3 w-full">
+                    <div class="bg-white/10 backdrop-blur-md p-6 rounded-2xl border border-white/20">
+                        <div class="text-center mb-4">
+                            <span class="text-sm text-emerald-200">Orçamento Total Consolidado</span>
+                            <div class="text-4xl font-black text-white">R$ 30M</div>
+                        </div>
+                        <div class="space-y-3">
+                            <div class="flex justify-between text-xs border-b border-white/10 pb-2">
+                                <span>Componente Sônia</span>
+                                <span class="font-bold">Otimizado</span>
+                            </div>
+                            <div class="flex justify-between text-xs border-b border-white/10 pb-2">
+                                <span>Componente Geórgia</span>
+                                <span class="font-bold">Otimizado</span>
+                            </div>
+                            <div class="flex justify-between text-xs border-b border-white/10 pb-2">
+                                <span>Infraestrutura 5.1</span>
+                                <span class="font-bold">Soberano</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Section: Orçamento e Eficiência -->
+    <section id="orcamento" class="py-20 px-6 container mx-auto">
+        <div class="text-center mb-16">
+            <h3 class="text-3xl font-bold text-emerald-950 mb-4">Eficiência Orçamentária: O Fim do "Elefante Branco"
+            </h3>
+            <p class="text-stone-600 max-w-3xl mx-auto">Abandonamos a indústria pesada para abraçar a <strong>Tecnologia
+                    Social Apropriável</strong>, multiplicando o alcance do recurso de R$ 30M.</p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div class="bg-white p-8 rounded-3xl shadow-sm border border-stone-200">
+                <h4 class="text-center font-bold text-stone-700 mb-6">Comparativo de Alocação de Recursos</h4>
+                <div class="chart-container">
+                    <canvas id="costComparisonChart"></canvas>
+                </div>
+            </div>
+
+            <div class="space-y-6">
+                <div class="bg-emerald-50 p-6 rounded-2xl border-l-8 border-emerald-600">
+                    <h5 class="font-bold text-emerald-900 mb-2">Centralização do Valor</h5>
+                    <p class="text-sm text-emerald-800">Redirecionamento do orçamento de obras civis fragmentadas para o
+                        Hub Takwara, garantindo autonomia plena.</p>
+                </div>
+                <div class="bg-amber-50 p-6 rounded-2xl border-l-8 border-amber-500">
+                    <h5 class="font-bold text-amber-900 mb-2">Soberania Energética</h5>
+                    <p class="text-sm text-amber-800">Uso de biomassa residual, energia solar e eólica para zerar o
+                        custo energético das oficinas.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section: HUB Rio Branco -->
+    <section id="hub" class="py-20 px-6 container mx-auto text-center">
+        <h3 class="text-3xl font-bold text-emerald-950 mb-4">HUB Rio Branco: O Arsenal de Soberania</h3>
+        <p class="text-stone-600 max-w-3xl mx-auto mb-16">Infraestrutura descentralizada e bioconstrução carbono zero
+            para suportar as cadeias de Açaí, Castanha e Artesanato.</p>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            <!-- Domo Solar -->
+            <div class="bg-white rounded-3xl border border-stone-200 shadow-sm overflow-hidden flex flex-col">
+                <div class="card-image-container">
+                    <img src="domo_solar.png" alt="Domo Geodésico Solar">
+                </div>
+                <div class="p-6 text-left">
+                    <h4 class="font-bold text-emerald-900 mb-2">Domo Solar 5.1</h4>
+                    <p class="text-xs text-stone-600">Soberania fotovoltaica integrada à estrutura geodésica. Carbono
+                        zero.</p>
+                </div>
+            </div>
+
+            <!-- Biorrefinaria BER -->
+            <div class="bg-white rounded-3xl border border-stone-200 shadow-sm overflow-hidden flex flex-col">
+                <div class="card-image-container">
+                    <img src="ber.png" alt="Biorrefinaria BER">
+                </div>
+                <div class="p-6 text-left">
+                    <h4 class="font-bold text-emerald-900 mb-2">Biorrefinaria BER</h4>
+                    <p class="text-xs text-stone-600">Processamento técnico de biomassa residual via reatores Rocket.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Saneamento BSM -->
+            <div class="bg-white rounded-3xl border border-stone-200 shadow-sm overflow-hidden flex flex-col">
+                <div class="card-image-container">
+                    <img src="bsm.png" alt="Banheiro BSM">
+                </div>
+                <div class="p-6 text-left">
+                    <h4 class="font-bold text-emerald-900 mb-3">Saneamento BSM</h4>
+                    <p class="text-xs text-stone-600">Banheiro Sanificante Móvel. Dignidade e tecnologia seca integrada.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Galpão Wind -->
+            <div class="bg-white rounded-3xl border border-stone-200 shadow-sm overflow-hidden flex flex-col">
+                <div class="card-image-container">
+                    <img src="galpao_wind.png" alt="Galpão Wind">
+                </div>
+                <div class="p-6 text-left">
+                    <h4 class="font-bold text-emerald-900 mb-2">Galpão de Oficinas</h4>
+                    <p class="text-xs text-stone-600">Energia híbrida com turbina eólica integrada no lanternim.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section: Obstáculos -->
+    <section id="obstaculos" class="py-20 bg-stone-100 px-6">
+        <div class="max-w-7xl mx-auto container">
+            <h3 class="text-3xl font-bold text-emerald-950 mb-6 text-center">Mitigação do Custo Amazônia</h3>
+            <p class="text-stone-600 mb-12 text-center max-w-2xl mx-auto">Vencendo o isolamento logística através da
+                produção local de kits bioconstrutivos.</p>
+            <div class="bg-white p-8 rounded-3xl shadow-sm border border-stone-200 lg:w-2/3 mx-auto">
+                <div class="chart-container">
+                    <canvas id="riskRadarChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section: Governança -->
+    <section id="governanca" class="py-20 bg-emerald-950 text-white px-6">
+        <div class="max-w-7xl mx-auto">
+            <div class="text-center mb-16">
+                <h3 class="text-3xl font-bold mb-6">Soberania Administrativa</h3>
+                <p class="text-emerald-100/80 max-w-2xl mx-auto leading-relaxed">Execução direta pelo Conselho Gestor,
+                    transformando investimento em autonomia regional auditada.</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="bg-emerald-900 p-8 rounded-2xl border border-emerald-800 text-center">
+                    <span class="block text-4xl mb-4">🛡️</span>
+                    <h4 class="font-bold mb-2">Zero Desvio</h4>
+                    <p class="text-xs text-emerald-200">Controle rigoroso via plataforma 5.1 síncrona.</p>
+                </div>
+                <div class="bg-emerald-900 p-8 rounded-2xl border border-emerald-800 text-center">
+                    <span class="block text-4xl mb-4">🚀</span>
+                    <h4 class="font-bold mb-2">Agilidade</h4>
+                    <p class="text-xs text-emerald-200">Montagem de kits modulares (BSM/Domo) em dias, não meses.</p>
+                </div>
+                <div class="bg-emerald-900 p-8 rounded-2xl border border-emerald-800 text-center">
+                    <span class="block text-4xl mb-4">📉</span>
+                    <h4 class="font-bold mb-2">Eficiência</h4>
+                    <p class="text-xs text-emerald-200">Eliminação do BDI externo para reinvestimento local.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-stone-50 py-12 px-6 border-t border-stone-200 text-center text-xs text-stone-400">
+        <p>Master 5.1 — Dossiê de Governança e Engenharia de Soberania | 🎋 Takwara v3.0 | 2026</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const ctxCost = document.getElementById('costComparisonChart').getContext('2d');
+            new Chart(ctxCost, {
+                type: 'bar',
+                data: {
+                    labels: ['Logística', 'Estrutura', 'Energia', 'Manutenção'],
+                    datasets: [
+                        { label: 'Convencional', data: [80, 70, 60, 50], backgroundColor: '#94a3b8' },
+                        { label: 'Takwara 5.1', data: [20, 25, 5, 10], backgroundColor: '#10b981' }
+                    ]
+                },
+                options: { responsive: true, maintainAspectRatio: false }
+            });
+
+            const ctxRisk = document.getElementById('riskRadarChart').getContext('2d');
+            new Chart(ctxRisk, {
+                type: 'radar',
+                data: {
+                    labels: ['Logística', 'Isolamento', 'Custo Civil', 'Incerteza Energética', 'Desvios'],
+                    datasets: [{
+                        label: 'Severidade de Risco',
+                        data: [9, 8, 9, 7, 6],
+                        backgroundColor: 'rgba(239, 68, 68, 0.2)',
+                        borderColor: 'rgb(239, 68, 68)'
+                    }]
+                },
+                options: { responsive: true, maintainAspectRatio: false }
+            });
+        });
+    </script>
+</body>
+
+</html>

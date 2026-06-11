@@ -37,19 +37,35 @@ nav:
           - Português: 06_ANAIS_MEMORIA/TAK_relatorio-executivo.md
           - English: 06_ANAIS_MEMORIA/TAK_relatorio-executivo_en.md
           - Español: 06_ANAIS_MEMORIA/TAK_relatorio-executivo_es.md
+      - Dicionário e Siglas:
+          - Português: 00_GOVERNANCA/GOV_glossario-siglas.md
+          - English: 00_GOVERNANCA/GOV_glossario-siglas_en.md
+          - Español: 00_GOVERNANCA/GOV_glossario-siglas_es.md
       - Autoria e Propriedade Intelectual: 00_GOVERNANCA/GOV_AUTORIA.md
       - Matriz de Correlação: 00_GOVERNANCA/GOV_MATRIZ_CORRELACAO.md
+      - Política de Compartilhamento de Dados: 00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados.md
   - 2. Tecnologia e Soberania (R&D):
       - Memorial Único de Equipamentos: 
           - Português: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes.md
           - English: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes_en.md
           - Español: 08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes_es.md
-      - Biorrefinaria (T02): 08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md
+      - Biorrefinaria (T02) e Manejo:
+          - Memorial do Reator: 08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md
+          - Estratégia de Manejo: 08_PROJETOS_ENGENHARIA/NT_estrategia-manejo-biorrefinaria.md
       - Tamboreador (T01): 08_PROJETOS_ENGENHARIA/TAMBOREADOR/TAK_memorial-patente-tamboreador.md
       - Resinador Rotativo (T03): 08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md
+      - Misturador (T04): 08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_memorial-patente-misturador.md
+      - Prensa Cassetes (T05): 08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_memorial-patente-prensa-cassetes.md
+      - Gabaritos de Solda (T06): 08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_memorial-patente-solda-gabaritos.md
+      - Pesquisas e Ensaios:
+          - PU Vegetal: 02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal.md
+          - Conexões de Bambu: 01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu.md
+          - Tijolos Ecológicos: 01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md
+          - Monitoramento SMEGA: 02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga.md
   - 3. Impacto Socioambiental e Manejo:
       - Bioeconomia do Bambu: 01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md
       - Fitorremediação e Carbono: 01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md
+      - Manejo de Guadua Amazônica: 02_PESQUISA_DESENVOLVIMENTO/TAK_guadua-amazonica.md
       - Saneamento Ecológico: 02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-saneamento-ecologico.md
       - Tratamento Sem Veneno: 02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md
   - 4. Capital Humano e Conselho:
@@ -58,7 +74,16 @@ nav:
   - 5. Advocacy e Difusão:
       - Dossiê Estratégico COP30: 05_ADVOCACY_COP30/COM_dossie-cop30.md
       - 'Artigos Selecionados': 07_BLOG_MEDIUM/2021-01-17_A-ECOLOGIA-DO-BAMBU-969a2cc49ae3.md
+  - "🌿 Projeto: Mulheres Que Tecem a Floresta (WTF)":
+      - Apresentação e Memoriais:
+          - Plano Diretor do Consórcio: 01_GOVERNANCA/GOV01_Mulheres-que-tecem-a-floresta.md
+          - Cartilha do Operador (R&D): 01_SOMBRA_AUDITORIA/04_PROJETO_WTF/WTF_cartilha-operador.md
+      - Tecnologias de Base (PAR 5.1):
+          - Biorrefinaria Social (T02): 08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md
+          - Bioeconomia do Bambu: 01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md
+          - Tratamento Sem Veneno: 02_PESQUISA_DESENVOLVIMENTO/TAK_tratamento-sem-veneno.md
   - 🛠️ Área de Trabalho (GT):
+
       - Validação de Componentes: 99_RESTRITO/03_PROVISORIO/PREVIEW_PLATAFORMA.md
 
 not_in_nav: |
@@ -73,7 +98,7 @@ not_in_nav: |
   **/perfis-equipe/OPS_perfil-tiago-filemon.md
 
 extra:
-  version: v2.2.2
+  version: v2.0
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/takwaratec/projetos

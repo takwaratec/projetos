@@ -4,8 +4,6 @@ author:
   name: Takwara, Fabio Resck
   orcid: 0000-0001-8815-3885
 date: '2026-03-04'
-H.5281/zenodo.18827106
-H.5281/zenodo.18827106
 keywords:
 - bioeconomia comunitária
 - bambu
@@ -76,7 +74,7 @@ Você não precisa ler tudo de uma vez. Cada seção termina com **"Próximo pas
 
 ### O bambu "problema" que é na verdade um ativo
 
-Em todo o Brasil, o bambu cresce onde ninguém pediu — e custa caro quando ignorado. Na Região Metropolitana de Campinas (RMC), mais de **12.000 hectares** de *Phyllostachys aurea* (bambu-dourado, cana-da-índia) consomem RR$ 180 milhões por ano em manejo ou prejuízo por inação. No Acre, 4,5 a 7 milhões de hectares de *Guadua* nativa aguardam uma cadeia produtiva que transforme passivo florestal em soberania econômica. Em fragmentos urbanos de Curitiba, São Paulo e Taubaté, *Phyllostachys aurea* é classificada como espécie exótica invasora Categoria I — proibida de plantar, mas já instalada e crescendo.
+Em todo o Brasil, o bambu cresce onde ninguém pediu — e custa caro quando ignorado. Na Região Metropolitana de Campinas (RMC), mais de **12.000 hectares** de *Phyllostachys aurea* (bambu-dourado, cana-da-índia) consomem R$ 180 milhões por ano em manejo ou prejuízo por inação. No Acre, 4,5 a 7 milhões de hectares de *Guadua* nativa aguardam uma cadeia produtiva que transforme passivo florestal em soberania econômica. Em fragmentos urbanos de Curitiba, São Paulo e Taubaté, *Phyllostachys aurea* é classificada como espécie exótica invasora Categoria I — proibida de plantar, mas já instalada e crescendo.
 
 **O paradoxo é o ponto de partida:** o mesmo bambu que é um problema ecológico e um custo para quem o tem, é a matéria-prima de uma cadeia industrial de baixo carbono que inclui briquetes, biochar, compósitos, habitação social, estufas geodésicas, créditos de carbono e metanol verde.
 
@@ -215,7 +213,7 @@ DEGRAU 0 ─── Bambu bruto colhido + Broto de bambu comestível
              ──────────────────────────────────── R$ 0,50–2,00/colmo + R$ 8–15/kg broto
 ```
 
-**O cabo de enxada é o "Cavalo de Troia" da cadeia:** ele custa RR$ 15 para produzir, vende por RR$ 35–50, dura 5 anos contra 8 meses do cabo de madeira, suporta mais de 120 kg (o dobro do convencional) e prova, na mão de qualquer agricultor cético, que a tecnologia funciona antes de ele investir em algo maior.
+**O cabo de enxada é o "Cavalo de Troia" da cadeia:** ele custa R$ 15 para produzir, vende por R$ 35–50, dura 5 anos contra 8 meses do cabo de madeira, suporta mais de 120 kg (o dobro do convencional) e prova, na mão de qualquer agricultor cético, que a tecnologia funciona antes de ele investir em algo maior.
 
 
 ---
@@ -389,9 +387,9 @@ Uma cooperativa não substitui essa rede. Ela a **qualifica e otimiza**: oferece
 
 | Formato | Quando usar | Tempo de constituição | Custo aproximado |
 | :-- | :-- | :-- | :-- |
-| **Associação de Produtores** | Primeiros 6 meses, articulação territorial | 30–60 dias | RR$ 800–1.500 (cartório + registro) |
-| **Cooperativa de Trabalho ou Produção** (Lei 5.764/71) | A partir do Mês 7, quando há fluxo comercial | 60–120 dias | RR$ 2.000–4.000 |
-| **SPE — Sociedade de Propósito Específico** | Fase 2 em diante, para captação de BNDES/Fundo Amazônia | 90–180 dias | RR$ 5.000–12.000 (advogado especializado) |
+| **Associação de Produtores** | Primeiros 6 meses, articulação territorial | 30–60 dias | R$ 800–1.500 (cartório + registro) |
+| **Cooperativa de Trabalho ou Produção** (Lei 5.764/71) | A partir do Mês 7, quando há fluxo comercial | 60–120 dias | R$ 2.000–4.000 |
+| **SPE — Sociedade de Propósito Específico** | Fase 2 em diante, para captação de BNDES/Fundo Amazônia | 90–180 dias | R$ 5.000–12.000 (advogado especializado) |
 
 ### A Cooperativa integrada à Plataforma: modelo de governança híbrida
 
@@ -564,14 +562,14 @@ Os abaixo assinados, representantes de [NOME DAS INSTITUIÇÕES], manifestam for
 4. PU Vegetal MAMONEX RD70 (Imperveg): [imperveg.com.br](https://www.imperveg.com.br)
 5. Molde de cabo (pode ser feito em madeira por qualquer marceneiro)
 
-**Custo de produção:** RR$ 12–18 por unidade
-**Preço de venda:** RR$ 35–50 por unidade
+**Custo de produção:** R$ 12–18 por unidade
+**Preço de venda:** R$ 35–50 por unidade
 **Margem:** 94–200%
 **Mercado imediato:** cooperativas agrícolas, lojas agropecuárias, feiras rurais, mercados municipais, CEAGESP/CEASAs estaduais (via chamadas públicas), PAA/CONAB
 
 ### Próximo passo concreto
 
-> Baixe o Estatuto modelo desta cartilha, adapte para seu município e leve para uma reunião com pelo menos 7 pessoas interessadas. Com 7 sócios fundadores, você já pode registrar uma associação. Ligue para o Cartório de Registro Civil mais próximo e pergunte o valor do registro de estatuto de associação — em média RR$ 400–600.
+> Baixe o Estatuto modelo desta cartilha, adapte para seu município e leve para uma reunião com pelo menos 7 pessoas interessadas. Com 7 sócios fundadores, você já pode registrar uma associação. Ligue para o Cartório de Registro Civil mais próximo e pergunte o valor do registro de estatuto de associação — em média R$ 400–600.
 
 
 ---
@@ -617,8 +615,8 @@ Esta seção foi escrita para quem nunca acessou um edital de fomento. Cada font
 | Linha | Foco | Limite por projeto | Link |
 | :-- | :-- | :-- | :-- |
 | BNDES Fundo Clima — Indústria Verde | Biorrefinarias, bioenergia | Sem limite definido | [bndes.gov.br/fundoclima](https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/bndes-fundo-clima) |
-| BNDES Finame Agroindústria | Máquinas e equipamentos rurais | RR$ 5 mi (MPE) | [bndes.gov.br/finame](https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/finame) |
-| BNDES MPME Inovadora | Empresas inovadoras | Até RR$ 20 mi | [bndes.gov.br/mpme](https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/bndes-mpme-inovadora) |
+| BNDES Finame Agroindústria | Máquinas e equipamentos rurais | R$ 5 mi (MPE) | [bndes.gov.br/finame](https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/finame) |
+| BNDES MPME Inovadora | Empresas inovadoras | Até R$ 20 mi | [bndes.gov.br/mpme](https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/bndes-mpme-inovadora) |
 | Nova Indústria Brasil | Bioeconomia, missões setoriais | Consultar agente | [novaindustriabrasil.gov.br](https://www.gov.br/mdic/pt-br/assuntos/nova-industria-brasil) |
 
 > 💡 **Dica prática:** o BNDES não opera diretamente com pequenos produtores. Você precisa de um **agente financeiro credenciado** (Banco do Brasil, Bradesco, Sicredi, Cresol). A cooperativa serve como o veículo de acesso ao crédito.
@@ -648,7 +646,7 @@ Esta seção foi escrita para quem nunca acessou um edital de fomento. Cada font
 
 | Linha | Foco | Valor máximo | Link |
 | :-- | :-- | :-- | :-- |
-| PIPE — Pesquisa Inovativa em Pequenas Empresas | Inovação tecnológica em PMEs | RR$ 1,5 mi (Fase 2) | [fapesp.br/pipe](https://fapesp.br/pipe) |
+| PIPE — Pesquisa Inovativa em Pequenas Empresas | Inovação tecnológica em PMEs | R$ 1,5 mi (Fase 2) | [fapesp.br/pipe](https://fapesp.br/pipe) |
 | PITE — Parceria para Inovação Tecnológica | Empresa + Universidade | Sem limite fixo | [fapesp.br/pite](https://fapesp.br/pite) |
 | BIOTA-FAPESP | Biodiversidade e uso sustentável | Variável | [biota.org.br](http://www.biota.org.br) |
 
@@ -703,14 +701,14 @@ Todo edital de bioeconomia pede basicamente as mesmas informações — só muda
 **3. Teoria da Mudança** *(máx. 1 página)*
 
 - O que muda para quem? (famílias, renda, carbono, habitação)
-- Como mede? (indicadores: t biomassa/ano, tCO₂e/ano, RR$ renda adicional/família)
+- Como mede? (indicadores: t biomassa/ano, tCO₂e/ano, R$ renda adicional/família)
 - Quando acontece? (cronograma por fase)
 
 **4. Governança** *(máx. 1 página)*
 
 - Qual a estrutura jurídica? (associação → cooperativa → SPE)
 - Quem são os responsáveis? (mulheres na liderança do conselho = ponto positivo)
-- Como se garante a participação comunitária? (CPLI, Assembleia Geral, RACI)
+- Como se garante a participação comunitária? (CLPI, Assembleia Geral, RACI)
 
 **5. Viabilidade Econômico-Financeira** *(máx. 2 páginas + planilha)*
 
@@ -815,7 +813,7 @@ Esta seção é para quem não tem formação técnica específica mas quer part
 
 - Objetivo: redigir projetos, gerir contratos, acessar editais
 - Duração: curso de 80 horas (presencial + EAD)
-- Conteúdo: cooperativismo, governança ESG, elaboração de projetos para BNDES/FAPESP, gestão financeira básica, CPLI (Consentimento Prévio, Livre e Informado), MRV para VERRA
+- Conteúdo: cooperativismo, governança ESG, elaboração de projetos para BNDES/FAPESP, gestão financeira básica, CLPI (Consentimento Prévio, Livre e Informado), MRV para VERRA
 - Certificação: **Certificado de Gestor de Bioeconomia Comunitária**
 - Parceria: SEBRAE ([sebrae.com.br](https://sebrae.com.br)) + Universidade parceira
 
@@ -857,9 +855,9 @@ Esta seção é para quem não tem formação técnica específica mas quer part
 | **HIS** | Habitação de Interesse Social — moradia para famílias de baixa renda |
 | **UBP** | Unidade de Beneficiamento Primário — local onde o bambu é racado, picado e pré-seco antes do transporte, reduzindo o custo logístico |
 | **SMGA** | Sistema de Monitoramento Geoespacial Automatizado — rastreia o bambu por satélite em tempo real |
-| **Crédito de Carbono (VERRA VM0044)** | Certificado que vale dinheiro no mercado voluntário de carbono; cada tonelada de CO₂ sequestrada via biochar pode gerar ~RR$ 80–120 |
+| **Crédito de Carbono (VERRA VM0044)** | Certificado que vale dinheiro no mercado voluntário de carbono; cada tonelada de CO₂ sequestrada via biochar pode gerar ~R$ 80–120 |
 | **Domo Voador** | Estrutura geodésica desmontável que visita comunidades para articulação territorial e demonstração de tecnologias |
-| **CPLI** | Consentimento Prévio, Livre e Informado — protocolo que garante que comunidades tradicionais decidam sobre o uso de seus territórios |
+| **CLPI** | Consentimento Prévio, Livre e Informado — protocolo que garante que comunidades tradicionais decidam sobre o uso de seus territórios |
 | **TRL** | Technology Readiness Level — escala de maturidade tecnológica (1 = conceito / 9 = produto no mercado) |
 | **Break-even** | Ponto de equilíbrio — momento em que receitas cobrem todos os custos operacionais |
 

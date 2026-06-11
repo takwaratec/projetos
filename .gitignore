@@ -102,6 +102,8 @@ __pycache__/
 # ── PROTEÇÃO CONTRA VAZAMENTO (ARQUIVOS SENSÍVEIS, ESBOÇOS, MAPAS MENTAIS) ──
 docs/99_RESTRITO/
 99_RESTRITO/
+docs/09_DOSSIE_BNDES/
+01_SOMBRA_AUDITORIA/09_DOSSIE_BNDES/
 *mapa*mental*
 *brainstorm*
 *esboço*
@@ -110,3 +112,10 @@ docs/99_RESTRITO/
 *pesquisas*incremento*
 *informacao_pessoal*
 *adm_secreto*
+01_SOMBRA_AUDITORIA/10_IMAGENS_IA/
+
+# Ambiente virtual docling (pesado - removido do tracking)
+venv_docling/
+venv_docling/
+venv_docling/
+venv_docling/

@@ -4,10 +4,10 @@
 
 **Polo integrado de bioindustrias comunitarias de bajo carbono en la Amazonía Legal**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18827106.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Estado: Listo para Evaluación](https://img.shields.io/badge/status-Listo%20para%20Evaluaci%C3%B3n-brightgreen.svg)]()
-![Versión](https://img.shields.io/badge/versión-v2.2.2-blue)
+![Versión](https://img.shields.io/badge/versión-v2.0-blue)
 
 ---
 
@@ -35,9 +35,10 @@ Para fines de criba analítica inmediata, consulte los documentos finales audita
 ## 📂 Ejes Estructurales
 
 ### 1. Estrategia y Gobernanza
-Documentos que validan la integridad, autoría y sostenibilidad administrativa del proyecto.
+Documentos que validam la integridad, autoría y sostenibilidad administrativa del proyecto.
 *   📜 [**Protocolo 5.1: Gobernanza y Transparência**](00_GOVERNANCA/GOV_PROTOCOLO_5.1_es.md)
-*   📑 [Resumen Ejecutivo (v2.1)](01_TECNOLOGIA_TAKWARA/TAK_relatorio-executivo-v1.0.1_es.md)
+*   📑 [Resumen Ejecutivo (v2.1)](06_ANAIS_MEMORIA/TAK_relatorio-executivo_es.md)
+*   📚 [Glosario y Nomenclatura](00_GOVERNANCA/GOV_glossario-siglas_es.md)
 *   ⚖️ [Derechos de Autoría y PI](00_GOVERNANCA/GOV_AUTORIA_es.md)
 *   🖇️ [Matriz de Correlación de Proyectos](00_GOVERNANCA/GOV_MATRIZ_CORRELACAO_es.md)
 *   🔒 [Política de Compartición de Datos](00_GOVERNANCA/GOV_nota-tecnica-compartilhamento-de-dados_es.md)
@@ -46,7 +47,7 @@ Documentos que validan la integridad, autoría y sostenibilidad administrativa d
 ### 2. Ciencia y Tecnología (I+D)
 Memorias técnicas e investigaciones de base biotecnológica e ingeniería.
 *   ⚙️ [Memorial Único de Equipos y Patentes](08_PROJETOS_ENGENHARIA/TAK_memorial-unico-patentes_es.md)
-*   🔥 [Biorrefinería: Memorial del Reactor (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Estrategia Manejo](01_TECNOLOGIA_TAKWARA/NT_estrategia-manejo-biorrefinaria_es.md)
+*   🔥 [Biorrefinería: Memorial del Reactor (T02)](08_PROJETOS_ENGENHARIA/T02_BIORREFINARIA/TAK_memorial-patente-reator.md) | [Estrategia Manejo](08_PROJETOS_ENGENHARIA/NT_estrategia-manejo-biorrefinaria.md)
 *   🛠️ **Sistemas Sociales:** [Tamboreador](08_PROJETOS_ENGENHARIA/TAMBOREADOR/TAK_memorial-patente-tamboreador.md) • [Resinador (T03)](08_PROJETOS_ENGENHARIA/T03_RESINADOR_ROTATIVO/TAK_memorial-patente-resinador-industrial.md) • [Mezclador (T04)](08_PROJETOS_ENGENHARIA/T04_MISTURADOR/TAK_memorial-patente-misturador.md)
 *   🏗️ **Construcción:** [Prensa Cassetes (T05)](08_PROJETOS_ENGENHARIA/T05_PRENSA_CASSETES/TAK_memorial-patente-prensa-cassetes.md) • [Plantillas Soldadura (T06)](08_PROJETOS_ENGENHARIA/T06_GABARITOS_SOLDA/TAK_memorial-patente-solda-gabaritos.md)
 *   🧪 **Investigación:** [PU Vegetal](02_PESQUISA_DESENVOLVIMENTO/TAK_relatorio-tecnico-pu-vegetal_es.md) • [Conexiones Bambu](01_TECNOLOGIA_TAKWARA/TAK_conexoes-estruturais-bambu_es.md) • [Ladrillos Ecológicos](01_TECNOLOGIA_TAKWARA/TAK_tijolos-ecologicos.md) • [Monitoreo SMEGA](02_PESQUISA_DESENVOLVIMENTO/TAK_nota-tecnica-smga_es.md)

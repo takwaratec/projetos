@@ -28,7 +28,7 @@ version: '2.1'
 
 ---
 
-This document maps the files shared in Google Drive (Takwara Nucleus) to their corresponding location in the GitHub repository, ensuring technical synchrony between the Production WG and the Platform development.
+This document maps the files shared in Google Drive (Takwara Nucleus) to their corresponding location in the GitHub repository, ensuring technical synchrony between the Production WG and the Women Who Weave the Forest Project.
 
 ---
 
@@ -36,7 +36,7 @@ This document maps the files shared in Google Drive (Takwara Nucleus) to their c
 | :--- | :--- | :--- |
 | **FINANCIAL SUMMARY** | `99_RESTRITO/01_FINANCEIRO/OPS_resumo-financeiro.md` | Synchronized |
 | **Executive Report: Innovations** | `06_ANAIS_MEMORIA/OPS_relatorio-executivo-inovacoes.md` | Synchronized |
-| **Regenerative Amazon Platform v5.1** | `06_ANAIS_MEMORIA/TAK_plataforma-v5.1.md` | Master v5.1 |
+| **Women Who Weave the Forest Project** | `06_ANAIS_MEMORIA/TAK_projeto-mulheres-tecem.md` | Master |
 | **Manual - PHYTOREMEDIATION...** | `01_TECNOLOGIA_TAKWARA/TAK_manual-fitorremediacao-credito-carbono.md` | Synchronized |
 | **BAMBOO BIOECONOMY HANDBOOK...** | `01_TECNOLOGIA_TAKWARA/TAK_manual-bioeconomia-bambu.md` | Synchronized |
 
